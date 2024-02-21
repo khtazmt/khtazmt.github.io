@@ -1,0 +1,3306 @@
+{:blocks (
+{:block/created-at 1700286627890
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 15
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "343d8362-85b7-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [862.07 -137.41]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [8.54 136.41]
+:bindingId "343d8360-85b7-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "343d8361-85b7-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700273239983
+:italic false}}
+:block/updated-at 1700286627890} 
+{:block/created-at 1706626176439
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 42
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e2e00770-85bd-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-119.83 430.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [6.36 96.41]
+:bindingId "e2dfe060-85bd-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "e2dfe061-85bd-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700276110045
+:italic false}}
+:block/updated-at 1706626176439} 
+{:block/created-at 1700287134603
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 31
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "b2482d72-85ba-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-71 304.18]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 11.69]
+:bindingId "b2482d70-85ba-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [403 0]
+:bindingId "b2482d71-85ba-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700274741291
+:italic false}}
+:block/updated-at 1700287134603} 
+{:block/created-at 1700286658299
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "purple"
+:index 51
+:scale [1 1]
+:scaleLevel "md"
+:fill "purple"
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "防风尚未成功：“关窗还是冷”"
+:id "db848682-85be-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-540 187.11]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [563 31.04]
+:bindingId "db848680-85be-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "db848681-85be-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700276527070
+:italic false}}
+:block/updated-at 1700286658299} 
+{:block/created-at 1700286632509
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "pink"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 17
+:scale [1 1]
+:pageId "65581c79-cc17-4f13-967b-b992c612edbe"
+:scaleLevel "md"
+:fill "pink"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [96 42.59376504417794]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "46544020-85b7-11ee-af3d-317639f6dd79"
+:noFill false
+:point [1296 56]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700273270489}}
+:block/updated-at 1700286632509} 
+{:block/created-at 1700287160284
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 50
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "c44daf52-85be-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-540 134.68]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [1147 0]
+:bindingId "c44daf50-85be-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 32.46]
+:bindingId "c44daf51-85be-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700276488137
+:italic false}}
+:block/updated-at 1700287160284} 
+{:block/created-at 1700286463286
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "pink"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [-1 1]
+:pageId "65581b12-6c2d-4c67-903e-30bada838188"
+:scaleLevel "md"
+:fill "pink"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [60 68.18747198653264]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6f91eb00-85b6-11ee-af3d-317639f6dd79"
+:noFill false
+:point [-888 -64]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700272912111}}
+:block/updated-at 1700286463286} 
+{:block/content "防风"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65581b2c-952f-415d-8653-9afef28a8ac6"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "65581b41-1a07-4243-97e0-d2c8160ec992"} 
+{:block/content "关窗"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65581c79-cc17-4f13-967b-b992c612edbe"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "65581cb2-b028-41a7-ac2d-4de9ece9fc68"} 
+{:block/created-at 1700287125138
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 54
+:scale [1 1]
+:pageId "65582957-e8b2-4c87-91c6-e86c555ce94f"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [96 42.59376504417794]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f24c6f40-85be-11ee-af3d-317639f6dd79"
+:noFill false
+:point [-648 336]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700276565138}}
+:block/updated-at 1700287125138} 
+{:block/content "穿暖"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6558294b-1f20-41d6-b220-b5626ef36424"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "65582957-e8b2-4c87-91c6-e86c555ce94f"} 
+{:block/content "维生素D3"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65581b41-1a07-4243-97e0-d2c8160ec992"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/properties 
+{}
+:block/uuid #uuid "65581b4b-cbc0-4729-8585-f8ee6bfbdd6e"} 
+{:block/created-at 1700287164356
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 46
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "提供热量"
+:id "7573fc42-85be-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [488 200]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 344.41]
+:bindingId "7573fc40-85be-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [223.56 0]
+:bindingId "7573fc41-85be-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700276356044
+:italic false}}
+:block/updated-at 1700287164356} 
+{:block/created-at 1700286553883
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 30
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "运动产生风"
+:id "512e3212-85b9-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-624.86 708.67]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [1271.86 0]
+:bindingId "512e3210-85b9-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 191.33]
+:bindingId "77ab6091-85bc-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700274147840
+:italic false}}
+:block/updated-at 1700286553883} 
+{:block/content "骑车"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65581ab8-a578-4cdf-8411-ab84ba6a391a"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "65581b12-6c2d-4c67-903e-30bada838188"} 
+{:block/created-at 1700286580597
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 53
+:scale [1 1]
+:pageId "6558294b-1f20-41d6-b220-b5626ef36424"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [96 42.593670128132906]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e2c8b970-85be-11ee-af3d-317639f6dd79"
+:noFill false
+:point [-744 440]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700276539261}}
+:block/updated-at 1700286580597} 
+{:block/content "开窗"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65581fcd-00c5-4222-afa2-1b2f05ef9982"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "655822a0-4107-4e43-a321-1df30de9c5cb"} 
+{:block/created-at 1700287122597
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 8
+:scale [1 1]
+:pageId "65581b4b-cbc0-4729-8585-f8ee6bfbdd6e"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [128 42.59371758615543]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "90932ad0-85b6-11ee-af3d-317639f6dd79"
+:noFill false
+:point [-416 376]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700272967583}}
+:block/updated-at 1700287122597} 
+{:block/created-at 1700286558844
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "pink"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 9
+:scale [1 1]
+:pageId "65581bd0-2625-4345-bdd9-285090e7d33b"
+:scaleLevel "md"
+:fill "pink"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [136 42.59376504417794]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e34499d0-85b6-11ee-af3d-317639f6dd79"
+:noFill false
+:point [1272 736]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700273107738}}
+:block/updated-at 1700286558844} 
+{:block/created-at 1700287144629
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 29
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "提供热量"
+:id "4a732c52-85b9-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [404.03 547.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "4a732c50-85b9-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [239.97 148.51]
+:bindingId "4a732c51-85b9-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700274137445
+:italic false}}
+:block/updated-at 1700287144629} 
+{:block/content "阳光"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65581a9e-fb62-490b-9b71-bcd5d8985a9e"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/properties 
+{}
+:block/uuid #uuid "65581aa3-1823-4503-8c5d-7e474b42cc0b"} 
+{:block/created-at 1700287160285
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "blue"
+:index 49
+:scale [1 1]
+:scaleLevel "md"
+:fill "blue"
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "吹走热量"
+:id "b1416f02-85be-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [137 135.27]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 76.67]
+:bindingId "b1416f00-85be-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [467 0]
+:bindingId "b1416f01-85be-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700276456152
+:italic false}}
+:block/updated-at 1700287160285} 
+{:block/created-at 1700287134603
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "pink"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 19
+:scale [1 1]
+:pageId "65581cb2-b028-41a7-ac2d-4de9ece9fc68"
+:scaleLevel "md"
+:fill "pink"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [104 42.59371758615543]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6897eb00-85b7-11ee-af3d-317639f6dd79"
+:noFill false
+:point [336 288]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700273330686}}
+:block/updated-at 1700287134603} 
+{:block/created-at 1700287150766
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 23
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "4de67692-85b8-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-60 528.22]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [379 0]
+:bindingId "4de67690-85b8-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 22.64]
+:bindingId "cc927441-85bc-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700273714636
+:italic false}}
+:block/updated-at 1700287150766} 
+{:block/created-at 1700286569804
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 59
+:scale [1 1]
+:pageId "65584b84-4a9c-4c15-bded-5a6bbe61d1d6"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [152 42.59376504417794]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4ff712d0-85d3-11ee-af3d-317639f6dd79"
+:noFill false
+:point [-712 656]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700285312216}}
+:block/updated-at 1700286569804} 
+{:block/created-at 1700287069781
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "pink"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 7
+:scale [1 1]
+:pageId "65581b41-1a07-4243-97e0-d2c8160ec992"
+:scaleLevel "md"
+:fill "pink"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [96 42.59371758615543]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8c5f6c30-85b6-11ee-af3d-317639f6dd79"
+:noFill false
+:point [-168 296]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700272962459}}
+:block/updated-at 1700287069781} 
+{:block/created-at 1700287134603
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 47
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "931a5142-85be-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [129.22 246.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [205.78 49.86]
+:bindingId "931a5140-85be-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "931a5141-85be-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700276405554
+:italic false}}
+:block/updated-at 1700287134603} 
+{:block/created-at 1700286528821
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "blue"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 45
+:scale [1 1]
+:pageId "6558286b-ba85-4f42-bcb4-cf8c6f8a0eb6"
+:scaleLevel "md"
+:fill "blue"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [112 42.59371758615543]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "60c3a8e0-85be-11ee-af3d-317639f6dd79"
+:noFill false
+:point [24 200]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700276321196}}
+:block/updated-at 1700286528821} 
+{:block/created-at 1700287144622
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "purple"
+:index 37
+:scale [1 1]
+:scaleLevel "md"
+:fill "purple"
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "“隔着普通玻璃晒效果差”"
+:id "b3a6e832-85bc-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-164 546.19]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [483 0]
+:bindingId "b3a6e830-85bc-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 205.95]
+:bindingId "816224b1-85bd-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700275602057
+:italic false}}
+:block/updated-at 1700287144622} 
+{:block/created-at 1700287113803
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "purple"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 60
+:scale [1 1]
+:pageId "65584e94-6834-4b56-8005-5f75a901a0b5"
+:scaleLevel "md"
+:fill "purple"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [208 42.59376504417794]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "25417880-85d5-11ee-af3d-317639f6dd79"
+:noFill false
+:point [-512 48]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700286100123}}
+:block/updated-at 1700287113803} 
+{:block/created-at 1700287113803
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 62
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "3092cf42-85d5-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-334.33 94.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [357.33 109.28]
+:bindingId "3092cf40-85d5-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "3092cf41-85d5-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700286118840
+:italic false}}
+:block/updated-at 1700287113803} 
+{:block/created-at 1700287160285
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 44
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "3eefafc2-85be-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [708 125.46]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [435 122.08]
+:bindingId "3eefafc0-85be-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "3eefafc1-85be-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700276264490
+:italic false}}
+:block/updated-at 1700287160285} 
+{:block/content "血清素"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65584ed9-6675-48fd-aeef-52a2278dd496"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "6567fc2e-edce-486c-8eab-de55f2a6e10b"} 
+{:block/created-at 1700287160285
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 16
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "36458862-85b7-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [705 146.12]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "36458860-85b7-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [435 113.86]
+:bindingId "36458861-85b7-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700273244667
+:italic false}}
+:block/updated-at 1700287160285} 
+{:block/content "加湿器"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65584e94-6834-4b56-8005-5f75a901a0b5"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/properties 
+{}
+:block/uuid #uuid "65584ed9-6675-48fd-aeef-52a2278dd496"} 
+{:block/created-at 1700287069781
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 32
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "c313f3a2-85ba-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-553.04 211.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "c313f3a0-85ba-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [381.04 102.41]
+:bindingId "c313f3a1-85ba-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700274769612
+:italic false}}
+:block/updated-at 1700287069781} 
+{:block/created-at 1700287134603
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 20
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "7b4409f2-85b7-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [444 265.23]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [699 0]
+:bindingId "7b4409f0-85b7-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 56.11]
+:bindingId "7b4409f1-85b7-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700273360774
+:italic false}}
+:block/updated-at 1700287134603} 
+{:block/created-at 1700287160284
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 26
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "上学放学上班下班买菜拿快递出去玩等"
+:id "e36667c2-85b8-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [697.63 45.46]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 65.54]
+:bindingId "e36667c0-85b8-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [122.37 0]
+:bindingId "e36667c1-85b8-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700273963630
+:italic false}}
+:block/updated-at 1700287160284} 
+{:block/created-at 1700287160279
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "yellow"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "65581ab4-26a2-4cf7-ba00-14ef4046fd9f"
+:scaleLevel "md"
+:fill "yellow"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [96 42.59376504417794]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "385daf70-85b6-11ee-af3d-317639f6dd79"
+:noFill false
+:point [608 112]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700272818751}}
+:block/updated-at 1700287160279} 
+{:block/created-at 1700286558837
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "吹走、稀释空气污染物"
+:id "f3482e02-85b6-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-551 747.07]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 160.49]
+:bindingId "f3482e00-85b6-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [1819 0]
+:bindingId "f3482e01-85b6-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700273132267
+:italic false}}
+:block/updated-at 1700286558837} 
+{:block/created-at 1700286658294
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 36
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "8dfcb9c2-85bc-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-610.81 214.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [378.59 520.41]
+:bindingId "8dfcb9c0-85bc-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "0c1aba31-85bf-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700275538764
+:italic false}}
+:block/updated-at 1700286658294} 
+{:block/created-at 1700286463278
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 33
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e7791ef2-85ba-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-864.72 8.19]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [109.98 894.81]
+:bindingId "e7791ef0-85ba-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "e7791ef1-85ba-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700274829235
+:italic false}}
+:block/updated-at 1700286463278} 
+{:block/created-at 1700287144629
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 12
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "0ba50ea2-85b7-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-71 338.18]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "0ba50ea0-85b7-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [387 164.95]
+:bindingId "41b227f1-85ba-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700273174439
+:italic false}}
+:block/updated-at 1700287144629} 
+{:block/content "湿度下降"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65582965-5183-4c17-afbd-6e69bbea3331"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "65584b84-4a9c-4c15-bded-5a6bbe61d1d6"} 
+{:block/created-at 1700286654246
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "pink"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 34
+:scale [1 1]
+:pageId "655822a0-4107-4e43-a321-1df30de9c5cb"
+:scaleLevel "md"
+:fill "pink"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [96 42.59376504417794]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f0cfb720-85ba-11ee-af3d-317639f6dd79"
+:noFill false
+:point [-264 736]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700274846929}}
+:block/updated-at 1700286654246} 
+{:block/created-at 1700286658299
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "purple"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 24
+:scale [1 1]
+:pageId "65581e89-e392-4d97-baed-c84c634c2224"
+:scaleLevel "md"
+:fill "purple"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [184 42.59376504417794]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7acb3b00-85b8-11ee-af3d-317639f6dd79"
+:noFill false
+:point [-728 168]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700273791654}}
+:block/updated-at 1700286658299} 
+{:block/created-at 1700287129451
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 58
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "425b2fd0-85d3-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-642.38 627.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [15.46 0]
+:bindingId "57a55231-85d3-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 24.41]
+:bindingId "54957a21-85d3-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700285289501
+:italic false}}
+:block/updated-at 1700287129451} 
+{:block/created-at 1701313596133
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 68
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "75f7d2e2-8f2d-11ee-8e38-5f0d41cbdd21"
+:fontWeight 400
+:noFill true
+:point [-88.22 342.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [191.84 88.41]
+:bindingId "75f7d2e0-8f2d-11ee-8e38-5f0d41cbdd21"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "75f7d2e1-8f2d-11ee-8e38-5f0d41cbdd21"}}
+:decorations 
+{:end "arrow"}
+:parentId "65672e82-005f-4420-9f7f-58090f747b23"
+:nonce 1701313591162
+:italic false}}
+:block/updated-at 1701313596133} 
+{:block/created-at 1700287134603
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 35
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "f9e8aa12-85ba-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-186.72 334.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 400.41]
+:bindingId "f9e8aa10-85ba-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [525.84 0]
+:bindingId "f9e8aa11-85ba-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700274861112
+:italic false}}
+:block/updated-at 1700287134603} 
+{:block/content "空气"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65581e89-e392-4d97-baed-c84c634c2224"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "65581fcd-00c5-4222-afa2-1b2f05ef9982"} 
+{:block/created-at 1700286718771
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "yellow"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 6
+:scale [1 1]
+:pageId "65581b2c-952f-415d-8653-9afef28a8ac6"
+:scaleLevel "md"
+:fill "yellow"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [96 42.59371758615543]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7cada180-85b6-11ee-af3d-317639f6dd79"
+:noFill false
+:point [1144 240]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700272935389}}
+:block/updated-at 1700286718771} 
+{:block/created-at 1701313596133
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 67
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "7458a1d2-8f2d-11ee-8e38-5f0d41cbdd21"
+:fontWeight 400
+:noFill true
+:point [-82.53 478.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 48.41]
+:bindingId "7458a1d0-8f2d-11ee-8e38-5f0d41cbdd21"}
+:end 
+{:id "end"
+:canBind true
+:point [63.98 0]
+:bindingId "7458a1d1-8f2d-11ee-8e38-5f0d41cbdd21"}}
+:decorations 
+{:end "arrow"}
+:parentId "65672e82-005f-4420-9f7f-58090f747b23"
+:nonce 1701313588365
+:italic false}}
+:block/updated-at 1701313596133} 
+{:block/content "室内"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65581aa3-1823-4503-8c5d-7e474b42cc0b"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "65581ab4-26a2-4cf7-ba00-14ef4046fd9f"} 
+{:block/created-at 1700287150766
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 39
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "c8587412-85bc-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-316.79 422.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [168.75 104.41]
+:bindingId "c8587410-85bc-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "c8587411-85bc-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700275636642
+:italic false}}
+:block/updated-at 1700287150766} 
+{:block/content "“电费怎么这么高？”"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65584b84-4a9c-4c15-bded-5a6bbe61d1d6"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "65584e94-6834-4b56-8005-5f75a901a0b5"} 
+{:block/content "“冷”、“干”、“痛”"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65581e2c-9b0d-4ea4-9ff5-605b16282b25"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/properties 
+{}
+:block/uuid #uuid "65581e89-e392-4d97-baed-c84c634c2224"} 
+{:block/created-at 1700287129451
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "purple"
+:index 56
+:scale [1 1]
+:scaleLevel "md"
+:fill "purple"
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "“开空调吧”"
+:id "f86c4672-85be-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-690.38 483.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "f86c4670-85be-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [24.3 96.41]
+:bindingId "fec94db1-85be-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700276575516
+:italic false}}
+:block/updated-at 1700287129451} 
+{:block/created-at 1700286654252
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 40
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "3da28bc2-85bd-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-686.71 760.01]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 142.99]
+:bindingId "3da28bc0-85bd-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [418.71 0]
+:bindingId "3da28bc1-85bd-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700275833005
+:italic false}}
+:block/updated-at 1700286654252} 
+{:block/created-at 1700286553877
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "yellow"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 28
+:scale [1 1]
+:pageId "65581fcd-00c5-4222-afa2-1b2f05ef9982"
+:scaleLevel "md"
+:fill "yellow"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [96 42.593670128132906]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4196a620-85b9-11ee-af3d-317639f6dd79"
+:noFill false
+:point [648 680]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700274121649}}
+:block/updated-at 1700286553877} 
+{:block/created-at 1701313596128
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:collapsed false
+:borderRadius 8
+:index 66
+:scale [1 1]
+:pageId "6567fc2e-edce-486c-8eab-de55f2a6e10b"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59369336503777]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6ed50aa0-8f2d-11ee-8e38-5f0d41cbdd21"
+:noFill false
+:point [-48 432]
+:parentId "65672e82-005f-4420-9f7f-58090f747b23"
+:collapsedHeight 0
+:nonce 1701313579123}}
+:block/updated-at 1701313596128} 
+{:block/created-at 1706626176385
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 41
+:scale [-1 1]
+:pageId "65582784-0209-44ea-87c8-c33ce17119a4"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [112 42.593750765993015]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "dbacc470-85bd-11ee-af3d-317639f6dd79"
+:noFill false
+:point [-160 384]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700276098105}}
+:block/updated-at 1706626176385} 
+{:block/created-at 1700286632515
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 18
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "4ea85c72-85b7-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [921 28.68]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "4ea85c70-85b7-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [371 55.91]
+:bindingId "4ea85c71-85b7-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700273284291
+:italic false}}
+:block/updated-at 1700286632515} 
+{:block/created-at 1700287122603
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "增强免疫"
+:id "18891352-85b7-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-287 337.12]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 38.45]
+:bindingId "18891350-85b7-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [115 0]
+:bindingId "18891351-85b7-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700273195240
+:italic false}}
+:block/updated-at 1700287122603} 
+{:block/created-at 1700286622597
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 14
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "32c69ad2-85b7-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-824 -2.87]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [1647 23.47]
+:bindingId "32c69ad0-85b7-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "32c69ad1-85b7-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700273238096
+:italic false}}
+:block/updated-at 1700286622597} 
+{:block/content "日晒"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65581cb2-b028-41a7-ac2d-4de9ece9fc68"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "65581e2c-9b0d-4ea4-9ff5-605b16282b25"} 
+{:block/content "室外"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65581ab4-26a2-4cf7-ba00-14ef4046fd9f"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "65581ab8-a578-4cdf-8411-ab84ba6a391a"} 
+{:block/content "空调暖气"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65582957-e8b2-4c87-91c6-e86c555ce94f"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "65582965-5183-4c17-afbd-6e69bbea3331"} 
+{:block/content "开车"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65581b12-6c2d-4c67-903e-30bada838188"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "65581b1e-a4e7-46c9-a8ea-396a95b87ce9"} 
+{:block/created-at 1700286658299
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 52
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e1c7eb42-85be-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-701.67 211.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [59.73 0]
+:bindingId "e1c7eb40-85be-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 224.41]
+:bindingId "ef501f31-85be-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700276537489
+:italic false}}
+:block/updated-at 1700286658299} 
+{:block/created-at 1700287134597
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 21
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "87684112-85b7-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [418.57 334.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [872.83 400.41]
+:bindingId "87684110-85b7-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "979f5041-85d6-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700273381312
+:italic false}}
+:block/updated-at 1700287134597} 
+{:block/created-at 1700287134603
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 65
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "d68e0032-85d6-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-543 331.26]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 254.01]
+:bindingId "d68e0030-85d6-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [875 0]
+:bindingId "d68e0031-85d6-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700286826565
+:italic false}}
+:block/updated-at 1700287134603} 
+{:block/created-at 1700286622591
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "yellow"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "65581ab8-a578-4cdf-8411-ab84ba6a391a"
+:scaleLevel "md"
+:fill "yellow"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [96 42.59376504417794]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3b3c3e50-85b6-11ee-af3d-317639f6dd79"
+:noFill false
+:point [824 0]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700272822309}}
+:block/updated-at 1700286622591} 
+{:block/created-at 1700286797450
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 64
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "5788b792-85d5-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-630.64 699.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "5788b790-85d5-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [13.56 56.41]
+:bindingId "5788b791-85d5-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700286183927
+:italic false}}
+:block/updated-at 1700286797450} 
+{:block/created-at 1700286627885
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "pink"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "65581b1e-a4e7-46c9-a8ea-396a95b87ce9"
+:scaleLevel "md"
+:fill "pink"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [96 42.59376504417794]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "74678ef0-85b6-11ee-af3d-317639f6dd79"
+:noFill false
+:point [824 -184]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700272918410}}
+:block/updated-at 1700286627885} 
+{:block/created-at 1700276591269
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "blue"
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "65581a9e-fb62-490b-9b71-bcd5d8985a9e"
+:scaleLevel "md"
+:fill "blue"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2c7ac710-85b6-11ee-af3d-317639f6dd79"
+:noFill false
+:point [-952 904]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700272798535}}
+:block/updated-at 1700276591269} 
+{:block/content "取暖"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6558286b-ba85-4f42-bcb4-cf8c6f8a0eb6"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "6558294b-1f20-41d6-b220-b5626ef36424"} 
+{:block/content "风"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "65581a9e-fb62-490b-9b71-bcd5d8985a9e"} 
+{:block/content "窗边"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65581b1e-a4e7-46c9-a8ea-396a95b87ce9"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "65581b2c-952f-415d-8653-9afef28a8ac6"} 
+{:block/created-at 1700287125132
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 55
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "f674e342-85be-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-679.37 382.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 56.41]
+:bindingId "f674e340-85be-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [42.05 0]
+:bindingId "f674e341-85be-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700276572158
+:italic false}}
+:block/updated-at 1700287125132} 
+{:block/created-at 1700286627890
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "purple"
+:index 25
+:scale [1 1]
+:scaleLevel "md"
+:fill "purple"
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "“骑车冷”"
+:id "c0631662-85b8-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-827 -150.43]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 118.3]
+:bindingId "c0631660-85b8-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [1647 0]
+:bindingId "c0631661-85b8-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700273905260
+:italic false}}
+:block/updated-at 1700286627890} 
+{:block/content "窗漏风"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65582784-0209-44ea-87c8-c33ce17119a4"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "6558286b-ba85-4f42-bcb4-cf8c6f8a0eb6"} 
+{:block/content "徒步"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65581bd0-2625-4345-bdd9-285090e7d33b"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/properties 
+{}
+:block/uuid #uuid "65581c79-cc17-4f13-967b-b992c612edbe"} 
+{:block/created-at 1700287144629
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "red"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "65581aa3-1823-4503-8c5d-7e474b42cc0b"
+:scaleLevel "md"
+:fill "red"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [96 42.59376504417794]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2df07720-85b6-11ee-af3d-317639f6dd79"
+:noFill false
+:point [320 504]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700272805266}}
+:block/updated-at 1700287144629} 
+{:block/created-at 1700287069781
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 48
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "9c850db2-85be-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-77.26 244.27]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 50.73]
+:bindingId "9c850db0-85be-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [97.26 0]
+:bindingId "9c850db1-85be-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700276421474
+:italic false}}
+:block/updated-at 1700287069781} 
+{:block/created-at 1700287144629
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "purple"
+:index 27
+:scale [1 1]
+:scaleLevel "md"
+:fill "purple"
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "“自然光好”"
+:id "08e0ac92-85b9-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [417 271.12]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 238.04]
+:bindingId "08e0ac90-85b9-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [723 0]
+:bindingId "08e0ac91-85b9-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700274028322
+:italic false}}
+:block/updated-at 1700287144629} 
+{:block/created-at 1700287150759
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 38
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "be73ccb2-85bc-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-207.17 574.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 160.41]
+:bindingId "be73ccb0-85bc-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [63.52 0]
+:bindingId "be73ccb1-85bc-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700275620215
+:italic false}}
+:block/updated-at 1700287150759} 
+{:block/created-at 1700286797444
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "pink"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 63
+:scale [1 1]
+:pageId "65584ed9-6675-48fd-aeef-52a2278dd496"
+:scaleLevel "md"
+:fill "pink"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [112 42.59376504417794]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4e2267f0-85d5-11ee-af3d-317639f6dd79"
+:noFill false
+:point [-648 760]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700286168204}}
+:block/updated-at 1700286797444} 
+{:block/content "褪黑素"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655822a0-4107-4e43-a321-1df30de9c5cb"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "65582784-0209-44ea-87c8-c33ce17119a4"} 
+{:block/created-at 1700287144629
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "f5a88c32-85b6-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [420 540.6]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [851 200.44]
+:bindingId "f5a88c30-85b6-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "5e9fd0c1-85b9-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700273137477
+:italic false}}
+:block/updated-at 1700287144629} 
+{:block/content "空净/新风"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65581b4b-cbc0-4729-8585-f8ee6bfbdd6e"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/uuid #uuid "65581bd0-2625-4345-bdd9-285090e7d33b"} 
+{:block/created-at 1706626176426
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 43
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "改善睡眠、增强免疫"
+:id "e4dd0ff2-85bd-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-130.43 342.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [17.03 40.41]
+:bindingId "e4dd0ff0-85bd-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "e4dd0ff1-85bd-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700276113428
+:italic false}}
+:block/updated-at 1706626176426} 
+{:block/created-at 1700287129451
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 57
+:scale [1 1]
+:pageId "65582965-5183-4c17-afbd-6e69bbea3331"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [136 42.59376504417794]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f93059c0-85be-11ee-af3d-317639f6dd79"
+:noFill false
+:point [-680 584]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700276576765}}
+:block/updated-at 1700287129451} 
+{:block/created-at 1700287129451
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 61
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "2e4ed2b2-85d5-11ee-af3d-317639f6dd79"
+:fontWeight 400
+:noFill true
+:point [-603.25 94.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 488.41]
+:bindingId "2e4ed2b0-85d5-11ee-af3d-317639f6dd79"}
+:end 
+{:id "end"
+:canBind true
+:point [191.75 0]
+:bindingId "2e4ed2b1-85d5-11ee-af3d-317639f6dd79"}}
+:decorations 
+{:end "arrow"}
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:nonce 1700286114965
+:italic false}}
+:block/updated-at 1700287129451} 
+{:block/created-at 1700287150765
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "pink"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 22
+:scale [1 1]
+:pageId "65581e2c-9b0d-4ea4-9ff5-605b16282b25"
+:scaleLevel "md"
+:fill "pink"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [96 42.593670128132906]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "491c6b60-85b8-11ee-af3d-317639f6dd79"
+:noFill false
+:point [-160 528]
+:parentId "65581a83-487b-48ae-a9aa-4c0d46734a5c"
+:collapsedHeight 0
+:nonce 1700273707303}}
+:block/updated-at 1700287150765} 
+{:block/content "logseq的白板不太好用，随便看看，写[[风]]时试了下，当时没有很大的启发"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6567fc2e-edce-486c-8eab-de55f2a6e10b"}
+:block/parent 
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"}
+:block/properties 
+{}
+:block/uuid #uuid "65af1640-79f5-4fdf-812b-3b516aa637a8"} 
+{:block/created-at 1706752713284
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "purple"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 69
+:scale [1 1]
+:pageId "65af1640-79f5-4fdf-812b-3b516aa637a8"
+:scaleLevel "md"
+:fill "purple"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [864 42.5937447061344]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b6c2d320-b98e-11ee-8bab-8b2b0992101d"
+:noFill false
+:point [-256 -224]
+:parentId "65672e82-005f-4420-9f7f-58090f747b23"
+:collapsedHeight 0
+:nonce 1705973310009}}
+:block/updated-at 1706752713284})
+:pages (
+{:block/uuid #uuid "65672e82-005f-4420-9f7f-58090f747b23"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "65672e82-005f-4420-9f7f-58090f747b23"
+:name "风光无限"
+:bindings 
+{:343d8360-85b7-11ee-af3d-317639f6dd79 
+{:id "343d8360-85b7-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "343d8362-85b7-11ee-af3d-317639f6dd79"
+:toId "3b3c3e50-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:b3a6e830-85bc-11ee-af3d-317639f6dd79 
+{:id "b3a6e830-85bc-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "b3a6e832-85bc-11ee-af3d-317639f6dd79"
+:toId "2df07720-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:b1416f01-85be-11ee-af3d-317639f6dd79 
+{:id "b1416f01-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "b1416f02-85be-11ee-af3d-317639f6dd79"
+:toId "385daf70-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.56 0.35]
+:distance 4}
+:3da28bc0-85bd-11ee-af3d-317639f6dd79 
+{:id "3da28bc0-85bd-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "3da28bc2-85bd-11ee-af3d-317639f6dd79"
+:toId "2c7ac710-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:e2dfe060-85bd-11ee-af3d-317639f6dd79 
+{:id "e2dfe060-85bd-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "e2e00770-85bd-11ee-af3d-317639f6dd79"
+:toId "491c6b60-85b8-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:f674e340-85be-11ee-af3d-317639f6dd79 
+{:id "f674e340-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "f674e342-85be-11ee-af3d-317639f6dd79"
+:toId "e2c8b970-85be-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:9c850db0-85be-11ee-af3d-317639f6dd79 
+{:id "9c850db0-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "9c850db2-85be-11ee-af3d-317639f6dd79"
+:toId "8c5f6c30-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:77ab6091-85bc-11ee-af3d-317639f6dd79 
+{:id "77ab6091-85bc-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "512e3212-85b9-11ee-af3d-317639f6dd79"
+:toId "2c7ac710-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.35 0.56]
+:distance 4}
+:7573fc41-85be-11ee-af3d-317639f6dd79 
+{:id "7573fc41-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "7573fc42-85be-11ee-af3d-317639f6dd79"
+:toId "385daf70-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.25 0.27]
+:distance 4}
+:e2dfe061-85bd-11ee-af3d-317639f6dd79 
+{:id "e2dfe061-85bd-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "e2e00770-85bd-11ee-af3d-317639f6dd79"
+:toId "dbacc470-85bd-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.35 0.35]
+:distance 4}
+:e36667c1-85b8-11ee-af3d-317639f6dd79 
+{:id "e36667c1-85b8-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "e36667c2-85b8-11ee-af3d-317639f6dd79"
+:toId "3b3c3e50-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.57 0.35]
+:distance 4}
+:4de67690-85b8-11ee-af3d-317639f6dd79 
+{:id "4de67690-85b8-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "4de67692-85b8-11ee-af3d-317639f6dd79"
+:toId "2df07720-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:4ea85c71-85b7-11ee-af3d-317639f6dd79 
+{:id "4ea85c71-85b7-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "4ea85c72-85b7-11ee-af3d-317639f6dd79"
+:toId "46544020-85b7-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.18 0.7]
+:distance 4}
+:18891351-85b7-11ee-af3d-317639f6dd79 
+{:id "18891351-85b7-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "18891352-85b7-11ee-af3d-317639f6dd79"
+:toId "8c5f6c30-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.41 0.61]
+:distance 4}
+:ef501f31-85be-11ee-af3d-317639f6dd79 
+{:id "ef501f31-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "e1c7eb42-85be-11ee-af3d-317639f6dd79"
+:toId "e2c8b970-85be-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.36 0.66]
+:distance 4}
+:db848681-85be-11ee-af3d-317639f6dd79 
+{:id "db848681-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "db848682-85be-11ee-af3d-317639f6dd79"
+:toId "7acb3b00-85b8-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.49 0.35]
+:distance 4}
+:be73ccb0-85bc-11ee-af3d-317639f6dd79 
+{:id "be73ccb0-85bc-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "be73ccb2-85bc-11ee-af3d-317639f6dd79"
+:toId "f0cfb720-85ba-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:8dfcb9c1-85bc-11ee-af3d-317639f6dd79 
+{:id "8dfcb9c1-85bc-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "8dfcb9c2-85bc-11ee-af3d-317639f6dd79"
+:toId "7acb3b00-85b8-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.4 0.27]
+:distance 4}
+:db848680-85be-11ee-af3d-317639f6dd79 
+{:id "db848680-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "db848682-85be-11ee-af3d-317639f6dd79"
+:toId "60c3a8e0-85be-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:75f7d2e0-8f2d-11ee-8e38-5f0d41cbdd21 
+{:id "75f7d2e0-8f2d-11ee-8e38-5f0d41cbdd21"
+:type "line"
+:fromId "75f7d2e2-8f2d-11ee-8e38-5f0d41cbdd21"
+:toId "6ed50aa0-8f2d-11ee-8e38-5f0d41cbdd21"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:c44daf51-85be-11ee-af3d-317639f6dd79 
+{:id "c44daf51-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "c44daf52-85be-11ee-af3d-317639f6dd79"
+:toId "7acb3b00-85b8-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.46 0.12]
+:distance 4}
+:343d8361-85b7-11ee-af3d-317639f6dd79 
+{:id "343d8361-85b7-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "343d8362-85b7-11ee-af3d-317639f6dd79"
+:toId "74678ef0-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.4 0.85]
+:distance 4}
+:0abd2601-85bf-11ee-af3d-317639f6dd79 
+{:id "0abd2601-85bf-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "8dfcb9c2-85bc-11ee-af3d-317639f6dd79"
+:toId "7acb3b00-85b8-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.54 0.5]
+:distance 4}
+:5788b790-85d5-11ee-af3d-317639f6dd79 
+{:id "5788b790-85d5-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "5788b792-85d5-11ee-af3d-317639f6dd79"
+:toId "4ff712d0-85d3-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:f3482e01-85b6-11ee-af3d-317639f6dd79 
+{:id "f3482e01-85b6-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "f3482e02-85b6-11ee-af3d-317639f6dd79"
+:toId "e34499d0-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.39 0.2]
+:distance 4}
+:75f7d2e1-8f2d-11ee-8e38-5f0d41cbdd21 
+{:id "75f7d2e1-8f2d-11ee-8e38-5f0d41cbdd21"
+:type "line"
+:fromId "75f7d2e2-8f2d-11ee-8e38-5f0d41cbdd21"
+:toId "8c5f6c30-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.13 0.36]
+:distance 4}
+:e7791ef1-85ba-11ee-af3d-317639f6dd79 
+{:id "e7791ef1-85ba-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "e7791ef2-85ba-11ee-af3d-317639f6dd79"
+:toId "6f91eb00-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.28 0.12]
+:distance 4}
+:b1416f00-85be-11ee-af3d-317639f6dd79 
+{:id "b1416f00-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "b1416f02-85be-11ee-af3d-317639f6dd79"
+:toId "60c3a8e0-85be-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:7b4409f1-85b7-11ee-af3d-317639f6dd79 
+{:id "7b4409f1-85b7-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "7b4409f2-85b7-11ee-af3d-317639f6dd79"
+:toId "6897eb00-85b7-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.37 0.85]
+:distance 4}
+:08e0ac91-85b9-11ee-af3d-317639f6dd79 
+{:id "08e0ac91-85b9-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "08e0ac92-85b9-11ee-af3d-317639f6dd79"
+:toId "7cada180-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.73 0.2]
+:distance 4}
+:cc927441-85bc-11ee-af3d-317639f6dd79 
+{:id "cc927441-85bc-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "4de67692-85b8-11ee-af3d-317639f6dd79"
+:toId "491c6b60-85b8-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.6 0.58]
+:distance 4}
+:fec94db1-85be-11ee-af3d-317639f6dd79 
+{:id "fec94db1-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "f86c4672-85be-11ee-af3d-317639f6dd79"
+:toId "f93059c0-85be-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.19 0.74]
+:distance 4}
+:c0631661-85b8-11ee-af3d-317639f6dd79 
+{:id "c0631661-85b8-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "c0631662-85b8-11ee-af3d-317639f6dd79"
+:toId "74678ef0-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.56 0.66]
+:distance 4}
+:7458a1d1-8f2d-11ee-8e38-5f0d41cbdd21 
+{:id "7458a1d1-8f2d-11ee-8e38-5f0d41cbdd21"
+:type "line"
+:fromId "7458a1d2-8f2d-11ee-8e38-5f0d41cbdd21"
+:toId "6ed50aa0-8f2d-11ee-8e38-5f0d41cbdd21"
+:handleId "end"
+:point [0.2 0.28]
+:distance 4}
+:3092cf40-85d5-11ee-af3d-317639f6dd79 
+{:id "3092cf40-85d5-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "3092cf42-85d5-11ee-af3d-317639f6dd79"
+:toId "60c3a8e0-85be-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:f9e8aa10-85ba-11ee-af3d-317639f6dd79 
+{:id "f9e8aa10-85ba-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "f9e8aa12-85ba-11ee-af3d-317639f6dd79"
+:toId "f0cfb720-85ba-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:d68e0031-85d6-11ee-af3d-317639f6dd79 
+{:id "d68e0031-85d6-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "d68e0032-85d6-11ee-af3d-317639f6dd79"
+:toId "6897eb00-85b7-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.8 0.42]
+:distance 4}
+:b3a6e831-85bc-11ee-af3d-317639f6dd79 
+{:id "b3a6e831-85bc-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "b3a6e832-85bc-11ee-af3d-317639f6dd79"
+:toId "f0cfb720-85ba-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.43 0.12]
+:distance 4}
+:0c1aba31-85bf-11ee-af3d-317639f6dd79 
+{:id "0c1aba31-85bf-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "8dfcb9c2-85bc-11ee-af3d-317639f6dd79"
+:toId "7acb3b00-85b8-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.52 0.42]
+:distance 4}
+:c44daf50-85be-11ee-af3d-317639f6dd79 
+{:id "c44daf50-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "c44daf52-85be-11ee-af3d-317639f6dd79"
+:toId "385daf70-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:87684111-85b7-11ee-af3d-317639f6dd79 
+{:id "87684111-85b7-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "87684112-85b7-11ee-af3d-317639f6dd79"
+:toId "6897eb00-85b7-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.75 0.12]
+:distance 4}
+:d68e0030-85d6-11ee-af3d-317639f6dd79 
+{:id "d68e0030-85d6-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "d68e0032-85d6-11ee-af3d-317639f6dd79"
+:toId "f93059c0-85be-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:3eefafc1-85be-11ee-af3d-317639f6dd79 
+{:id "3eefafc1-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "3eefafc2-85be-11ee-af3d-317639f6dd79"
+:toId "385daf70-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.61 0.12]
+:distance 4}
+:57a55231-85d3-11ee-af3d-317639f6dd79 
+{:id "57a55231-85d3-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "425b2fd0-85d3-11ee-af3d-317639f6dd79"
+:toId "f93059c0-85be-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.55 0.25]
+:distance 4}
+:e36667c0-85b8-11ee-af3d-317639f6dd79 
+{:id "e36667c0-85b8-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "e36667c2-85b8-11ee-af3d-317639f6dd79"
+:toId "385daf70-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:f9e8aa11-85ba-11ee-af3d-317639f6dd79 
+{:id "f9e8aa11-85ba-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "f9e8aa12-85ba-11ee-af3d-317639f6dd79"
+:toId "6897eb00-85b7-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.2 0.77]
+:distance 4}
+:f5a88c30-85b6-11ee-af3d-317639f6dd79 
+{:id "f5a88c30-85b6-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "f5a88c32-85b6-11ee-af3d-317639f6dd79"
+:toId "e34499d0-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:512e3210-85b9-11ee-af3d-317639f6dd79 
+{:id "512e3210-85b9-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "512e3212-85b9-11ee-af3d-317639f6dd79"
+:toId "4196a620-85b9-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:f86c4670-85be-11ee-af3d-317639f6dd79 
+{:id "f86c4670-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "f86c4672-85be-11ee-af3d-317639f6dd79"
+:toId "e2c8b970-85be-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:7573fc40-85be-11ee-af3d-317639f6dd79 
+{:id "7573fc40-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "7573fc42-85be-11ee-af3d-317639f6dd79"
+:toId "2df07720-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:b2482d70-85ba-11ee-af3d-317639f6dd79 
+{:id "b2482d70-85ba-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "b2482d72-85ba-11ee-af3d-317639f6dd79"
+:toId "8c5f6c30-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:c8587411-85bc-11ee-af3d-317639f6dd79 
+{:id "c8587411-85bc-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "c8587412-85bc-11ee-af3d-317639f6dd79"
+:toId "90932ad0-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.32 0.27]
+:distance 4}
+:e4dd0ff0-85bd-11ee-af3d-317639f6dd79 
+{:id "e4dd0ff0-85bd-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "e4dd0ff2-85bd-11ee-af3d-317639f6dd79"
+:toId "dbacc470-85bd-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:4a732c51-85b9-11ee-af3d-317639f6dd79 
+{:id "4a732c51-85b9-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "4a732c52-85b9-11ee-af3d-317639f6dd79"
+:toId "4196a620-85b9-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.12 0.55]
+:distance 4}
+:0ba50ea0-85b7-11ee-af3d-317639f6dd79 
+{:id "0ba50ea0-85b7-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "0ba50ea2-85b7-11ee-af3d-317639f6dd79"
+:toId "8c5f6c30-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:32c69ad1-85b7-11ee-af3d-317639f6dd79 
+{:id "32c69ad1-85b7-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "32c69ad2-85b7-11ee-af3d-317639f6dd79"
+:toId "6f91eb00-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.62 0.85]
+:distance 4}
+:5788b791-85d5-11ee-af3d-317639f6dd79 
+{:id "5788b791-85d5-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "5788b792-85d5-11ee-af3d-317639f6dd79"
+:toId "4e2267f0-85d5-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.37 0.78]
+:distance 4}
+:36458860-85b7-11ee-af3d-317639f6dd79 
+{:id "36458860-85b7-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "36458862-85b7-11ee-af3d-317639f6dd79"
+:toId "385daf70-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:979f5041-85d6-11ee-af3d-317639f6dd79 
+{:id "979f5041-85d6-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "87684112-85b7-11ee-af3d-317639f6dd79"
+:toId "6897eb00-85b7-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.32 0.54]
+:distance 4}
+:c8587410-85bc-11ee-af3d-317639f6dd79 
+{:id "c8587410-85bc-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "c8587412-85bc-11ee-af3d-317639f6dd79"
+:toId "491c6b60-85b8-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:2e4ed2b1-85d5-11ee-af3d-317639f6dd79 
+{:id "2e4ed2b1-85d5-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "2e4ed2b2-85d5-11ee-af3d-317639f6dd79"
+:toId "25417880-85d5-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.55 0.28]
+:distance 4}
+:931a5141-85be-11ee-af3d-317639f6dd79 
+{:id "931a5141-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "931a5142-85be-11ee-af3d-317639f6dd79"
+:toId "60c3a8e0-85be-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.51 0.77]
+:distance 4}
+:54957a21-85d3-11ee-af3d-317639f6dd79 
+{:id "54957a21-85d3-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "425b2fd0-85d3-11ee-af3d-317639f6dd79"
+:toId "4ff712d0-85d3-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.31 0.75]
+:distance 4}
+:7458a1d0-8f2d-11ee-8e38-5f0d41cbdd21 
+{:id "7458a1d0-8f2d-11ee-8e38-5f0d41cbdd21"
+:type "line"
+:fromId "7458a1d2-8f2d-11ee-8e38-5f0d41cbdd21"
+:toId "491c6b60-85b8-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:32c69ad0-85b7-11ee-af3d-317639f6dd79 
+{:id "32c69ad0-85b7-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "32c69ad2-85b7-11ee-af3d-317639f6dd79"
+:toId "3b3c3e50-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:9c850db1-85be-11ee-af3d-317639f6dd79 
+{:id "9c850db1-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "9c850db2-85be-11ee-af3d-317639f6dd79"
+:toId "60c3a8e0-85be-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.27 0.62]
+:distance 4}
+:f674e341-85be-11ee-af3d-317639f6dd79 
+{:id "f674e341-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "f674e342-85be-11ee-af3d-317639f6dd79"
+:toId "f24c6f40-85be-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.25 0.7]
+:distance 4}
+:3eefafc0-85be-11ee-af3d-317639f6dd79 
+{:id "3eefafc0-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "3eefafc2-85be-11ee-af3d-317639f6dd79"
+:toId "7cada180-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:816224b1-85bd-11ee-af3d-317639f6dd79 
+{:id "816224b1-85bd-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "b3a6e832-85bc-11ee-af3d-317639f6dd79"
+:toId "f0cfb720-85ba-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.61 0.74]
+:distance 4}
+:e7791ef0-85ba-11ee-af3d-317639f6dd79 
+{:id "e7791ef0-85ba-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "e7791ef2-85ba-11ee-af3d-317639f6dd79"
+:toId "2c7ac710-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:e1c7eb40-85be-11ee-af3d-317639f6dd79 
+{:id "e1c7eb40-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "e1c7eb42-85be-11ee-af3d-317639f6dd79"
+:toId "7acb3b00-85b8-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:36458861-85b7-11ee-af3d-317639f6dd79 
+{:id "36458861-85b7-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "36458862-85b7-11ee-af3d-317639f6dd79"
+:toId "7cada180-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.55 0.77]
+:distance 4}
+:f3482e00-85b6-11ee-af3d-317639f6dd79 
+{:id "f3482e00-85b6-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "f3482e02-85b6-11ee-af3d-317639f6dd79"
+:toId "2c7ac710-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:be73ccb1-85bc-11ee-af3d-317639f6dd79 
+{:id "be73ccb1-85bc-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "be73ccb2-85bc-11ee-af3d-317639f6dd79"
+:toId "491c6b60-85b8-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.24 0.77]
+:distance 4}
+:ff832171-85b6-11ee-af3d-317639f6dd79 
+{:id "ff832171-85b6-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "f5a88c32-85b6-11ee-af3d-317639f6dd79"
+:toId "2df07720-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.35 0.69]
+:distance 4}
+:b2482d71-85ba-11ee-af3d-317639f6dd79 
+{:id "b2482d71-85ba-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "b2482d72-85ba-11ee-af3d-317639f6dd79"
+:toId "6897eb00-85b7-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.76 0.35]
+:distance 4}
+:4de67691-85b8-11ee-af3d-317639f6dd79 
+{:id "4de67691-85b8-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "4de67692-85b8-11ee-af3d-317639f6dd79"
+:toId "491c6b60-85b8-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.3 0.27]
+:distance 4}
+:5e9fd0c1-85b9-11ee-af3d-317639f6dd79 
+{:id "5e9fd0c1-85b9-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "f5a88c32-85b6-11ee-af3d-317639f6dd79"
+:toId "2df07720-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.52 0.57]
+:distance 4}
+:e4dd0ff1-85bd-11ee-af3d-317639f6dd79 
+{:id "e4dd0ff1-85bd-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "e4dd0ff2-85bd-11ee-af3d-317639f6dd79"
+:toId "8c5f6c30-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.25 0.27]
+:distance 4}
+:18891350-85b7-11ee-af3d-317639f6dd79 
+{:id "18891350-85b7-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "18891352-85b7-11ee-af3d-317639f6dd79"
+:toId "90932ad0-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:4a732c50-85b9-11ee-af3d-317639f6dd79 
+{:id "4a732c50-85b9-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "4a732c52-85b9-11ee-af3d-317639f6dd79"
+:toId "2df07720-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:3da28bc1-85bd-11ee-af3d-317639f6dd79 
+{:id "3da28bc1-85bd-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "3da28bc2-85bd-11ee-af3d-317639f6dd79"
+:toId "f0cfb720-85ba-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.29 0.35]
+:distance 4}
+:512e3211-85b9-11ee-af3d-317639f6dd79 
+{:id "512e3211-85b9-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "512e3212-85b9-11ee-af3d-317639f6dd79"
+:toId "2c7ac710-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.54 0.86]
+:distance 4}
+:f5a88c31-85b6-11ee-af3d-317639f6dd79 
+{:id "f5a88c31-85b6-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "f5a88c32-85b6-11ee-af3d-317639f6dd79"
+:toId "90932ad0-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.27 0.27]
+:distance 4}
+:8dfcb9c0-85bc-11ee-af3d-317639f6dd79 
+{:id "8dfcb9c0-85bc-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "8dfcb9c2-85bc-11ee-af3d-317639f6dd79"
+:toId "f0cfb720-85ba-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:7b4409f0-85b7-11ee-af3d-317639f6dd79 
+{:id "7b4409f0-85b7-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "7b4409f2-85b7-11ee-af3d-317639f6dd79"
+:toId "7cada180-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:4ea85c70-85b7-11ee-af3d-317639f6dd79 
+{:id "4ea85c70-85b7-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "4ea85c72-85b7-11ee-af3d-317639f6dd79"
+:toId "3b3c3e50-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:c313f3a0-85ba-11ee-af3d-317639f6dd79 
+{:id "c313f3a0-85ba-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "c313f3a2-85ba-11ee-af3d-317639f6dd79"
+:toId "7acb3b00-85b8-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:2e4ed2b0-85d5-11ee-af3d-317639f6dd79 
+{:id "2e4ed2b0-85d5-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "2e4ed2b2-85d5-11ee-af3d-317639f6dd79"
+:toId "f93059c0-85be-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:0ba50ea1-85b7-11ee-af3d-317639f6dd79 
+{:id "0ba50ea1-85b7-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "0ba50ea2-85b7-11ee-af3d-317639f6dd79"
+:toId "2df07720-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.21 0.85]
+:distance 4}
+:c0631660-85b8-11ee-af3d-317639f6dd79 
+{:id "c0631660-85b8-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "c0631662-85b8-11ee-af3d-317639f6dd79"
+:toId "6f91eb00-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:87684110-85b7-11ee-af3d-317639f6dd79 
+{:id "87684110-85b7-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "87684112-85b7-11ee-af3d-317639f6dd79"
+:toId "e34499d0-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:425b08c0-85d3-11ee-af3d-317639f6dd79 
+{:id "425b08c0-85d3-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "425b2fd0-85d3-11ee-af3d-317639f6dd79"
+:toId "f93059c0-85be-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 0}
+:3092cf41-85d5-11ee-af3d-317639f6dd79 
+{:id "3092cf41-85d5-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "3092cf42-85d5-11ee-af3d-317639f6dd79"
+:toId "25417880-85d5-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.55 0.62]
+:distance 4}
+:c313f3a1-85ba-11ee-af3d-317639f6dd79 
+{:id "c313f3a1-85ba-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "c313f3a2-85ba-11ee-af3d-317639f6dd79"
+:toId "8c5f6c30-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.48 0.7]
+:distance 4}
+:931a5140-85be-11ee-af3d-317639f6dd79 
+{:id "931a5140-85be-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "931a5142-85be-11ee-af3d-317639f6dd79"
+:toId "6897eb00-85b7-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:41b227f1-85ba-11ee-af3d-317639f6dd79 
+{:id "41b227f1-85ba-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "0ba50ea2-85b7-11ee-af3d-317639f6dd79"
+:toId "2df07720-85b6-11ee-af3d-317639f6dd79"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:08e0ac90-85b9-11ee-af3d-317639f6dd79 
+{:id "08e0ac90-85b9-11ee-af3d-317639f6dd79"
+:type "line"
+:fromId "08e0ac92-85b9-11ee-af3d-317639f6dd79"
+:toId "2df07720-85b6-11ee-af3d-317639f6dd79"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("2c7ac710-85b6-11ee-af3d-317639f6dd79" "2df07720-85b6-11ee-af3d-317639f6dd79" "385daf70-85b6-11ee-af3d-317639f6dd79" "3b3c3e50-85b6-11ee-af3d-317639f6dd79" "6f91eb00-85b6-11ee-af3d-317639f6dd79" "74678ef0-85b6-11ee-af3d-317639f6dd79" "7cada180-85b6-11ee-af3d-317639f6dd79" "8c5f6c30-85b6-11ee-af3d-317639f6dd79" "90932ad0-85b6-11ee-af3d-317639f6dd79" "e34499d0-85b6-11ee-af3d-317639f6dd79" "f3482e02-85b6-11ee-af3d-317639f6dd79" "f5a88c32-85b6-11ee-af3d-317639f6dd79" "0ba50ea2-85b7-11ee-af3d-317639f6dd79" "18891352-85b7-11ee-af3d-317639f6dd79" "32c69ad2-85b7-11ee-af3d-317639f6dd79" "343d8362-85b7-11ee-af3d-317639f6dd79" "36458862-85b7-11ee-af3d-317639f6dd79" "46544020-85b7-11ee-af3d-317639f6dd79" "4ea85c72-85b7-11ee-af3d-317639f6dd79" "6897eb00-85b7-11ee-af3d-317639f6dd79" "7b4409f2-85b7-11ee-af3d-317639f6dd79" "87684112-85b7-11ee-af3d-317639f6dd79" "491c6b60-85b8-11ee-af3d-317639f6dd79" "4de67692-85b8-11ee-af3d-317639f6dd79" "7acb3b00-85b8-11ee-af3d-317639f6dd79" "c0631662-85b8-11ee-af3d-317639f6dd79" "e36667c2-85b8-11ee-af3d-317639f6dd79" "08e0ac92-85b9-11ee-af3d-317639f6dd79" "4196a620-85b9-11ee-af3d-317639f6dd79" "4a732c52-85b9-11ee-af3d-317639f6dd79" "512e3212-85b9-11ee-af3d-317639f6dd79" "b2482d72-85ba-11ee-af3d-317639f6dd79" "c313f3a2-85ba-11ee-af3d-317639f6dd79" "e7791ef2-85ba-11ee-af3d-317639f6dd79" "f0cfb720-85ba-11ee-af3d-317639f6dd79" "f9e8aa12-85ba-11ee-af3d-317639f6dd79" "8dfcb9c2-85bc-11ee-af3d-317639f6dd79" "b3a6e832-85bc-11ee-af3d-317639f6dd79" "be73ccb2-85bc-11ee-af3d-317639f6dd79" "c8587412-85bc-11ee-af3d-317639f6dd79" "3da28bc2-85bd-11ee-af3d-317639f6dd79" "dbacc470-85bd-11ee-af3d-317639f6dd79" "e2e00770-85bd-11ee-af3d-317639f6dd79" "e4dd0ff2-85bd-11ee-af3d-317639f6dd79" "3eefafc2-85be-11ee-af3d-317639f6dd79" "60c3a8e0-85be-11ee-af3d-317639f6dd79" "7573fc42-85be-11ee-af3d-317639f6dd79" "931a5142-85be-11ee-af3d-317639f6dd79" "9c850db2-85be-11ee-af3d-317639f6dd79" "b1416f02-85be-11ee-af3d-317639f6dd79" "c44daf52-85be-11ee-af3d-317639f6dd79" "db848682-85be-11ee-af3d-317639f6dd79" "e1c7eb42-85be-11ee-af3d-317639f6dd79" "e2c8b970-85be-11ee-af3d-317639f6dd79" "f24c6f40-85be-11ee-af3d-317639f6dd79" "f674e342-85be-11ee-af3d-317639f6dd79" "f86c4672-85be-11ee-af3d-317639f6dd79" "f93059c0-85be-11ee-af3d-317639f6dd79" "425b2fd0-85d3-11ee-af3d-317639f6dd79" "4ff712d0-85d3-11ee-af3d-317639f6dd79" "25417880-85d5-11ee-af3d-317639f6dd79" "2e4ed2b2-85d5-11ee-af3d-317639f6dd79" "3092cf42-85d5-11ee-af3d-317639f6dd79" "4e2267f0-85d5-11ee-af3d-317639f6dd79" "5788b792-85d5-11ee-af3d-317639f6dd79" "d68e0032-85d6-11ee-af3d-317639f6dd79" "6ed50aa0-8f2d-11ee-8e38-5f0d41cbdd21" "7458a1d2-8f2d-11ee-8e38-5f0d41cbdd21" "75f7d2e2-8f2d-11ee-8e38-5f0d41cbdd21" "b6c2d320-b98e-11ee-8bab-8b2b0992101d")}}
+:block/journal? false
+:block/updated-at 1706752743706
+:block/created-at 1700272771781
+:block/type "whiteboard"
+:block/name "风光无限"
+:block/original-name "风光无限"})}
