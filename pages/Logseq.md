@@ -187,7 +187,7 @@
 		  logseq.order-list-type:: number
 		  collapsed:: true
 			- ((658fc4ca-21a3-49e7-a6b8-6277d16e0062))以链接或二维码图片到处分享
-			- 目前不用的：logseq 导出前先备份整库，然后在 vscode（免费）、typora（15 天试用，89元三台设备）等编辑器中用正则表达式查找替换，删除页面的所有超链接（含文本）、图片及同块内容（比如标签和自动生成的“collapsed true”），接着用 logseq 自带的导出功能，导出后撤销（Ctrl+Z）恢复原样
+			- 目前不用的：logseq 导出前先备份整库，然后在 ((65ab10fa-9bb1-4c11-8112-1d5744559b36)) （免费）、 ((65d2ac10-0546-4a5d-a6ed-261768b13d55)) （15 天试用，89元三台设备）等编辑器中用正则表达式查找替换，删除页面的所有超链接（含文本）、图片及同块内容（比如标签和自动生成的“collapsed true”），接着用 logseq 自带的导出功能，导出后撤销（Ctrl+Z）恢复原样
 			  id:: 659c0642-29a9-4794-ae0e-8822f0a8f549
 				- [visual-studio-code – 如何更改 VS Code 的文件排序？_vscode 按时间进行排序-CSDN 博客](https://blog.csdn.net/u010598525/article/details/108978465)（纯小白文件多找不到需要按修改时间排序，按这方法最后选“modified”）
 				- 正则表达式
