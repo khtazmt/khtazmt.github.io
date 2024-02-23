@@ -108,6 +108,9 @@
 			- ==别的语言大多没那么简单，没那么有兼容性，用起来没那么方便==
 		- 我觉得比较简单的学习方式是“干中学”，忘了“查表”
 			- 学习者直接在（支持markdown语言的）自己日常用的软件（包括浏览器）中的文本（比如自己写过/编辑过的文章，最起码是看过或想看的文章）中应用markdown语言（可以先创建副本再在副本中操作），或者将这样的文本复制/导出到vscode和爱用的编辑器里，观察不同软件、插件的复制/导出、粘贴/导入和显示/预览的效果，整理一下（比如按logseq的常规用法缩进缩进再缩进），发现部分编辑器、插件生成的“非通用”格式（logseq还是有不少的）
+				- ((65d85f13-a487-4144-9b08-93909d4e1f13))
+				- ![Code_WWs5KlVlkH.png](../assets/Code_WWs5KlVlkH_1708679810551_0.png)
+				  id:: 65d86281-9b91-4afa-8474-2dca83a4cb71
 			- [Markdown 基本语法 | Markdown 官方教程](https://markdown.com.cn/basic-syntax/)（“坏了，写那么久分隔线不会打”）
 		- 日常鸽了的类比：从语言到效果，从效果到语言
 			- 你在学校学了英语，但家人不一定看得懂、听得懂，他们判断你的英语书面和口头表达的质量时就很简单粗暴，等老师的批改和评价
@@ -196,6 +199,7 @@
 		  logseq.order-list-type:: number
 		- 解决方案
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- ((658fc4ca-21a3-49e7-a6b8-6277d16e0062))以链接或二维码图片到处分享
 			- TODO [GitHub - doocs/md: ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性](https://github.com/doocs/md)
 			  id:: 65d85f13-a487-4144-9b08-93909d4e1f13
