@@ -170,13 +170,14 @@
 	  id:: 65af1d52-138b-4e4b-a97e-4b3a9a108eb6
 	- ((659b34e3-eafb-4594-89b7-fac98edf6014))
 	- （平台）发布前格式转换/排版（目前不咋用）
+	  id:: 65bcbf46-9860-48d3-84e1-592c30b25207
 		- 内容需要链接，尤其是“科学综述”
 		  logseq.order-list-type:: number
 		- logseq的markdown语言特性
 		  logseq.order-list-type:: number
 		  id:: 659b34e3-520c-4dfe-8c84-418f4aa10e72
 			- 我们用过微软的Word，它的格式与文本分离，不会加入到文本中，而markdown的格式也是文本，所以用文本文档或记事本打开（logseq内点右上角三个点“用默认应用打开文件”）会看到一些“文字”之外的符号，已经表示层级的空格
-			- markdown有很多“方言”，logseq在块级功能上的基本强大也会出现一些“多余”的格式，因此用其他markdown编辑器打开也会看到这些logseq特有的标记（比如块的编号、块的折叠展开状态、块的属性）
+			- markdown有很多“方言”，logseq在块级功能上的“基本强大”也会出现一些“多余”的格式，因此用其他markdown编辑器打开也会看到这些logseq特有的标记（比如块的编号、块的折叠展开状态、块的属性）
 		- 平台（编辑器）特性（“你这自媒体保自吗？”）
 		  logseq.order-list-type:: number
 			- ((65996fc3-1742-4925-b6f9-e9725329c3ac))
@@ -195,10 +196,16 @@
 		  logseq.order-list-type:: number
 		- 解决方案
 		  logseq.order-list-type:: number
-		  collapsed:: true
 			- ((658fc4ca-21a3-49e7-a6b8-6277d16e0062))以链接或二维码图片到处分享
+			- TODO [GitHub - doocs/md: ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性](https://github.com/doocs/md)
+			  id:: 65d85f13-a487-4144-9b08-93909d4e1f13
+				- ## 在线编辑器地址
+					- Gitee Pages：[https://doocs.gitee.io/md](https://doocs.gitee.io/md)
+					- GitHub Pages：[https://doocs.github.io/md](https://doocs.github.io/md)
+					- 注：推荐使用 Chrome 浏览器，效果最佳。另外，对于国内（中国）的朋友，访问 [Gitee Pages](https://doocs.gitee.io/md) 速度会相对快一些。
 			- 目前不用的：logseq 导出前先备份整库，然后在 ((65ab10fa-9bb1-4c11-8112-1d5744559b36)) （免费）、 ((65d2ac10-0546-4a5d-a6ed-261768b13d55)) （15 天试用，89元三台设备）等编辑器中用正则表达式查找替换，删除页面的所有超链接（含文本）、图片及同块内容（比如标签和自动生成的“collapsed true”），接着用 logseq 自带的导出功能，导出后撤销（Ctrl+Z）恢复原样
 			  id:: 659c0642-29a9-4794-ae0e-8822f0a8f549
+			  collapsed:: true
 				- [visual-studio-code – 如何更改 VS Code 的文件排序？_vscode 按时间进行排序-CSDN 博客](https://blog.csdn.net/u010598525/article/details/108978465)（纯小白文件多找不到需要按修改时间排序，按这方法最后选“modified”）
 				- 正则表达式
 					- Ctrl+H 替换，然后根据需要复制粘贴以下正则表达式（除了第一个是看来的，别的都是乱试的，不一定能全覆盖，但已能减少不少手动删除工作量，我目前用第三行和第四行），需要同时使用多个可用可加“|”
