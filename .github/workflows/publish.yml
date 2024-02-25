@@ -15,3 +15,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: www
+          - name: Logseq Publish SPA
+          uses: logseq/publish-spa@v0.3.1
+      
