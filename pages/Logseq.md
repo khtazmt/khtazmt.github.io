@@ -174,6 +174,7 @@
 	- ((659b34e3-eafb-4594-89b7-fac98edf6014))
 	- （平台）发布前格式转换/排版（目前不咋用）
 	  id:: 65bcbf46-9860-48d3-84e1-592c30b25207
+	  collapsed:: true
 		- 内容需要链接，尤其是“科学综述”
 		  logseq.order-list-type:: number
 		- logseq的markdown语言特性
