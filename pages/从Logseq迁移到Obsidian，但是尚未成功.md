@@ -14,6 +14,7 @@
 	- 不能拖拽块/bullet（下了插件Outliner，其设置中开了Drag-and-Drop，但是显示“小手”图标却拖不了）
 	- 浮窗插件Hover Editor无法悬停预览
 - 导出页面到公众号编辑界面
+  id:: 65adf755-9d42-4731-9bb7-32cebb0aa63c
 	- [obsidian导出带图片的word - 知乎](https://zhuanlan.zhihu.com/p/570748937)
 	- [如何用 Obsidian 快速完成一篇漂亮的公众号文章？ - 知乎](https://zhuanlan.zhihu.com/p/639025950)
 		- [Md2All](https://md.aclickall.com/)
