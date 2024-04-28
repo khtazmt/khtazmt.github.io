@@ -9,7 +9,8 @@
 	- [[minecraft机械动力]]
 	- 末影箱（共享备忘录——“飞书”）
 	- 查看玩家和服务器/区域现有物品、位置
-- 资料
+- 机械动力资料
+	- [机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2021.html)
 	- 应力
 		- Stress
 		- [应力（物理名词）_百度百科](https://baike.baidu.com/item/%E5%BA%94%E5%8A%9B/3075028)
