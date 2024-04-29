@@ -1,6 +1,5 @@
 - 待办
 	- 时运三钻石镐（“我反正还没”）
-	- [工具箱 (Toolbox) - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/524501.html)
 	- 黄绿色染料
 		- 绿色染料
 			- 仙人掌、蕨、海泡菜
