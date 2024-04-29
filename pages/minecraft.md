@@ -1,6 +1,6 @@
 - 待办
 	- 海带
-		- 剪刀，村北池塘
+		- 剪刀，村东池塘
 	- 时运三钻石镐（“我反正还没”）
 	- [合成表 - 棕色工具箱 (Brown Toolbox) - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/tab/524497.html)
 	- 蒸汽锅炉
@@ -17,6 +17,7 @@
 		- ctrl、shift、右键、左键拖动、alt对于物品整理和生产有不同作用
 		- K光影（可以增加服务器的负担，效果还不一定让你满意），L进度（游戏、模组的推荐游玩目标序列）
 		- 右击床重设重生点，在夜晚可跳过夜晚（多人在线时需要多人一起躺）
+		- F5（或加上Fn）切换视角
 	- ---
 	- 入服接引
 		- 出生点不是家！别被稍北的小麦田和我搭的半成品石房、建的两条水上路迷了眼！
@@ -36,6 +37,7 @@
 				- [机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2021.html)
 				  id:: 662da7ed-a0af-4534-bacb-55ec5b68caa0
 					- [物品/方块 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/list/2021-1.html)
+					- ((662e5fb2-0f11-4db5-9af0-5fc1df62118f))
 				- 应力
 					- Stress
 					- [应力（物理名词）_百度百科](https://baike.baidu.com/item/%E5%BA%94%E5%8A%9B/3075028)
@@ -47,7 +49,6 @@
 				- [蓝图收集帖 - 技术讨论 -  MC百科社群 -   MC百科|最大的Minecraft中文MOD百科](https://bbs.mcmod.cn/thread-9208-1-1.html)
 				- [【1.16.5/机械动力/新手向】我的世界Minecraft机械动力自动化小型树树场 - 哔哩哔哩](https://www.bilibili.com/read/cv12482048)
 		- 其他模组
-		  collapsed:: true
 			- 可在启动器的“版本设置-Mod管理”中右键Mod（即模组）“转到MC百科”查看
 			- 查看方块会显示需要用什么工具采集，用错了大力出奇迹就没了
 			- [[XMM]Xaero的小地图 (Xaero's Minimap) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1701.html)、[[XWM]Xaero的世界地图 (Xaero's World Map) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1483.html)
@@ -59,7 +60,8 @@
 			- [旅行者背包 (Traveler's Backpack) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1732.html)
 				- “背包中背包，BOB”
 				- 可能是在出生点附近做床时发现能做睡袋，之后做了出来
-			- [[REI]REI物品管理器 (Roughly Enough Items) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1674.html)
+			- ==[[REI]REI物品管理器 (Roughly Enough Items) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1674.html)==
+			  id:: 662e5fb2-0f11-4db5-9af0-5fc1df62118f
 				- ((662e5aa4-d3fd-46f0-958c-2bfb9cb55b49))
 			- [连锁挖掘 (Diggus Maximus) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/3080.html)
 				- “原来如此，看服主这么挖的，但还是想‘啊？’一下”
@@ -92,10 +94,11 @@
 			- 手动大量添加（有箱子、漏斗/溜槽）
 				- ==作业元件==
 					- 粉碎轮
-						- 粉碎粗矿
+						- 粉碎粗矿，
 					- 鼓风机
 						- [鼓风机批量加工 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/277119.html)
-						- 鼓风机吹岩浆吹出来的高温物质冶炼金属
+						- 吹岩浆冶炼金属
+						- 吹水洗矿（粉碎矿石到对应的粒）
 			-
 - ---
 - 玩的直接原因（“写东西写的”，加上网友之前分享了整合包和服务器）
