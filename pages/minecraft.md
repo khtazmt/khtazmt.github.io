@@ -1,9 +1,6 @@
 - 待办
-	- 钓鱼机
-		- [钓鱼 - Minecraft Wiki，最详细的我的世界百科](https://minecraft.fandom.com/zh/wiki/%E9%92%93%E9%B1%BC)
-		- [[教程]1.19宝藏钓鱼机_我的世界_教程](https://www.bilibili.com/video/BV13W4y137o5)
-		- [【MCJE 1.19+】终于回到了你忠诚可靠的全自动钓鱼机！（附保姆级教程）_哔哩哔哩bilibili_Minecraft](https://www.bilibili.com/video/BV1DB4y11713)
-		- [[机械动力] 全自动钓鱼机，但是占地更小并且全方向_哔哩哔哩bilibili_我的世界](https://www.bilibili.com/video/BV1b8411N7K9)
+	- 伸缩机械手
+	- 蠹虫机
 	- 时运三耐久三钻石镐（“我反正还没”）
 		- [F13-怎么给你的武器装备用最佳顺序附魔？ - 哔哩哔哩](https://www.bilibili.com/read/cv14725362)
 		- ((662e68f9-0526-4b64-8feb-8ae59a59982c))
@@ -13,6 +10,11 @@
 			- 洗锌出火药
 		- 批量缠魂
 			- 灵魂营火
+	- 钓鱼机
+		- [钓鱼 - Minecraft Wiki，最详细的我的世界百科](https://minecraft.fandom.com/zh/wiki/%E9%92%93%E9%B1%BC)
+		- [[教程]1.19宝藏钓鱼机_我的世界_教程](https://www.bilibili.com/video/BV13W4y137o5)
+		- [【MCJE 1.19+】终于回到了你忠诚可靠的全自动钓鱼机！（附保姆级教程）_哔哩哔哩bilibili_Minecraft](https://www.bilibili.com/video/BV1DB4y11713)
+		- [[机械动力] 全自动钓鱼机，但是占地更小并且全方向_哔哩哔哩bilibili_我的世界](https://www.bilibili.com/video/BV1b8411N7K9)
 	- 蒸汽锅炉
 	- 传送带
 	  collapsed:: true
