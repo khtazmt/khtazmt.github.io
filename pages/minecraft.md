@@ -104,15 +104,21 @@
 				- [蓝图收集帖 - 技术讨论 -  MC百科社群 -   MC百科|最大的Minecraft中文MOD百科](https://bbs.mcmod.cn/thread-9208-1-1.html)
 				- [【1.16.5/机械动力/新手向】我的世界Minecraft机械动力自动化小型树树场 - 哔哩哔哩](https://www.bilibili.com/read/cv12482048)
 		- 其他模组
-		  collapsed:: true
 			- 可在启动器的“版本设置-Mod管理”中右键Mod（即模组）“转到MC百科”查看
 			- 查看方块会显示需要用什么工具采集，用错了大力出奇迹就没了
 			- [[XMM]Xaero的小地图 (Xaero's Minimap) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1701.html)、[[XWM]Xaero的世界地图 (Xaero's World Map) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1483.html)
 				- 地图似乎只能看到自己的？Z临时放大小地图，X新建标记点，M打开大地图（世界地图；右键“在聊天栏分享位置/路径点”），点击左下角洞穴模式可以拖动调节显示的高度
+			- [玉 🔍 (Jade 🔍) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/3482.html)
+				- ((663048c0-7b00-44f6-af35-154c8e0c964a))
+					- “很显眼，但是很不显眼”
+			- [[IPN]一键背包整理Next (Inventory Profiles Next) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/4104.html)
+				- 除了几种整理功能外，最显眼的是自动换更高耐久的装备，没有的话会跳“IPN警告”
 			- [传送石碑/指路石 (Waystones) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1339.html)
 				- ((662e5b99-edbc-4a6e-82a3-951482ff4146))
 			- [别样家具 (Another Furniture) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/7201.html)
-				- 村里小屋里是有一些大概是服主布置的
+				- 村里小屋里是有一些可能是服主布置的
+			- [农夫乐事 (Farmer's Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2820.html)
+				- 也是个大模组，有刀、可以做绳子（进而代替黏液球做栓绳，还可做防坠的安全网等）的草秆
 			- [旅行者背包 (Traveler's Backpack) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1732.html)
 				- “背包中背包，BOB”
 				- 可能是在出生点附近做床时发现能做睡袋，之后做了出来
@@ -175,9 +181,10 @@
 	  collapsed:: true
 		- 附魔，非工业化/技艺途径的能力强化/拜物，可传递性
 	- 显示名称（符号界的阉割）
+	  id:: 663048c0-7b00-44f6-af35-154c8e0c964a
 	- 格子
-	  collapsed:: true
 		- 三维格子与二维格子
+			- 三维模型与二维缩略图
 		- 滴水不漏（虽然有“粒子效果”）
 		- 每一个方块都是“免费容器”/“无”（需要游戏软件、硬件、电、电费来运行、维持——格子就是无产阶级；这些成本是让人认真训练的）
 	- ---
@@ -197,6 +204,7 @@
 		- 物品与知识/文字
 		- 词到句/素材（容器内整理）
 	- 公有制
+	  collapsed:: true
 		- 时间
 			- 刻
 			- 共时性与历时性
