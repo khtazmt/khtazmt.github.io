@@ -24,8 +24,8 @@
 			- [[机械动力] 全自动钓鱼机，但是占地更小并且全方向_哔哩哔哩bilibili_我的世界](https://www.bilibili.com/video/BV1b8411N7K9)
 - 目前的成熟工艺
 	- 不用管
-	  collapsed:: true
-		- [工业革命-制造你的蒸汽机 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/2437.html)
+		- 蒸汽锅炉（被动状态）
+			- [工业革命-制造你的蒸汽机 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/2437.html)
 	- 手动（可能用量暂时不大）
 		- 采矿
 			- 因为 ((662f0b28-8805-4f68-bc72-1d04d45e1821)) ，所以结合此采矿方法，是 ((6630a688-b8ae-4de4-a9ba-e47b70762a08)) 做出来前较快的经验获取方式
