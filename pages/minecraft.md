@@ -1,4 +1,5 @@
 - （我的）待办
+  collapsed:: true
 	- 铁护腿、鞋
 	- 附魔钻石剑
 	- 书与笔
@@ -23,6 +24,7 @@
 			- [【MCJE 1.19+】终于回到了你忠诚可靠的全自动钓鱼机！（附保姆级教程）_哔哩哔哩bilibili_Minecraft](https://www.bilibili.com/video/BV1DB4y11713)
 			- [[机械动力] 全自动钓鱼机，但是占地更小并且全方向_哔哩哔哩bilibili_我的世界](https://www.bilibili.com/video/BV1b8411N7K9)
 - 目前的成熟工艺
+  collapsed:: true
 	- 不用管
 		- 蒸汽锅炉（被动状态）
 			- [工业革命-制造你的蒸汽机 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/2437.html)
@@ -101,7 +103,7 @@
 		- K光影（可以增加服务器的负担，效果还不一定让你满意），R重新加载光影
 			- [Iris Shaders - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/3697.html)
 			  id:: 66336596-bcfb-4f3f-b6f3-7e880046df30
-		- 更多按键可按Esc键查看“选项-控制-按键绑定”，有些模组的默认按键可能被按键冲突解决模组或整合包调换了，比如背负旅行者背包时打开旅行者背包的B键（我的是被汤姆的简易存储占了，被换成了“,”）和访问附近的工具箱的左ALT键（我的是被换成了“-”）
+		- 更多按键可按Esc键查看“选项-控制-按键绑定”，有些模组的默认按键可能被按键冲突解决模组或整合包调换了，比如背负旅行者背包时打开旅行者背包的B键（我的是被汤姆的简易存储占了，被换成了“,”）和访问附近的工具箱的左ALT键（我的是被换成了“-”）——可以调回去，顺手最重要
 			- 还可查看[控制 - Minecraft Wiki，最详细的我的世界百科](https://minecraft.fandom.com/zh/wiki/%E6%8E%A7%E5%88%B6)
 		- 部分音乐与时点时段有关
 	- ---
