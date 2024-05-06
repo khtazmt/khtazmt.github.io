@@ -1,14 +1,12 @@
 - （我的）待办
-	- 测试绳子能否爬、缓降
-	- 精准采集锹
-	- 进度：烂番茄扔劫掠者
-	- 村庄到出生点、其他村庄的传送带/弹射置物台（测试缓降药水；可与传送带并列）/列车线路（动力压路机——“坏了，又是0.5.1才有”；测试运动中射击偏差）
+	- 村庄到出生点、其他村庄的列车线路（测试运动中射击偏差）
 		- [跳板交通_单机游戏热门视频](https://www.bilibili.com/video/BV1Tz4y1q7o2)
 		- [机械动力：简单列车 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/3512.html)
 		- 袭击高架运输
 	- 抽熔岩（完成烈焰蛋糕产线，作土豆加农炮弹药，不然玩得少舀岩浆也差不多够用）
 		- [汲取行星核心 - 机械师熔岩搬运指南 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/1930.html)
 			- >0.5之后可以直接用火车载储罐，会快不少
+	- 进度：烂番茄扔劫掠者
 	- 刷金机（“射金胡萝卜”；圆石粉碎版、）
 	- {{embed ((66379dcd-4044-4bcf-aca4-8be7638c5bce))}}
 	- ---
@@ -114,7 +112,6 @@
 				- 吹岩浆冶炼金属
 				- 吹水洗矿（粉碎矿石到对应的粒，省得冶炼了，很多装配直接用粒；洗锌出火药）
 - “回归教程”
-  collapsed:: true
 	- “麦块常识”
 	  collapsed:: true
 		- e打开背包（“你在怀疑什么？”）
@@ -153,84 +150,86 @@
 			- 遇到拿弩的劫掠者可以快跑走位躲箭，可以进屋蹲门
 			- 现在装备好，打怪也就图一乐，真要经验还得用粉碎矿石和蠹虫机
 			- 服务器开了死亡掉落保护，所以（一般）不用担心怪叫和意外死亡，但护具耐久好像还会掉
-		- 模组
-			- 可在启动器的“版本设置-Mod管理”中右键Mod（即模组）“转到MC百科”查看
-			- [机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2021.html)（“Mod教程”也可以看）
-			  id:: 662da7ed-a0af-4534-bacb-55ec5b68caa0
-				- [物品/方块 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/list/2021-1.html)
-					- ((662e5fb2-0f11-4db5-9af0-5fc1df62118f))
-				- 最主要的模组，非常好
-				- 有些物品可以按W思索，演示动画做得不错
-					- [思索 (Ponder) - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/555624.html)
-					- [思索.exe,但是原版_单机游戏热门视频](https://www.bilibili.com/video/BV1zr421W7q9)
-					- 按q“显示方块名称”，移到演示图上可以顺蔓摸瓜
-				- 工程师护目镜看应力等参数和故障提示
-				- 扳手右键转向（可以将十字齿轮箱与竖直十字齿轮箱互换）、调模式（若有），鼠标滚轮调模式（若有），shift加右键快拆，还有其他一堆功能
-				  collapsed:: true
-					- [扳手 (Wrench) - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/227771.html)
-				- 机械动力学习资料
-				  collapsed:: true
-					- [我的世界:从零开始的机械动力入门教程【纯干货】【超齐全】_哔哩哔哩bilibili_我的世界_攻略](https://www.bilibili.com/video/BV1964y1K7mv)
-					- 应力
-						- Stress
-						- [应力与压力的区别 - 知乎](https://zhuanlan.zhihu.com/p/266823662)
-						- [应力（物理名词）_百度百科](https://baike.baidu.com/item/%E5%BA%94%E5%8A%9B/3075028)
-						- [应力单元，应力量以及应力影响 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/330128.html)
-						  id:: 662d9b69-73c2-4d0f-9b5a-d00796acc2f7
-					- ---
-					- [自动化合集 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/2299.html)
-					- ---
-					- [蓝图收集帖 - 技术讨论 -  MC百科社群 -   MC百科|最大的Minecraft中文MOD百科](https://bbs.mcmod.cn/thread-9208-1-1.html)
-					- [【1.16.5/机械动力/新手向】我的世界Minecraft机械动力自动化小型树树场 - 哔哩哔哩](https://www.bilibili.com/read/cv12482048)
-			- [[XMM]Xaero的小地图 (Xaero's Minimap) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1701.html)、[[XWM]Xaero的世界地图 (Xaero's World Map) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1483.html)
+	- 模组
+		- 可在启动器的“版本设置-Mod管理”中右键Mod（即模组）“转到MC百科”查看
+		- [机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2021.html)（“Mod教程”也可以看）
+		  id:: 662da7ed-a0af-4534-bacb-55ec5b68caa0
+		  collapsed:: true
+			- [物品/方块 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/list/2021-1.html)
+				- ((662e5fb2-0f11-4db5-9af0-5fc1df62118f))
+			- 最主要的模组，非常好
+			- 有些物品可以按W思索，演示动画做得不错
+				- [思索 (Ponder) - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/555624.html)
+				- [思索.exe,但是原版_单机游戏热门视频](https://www.bilibili.com/video/BV1zr421W7q9)
+				- 按q“显示方块名称”，移到演示图上可以顺蔓摸瓜
+			- 工程师护目镜看应力等参数和故障提示
+			- 扳手右键转向（可以将十字齿轮箱与竖直十字齿轮箱互换）、调模式（若有），鼠标滚轮调模式（若有），shift加右键快拆，还有其他一堆功能
 			  collapsed:: true
-				- 地图似乎只能看到自己的？Z临时放大小地图，X新建标记点，M打开大地图（世界地图；右键“在聊天栏分享位置/路径点”），点击左下角洞穴模式可以拖动调节显示的高度，进而发现资源点、特殊地点
-				- 大地图可以看生物群系
-				- ((6631bb2b-ca9c-4d70-9c60-9d63dd02b90f))
-			- [玉 🔍 (Jade 🔍) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/3482.html)
-				- ((663048c0-7b00-44f6-af35-154c8e0c964a))
-					- “很显眼，但是很不显眼”
-				- 查看方块会显示需要用什么工具采集，用错了大力出奇迹就没了
-				- “？天天鉴宝是吧？”
-			- [[IPN]一键背包整理Next (Inventory Profiles Next) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/4104.html)
-				- 除了几种整理功能外，最显眼的是自动换更高耐久的装备，没有的话会跳“IPN警告”
-			- [传送石碑/指路石 (Waystones) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1339.html)
-				- ((662e5b99-edbc-4a6e-82a3-951482ff4146))
-			- [别样家具 (Another Furniture) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/7201.html)
-				- 村里小屋里是有一些可能是服主布置的
-			- [农夫乐事 (Farmer's Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2820.html)
-			  id:: 66332ea7-bcb1-4c93-b0ab-e822ad7b3a85
-				- 也是个大模组，有刀、可以做绳子（进而代替黏液球做栓绳，还可做防坠的安全网等）的草秆
-				- [食物 - 物品/方块 - 农夫乐事 (Farmer's Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/list/2820-1-173073.html)
-				- [主食讲解（配图）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1TP4y1s7A3?p=2)
-				  id:: 6637a1b9-2913-42f9-811a-ca8d98440c06
-				- [料理乐事 (Cuisine Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/11405.html)
-					- [农夫乐事国创附属！料理乐事！在MC里沉浸式炒菜！——你一定没玩过的模组介绍_我的世界](https://www.bilibili.com/video/BV12a4y1R7gg)
-			- [旅行者背包 (Traveler's Backpack) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1732.html)
-				- “背包中背包，BOB”
-				- 可能是在起点附近做床时发现单独三个羊毛就能做睡袋，之后做了出来
-				- 注意留意背上背包后打开背包的按键（我的是“,”），别（在外面睡了一觉收睡袋后）背上后找不到了
-				  id:: 66335bd1-7d2a-44d5-90be-af9dcde0a0d8
-				- 自带工作台，石镐全挖爆了就可以继续做了
-			- ==[[REI]REI物品管理器 (Roughly Enough Items) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1674.html)==
-			  id:: 662e5fb2-0f11-4db5-9af0-5fc1df62118f
-				- ((662e5aa4-d3fd-46f0-958c-2bfb9cb55b49))
-			- [连锁挖掘 (Diggus Maximus) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/3080.html)
-			  id:: 662e68f9-0526-4b64-8feb-8ae59a59982c
-				- 按住“1/!”左边的“·/~”挖掘
-				- “原来如此，看服主这么挖的，但还是想‘啊？’一下”
-			- 不太容易“看”到的
-				- [Iris Shaders - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/3697.html)
-					- “看到了，但是，没有完全看到”——以为是整合包本身乃至新版本的自带功能
-					- ((66332ea7-c5b5-4702-bcae-9eb12ba93130))
-				- [搬运 (Carry On) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1081.html)
-					- 搬箱子（“啊？”）、动物
-					- ((66236190-211b-4686-81e3-35a32cd8773f))
-						- 小奥直播坐在辆Karry上
-				- [输入法冲突修复 (IMBlockerFabric) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2840.html)
-					- ((6636f0c7-8751-4e0a-9c66-345d0cbdf5d2))
-		- 较大的工程可以先在创造模式测试，创建时选择超平坦、白天，按e键后，上部可以翻页到相应模组
-		- 探图插火把时建议偏一侧插，这样找不到路时可以不自杀回家
+				- [扳手 (Wrench) - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/227771.html)
+			- 机械动力学习资料
+			  collapsed:: true
+				- [我的世界:从零开始的机械动力入门教程【纯干货】【超齐全】_哔哩哔哩bilibili_我的世界_攻略](https://www.bilibili.com/video/BV1964y1K7mv)
+				- 应力
+					- Stress
+					- [应力与压力的区别 - 知乎](https://zhuanlan.zhihu.com/p/266823662)
+					- [应力（物理名词）_百度百科](https://baike.baidu.com/item/%E5%BA%94%E5%8A%9B/3075028)
+					- [应力单元，应力量以及应力影响 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/330128.html)
+					  id:: 662d9b69-73c2-4d0f-9b5a-d00796acc2f7
+				- ---
+				- [自动化合集 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/2299.html)
+				- ---
+				- [蓝图收集帖 - 技术讨论 -  MC百科社群 -   MC百科|最大的Minecraft中文MOD百科](https://bbs.mcmod.cn/thread-9208-1-1.html)
+				- [【1.16.5/机械动力/新手向】我的世界Minecraft机械动力自动化小型树树场 - 哔哩哔哩](https://www.bilibili.com/read/cv12482048)
+		- [[XMM]Xaero的小地图 (Xaero's Minimap) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1701.html)、[[XWM]Xaero的世界地图 (Xaero's World Map) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1483.html)
+		  collapsed:: true
+			- 地图似乎只能看到自己的？Z临时放大小地图，X新建标记点，M打开大地图（世界地图；右键“在聊天栏分享位置/路径点”），点击左下角洞穴模式可以拖动调节显示的高度，进而发现资源点、特殊地点
+			- 大地图可以看生物群系
+			- ((6631bb2b-ca9c-4d70-9c60-9d63dd02b90f))
+		- [玉 🔍 (Jade 🔍) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/3482.html)
+			- ((663048c0-7b00-44f6-af35-154c8e0c964a))
+				- “很显眼，但是很不显眼”
+			- 查看方块会显示需要用什么工具采集，用错了大力出奇迹就没了
+			- “？天天鉴宝是吧？”
+		- [[IPN]一键背包整理Next (Inventory Profiles Next) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/4104.html)
+			- 除了几种整理功能外，最显眼的是自动换更高耐久的装备，没有的话会跳“IPN警告”
+		- [传送石碑/指路石 (Waystones) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1339.html)
+			- ((662e5b99-edbc-4a6e-82a3-951482ff4146))
+		- [别样家具 (Another Furniture) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/7201.html)
+			- 村里小屋里是有一些可能是服主布置的
+		- [农夫乐事 (Farmer's Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2820.html)
+		  id:: 66332ea7-bcb1-4c93-b0ab-e822ad7b3a85
+			- 也是个大模组，有刀、可以做绳子（可以攀爬、缓降，可以潜行向上搭建，比梯子和方块灵活，可做防坠的、可配合弹射置物台和向上搭建且从底部回收的绳子使用的安全网，可以代替黏液球做栓绳，总之就是好用）的草秆
+				- [绳子 (Rope) - 农夫乐事 (Farmer's Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/382018.html)
+			- [食物 - 物品/方块 - 农夫乐事 (Farmer's Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/list/2820-1-173073.html)
+			- [主食讲解（配图）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1TP4y1s7A3?p=2)
+			  id:: 6637a1b9-2913-42f9-811a-ca8d98440c06
+			- [料理乐事 (Cuisine Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/11405.html)
+				- [农夫乐事国创附属！料理乐事！在MC里沉浸式炒菜！——你一定没玩过的模组介绍_我的世界](https://www.bilibili.com/video/BV12a4y1R7gg)
+		- [旅行者背包 (Traveler's Backpack) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1732.html)
+			- “背包中背包，BOB”
+			- 可能是在起点附近做床时发现单独三个羊毛就能做睡袋，之后做了出来
+			- 注意留意背上背包后打开背包的按键（我的是“,”），别（在外面睡了一觉收睡袋后）背上后找不到了
+			  id:: 66335bd1-7d2a-44d5-90be-af9dcde0a0d8
+			- 自带工作台，石镐全挖爆了就可以继续做了
+		- ==[[REI]REI物品管理器 (Roughly Enough Items) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1674.html)==
+		  id:: 662e5fb2-0f11-4db5-9af0-5fc1df62118f
+			- ((662e5aa4-d3fd-46f0-958c-2bfb9cb55b49))
+		- [连锁挖掘 (Diggus Maximus) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/3080.html)
+		  id:: 662e68f9-0526-4b64-8feb-8ae59a59982c
+			- 按住“1/!”左边的“·/~”挖掘
+			- “原来如此，看服主这么挖的，但还是想‘啊？’一下”
+		- 不太容易“看”到的
+			- [Iris Shaders - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/3697.html)
+				- “看到了，但是，没有完全看到”——以为是整合包本身乃至新版本的自带功能
+				- ((66332ea7-c5b5-4702-bcae-9eb12ba93130))
+			- [搬运 (Carry On) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1081.html)
+				- 搬箱子（“啊？”）、动物
+				- ((66236190-211b-4686-81e3-35a32cd8773f))
+					- 小奥直播坐在辆Karry上
+			- [输入法冲突修复 (IMBlockerFabric) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2840.html)
+				- ((6636f0c7-8751-4e0a-9c66-345d0cbdf5d2))
+	- 较大的工程可以先在创造模式测试，创建时选择超平坦、白天，按e键后，上部可以翻页到相应模组
+	- 探图插火把时建议偏一侧插，这样找不到路时可以不自杀回家
 - ---
 - 玩的直接原因（“写东西写的”，加上网友之前分享了整合包和服务器）
   id:: 662d935b-a57b-4b33-8e7f-a563741cd4ab
