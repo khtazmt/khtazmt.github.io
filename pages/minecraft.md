@@ -137,7 +137,7 @@
 		  id:: 6636f0c7-8751-4e0a-9c66-345d0cbdf5d2
 		- K光影（可以增加服务器的负担，效果还不一定让你满意），R重新加载光影
 		  id:: 66332ea7-c5b5-4702-bcae-9eb12ba93130
-		- 更多按键可按Esc键查看“选项-控制-按键绑定”，有些模组的默认按键可能被按键冲突解决模组或整合包调换了，比如背负旅行者背包时打开旅行者背包的B键（我的是被汤姆的简易存储占了，被换成了“,”，后来调成了shift+E）和访问附近的工具箱的左ALT键（我的是被换成了“-”）——可以调回去，顺手最重要
+		- 更多按键可按Esc键查看“选项-控制-按键绑定”，有些模组的默认按键可能被按键冲突解决模组或整合包调换了，比如背负旅行者背包时打开旅行者背包的B键（我的是被汤姆的简易存储占了，被换成了“,”）和访问附近的工具箱的左ALT键（我的是被换成了“-”）——可以调回去，顺手最重要
 			- 还可查看[控制 - Minecraft Wiki，最详细的我的世界百科](https://minecraft.fandom.com/zh/wiki/%E6%8E%A7%E5%88%B6)
 		- 部分音乐与时点时段有关
 	- 入服接引
@@ -216,6 +216,12 @@
 			- 注意留意背上背包后打开背包的按键（我的是“,”），别（在外面睡了一觉收睡袋后）背上后找不到了
 			  id:: 66335bd1-7d2a-44d5-90be-af9dcde0a0d8
 			- 自带工作台，石镐全挖爆了就可以继续做了
+			- [旅行者背包 (Traveller's Backpack) - 旅行者背包 (Traveler's Backpack) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/199182.html)
+			- 能力
+				- [List of available abilities · Tiviacz1337/Travelers-Backpack Wiki · GitHub](https://github.com/Tiviacz1337/Travelers-Backpack/wiki/List-of-available-abilities)
+				- [Travelers-Backpack-Recipes/OriginalRecipes.md at main · winderine/Travelers-Backpack-Recipes · GitHub](https://github.com/winderine/Travelers-Backpack-Recipes/blob/main/OriginalRecipes.md)
+			- 扩容
+				- [旅行者背包新添加的扩容功能概述 - 旅行者背包 (Traveler's Backpack) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/3157.html)
 		- ==[[REI]REI物品管理器 (Roughly Enough Items) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1674.html)==
 		  id:: 662e5fb2-0f11-4db5-9af0-5fc1df62118f
 			- ((662e5aa4-d3fd-46f0-958c-2bfb9cb55b49))
