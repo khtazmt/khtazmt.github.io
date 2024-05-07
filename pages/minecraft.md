@@ -1,6 +1,4 @@
 - （我的）待办
-	- ((66335bd1-b6be-4ba0-844f-3cd54646c300))
-		- 升级背包
 	- 列车线路
 		- [机械动力：简单列车 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/3512.html)
 	- 战斗
@@ -218,6 +216,7 @@
 			- 自带工作台，石镐全挖爆了就可以继续做了
 			- [旅行者背包 (Traveller's Backpack) - 旅行者背包 (Traveler's Backpack) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/199182.html)
 			- 能力
+				- “蜘蛛，爽！”
 				- [List of available abilities · Tiviacz1337/Travelers-Backpack Wiki · GitHub](https://github.com/Tiviacz1337/Travelers-Backpack/wiki/List-of-available-abilities)
 				- [Travelers-Backpack-Recipes/OriginalRecipes.md at main · winderine/Travelers-Backpack-Recipes · GitHub](https://github.com/winderine/Travelers-Backpack-Recipes/blob/main/OriginalRecipes.md)
 			- 扩容
