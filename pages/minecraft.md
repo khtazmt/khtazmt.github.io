@@ -1,31 +1,33 @@
 - （我的）待办
-	- 列车线路
-		- [机械动力：简单列车 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/3512.html)
+	- 抽熔岩（完成烈焰蛋糕产线，作土豆加农炮弹药，不然玩得少舀岩浆或烧别的燃料也差不多够用）
+	  id:: 6638490c-2564-442e-a5b2-fc7f0d0a5af2
+		- 下熔岩湖在岸上另造了下界门，抽上了，接下来是列车
+			- 列车线路
+				- [机械动力：简单列车 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/3512.html)
+				- 依次铺轨道、放列车站、组装列车（轨道要够长，才能出现蓝色高亮轨道；列车机壳、驾驶台、坐垫，“组装”），右击驾驶台可以开，右击坐垫可以坐上去，鼠标滚轮调速，空格停靠前方车站
+				- ((6638490c-2564-442e-a5b2-fc7f0d0a5af2))
+		- [汲取行星核心 - 机械师熔岩搬运指南 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/1930.html)
+			- >0.5之后可以直接用火车载储罐，会快不少
 	- 战斗
 		- 村庄高架运输线路（应对袭击中不同波次的不同出现位置，快速投送远程火力，同时够高敌人碰不到——不搞也能打，主要是提升一下虐菜体验）
 			- 列车能直接撞的话更好
 		- 不卡时多人打袭击（“先把村民封控了”）
 		- 进度：烂番茄扔劫掠者
 	- {{embed ((66379dcd-4044-4bcf-aca4-8be7638c5bce))}}
-	- “增殖”
-		- 抽熔岩（完成烈焰蛋糕产线，作土豆加农炮弹药，不然玩得少舀岩浆或烧别的燃料也差不多够用）
-			- [汲取行星核心 - 机械师熔岩搬运指南 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/1930.html)（目前的传送门偏高，测试较高的流动熔岩能不能抽）
-				- >0.5之后可以直接用火车载储罐，会快不少
-		- 不确定要不要办的
-			- 刷金机（“射金胡萝卜”；圆石粉碎）
-			- 钓鱼机（初衷是不找村民的情况下搞附魔书，顺带还有经验，但经验相比蠹虫机效率低不少）
-				- [钓鱼 - Minecraft Wiki，最详细的我的世界百科](https://minecraft.fandom.com/zh/wiki/%E9%92%93%E9%B1%BC)
-				- [[教程]1.19宝藏钓鱼机_我的世界_教程](https://www.bilibili.com/video/BV13W4y137o5)
-				- [【MCJE 1.19+】终于回到了你忠诚可靠的全自动钓鱼机！（附保姆级教程）_哔哩哔哩bilibili_Minecraft](https://www.bilibili.com/video/BV1DB4y11713)
-				- [[机械动力] 全自动钓鱼机，但是占地更小并且全方向_哔哩哔哩bilibili_我的世界](https://www.bilibili.com/video/BV1b8411N7K9)
+	- 不确定要不要办的
+		- 刷金机（“射金胡萝卜”；造无限圆石粉碎，听起来好像比无限熔岩更cheating）
+		- 钓鱼机（初衷是不找村民的情况下搞附魔书，顺带还有经验，但经验相比蠹虫机效率低不少）
+			- [钓鱼 - Minecraft Wiki，最详细的我的世界百科](https://minecraft.fandom.com/zh/wiki/%E9%92%93%E9%B1%BC)
+			- [[教程]1.19宝藏钓鱼机_我的世界_教程](https://www.bilibili.com/video/BV13W4y137o5)
+			- [【MCJE 1.19+】终于回到了你忠诚可靠的全自动钓鱼机！（附保姆级教程）_哔哩哔哩bilibili_Minecraft](https://www.bilibili.com/video/BV1DB4y11713)
+			- [[机械动力] 全自动钓鱼机，但是占地更小并且全方向_哔哩哔哩bilibili_我的世界](https://www.bilibili.com/video/BV1b8411N7K9)
 - 目前的成熟工艺
 	- 不用管
 		- 蒸汽锅炉（一般就是应力最低、不加燃料的被动状态，再加点东西小厂会停，可能弄个压力板、绊线钩什么的人在时加一点燃料会比较有性价比）
 			- [工业革命-制造你的蒸汽机 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/2437.html)
-		- 村庄内的传送带和弹射置物台线路
+		- 村庄内的传送带（加了红石控制临时反向的反向齿轮箱）和弹射置物台线路
 			- [跳板交通_单机游戏热门视频](https://www.bilibili.com/video/BV1Tz4y1q7o2)
 	- 手动（可能用量暂时不大）
-	  collapsed:: true
 		- 采矿
 		  collapsed:: true
 			- 因为 ((662f0b28-8805-4f68-bc72-1d04d45e1821)) ，所以结合此采矿方法，是 ((6630a688-b8ae-4de4-a9ba-e47b70762a08)) 做出来前较快的经验获取方式
@@ -213,7 +215,6 @@
 				- [农夫乐事国创附属！料理乐事！在MC里沉浸式炒菜！——你一定没玩过的模组介绍_我的世界](https://www.bilibili.com/video/BV12a4y1R7gg)
 		- [旅行者背包 (Traveler's Backpack) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1732.html)
 		  id:: 66335bd1-b6be-4ba0-844f-3cd54646c300
-		  collapsed:: true
 			- “背包中背包，BOB”
 			- 可能是在起点附近做床时发现单独三个羊毛就能做睡袋，之后做了出来
 			- 注意留意背上背包后打开背包的按键（我的是“,”），别（在外面睡了一觉收睡袋后）背上后找不到了
