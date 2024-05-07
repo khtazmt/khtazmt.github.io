@@ -193,13 +193,17 @@
 			- 查看方块会显示需要用什么工具采集，用错了大力出奇迹就没了
 			- “？天天鉴宝是吧？”
 		- [[IPN]一键背包整理Next (Inventory Profiles Next) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/4104.html)
+		  collapsed:: true
 			- 除了几种整理功能外，最显眼的是自动换更高耐久的装备，没有的话会跳“IPN警告”
 		- [传送石碑/指路石 (Waystones) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1339.html)
+		  collapsed:: true
 			- ((662e5b99-edbc-4a6e-82a3-951482ff4146))
 		- [别样家具 (Another Furniture) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/7201.html)
-			- 村里小屋里是有一些可能是服主布置的
+		  collapsed:: true
+			- 村里小屋里不少服主布置的
 		- [农夫乐事 (Farmer's Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2820.html)
 		  id:: 66332ea7-bcb1-4c93-b0ab-e822ad7b3a85
+		  collapsed:: true
 			- 也是个大模组，有刀、可以做绳子（可以攀爬、缓降，可以潜行向上搭建，比梯子和方块灵活，可做防坠的、可配合弹射置物台和向上搭建且从底部回收的绳子使用的安全网，可以代替黏液球做栓绳，总之就是好用）的草秆
 				- [绳子 (Rope) - 农夫乐事 (Farmer's Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/382018.html)
 			- [食物 - 物品/方块 - 农夫乐事 (Farmer's Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/list/2820-1-173073.html)
@@ -209,6 +213,7 @@
 				- [农夫乐事国创附属！料理乐事！在MC里沉浸式炒菜！——你一定没玩过的模组介绍_我的世界](https://www.bilibili.com/video/BV12a4y1R7gg)
 		- [旅行者背包 (Traveler's Backpack) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1732.html)
 		  id:: 66335bd1-b6be-4ba0-844f-3cd54646c300
+		  collapsed:: true
 			- “背包中背包，BOB”
 			- 可能是在起点附近做床时发现单独三个羊毛就能做睡袋，之后做了出来
 			- 注意留意背上背包后打开背包的按键（我的是“,”），别（在外面睡了一觉收睡袋后）背上后找不到了
@@ -223,9 +228,11 @@
 				- [旅行者背包新添加的扩容功能概述 - 旅行者背包 (Traveler's Backpack) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/3157.html)
 		- ==[[REI]REI物品管理器 (Roughly Enough Items) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1674.html)==
 		  id:: 662e5fb2-0f11-4db5-9af0-5fc1df62118f
+		  collapsed:: true
 			- ((662e5aa4-d3fd-46f0-958c-2bfb9cb55b49))
 		- [连锁挖掘 (Diggus Maximus) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/3080.html)
 		  id:: 662e68f9-0526-4b64-8feb-8ae59a59982c
+		  collapsed:: true
 			- 按住“1/!”左边的“·/~”挖掘
 			- “原来如此，看服主这么挖的，但还是想‘啊？’一下”
 		- 不太容易“看”到的
