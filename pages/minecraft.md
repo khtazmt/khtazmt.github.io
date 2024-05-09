@@ -1,7 +1,6 @@
 - （我的）待办
 	- 铜背罐（“附了荆棘，没注意爆了，烈焰人集群加上断头路爽爽爽爽”）
 	- 工业
-	  collapsed:: true
 		- 熔岩运输（完成烈焰蛋糕产线，作土豆加农炮弹药，不然玩得少舀岩浆或烧别的燃料也差不多够用）
 		  id:: 6638490c-2564-442e-a5b2-fc7f0d0a5af2
 			- [汲取行星核心 - 机械师熔岩搬运指南 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/1930.html)
@@ -10,7 +9,7 @@
 			- 列车线路
 				- [机械动力：简单列车 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/3512.html)
 				- 依次铺轨道、放列车站、组装列车（轨道要够长，才能出现蓝色高亮轨道；列车机壳、驾驶台、坐垫，强力胶至少粘个坐垫，“组装”），右击驾驶台可以开，右击坐垫可以坐上去，鼠标滚轮调速，空格停靠前方车站
-				- 目前用强力胶往列车上粘液体储罐，驶离时液体管道让它淌，之后可能用移动液体接口（目前是用了，很方便呐，出站就用管道运输，我当时可能还想着把列车直接开到蒸汽机面前捏）
+				- 目前用强力胶往列车上粘液体储罐，驶离时液体管道让它淌，之后可能用移动液体接口（目前是用了，很方便呐，出站就如此接地下管道运输，我当时可能还想着把列车直接开到蒸汽机面前捏）
 				- 服务器崩溃维修
 					- 可能是传送门窄了
 					- [Server crashes on player join due to invalid carriage_contraption position (NaN, NaN, NaN) · Issue #4392 · Creators-of-Create/Create · GitHub](https://github.com/Creators-of-Create/Create/issues/4392)
@@ -402,6 +401,8 @@
 			  id:: 66323ba2-b94d-4603-87d0-30dd5381e10e
 				- “哇，你的房子好大诶！”
 					- “唉呀呀几天不见变化真大！你又新造了好多大机器欸！”
+				- 看别人干活（“是这样的，每个人的施工想法不尽相同”）
+					- “I looked”（游戏《The Looker》）
 			- 公有制
 			  collapsed:: true
 				- 断开连接
