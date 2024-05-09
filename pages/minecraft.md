@@ -1,27 +1,44 @@
 - （我的）待办
-	- 铜背罐
-	- 列车信号表、司机
-	- 复盘服务器崩溃维修
-		- [Server crashes on player join due to invalid carriage_contraption position (NaN, NaN, NaN) · Issue #4392 · Creators-of-Create/Create · GitHub](https://github.com/Creators-of-Create/Create/issues/4392)
-		- [Minecraft 文件结构介绍 - [MC]我的世界原版 (Minecraft) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/84.html)
-		- [Java版世界格式 - Minecraft Wiki，最详细的我的世界百科](https://minecraft.fandom.com/zh/wiki/Java%E7%89%88%E4%B8%96%E7%95%8C%E6%A0%BC%E5%BC%8F)
-		- [实体格式 - Minecraft Wiki，最详细的我的世界百科](https://minecraft.fandom.com/zh/wiki/%E5%AE%9E%E4%BD%93%E6%A0%BC%E5%BC%8F)
-	- 抽熔岩（完成烈焰蛋糕产线，作土豆加农炮弹药，不然玩得少舀岩浆或烧别的燃料也差不多够用）
-	  id:: 6638490c-2564-442e-a5b2-fc7f0d0a5af2
-		- 喝抗火药水，下熔岩湖，靠岸另造了重定向到矿道下界门的下界门，抽上了，接下来是列车
-		- 列车线路
-			- [机械动力：简单列车 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/3512.html)
-			- 依次铺轨道、放列车站、组装列车（轨道要够长，才能出现蓝色高亮轨道；列车机壳、驾驶台、坐垫，“组装”），右击驾驶台可以开，右击坐垫可以坐上去，鼠标滚轮调速，空格停靠前方车站
-			- 目前用强力胶往列车上粘液体储罐，驶离时液体管道让它淌，之后可能用移动液体接口
-		- [汲取行星核心 - 机械师熔岩搬运指南 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/1930.html)
-			- >0.5之后可以直接用火车载储罐，会快不少
-	- 产线合并（机械手：机壳、磨制玫瑰石英、精密构件、列车轨道；动力辊压机：坚固板；注液器：坚固板、烈焰蛋糕、药水）
-		- 传送带加速
+	- 铜背罐（“附了荆棘，没注意爆了，烈焰人集群加上断头路爽爽爽爽”）
+	- 工业
+	  collapsed:: true
+		- 熔岩运输（完成烈焰蛋糕产线，作土豆加农炮弹药，不然玩得少舀岩浆或烧别的燃料也差不多够用）
+		  id:: 6638490c-2564-442e-a5b2-fc7f0d0a5af2
+			- [汲取行星核心 - 机械师熔岩搬运指南 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/1930.html)
+				- >0.5之后可以直接用火车载储罐，会快不少
+				- 喝抗火药水，下熔岩湖，靠岸另造了重定向到矿道（目前是风车背后的）下界门的下界门，抽上了，接下来是列车
+			- 列车线路
+				- [机械动力：简单列车 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/3512.html)
+				- 依次铺轨道、放列车站、组装列车（轨道要够长，才能出现蓝色高亮轨道；列车机壳、驾驶台、坐垫，强力胶至少粘个坐垫，“组装”），右击驾驶台可以开，右击坐垫可以坐上去，鼠标滚轮调速，空格停靠前方车站
+				- 目前用强力胶往列车上粘液体储罐，驶离时液体管道让它淌，之后可能用移动液体接口（目前是用了，很方便呐，出站就用管道运输，我当时可能还想着把列车直接开到蒸汽机面前捏）
+				- 服务器崩溃维修
+					- 可能是传送门窄了
+					- [Server crashes on player join due to invalid carriage_contraption position (NaN, NaN, NaN) · Issue #4392 · Creators-of-Create/Create · GitHub](https://github.com/Creators-of-Create/Create/issues/4392)
+					- [Minecraft 文件结构介绍 - [MC]我的世界原版 (Minecraft) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/84.html)
+					- [Java版世界格式 - Minecraft Wiki，最详细的我的世界百科](https://minecraft.fandom.com/zh/wiki/Java%E7%89%88%E4%B8%96%E7%95%8C%E6%A0%BC%E5%BC%8F)
+					- [实体格式 - Minecraft Wiki，最详细的我的世界百科](https://minecraft.fandom.com/zh/wiki/%E5%AE%9E%E4%BD%93%E6%A0%BC%E5%BC%8F)
+			- 列车自动化
+				- 列车时刻表（时间或装满红石信号，存量转信器？）、司机（烈焰人燃烧室）
+			- 蒸汽笛（“污污污~”）
+			- 投币上车
+		- 动力升级
+		  collapsed:: true
+			- 烈焰人燃烧室
+			- 烈焰蛋糕自动填充（机械臂）
+		- 产线合并（机械手：机壳、磨制玫瑰石英、精密构件、列车轨道；动力辊压机：金属板、坚固板；注液器：坚固板、烈焰蛋糕、药水）
+		  collapsed:: true
+			- 主轴/传送带加速
+			- 侦测来料自动切换配套材料/调整产线（手动调过滤器让来料从容器输出，或者再加个产品“菜单”？——“得了，你全生产完不就完事了，哪用得着那么多”）
+			- 完工提醒（连续物品输入后没有新的物品输入；列车状态信息好像能打在公屏上？——“疑似有点小题大做了”；“感觉不至于这么慢，‘思索’一下早完工了”）
 	- 战斗
 		- 村庄高架武装运输线路（应对“不祥之兆”效果引发的“袭击”事件中不同波次敌人出现在不同位置，快速投送武装力量，同时够高敌人碰不到——不搞也能打，主要是提升一下虐菜体验——“疑似有点小题大做了”）
 			- 列车能直接撞的话更好，兜圈车轮战也许也行
-		- 不卡时多人打袭击（“先把村民封控了”）
+		- 不卡时多人打袭击（“先把村民封控了”；“只有一位村庄英雄？”）
 		- 进度：烂番茄扔劫掠者
+	- 比赛
+		- 信号灯
+		- “蜘蛛背包杯攀树/竹/岩”（可能带跳板；检测玩家物品栏；圈地检测提前进入）
+		- “炽足兽接力”
 	- {{embed ((66379dcd-4044-4bcf-aca4-8be7638c5bce))}}
 	- 不确定要不要办的
 		- 刷金机（“射金胡萝卜”；造无限圆石粉碎，听起来好像比无限熔岩更cheating）
@@ -74,8 +91,7 @@
 			- “集束云杉树是吧？”
 			- ((662e68f9-0526-4b64-8feb-8ae59a59982c))
 		- 动力收割机组（可能为了美观在地下传动；旋转或直线往复；“土豆不够，怎么打得好袭击？”）或矿车
-		- 沃土（“有机肥料”堆肥；“大田产能差不多够了，收割几下大箱子就满了”）
-		  collapsed:: true
+		- 沃土（“有机肥料”堆肥；“大田产能差不多够了，收割几下大箱子就满了”——“大好的粮食蔬菜也能用来堆肥是吧？”）
 			- [沃土 (Rich Soil) - 农夫乐事 (Farmer's Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/382016.html)
 		- 农夫乐事的煎锅
 		  collapsed:: true
@@ -131,6 +147,7 @@
 				- 吹岩浆冶炼金属
 				- 吹水洗矿（粉碎矿石到对应的粒，省得冶炼了，很多装配直接用粒；洗锌出火药）
 - “回归教程”
+  collapsed:: true
 	- “麦块常识”
 	  collapsed:: true
 		- e打开背包（“你在怀疑什么？”）
