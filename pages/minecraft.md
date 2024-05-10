@@ -2,44 +2,52 @@
 	- ((6636e4f0-63d2-44dc-a30e-c3cf71c2fcd0))
 		- ![Minecraft.drawio.svg](../assets/Minecraft.drawio_1715337603306_0.svg){:height 417, :width 697}
 		  id:: 663dba34-272f-458f-bd2f-334b1f9ac712
+	- 建筑设计
+		- [I Built a Minecraft House Using a Real Architecture Software (Auto CAD) - YouTube](https://www.youtube.com/watch?v=EN2d-_wRdZ4)（AutoCAD设计好，然后打印出来对照着在游戏里搭建）
+		- [（MC教程向）我的世界如何快速建造大型建筑 3D模型导入技巧介绍 - 哔哩哔哩](https://www.bilibili.com/read/cv7393875/)
+		- [Exporting Minecraft data from AutoCAD - Through the Interface](https://www.keanw.com/2014/09/exporting-minecraft-data-from-autocad.html)
 	- 工业
-	  collapsed:: true
 		- 动力升级
-		  collapsed:: true
 			- 烈焰人燃烧室
 			- 烈焰蛋糕自动填充（机械臂）
-		- 盾构机或刷石机
-			- 好的话可能做 ((6638490c-0dab-409e-a870-2e89d0428db9))
-		- 产线合并（机械手：机壳、磨制玫瑰石英、精密构件、列车轨道；动力辊压机：金属板、坚固板；注液器：坚固板、烈焰蛋糕、药水）
-			- 主轴/传送带加速
-			- 漏斗过滤烈焰蛋糕材料，蛋糕胚直送注液器
-			- 侦测来料自动切换配套材料/调整产线（手动调过滤器让来料从容器输出，或者再加个产品“菜单”？——“得了，你全生产完不就完事了，哪用得着那么多”）
-			- 完工提醒（连续物品输入后没有新的物品输入；列车状态信息好像能打在公屏上？——“疑似有点小题大做了”；“感觉不至于这么慢，‘思索’一下早完工了”）
-		- Scalable
-		- 投币上车
+			  collapsed:: true
+				- ![brave_TsFee0kVHT.png](../assets/brave_TsFee0kVHT_1715345488040_0.png)
+				- 工作盆积压不工作
+					- 暂时继续叠巨无霸加溜槽箱子漏斗
+			- TODO 烈焰蛋糕胚
+			  collapsed:: true
+				- 鸡蛋自动收集运输（传送带加个反向）
+				- 工作盆积压不工作
+		- 列车蒸汽笛（到站提醒）
 	- 农业
-	  collapsed:: true
+		- 收割后运输到堆肥桶（“大好的粮食蔬菜也能用来堆肥是吧？”）
+		- 蜂蜜
+			- 蜂箱
 		- 马
 			- 马食
-		- 收割后运输到堆肥桶（“大好的粮食蔬菜也能用来堆肥是吧？”）
-		- 食材输入厨柜、厨锅自动生产
-		- 蜂蜜
 		- {{embed ((66379dcd-4044-4bcf-aca4-8be7638c5bce))}}
-	- 战斗（“兵是吧？”）
-	  collapsed:: true
+	- 军事
 		- 村庄高架武装运输线路（应对“不祥之兆”效果引发的“袭击”事件中不同波次敌人出现在不同位置，快速投送武装力量，同时够高敌人碰不到——不搞也能打，主要是提升一下虐菜体验——“疑似有点小题大做了”）
 			- 列车能直接高速撞的话更好，兜圈车轮战也许也行
-			- 音乐列车（“音乐餐厅”；唱片机即可）
 		- 一起打袭击（“先把村民封控了”；“只有一位村庄英雄？”）
 		- 进度：烂番茄扔劫掠者
-		- 找末地门
-			- 一起打龙
+		- 一起打龙（找末地门）
 	- 比赛
-	  collapsed:: true
-		- 信号灯
+		- 信号灯、门禁
 		- “蜘蛛背包杯攀树/竹/岩”（可能带跳板；检测玩家物品栏；圈地检测提前进入）
 		- “炽足兽接力”
 	- 不确定要不要办的
+		- 音乐列车（“音乐餐厅”；唱片机即可；也可能代替蒸汽笛作为到站提醒等？）
+		- 投币上（列）车
+		- 产线合并（机械手：机壳、磨制玫瑰石英、精密构件、列车轨道；动力辊压机：金属板、坚固板；注液器：坚固板、烈焰蛋糕、药水）
+		  collapsed:: true
+			- “机壳不少，拆了不少，但还能跑，扫雷我呢！”——“压缩比扩张难办啊”
+			- 主轴/传送带加速
+			- 侦测来料自动切换配套材料/调整产线（手动调过滤器让来料从容器输出，或者再加个产品“菜单”？——“得了，你全生产完不就完事了，哪用得着那么多”）
+			- 完工提醒（连续物品输入后没有新的物品输入；列车状态信息好像能打在公屏上？——“疑似有点小题大做了”；“感觉不至于这么慢，‘思索’一下早完工了”）
+		- 食材输入厨柜、厨锅自动烹饪（“疑似有点自动化了”）
+		- 盾构机或刷石机
+			- 好的话可能做 ((6638490c-0dab-409e-a870-2e89d0428db9))
 		- 刷金机（“射金胡萝卜”；造无限圆石粉碎，听起来好像比无限熔岩更cheating）
 		  id:: 6638490c-0dab-409e-a870-2e89d0428db9
 		- 钓鱼机（初衷是不找村民的情况下搞附魔书，顺带还有经验，但经验相比蠹虫机效率低不少）
@@ -48,10 +56,6 @@
 			- [[教程]1.19宝藏钓鱼机_我的世界_教程](https://www.bilibili.com/video/BV13W4y137o5)
 			- [【MCJE 1.19+】终于回到了你忠诚可靠的全自动钓鱼机！（附保姆级教程）_哔哩哔哩bilibili_Minecraft](https://www.bilibili.com/video/BV1DB4y11713)
 			- [[机械动力] 全自动钓鱼机，但是占地更小并且全方向_哔哩哔哩bilibili_我的世界](https://www.bilibili.com/video/BV1b8411N7K9)
-		- 建筑设计
-			- [I Built a Minecraft House Using a Real Architecture Software (Auto CAD) - YouTube](https://www.youtube.com/watch?v=EN2d-_wRdZ4)（AutoCAD设计好，然后打印出来对照着在游戏里搭建）
-			- [（MC教程向）我的世界如何快速建造大型建筑 3D模型导入技巧介绍 - 哔哩哔哩](https://www.bilibili.com/read/cv7393875/)
-			- [Exporting Minecraft data from AutoCAD - Through the Interface](https://www.keanw.com/2014/09/exporting-minecraft-data-from-autocad.html)
 - 目前的成熟工艺
 	- 不用管
 	  collapsed:: true
@@ -157,7 +161,6 @@
 				- 各种机壳
 					- 去皮原木放在机械手下的置物台上，用对应的材料锭右键机械手
 	- 手动放入容器（有箱子/木桶、漏斗/溜槽，还没运输矿车）
-	  collapsed:: true
 		- 精密构件产线（目前是用弹射置物台循环，也确实够了）
 			- [工程师的优雅设计：精密构件、4倍速加工、锅炉、刷石机 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/3892.html)
 		- ==作业元件==
