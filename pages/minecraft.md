@@ -7,16 +7,15 @@
 		  id:: 663f0c3c-8834-4555-a10d-e0f87d14d26a
 	- 烈焰人背包（“日常”）
 	- 工业
+		- 多合一1mB喷药机
+			- [【【Create机械动力】适用于生存玩家的机械动力小技巧】 【精准空降到 04:04】](https://www.bilibili.com/video/BV1Pp4y1E7Wy/?share_source=copy_web&vd_source=24175964b0df2fcc2c022cae23517fdc&t=244)
 		- 动力升级
 			- 烈焰蛋糕胚
 				- 鸡蛋自动收集运输（进一步压缩，传送带加个反向；目前方案：水车传送带弹射置物台）
 				- TODO 工作盆积压不工作（“多漏了N组，蛋”）
 					- 侦测器？
 					- 多出来的鸡蛋、甘蔗堆肥（“鸡蛋堆出来一堆小鸡是吧？”）或储存
-		- 多合一1mb喷药机（再生、速度）
-			- [【【Create机械动力】适用于生存玩家的机械动力小技巧】 【精准空降到 04:04】](https://www.bilibili.com/video/BV1Pp4y1E7Wy/?share_source=copy_web&vd_source=24175964b0df2fcc2c022cae23517fdc&t=244)
 	- 村北新区规划
-	  collapsed:: true
 		- 娱乐、比赛
 			- 信号灯、门禁
 			- “闯关节目”（“机械动力，启动！”）
@@ -97,7 +96,6 @@
 			- [跳板交通_单机游戏热门视频](https://www.bilibili.com/video/BV1Tz4y1q7o2)
 		- 熔岩运输（完成烈焰蛋糕产线，作土豆加农炮弹药——“有三倍伤害、秒杀小怪的烈焰蛋糕谁还射土豆？”）
 		  id:: 6638490c-2564-442e-a5b2-fc7f0d0a5af2
-		  collapsed:: true
 			- [汲取行星核心 - 机械师熔岩搬运指南 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/1930.html)
 			  collapsed:: true
 				- >0.5之后可以直接用火车载储罐，会快不少
@@ -114,12 +112,13 @@
 					- [Java版世界格式 - Minecraft Wiki，最详细的我的世界百科](https://minecraft.fandom.com/zh/wiki/Java%E7%89%88%E4%B8%96%E7%95%8C%E6%A0%BC%E5%BC%8F)
 					- [实体格式 - Minecraft Wiki，最详细的我的世界百科](https://minecraft.fandom.com/zh/wiki/%E5%AE%9E%E4%BD%93%E6%A0%BC%E5%BC%8F)
 			- 列车自动化
-			  collapsed:: true
 				- 列车时刻表（时间或装满红石信号，存量转信器？）、司机（烈焰人燃烧室）
 				- ![brave_VIh8JqzMJY.png](../assets/brave_VIh8JqzMJY_1715268547887_0.png)
+				  collapsed:: true
 					- “啊？（好不容易铺了大半圈还没整明白的环形轨道白铺了？）”
 					- ![brave_8iac2FzuWe.png](../assets/brave_8iac2FzuWe_1715268791587_0.png)
 					- 同时列车站的方向要相反，都是列车往返的前进方向
+				- TODO 玩家不进下界门，相关区块就不加载、列车就不输入熔岩
 		- 布谷鸟闹钟（“晚安闹钟”：“刷幻翼固然可以陶冶情操，同时精进射术，但早睡早起带来的优质照明条件更有利于工作的开展”）
 	- 手动（可能用量暂时不大）
 		- 旅行者背包
@@ -220,7 +219,6 @@
 				- 吹水洗矿（粉碎矿石到对应的粒，省得冶炼了，很多装配直接用粒；洗锌出火药）
 	- 自动（两个及以上环节相连，比如鸡下蛋后自动运输到动力辊压机下的工作盆，和同样运输过来的先在粉碎轮加工过的糖和余烬面粉被压成烈焰蛋糕胚，然后注液器“裱花”熔岩得成品烈焰蛋糕）
 - “回归教程”
-  collapsed:: true
 	- “麦块常识”
 	  collapsed:: true
 		- e打开背包（“你在怀疑什么？”）
@@ -299,8 +297,8 @@
 			- 查看方块会显示需要用什么工具采集，用错了大力出奇迹就没了
 			- “？天天鉴宝是吧？”
 		- [[IPN]一键背包整理Next (Inventory Profiles Next) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/4104.html)
-		  collapsed:: true
 			- 除了几种整理功能外，最显眼的是自动换更高耐久的装备，没有的话会跳“IPN警告”
+			- 在任意界面，左上角会有它的两个按钮（“看不懂是吧？”）
 		- [传送石碑/指路石 (Waystones) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1339.html)
 		  collapsed:: true
 			- ((662e5b99-edbc-4a6e-82a3-951482ff4146))
@@ -333,8 +331,8 @@
 				- [旅行者背包新添加的扩容功能概述 - 旅行者背包 (Traveler's Backpack) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/3157.html)
 		- ==[[REI]REI物品管理器 (Roughly Enough Items) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1674.html)==
 		  id:: 662e5fb2-0f11-4db5-9af0-5fc1df62118f
-		  collapsed:: true
 			- ((662e5aa4-d3fd-46f0-958c-2bfb9cb55b49))
+			- 下部有搜索框（“我之前好像有努力找过，但是疑似没看到？”）
 		- [连锁挖掘 (Diggus Maximus) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/3080.html)
 		  id:: 662e68f9-0526-4b64-8feb-8ae59a59982c
 		  collapsed:: true
