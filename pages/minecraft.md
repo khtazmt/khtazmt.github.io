@@ -9,18 +9,18 @@
 	- 工业
 		- 多合一1mB喷药机
 			- [【【Create机械动力】适用于生存玩家的机械动力小技巧】 【精准空降到 04:04】](https://www.bilibili.com/video/BV1Pp4y1E7Wy/?share_source=copy_web&vd_source=24175964b0df2fcc2c022cae23517fdc&t=244)
-		- 动力升级
-			- 烈焰蛋糕胚
-				- 鸡蛋自动收集运输（进一步压缩，传送带加个反向；目前方案：水车传送带弹射置物台）
-				- TODO 工作盆积压不工作（“多漏了N组，蛋”）
-					- 多出来的鸡蛋、甘蔗堆肥（“鸡蛋堆出来一堆小鸡是吧？”）或储存
-					- 机械臂（“拿拿拿”）
 	- 村北新区规划
-	  collapsed:: true
+		- 农业
+			- 蜂蜜
+				- 蜂巢或蜂箱正面不能（用流体管道等）堵上，不然蜜蜂和蜂蜜都出不来
+			- 马
+				- 马食
+			- {{embed ((66379dcd-4044-4bcf-aca4-8be7638c5bce))}}
 		- 娱乐、比赛
 			- 信号灯、门禁
 			- “闯关节目”（“机械动力，启动！”）
 				- [哔哩哔哩向前冲我的世界向前冲！-综艺-全集-高清独家在线观看-bilibili-哔哩哔哩](https://www.bilibili.com/bangumi/play/ep676167)（疑似有点平淡）
+			- 溜冰？
 			- （“蜘蛛背包杯”）攀树/竹/岩（可能带跳板；检测玩家物品栏；圈地检测提前进入）
 			- 怪兽公园（“？我的世界不早就是这样了么？”）
 			- 跳板蹦床公园（垂直传送带、弹射置物台、安全网）
@@ -36,12 +36,6 @@
 					- 泥头车？武装列车？观光车？过山车？
 				- 音乐列车（“音乐餐厅”；唱片机即可；也可能代替蒸汽笛作为到站提醒等？）
 				- 投币上（列）车
-		- 农业
-			- 蜂蜜
-				- 蜂箱
-			- 马
-				- 马食
-			- {{embed ((66379dcd-4044-4bcf-aca4-8be7638c5bce))}}
 	- 建筑设计
 		- [I Built a Minecraft House Using a Real Architecture Software (Auto CAD) - YouTube](https://www.youtube.com/watch?v=EN2d-_wRdZ4)（AutoCAD设计好，然后打印出来对照着在游戏里搭建）
 		- [（MC教程向）我的世界如何快速建造大型建筑 3D模型导入技巧介绍 - 哔哩哔哩](https://www.bilibili.com/read/cv7393875/)
@@ -59,6 +53,11 @@
 			- 共用设备
 				- 动力搅拌机：安山合金（安山岩、锌粒/铁粒）、黄铜锭（铜锭、锌锭）
 				- 动力辊压机：金属板（金属锭）、坚固板
+					- 烈焰蛋糕胚
+						- 鸡蛋自动收集运输（进一步压缩，传送带加个反向；目前方案：水车传送带弹射置物台）
+						- 漏斗狂漏，工作盆积压不工作（“多漏了N组，蛋”）
+							- 漏斗（一个个慢慢漏，这下步调一致了）
+							- TODO 机械臂（“拿拿拿”）
 				- 机械手：机壳（金属锭、坚固板）、磨制玫瑰石英（砂纸）、精密构件（齿轮、大齿轮、铁粒）、列车轨道（铁粒*2）
 				- 注液器
 					- 熔岩：坚固板、烈焰蛋糕
@@ -89,7 +88,9 @@
 			- [【MCJE 1.19+】终于回到了你忠诚可靠的全自动钓鱼机！（附保姆级教程）_哔哩哔哩bilibili_Minecraft](https://www.bilibili.com/video/BV1DB4y11713)
 			- [[机械动力] 全自动钓鱼机，但是占地更小并且全方向_哔哩哔哩bilibili_我的世界](https://www.bilibili.com/video/BV1b8411N7K9)
 - 目前的成熟工艺
+  collapsed:: true
 	- 不用管
+	  collapsed:: true
 		- 蒸汽锅炉
 			- 红竖线是相对其他参数缺的（当前实际需求可能不缺）
 			- 如果锅炉应力大于应力表中的“网络应力”，那就是一个蒸汽机不够把锅炉的应力发生量用完
@@ -98,6 +99,7 @@
 			- [跳板交通_单机游戏热门视频](https://www.bilibili.com/video/BV1Tz4y1q7o2)
 		- 熔岩运输（完成烈焰蛋糕产线，作土豆加农炮弹药——“有三倍伤害、秒杀小怪的烈焰蛋糕谁还射土豆？”）
 		  id:: 6638490c-2564-442e-a5b2-fc7f0d0a5af2
+		  collapsed:: true
 			- [汲取行星核心 - 机械师熔岩搬运指南 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/1930.html)
 			  collapsed:: true
 				- >0.5之后可以直接用火车载储罐，会快不少
@@ -114,6 +116,7 @@
 					- [Java版世界格式 - Minecraft Wiki，最详细的我的世界百科](https://minecraft.fandom.com/zh/wiki/Java%E7%89%88%E4%B8%96%E7%95%8C%E6%A0%BC%E5%BC%8F)
 					- [实体格式 - Minecraft Wiki，最详细的我的世界百科](https://minecraft.fandom.com/zh/wiki/%E5%AE%9E%E4%BD%93%E6%A0%BC%E5%BC%8F)
 			- 列车自动化
+			  collapsed:: true
 				- 列车时刻表（时间或装满红石信号，存量转信器？）、司机（烈焰人燃烧室）
 				- ![brave_VIh8JqzMJY.png](../assets/brave_VIh8JqzMJY_1715268547887_0.png)
 				  collapsed:: true
@@ -197,6 +200,7 @@
 				- 各种机壳
 					- 去皮原木放在机械手下的置物台上，用对应的材料锭右键机械手
 	- 手动放入容器（有箱子/木桶、漏斗/溜槽，还没运输矿车）
+	  collapsed:: true
 		- 精密构件产线（目前是用弹射置物台循环，也确实够了）
 			- [工程师的优雅设计：精密构件、4倍速加工、锅炉、刷石机 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/3892.html)
 		- ==作业元件==
@@ -221,6 +225,7 @@
 				- 吹水洗矿（粉碎矿石到对应的粒，省得冶炼了，很多装配直接用粒；洗锌出火药）
 	- 自动（两个及以上环节相连，比如鸡下蛋后自动运输到动力辊压机下的工作盆，和同样运输过来的先在粉碎轮加工过的糖和余烬面粉被压成烈焰蛋糕胚，然后注液器“裱花”熔岩得成品烈焰蛋糕）
 - “回归教程”
+  collapsed:: true
 	- “麦块常识”
 		- e打开背包（“你在怀疑什么？”）
 		- q扔东西
@@ -299,6 +304,7 @@
 			- 查看方块会显示需要用什么工具采集，用错了大力出奇迹就没了
 			- “？天天鉴宝是吧？”
 		- [[IPN]一键背包整理Next (Inventory Profiles Next) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/4104.html)
+		  collapsed:: true
 			- 除了几种整理功能外，最显眼的是自动换更高耐久的装备，没有的话会跳“IPN警告”
 			- 在任意界面，左上角会有它的两个按钮（“看不懂是吧？”）
 		- [传送石碑/指路石 (Waystones) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1339.html)
@@ -333,10 +339,12 @@
 				- [旅行者背包新添加的扩容功能概述 - 旅行者背包 (Traveler's Backpack) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/3157.html)
 		- ==[[REI]REI物品管理器 (Roughly Enough Items) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1674.html)==
 		  id:: 662e5fb2-0f11-4db5-9af0-5fc1df62118f
+		  collapsed:: true
 			- ((662e5aa4-d3fd-46f0-958c-2bfb9cb55b49))
 			- 下部有搜索框（“我之前好像有努力找过，但是疑似没看到？”）
 		- [连锁挖掘 (Diggus Maximus) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/3080.html)
 		  id:: 662e68f9-0526-4b64-8feb-8ae59a59982c
+		  collapsed:: true
 			- 按住“1/!”左边的“·/~”挖掘，同时按住左键和W键前进即可
 			- “原来如此，看服主这么挖的，但还是想‘啊？’一下”
 		- 不太容易“看”到的
