@@ -5,7 +5,6 @@
 		  id:: 663dba34-272f-458f-bd2f-334b1f9ac712
 		- ![Minecraft.drawio (1).svg](../assets/Minecraft.drawio_(1)_1715407941082_0.svg)
 		  id:: 663f0c3c-8834-4555-a10d-e0f87d14d26a
-	- 马食
 	- 快速装卸（换蒸汽锅炉）
 	  id:: 6641cc28-a94f-4c3a-8f9e-2292816c480c
 	- 电梯/塔吊
@@ -18,7 +17,6 @@
 			- 信号灯（“比赛开始！”）、门禁（有时需要防止玩家提前训练）、玩家物品检测（弹药量等）
 		- 移动（动态结构）的方式
 		  id:: 6640e3d7-e99c-4fcc-8469-444efb5229eb
-		  collapsed:: true
 			- （“用鼠标和键盘移动玩家”）
 			- [Create机械动力 详细教程 Part 4a 移动装置_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1A54y1R7dh)
 			- 绳索滑轮（垂直直线）
@@ -26,6 +24,7 @@
 					- ![brave_Y8QsEhyzMH.png](../assets/brave_Y8QsEhyzMH_1715587430465_0.png)
 			- 起重机（水平直线，包括x轴、z轴）
 			- 动力轴承/风车轴承（旋转）
+			- 转换锁存器
 			- 离合器（不操作时断开动力不移动）
 				- ![brave_TFc2cBNasD.png](../assets/brave_TFc2cBNasD_1715587480550_0.png)
 			- 反转齿轮箱（操作时切换方向，与离合器单向绑定？）
@@ -36,10 +35,7 @@
 			  id:: 6641cc8f-9dd8-4a1a-857c-a2ff27e5fc6e
 			- ((6640a8b9-6e41-4bb3-b1db-b16a9af18687))（“人动靶动”）
 		- “不用管”
-		  collapsed:: true
 			- 列车（可设置行驶路线的动态结构）
-			  collapsed:: true
-				- 蒸汽笛（到站提醒，也是“进度让装的”——似乎要有含水而非熔岩的液体储罐才能在组装后正常运行？另外组装辆列车在同一路线上跑撞车麻烦）
 				- 物品保险库
 				- 安全网（“跳到行驶中的列车上”）
 				- 轨道过剩（“进度让生产的”）
@@ -48,7 +44,6 @@
 				- 投币上（列）车
 				- “地铁跑酷”
 		- 遥控
-		  collapsed:: true
 			- 射击场（“FPS移动靶训练是吧？”；标准版本的设计和施工量相对较小，因为“架空”）
 			  id:: 6640a8b9-c4b9-4e42-9068-aab9a1026431
 			  collapsed:: true
@@ -73,6 +68,8 @@
 			- 砍树开山机（还可破坏其他结构）
 			  collapsed:: true
 				- ((6640ea56-6de8-454e-bdba-f48d5f02613c))
+			- 放置/空投TNT
+			- 发射/反弹火焰弹
 		- （需要）玩家自己移动
 		  collapsed:: true
 			- “玩家不会飞，所以可移动的点位少不了”
@@ -86,12 +83,14 @@
 			  collapsed:: true
 				- 属于是到达一个地方的玩法，但是何必到达一个地方？
 				- [哔哩哔哩向前冲我的世界向前冲！-综艺-全集-高清独家在线观看-bilibili-哔哩哔哩](https://www.bilibili.com/bangumi/play/ep676167)（疑似有点平淡）
+	- 马食
 	- {{embed ((66379dcd-4044-4bcf-aca4-8be7638c5bce))}}
 	- 建筑设计
 		- [I Built a Minecraft House Using a Real Architecture Software (Auto CAD) - YouTube](https://www.youtube.com/watch?v=EN2d-_wRdZ4)（AutoCAD设计好，然后打印出来对照着在游戏里搭建）
 		- [（MC教程向）我的世界如何快速建造大型建筑 3D模型导入技巧介绍 - 哔哩哔哩](https://www.bilibili.com/read/cv7393875/)
 		- [Exporting Minecraft data from AutoCAD - Through the Interface](https://www.keanw.com/2014/09/exporting-minecraft-data-from-autocad.html)
 	- 不确定要不要办的
+	  collapsed:: true
 		- 产线合并、压缩（“1+1<2”）
 			- “拆”
 			- “看”
@@ -282,8 +281,8 @@
 				- 吹水洗矿（粉碎矿石到对应的粒，省得冶炼了，很多装配直接用粒；洗锌出火药）
 	- 自动（两个及以上环节相连，比如鸡下蛋后自动运输到动力辊压机下的工作盆，和同样运输过来的先在粉碎轮加工过的糖和余烬面粉被压成烈焰蛋糕胚，然后注液器“裱花”熔岩得成品烈焰蛋糕）
 - “回归教程”
-  collapsed:: true
 	- “麦块常识”
+	  collapsed:: true
 		- e打开背包（“你在怀疑什么？”）
 		- q扔东西
 		- ctrl疾跑、水中固定高度
@@ -325,7 +324,6 @@
 		- 可在启动器的“版本设置-Mod管理”中右键Mod（即模组）“转到MC百科”查看
 		- [机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2021.html)（“Mod教程”也可以看）
 		  id:: 662da7ed-a0af-4534-bacb-55ec5b68caa0
-		  collapsed:: true
 			- [物品/方块 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/list/2021-1.html)
 				- ((662e5fb2-0f11-4db5-9af0-5fc1df62118f))
 			- 最主要的模组，非常好
@@ -352,6 +350,11 @@
 				- [蓝图收集帖 - 技术讨论 -  MC百科社群 -   MC百科|最大的Minecraft中文MOD百科](https://bbs.mcmod.cn/thread-9208-1-1.html)
 				- [【1.16.5/机械动力/新手向】我的世界Minecraft机械动力自动化小型树树场 - 哔哩哔哩](https://www.bilibili.com/read/cv12482048)
 			- 列车的问题
+			  collapsed:: true
+				- 蒸汽笛（想着到站提醒——但是不自带这种功能——也是“进度让装的”）
+				  collapsed:: true
+					- >汽笛装在储罐上面，实体化后坐在火车坐垫上按ctrl键就能响了
+						- “啊？”
 				- 列车相撞歪了，重新安置失败（“甚至拆轨道时被泥头车创死”），可能本体其实在下界门另一边
 		- [[XMM]Xaero的小地图 (Xaero's Minimap) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1701.html)、[[XWM]Xaero的世界地图 (Xaero's World Map) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1483.html)
 		  collapsed:: true
