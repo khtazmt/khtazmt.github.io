@@ -4,7 +4,7 @@
 		  id:: 663dba34-272f-458f-bd2f-334b1f9ac712
 		- ![Minecraft.drawio (1).svg](../assets/Minecraft.drawio_(1)_1715407941082_0.svg){:height 466, :width 697}
 		  id:: 663f0c3c-8834-4555-a10d-e0f87d14d26a
-		- ![Minecraft机械动力.drawio.svg](../assets/Minecraft机械动力.drawio_1715829596532_0.svg)
+		- ![Minecraft机械动力.drawio.svg](../assets/Minecraft机械动力.drawio_1715831319907_0.svg)
 		  id:: 66457b53-2b08-45fb-88d9-447b63f0b101
 	- 快速装卸（换蒸汽锅炉）
 	  id:: 6641cc28-a94f-4c3a-8f9e-2292816c480c
