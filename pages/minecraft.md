@@ -21,7 +21,6 @@
 			- 信号灯（“比赛开始！”）、门禁（有时需要防止玩家提前训练）、玩家物品检测（弹药量等）
 		- 移动（动态结构）的方式
 		  id:: 6640e3d7-e99c-4fcc-8469-444efb5229eb
-		  collapsed:: true
 			- （“用鼠标和键盘移动玩家”）
 			- [Create机械动力 详细教程 Part 4a 移动装置_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1A54y1R7dh)
 			- 起重机（三轴直线）
