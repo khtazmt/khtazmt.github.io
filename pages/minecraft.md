@@ -438,6 +438,7 @@
 				- ((66332ea7-c5b5-4702-bcae-9eb12ba93130))
 			- [搬运 (Carry On) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1081.html)
 				- 搬箱子（“啊？”）、动物
+					- “之前村民忘了carry on了，用船押运的”
 				- ((66236190-211b-4686-81e3-35a32cd8773f))
 					- 小奥直播坐在辆Karry上
 			- [汤姆的简易存储 (Tom's Simple Storage Mod) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2882.html)
