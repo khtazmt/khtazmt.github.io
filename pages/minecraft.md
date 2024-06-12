@@ -399,7 +399,6 @@
 			- 村里小屋里不少服主布置的
 		- [农夫乐事 (Farmer's Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2820.html)
 		  id:: 66332ea7-bcb1-4c93-b0ab-e822ad7b3a85
-		  collapsed:: true
 			- 也是个大模组，有刀、可以做绳子（可以攀爬、缓降，可以潜行向上搭建，比梯子和方块灵活，可做防坠的、可配合弹射置物台和向上搭建且从底部回收的绳子使用的安全网，可以代替黏液球做栓绳，总之就是好用）的草秆
 				- [绳子 (Rope) - 农夫乐事 (Farmer's Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/382018.html)
 			- [食物 - 物品/方块 - 农夫乐事 (Farmer's Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/list/2820-1-173073.html)
