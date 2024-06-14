@@ -254,6 +254,6 @@
 		  “让我们想象一下”，第一行是抽屉的表面，上面贴着用来区分内容物种类的“抽屉名称”，第二行就是抽屉的最里面，塞的东西再多也不会超过去了（虽然现实中的抽屉的最里面与底面可能存在缝隙，从而可能让纸张等较薄的物体通过），我们点一下抽屉表面，就是拉开或关上，拉开就是彻底拉开，就能看到抽屉最里面，关上就看不到，就这么简单
 		  :end:
 - 其他教程
-	- TODO [Logseq是最好用的笔记软件吗 ？全网最简单，废话最少，干货最多的Logseq笔记软件教学_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1D94y1N7U2)
+	- [Logseq是最好用的笔记软件吗 ？全网最简单，废话最少，干货最多的Logseq笔记软件教学_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1D94y1N7U2)
 	  id:: 666c0d8c-f530-4ef2-b67e-c34af4dcd038
 	- [17 tips to level-up in Logseq - YouTube](https://www.youtube.com/watch?v=Fnxq3iITAJk)（感觉讲得有点水，也许是我的“知识的诅咒”）
