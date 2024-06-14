@@ -103,6 +103,10 @@
 		- “曾经”
 		   >因多平台手动发布麻烦和重新试了下导出插件感觉不错而试，暂时用 logseq 插件 Doc View Exporter 手动导出为 html 文件再拖动到对应 github 库上传，再在库中的首页文件 index.html 中添加链接，未来可能通过博客框架和同步盘提高自动化水平
 	- 暂时没用起来的插件
+		- Logseq Anki Sync
+		  id:: 666c0ac7-3cc5-4c8f-8beb-701e0e8f1b6f
+			- [LOGSEQ&ANKI 制卡教程 | 工作流分享_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1mY411i7Lo)
+			  id:: 666c084b-b9a8-4d9e-b031-4bb1d88a6e15
 		- Excalidraw（嵌入更完整的Excalidraw；画得不多，没看出相比在浏览器网页端的Excalidraw里画效率高在哪，没协作白板协作，至少没法免费协作，也不如logseq白板能集成内部页面——“多画点画”）
 		- 看板类（两个带‘kanban’的和模板更多的Logtools；看起来可能有点用，但是logseq的显示给了上限，多来几个缩进，行的长度就太短了，“载不动许多愁”——折叠、聚焦、TOC用用就能改善不少）
 - # （显示）主题
