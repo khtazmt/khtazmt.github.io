@@ -88,7 +88,7 @@
  :graph/open "alt+ctrl+g"
  :editor/up "up"
  :ui/toggle-left-sidebar "r t"}
- :favorites ["本站目录" "夏日爆改包" "卫生卫生" "logseq" "20240129"]
+ :favorites ["本站目录" "夏日爆改包" "20240129" "卫生卫生" "logseq"]
  :journal/page-title-format "yyyyMMdd"
  :feature/enable-timetracking? true
  :feature/enable-whiteboards? true
