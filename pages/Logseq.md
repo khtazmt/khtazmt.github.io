@@ -157,7 +157,6 @@
 	- TODO 结果排序方式
 	- https://docs.logseq.com/#/page/queries
 - # logseq的文件
-  collapsed:: true
 	- 如果你只是阅读（尤其是在网页端阅读）或刚开始写作的话，并不需要了解这方面，但用久了可能会为了排查故障（包括抢救文件）或把自己的库分享给别人前过滤隐私等信息而了解
 	- 库/图谱文件夹
 		- assets文件夹（放以文件形式自动复制到该文件夹的图片文件、pdf文件等）
@@ -188,7 +187,6 @@
 	- ((659b34e3-eafb-4594-89b7-fac98edf6014))
 	- （平台）发布前对logseq的格式转换/排版（目前不咋用）
 	  id:: 65bcbf46-9860-48d3-84e1-592c30b25207
-	  collapsed:: true
 		- 内容需要链接，尤其是“科学综述”
 		  logseq.order-list-type:: number
 		- logseq的markdown语言特性
@@ -214,7 +212,6 @@
 		  logseq.order-list-type:: number
 		- 解决方案
 		  logseq.order-list-type:: number
-		  collapsed:: true
 			- ((658fc4ca-21a3-49e7-a6b8-6277d16e0062))以链接或二维码图片到处分享
 			- TODO [GitHub - doocs/md: ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性](https://github.com/doocs/md)
 			  id:: 65d85f13-a487-4144-9b08-93909d4e1f13
