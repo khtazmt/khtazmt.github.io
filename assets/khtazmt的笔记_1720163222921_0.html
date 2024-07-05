@@ -1,0 +1,3944 @@
+
+        <html>
+            <head>
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+                <title>flomo · 浮墨笔记</title>
+                <style type="text/css">
+                  * {
+                    margin: 0;
+                    padding: 0;
+                  }
+                  body {
+                    background: #fafafa;
+                  }
+
+                  header .logo {
+                    text-align: center;
+                    border-bottom: 1px solid #efefef;
+                  }
+
+                  header .top {
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                  }
+                  header .logo,
+                  header .top .user {
+                    padding: 40px 0;
+                  }
+                  header .top .user .name {
+                    color: #454545;
+                    font-size: 16px;
+                  }
+                  header .top .user .date {
+                    font-size: 12px;
+                    color: #9d9d9d;
+                  }
+
+                  header .top .filter {
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                  }
+                  header .top .filter button {
+                    padding: 9px 10px;
+                    background: #30cf79;
+                    border-radius: 3px;
+                    color: #fff;
+                    font-size: 14px;
+                    border: none;
+                    cursor: pointer;
+                  }
+                  header,
+                  .memos {
+                    width: 600px;
+                    margin: 0 auto;
+                  }
+                  .memos h1 {
+                    margin-top: 30px;
+                  }
+                  .memo {
+                    margin: 20px 0;
+                    background: #fff;
+                    padding: 20px;
+                    border-radius: 6px;
+                    word-wrap: break-word;
+                  }
+                  .memo:hover {
+                    box-shadow: 0px 2px 10px #dddddd;
+                  }
+                  .memo .time {
+                    color: #8d8d8d;
+                    font-size: 12px;
+                  }
+                  .memo .content {
+                    color: #323232;
+                    font-size: 14px;
+                  }
+                  .memo .content p {
+                    line-height: 1.8;
+                    min-height: 20px;
+                    margin: 0;
+                  }
+                  .memo .content ul,
+                  .memo .content ol {
+                    padding-inline-start: 22px;
+                    margin: 0;
+                  }
+                  .memo .content li {
+                    line-height: 1.8;
+                  }
+                  .memo .files img {
+                    max-width: 100%;
+                    border: 1px solid #e6e6e6;
+                    border-radius: 4px;
+                    margin: 6px 0;
+                  }
+                </style>
+                <style>
+                .custom-select {
+                  position: relative;
+                  font-size: 14px;
+                  color: #9d9d9d;
+                  background: #efefef;
+                  border-radius: 3px;
+                  border: none;
+                  margin-right: 10px;
+                }
+
+                .custom-select select {
+                  display: none;
+                }
+
+                .select-selected {
+                  /* background-color: DodgerBlue; */
+                  background: #efefef;
+                  color: #9d9d9d;
+                }
+
+                .select-selected:after {
+                  position: absolute;
+                  content: "";
+                  top: 14px;
+                  right: 10px;
+                  width: 0;
+                  height: 0;
+                  border: 6px solid transparent;
+                  border-color: #7d7d7d transparent transparent transparent;
+                }
+
+                .select-selected.select-arrow-active:after {
+                  border-color: transparent transparent #7d7d7d transparent;
+                  top: 7px;
+                }
+
+                .select-items div,
+                .select-selected {
+                  color: rgba(157, 157, 157, 1);
+                  padding: 9px 12px;
+                  font-size: 14px;
+                  color: #9d9d9d;
+                  border: none;
+                  cursor: pointer;
+                  border-radius: 3px;
+                  border: none;
+                  width: 120px;
+                  user-select: none;
+                }
+
+                .select-items {
+                  position: absolute;
+                  background-color: white;
+                  top: 100%;
+                  left: 0;
+                  right: 0;
+                  z-index: 99;
+                  max-height: 200px;
+                  overflow-y: auto;
+                  overflow-x: hidden;
+                  box-shadow: 0px 4px 2px #dddddd;
+                }
+
+                .select-items::-webkit-scrollbar {
+                  width: 5px;
+                }
+
+                .select-items::-webkit-scrollbar-track {
+                  background: #f1f1f1;
+                }
+
+                .select-items::-webkit-scrollbar-thumb {
+                  background: #888;
+                }
+
+                .select-hide {
+                  display: none;
+                }
+
+                .select-items div:hover,
+                .same-as-selected {
+                  background-color: rgba(0, 0, 0, 0.1);
+                }
+              </style>
+            </head>
+            <body>
+              <header>
+                <div class="logo">
+                  <svg width="96" height="31" viewBox="0 0 96 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M4.87056 9.11086C4.87056 6.25522 5.89594 4.89539 7.81854 4.89539H12.5609V0H7.81854C2.69163 0 0 3.39957 0 9.11086V10.8786V14.9581V30.3242H4.87056V15.3661H12.5609V10.8786H4.87056V9.11086ZM79.5937 27.8765C81.3881 29.7803 83.6952 30.7321 86.3868 30.7321C89.0785 30.7321 91.2574 29.7803 93.18 27.8765C95.1026 25.9727 95.9998 23.525 95.9998 20.5334C95.9998 17.5418 94.9744 15.0941 93.18 13.1903C91.2574 11.2866 89.0785 10.3347 86.3868 10.3347C83.6952 10.3347 81.5163 11.2866 79.5937 13.1903C77.6711 15.0941 76.7739 17.5418 76.7739 20.5334C76.7739 23.525 77.7993 25.9727 79.5937 27.8765ZM81.6444 20.5334C81.6444 17.5418 83.6952 15.502 86.3868 15.502C89.0785 15.502 91.2574 17.5418 91.1292 20.5334C91.1292 23.661 89.0785 25.7008 86.3868 25.7008C83.6952 25.7008 81.6444 23.661 81.6444 20.5334ZM32.8147 30.7321C30.1231 30.7321 27.816 29.7802 26.0215 27.8765C24.2271 25.9727 23.2017 23.661 23.2017 20.6694C23.2017 17.6777 24.0989 15.23 26.0215 13.3263C27.9441 11.4225 30.1231 10.4706 32.8147 10.4706C35.5063 10.4706 37.6853 11.4225 39.6079 13.3263C41.5305 15.23 42.4277 17.6777 42.4277 20.6694C42.4277 23.661 41.5305 26.1087 39.6079 28.0124C37.6853 29.9162 35.5063 30.7321 32.8147 30.7321ZM32.8147 15.502C30.1231 15.502 28.0723 17.5418 28.0723 20.5334C28.0723 23.661 30.1231 25.7007 32.8147 25.7007C35.5063 25.7007 37.5571 23.661 37.5571 20.5334C37.5571 17.5418 35.5063 15.502 32.8147 15.502ZM62.0358 19.9894V30.4601H57.2934V19.7175C57.2934 17.1338 55.8835 15.502 53.9609 15.502C51.7819 15.502 50.1157 16.8618 50.1157 19.9894V30.4601H45.3733V10.8786H50.1157V13.7342C51.0129 11.5585 53.32 10.4706 55.3708 10.4706C58.3187 10.6066 60.2413 11.8305 61.2667 14.1422C62.5484 11.6945 64.471 10.4706 67.0345 10.4706C71.5205 10.4706 74.084 13.5982 74.084 19.3095V30.4601H69.3416V19.8535C69.3416 17.1338 67.9317 15.502 65.8809 15.502C63.5738 15.502 62.0358 17.1338 62.0358 19.9894ZM15.6366 4.89539V0H20.379V30.4602H15.6366V7.2071V4.89539Z" fill="#202020"/>
+                  </svg>
+                </div>
+                <div class="top">
+                  <div class="user">
+                    <div class="name">@khtazmt</div>
+                    <div class="date">于 2024-7-5 导出 617 条 MEMO</div>
+                  </div>
+                  <div class="filter">
+                    <div class='custom-select'>
+                        <select name="date" id="date">
+                          <option value="">选择年月</option>
+                          <option value="2024-07">2024-07</option><option value="2024-06">2024-06</option><option value="2024-05">2024-05</option><option value="2024-03">2024-03</option>
+                        </select>
+                    </div>
+                    <div class='custom-select'>
+                      <select name="tag" id="tag">
+                        <option value="">选择标签</option>
+                        
+                      </select>
+                    </div>
+                    <button>筛选</button>
+                  </div>
+                </div>
+              </header>
+              <div class="memos">
+                  
+        <div class="memo">
+            <div class="time">2024-07-05 07:18:28</div>
+            <div class="content"><p>如何防骗和骗人</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-05 06:54:13</div>
+            <div class="content"><p>懒人抹布</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-05 06:46:13</div>
+            <div class="content"><p>穿浴巾</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-05 06:18:56</div>
+            <div class="content"><p>互相请客吃饭节省时间</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-04 22:40:09</div>
+            <div class="content"><p>https://cn.pornhub.com/view_video.php?viewkey=666ad47577bce</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-04 21:54:00</div>
+            <div class="content"><p>红橙黄绿白</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-04 21:50:04</div>
+            <div class="content"><p>卫生棉条吸水</p><p>其他材料（捅入抹布等，镊子）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-04 19:38:50</div>
+            <div class="content"><p>together！</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-04 15:49:39</div>
+            <div class="content"><p>升降床/床垫/躺椅</p><p>支撑架、吊环等</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-04 14:59:34</div>
+            <div class="content"><p>躲扫地机器人</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-04 12:53:52</div>
+            <div class="content"><p>“故事”之前的评论还没发，评论别人（还有自己）“生命的一部分”，总还是比</p><p>现成的流程图挺好的，但流程图我目前在花大量时间愣着、理线——探索是这样的，想象力不到位就得“试错”</p><p>我觉得题目之前在扩充、在变化，大家可能还是应该按需要写，而不是限定在章节，预防肯定要走偏门点的路线，比较优势</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-04 12:45:38</div>
+            <div class="content"><p>抹布等脏了发霉了及时扔</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-04 10:56:28</div>
+            <div class="content"><p>人的意志大于一切</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-04 06:56:54</div>
+            <div class="content"><p>很多人不穿裙子穿裤子，他们就是男人咯？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-04 06:41:45</div>
+            <div class="content"><p>人体彩绘画乳房</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-04 06:21:54</div>
+            <div class="content"><p>碎片笔记链式反应</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-04 06:21:06</div>
+            <div class="content"><p>体检报告内容太多 不一定随访</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-04 06:20:12</div>
+            <div class="content"><p>很多医疗手段本身就会造成伤害</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-04 03:57:02</div>
+            <div class="content"><p>印度俯卧撑，俯冲，传教士式</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-04 00:12:42</div>
+            <div class="content"><p>睡眠中断——护士等</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-04 00:09:12</div>
+            <div class="content"><p>裸体长廊</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 21:45:57</div>
+            <div class="content"><p>冲牙器开到一半</p><p>压缩面膜</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 21:25:48</div>
+            <div class="content"><p>患者及家属准备不足——流程告知等宣教不到位、充分</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 21:13:56</div>
+            <div class="content"><p>天天吃一样的营养的，应该是比换着吃有毒的好</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 21:13:01</div>
+            <div class="content"><p>均衡运动，基于“步数”等“动作次数”（还不一定包括完成程度、质量）的“（可比）运动量”的误区</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 21:11:30</div>
+            <div class="content"><p>渐进生活</p><p>均衡也是渐进，分散了单独练容易过量的精力消耗和压力</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 21:10:20</div>
+            <div class="content"><p>渐进完整动作——印度深蹲等</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 21:10:06</div>
+            <div class="content"><p>先弯曲一些脚趾</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 21:09:44</div>
+            <div class="content"><p>牛磺酸肌酸</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 21:09:26</div>
+            <div class="content"><p>电动牙刷损伤更小</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 21:07:16</div>
+            <div class="content"><p>水泥沥青橡胶塑料</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 19:12:16</div>
+            <div class="content"><p>因为怕别人扛重活而坚持工作，影响学习和考试</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 17:46:57</div>
+            <div class="content"><p>过度陪护减少运动量不利恢复（“他是小婴儿是吧？”）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 16:29:44</div>
+            <div class="content"><p>不下载是为了让你多看各种各样，但均衡视频并不能保证健康</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 15:39:12</div>
+            <div class="content"><p>要是点开一个视频能终结所有苦难、保持永远快乐就好了</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 15:13:15</div>
+            <div class="content"><p>视听剩厌</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 14:39:52</div>
+            <div class="content"><p>行李、透明袋标签</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 10:49:34</div>
+            <div class="content"><p>光脚另只脚勾脚练足弓</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 10:25:29</div>
+            <div class="content"><p>有的单层也停的6楼，靠近可以下去，这样就有双倍电梯了</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 10:23:48</div>
+            <div class="content"><p>有选择地坚持规则，但不是只坚持对自己有利的规则</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 10:21:19</div>
+            <div class="content"><p>动动好，起来多认识几个人</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 10:17:53</div>
+            <div class="content"><p>赤足最光荣</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 10:07:03</div>
+            <div class="content"><p>酸也是痛</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 10:04:09</div>
+            <div class="content"><p>卖剩药</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 09:43:47</div>
+            <div class="content"><p>习惯也是自动化</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 09:24:47</div>
+            <div class="content"><p>qq：群提醒词</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 09:14:48</div>
+            <div class="content"><p>学生有试错空间，但试错也是错，能不错就别错</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 09:12:26</div>
+            <div class="content"><p>家人也要伴随渐进脱敏</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 09:12:09</div>
+            <div class="content"><p>出院小结</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 09:02:24</div>
+            <div class="content"><p>你要在医院玩手机了，也许准备充分点能像我一样用电脑</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 08:48:15</div>
+            <div class="content"><p>六秒说八句英文</p><p>英文交班</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 08:43:52</div>
+            <div class="content"><p>市场效率低就低在赘肉多</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 08:41:38</div>
+            <div class="content"><p>穿裙子，赤足</p><p>一身槽点不知从何下嘴</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 08:28:06</div>
+            <div class="content"><p>出院手续（排队）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 08:12:59</div>
+            <div class="content"><p>对错</p><p>对事不对人</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 08:09:52</div>
+            <div class="content"><p>鼓医健康照顾</p><p>互联网医院</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 07:36:37</div>
+            <div class="content"><p>公众号宣教课程——尴尬了，这个没告诉我，我也没看</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-03 05:26:47</div>
+            <div class="content"><p>穿鞋独立减少了运动量</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-02 21:58:07</div>
+            <div class="content"><p>地址、信源（聊天记录是谁的）</p><p>人名缩写用其他缩写敷衍</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-02 21:00:31</div>
+            <div class="content"><p>b站，御坂网络，树形图设计者</p><p>周围全是学霸，可以开别人卷的开卷考试</p><p>特别关注希望真能跳出来</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-02 19:49:58</div>
+            <div class="content"><p>监护室条件不一定更好，干预难度大</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-02 19:14:49</div>
+            <div class="content"><p>文本查重：网页标题、内容、</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-02 17:48:49</div>
+            <div class="content"><p>我们看到关注者对一个用户的关注、点赞，比如其他对俱乐部和俱乐部的动态的，但是我想它们出现在我的动态乃至手机推送里</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-02 16:16:18</div>
+            <div class="content"><p>直接往玻璃水具和洗澡袋里倒</p><p>原地蹦跳</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-02 15:49:26</div>
+            <div class="content"><p>直饮相比烧水省钱省时，也更健康</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-02 13:58:58</div>
+            <div class="content"><p>https://www.sohu.com/a/606305302_694312</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-02 11:57:12</div>
+            <div class="content"><p>身体羞辱（“我身体好好的”）、性骚扰等</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-02 11:54:37</div>
+            <div class="content"><p>金无足赤人无完人</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-02 11:29:54</div>
+            <div class="content"><p>如何查看用人单位社保情况</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-02 11:07:59</div>
+            <div class="content"><p>毛巾鞋（绑腿带）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-02 08:50:47</div>
+            <div class="content"><p>音乐记忆短，可能是为了更好地发挥其功用</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-02 07:07:36</div>
+            <div class="content"><p>及时汇总，避免问时临时算</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-02 01:12:30</div>
+            <div class="content"><p>水260</p><p>尿350</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 22:55:48</div>
+            <div class="content"><p>新躺椅用前先吹散味</p><p>不比满的多层地下停车场或新的室内篮球馆的气味好多少</p><p>铺垫稍微好些</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 22:45:45</div>
+            <div class="content"><p>十点四十</p><p>气道阻塞喷出发声</p><p>床角度</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 22:06:40</div>
+            <div class="content"><p>筋膜张力发酵时间</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 22:00:50</div>
+            <div class="content"><p>https://m.guokr.com/article/181583/ </p><p>女仆 护士</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 21:43:15</div>
+            <div class="content"><p>新躺椅隔离人造革</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 21:42:12</div>
+            <div class="content"><p>九点三十八，手电，好多了</p><p>查房看什么？病人在？要不要照到病人脸上？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 21:29:15</div>
+            <div class="content"><p>夜班查房，精神头倍儿足</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 21:16:10</div>
+            <div class="content"><p>跳绳与抖腿（“什么？！你们抖腿时桌子会晃吗？”）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 21:06:31</div>
+            <div class="content"><p>世界坐姿日——“你为什么不抖腿？！”</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 20:54:35</div>
+            <div class="content"><p>也许迪化一下有极少数是有意识地牺牲生产率换稳定性</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 20:46:08</div>
+            <div class="content"><p>自然蒸发俱乐部（洗浴后自然干燥；加湿器、）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 20:43:22</div>
+            <div class="content"><p>方便校准微调</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 20:37:01</div>
+            <div class="content"><p>刷牙后舌舔检查</p><p>甩头甩水</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 20:33:49</div>
+            <div class="content"><p>b站导出私信</p><p>flomo标记分享</p><p>笔记新TODO自动上传</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 20:20:20</div>
+            <div class="content"><p>体检报告挖掘职业病、工伤前期</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 20:19:39</div>
+            <div class="content"><p>“别把鞋脱下来了”</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 18:08:43</div>
+            <div class="content"><p>止痛药带回家继续吃，疼个把月</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 16:07:33</div>
+            <div class="content"><p>拥堵医院带个折凳随时等待休息</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 16:03:01</div>
+            <div class="content"><p>互联网医院</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 15:53:39</div>
+            <div class="content"><p>胸带往上系</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 15:50:25</div>
+            <div class="content"><p>ct，拔管后彩超？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 15:45:22</div>
+            <div class="content"><p>口罩与下方视野</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 15:41:10</div>
+            <div class="content"><p>带纸，免得问人尴尬或随地吐痰</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 15:35:37</div>
+            <div class="content"><p>然后第二次带出去检查也是赤足</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 15:27:35</div>
+            <div class="content"><p>防跌倒是免责吗？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 15:26:07</div>
+            <div class="content"><p>缺轮椅最后走过去</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 14:54:41</div>
+            <div class="content"><p>查房扫码</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 14:19:59</div>
+            <div class="content"><p>焦虑、睡眠不足/质量差（嫌吵，夜里起来找耳塞）、脑白质、吃太多</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 05:46:20</div>
+            <div class="content"><p>耳塞眼罩</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-07-01 05:09:35</div>
+            <div class="content"><p>陪护/集中营/监狱作息</p><p>查房能不开灯吗？赤足或软鞋走近用小手电看？能用逐渐唤醒的铃声和灯光吗？每次突然刺激不会影响安全？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 20:57:51</div>
+            <div class="content"><p>九点、五点（看引流、测血糖、五点半小便饮水，六点倒垃圾）查房</p><p>空调噪声（天热，被子厚，没办法</p><p>找耳塞噪声</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 20:54:41</div>
+            <div class="content"><p>对身体总数多少的细胞负责，可怜身体跟我一起受累了</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 20:44:24</div>
+            <div class="content"><p>箭步蹲？atg蹲？倒走</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 18:05:52</div>
+            <div class="content"><p>女性练武，及时反馈惩治猥亵/性骚扰</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 18:00:13</div>
+            <div class="content"><p>嫌疑</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 17:54:07</div>
+            <div class="content"><p>如果结果差不多，或者后者似乎更好，那我为什么不压一压后一种可能呢？</p><p>如果学校的选择差不多，那我为什么不坚持过去、现在、未来的</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 17:32:33</div>
+            <div class="content"><p>炒冷饭策略</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 17:32:18</div>
+            <div class="content"><p>可以分析动力，比如取消某个人的保研资格要走什么流程、会影响谁——当然下午想着丁姐肯定大致想过了</p><p>即使学校认为“自己”丝毫没有退让余地，包括失败也要硬挨着，我们或许也该把好事做绝，比如到处传播，“就当给其他人提个醒”（</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 16:47:36</div>
+            <div class="content"><p>我又耐心看了下，感觉这类文档最接近“PPT网课”，这么看的话，我的（暂时没更多时间完善的）长评疑似又显得有点多余了</p><p>---</p><p>“‘老周’我啊，又有创作动力力！”</p><p>没看到时不便评价，看到时要评价的就多了</p><p>首先“探索是好的”</p><p>这文档看起来有点模板味（从放手册链接那里联想到老周的“规培”视频），当然这个是次要的“发现”</p><p></p><p>老周“分裂”为故事主角（其实是第三人称的被旁白主角叙述者，这下又想到游戏《史丹利的寓言》了）的同时，还是保留了很大一部分“甩不干净”</p><p>心态上，真正想要走工伤保险又听说可能不太好走（“我也觉得好难写，就，一点儿都不能错啊”——《一镜到底》）的劳动者可能心态不是那么稳（我也不确定，我也没走过），他们不一定有兴趣和耐心切入这个可能与想象中的自己相似度不高（想到原神的“颗粒石块”、“开放世界”等特点的视频，特征）的“老周”视角，而有时间学习的劳动者可能会认真“上网课”</p><p>创作流程也是“法律化”了的，遇到难点，依据超人会自动降临播放旁白、架构如法律般有条不紊的环境（但实际上我们知道这是有点费时费力的）——“故事里不能只有一种声音！”</p><p>在内容中，旁白之间的老周“若隐若现”，在视频里她显然得排队等着念到自己而不是“我们”、“劳动者”，对其形象的塑造不够全面，“我们”都觉得她有点陌生，有点“为了讲故事把人物立牌临时拉来拉去讲几句话”的意思，人称来回切疑似有点成本——也许这里可以顺带给老周加点更详细、现实的材料（比如与老板的聊天记录等），方便读者自行往符号网络对接认证</p><p></p><p>类比，有本书《我们赖以生存的隐喻》还没空继续看</p><p>我目前夸张地说，单独看的话，图示可能是世界上最强的呈现方式（别说这种意图上偏“耐心劝说”或我那种“搞个大新闻，得罪所有人”但实际上会“语不惊人不写了”的长文了，我现在连那几百条碎片笔记都整理得烦——因为要赶时间，来不及，怎么想都来不及吧）</p><p></p><p>图示能不能像2D走格子游戏趣味性不好说，但是一张图最多手机屏幕划一下，“一目了然”一看就仿佛有底，提振信心、帮助制定方案都是比较快的，因为它比可以无限延长的段落更压缩，而这可能源于图示软件的默认图形大小带来的“格子危机”（在游戏界好像始于“生化危机”），以及不同图型/模板的格式要求</p><p>长度显然，一般人不太会在时间不太充裕时长途旅游，互联网方便快速旅游，但是“旅游须知”是不一定爱看的</p><p>我们要说几种语言，长度就会上去，还多了“方言”、“外语”（“同义词”也是，“辞退”、“开除”、“解除劳动合同”）——当然，不挑剔这些可能更容易看下去——可以像北大法宝那样一键“纯净版”隐藏对法条的“法宝联想”等，那样比较好，或者都挂上可以悬浮预览或点击查看的角标</p><p>但是换个角度看的话，长度不是问题，受众记不住依据，记住有这么个视频乃至解决方向也是好的，但这样没有确认量</p><p></p><p>坏了，有点想用黄金分割之类的技术分析方法了（</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 15:35:55</div>
+            <div class="content"><p>水140、30、100；70、70、30、50、70、150、100</p><p>尿180、150；500、120；320；200、200</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 14:25:33</div>
+            <div class="content"><p>后悔者如何附身回溯时间拯救</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 14:18:38</div>
+            <div class="content"><p>心理评估、临床评估</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 14:16:22</div>
+            <div class="content"><p>立案标准</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 13:58:31</div>
+            <div class="content"><p>管道贴壁</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 13:32:19</div>
+            <div class="content"><p>地面上可能有玻璃渣</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 13:21:32</div>
+            <div class="content"><p>楼上钻孔</p><p>家属下床</p><p>一点问大小便</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 12:37:42</div>
+            <div class="content"><p>神拳、赤足鞋</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 12:36:08</div>
+            <div class="content"><p>如果中间塌陷，可以身体先架在两端</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 12:33:36</div>
+            <div class="content"><p>经济型酒店的一次性牙刷等劣质牙刷能够很快破坏牙釉质，也明显会损伤牙龈</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 07:50:51</div>
+            <div class="content"><p>性骚扰（“学业压力”：一学习就不能玩原神了是吧？）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 06:48:22</div>
+            <div class="content"><p>诉求表达，不需要再与学校沟通</p><p>但表达不明晰，学校仍然想大事化小</p><p>不保研，来得及调换</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 06:24:15</div>
+            <div class="content"><p>防着录音</p><p>录音按钮</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 06:07:33</div>
+            <div class="content"><p>心理测评与性骚扰</p><p>被引导问题</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 05:48:13</div>
+            <div class="content"><p>测体重，五点半</p><p>因为陪护意愿、耐力不足所以拍不够的情况</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-30 05:31:20</div>
+            <div class="content"><p>裤子八点十分八点二十</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 16:35:36</div>
+            <div class="content"><p>问名称</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 16:28:43</div>
+            <div class="content"><p>“不要以为只有烟民”</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 16:13:17</div>
+            <div class="content"><p>时间价格（缺时间，价格也会升高，马太价格、成本）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 15:24:43</div>
+            <div class="content"><p>筋膜训练</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 15:16:47</div>
+            <div class="content"><p>鼻吸3，睡眠2也行</p><p>冲面罩和雾化槽，不要把零件丢掉</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 15:04:09</div>
+            <div class="content"><p>床报废，领导请示</p><p>墓园经济学</p><p>死在外地去哪里烧和入葬？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 14:58:16</div>
+            <div class="content"><p>杜密克乳果糖可长期吃，不会依赖</p><p>胸片</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 14:56:12</div>
+            <div class="content"><p>应激性溃疡</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 11:59:32</div>
+            <div class="content"><p>图片未“转正”</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 09:52:07</div>
+            <div class="content"><p>不缴费长期的药要临时申请</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 09:08:57</div>
+            <div class="content"><p>每个小时十分钟</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 09:08:35</div>
+            <div class="content"><p>能更多运动就多运动，躺着不如坐着，坐着不如站着</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 09:08:06</div>
+            <div class="content"><p>坐着</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 08:51:36</div>
+            <div class="content"><p>牙膏会把未清除的污渍埋在里面吗</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 08:51:05</div>
+            <div class="content"><p>护士站呼叫铃声疲劳</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 06:07:33</div>
+            <div class="content"><p>骨盆倾斜，侧卧，软硬床</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 05:25:31</div>
+            <div class="content"><p>五点护士站响，五点二十查房</p><p>六点抽血，体重秤，吃完早饭下床</p><p>六点十分换垃圾袋，六点半拖车拖地</p><p>营养品（是否测镁；骨头汤）</p><p>地干了再起，大约10分钟</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 04:38:51</div>
+            <div class="content"><p>床头灯偏亮，可能隔着并不围满的窗帘亮醒隔壁</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 01:31:59</div>
+            <div class="content"><p>监护室每天看三次屁股</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 01:09:00</div>
+            <div class="content"><p>提醒隔壁床夜间不吃东西明天测血糖</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-29 00:59:52</div>
+            <div class="content"><p>面罩没戴好（夜间流苏太快，吹得不适，加上噪声，导致无意识脱落？）</p><p>医疗时间</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 22:26:14</div>
+            <div class="content"><p>带进来新蚊子</p><p>突击补钾等（氯化钾rush，液、缓释片——餐饭缺钾）</p><p>家属护理包</p><p>指尖采血（一到一点五小时后查房突击补钾等）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 21:41:01</div>
+            <div class="content"><p>华为指示灯亮</p><p>外部交通灯</p><p>室友不拉窗帘</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 21:32:14</div>
+            <div class="content"><p>蚊子</p><p>人经过门窗，光线变化叫醒</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 21:20:22</div>
+            <div class="content"><p>氧气是用量是按天</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 21:20:12</div>
+            <div class="content"><p>睡前指夹式血氧仪测一下</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 21:16:35</div>
+            <div class="content"><p>洗果粒橙</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 20:56:35</div>
+            <div class="content"><p>塌陷的抽拉床（“三段式睡眠分区”），咯吱声响大</p><p>能否更换</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 20:55:01</div>
+            <div class="content"><p>眼罩（正好对着带窗的门或外窗）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 20:38:35</div>
+            <div class="content"><p>手术病人药占比？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 20:30:43</div>
+            <div class="content"><p>没医保，病一次用几年积蓄都是小事</p><p>不想治死了钱可能省了一些，但你不好受</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 20:26:22</div>
+            <div class="content"><p>垃圾袋系床边放纸巾</p><p>均衡生活（热身，全面训练）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 20:04:23</div>
+            <div class="content"><p>塑料袋放纸巾</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 19:42:01</div>
+            <div class="content"><p>三顿吃喝小便的量</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 19:30:47</div>
+            <div class="content"><p>负责与虚拟俱乐部的联络</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 19:06:43</div>
+            <div class="content"><p>水挂完了不及时取有问题吗？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 18:42:40</div>
+            <div class="content"><p>吐痰，早上吐</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 18:11:51</div>
+            <div class="content"><p>不要晃，就用手套（没有就用手）抓起来扔掉</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 18:06:23</div>
+            <div class="content"><p>镇江刚编俱乐部</p><p>出租</p><p>流动：户外灶</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 18:01:50</div>
+            <div class="content"><p>恢复脚趾抓握</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 17:44:18</div>
+            <div class="content"><p>专业、资质都是对相关技能的一类证明</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 17:19:02</div>
+            <div class="content"><p>不毛边、易清洁的便盆，是否需要塑料袋</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 16:48:52</div>
+            <div class="content"><p>补充餐，自制餐</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 16:45:20</div>
+            <div class="content"><p>医院花洒怎么用</p><p>医院病房洗澡——“我有病”、“我是之前病人家属，回来拿东西”</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 16:44:56</div>
+            <div class="content"><p>开水、消毒液对hpv杀灭，马桶是否有？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 16:13:57</div>
+            <div class="content"><p>呼吸训练器（气球也行）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 16:10:23</div>
+            <div class="content"><p>吐痰收集，之后再喝水</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 16:06:21</div>
+            <div class="content"><p>吃高蛋白饮食有用吗？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 16:06:11</div>
+            <div class="content"><p>有没有回扣</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 16:02:08</div>
+            <div class="content"><p>静脉白蛋白，去药店买</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 15:34:24</div>
+            <div class="content"><p>拍背、挤泵、主治医生医嘱优先级高于管床护士</p><p>防跌倒签字</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 15:18:07</div>
+            <div class="content"><p>住院病人躺按摩椅按摩？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 15:01:05</div>
+            <div class="content"><p>咳嗽伤口疼</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 15:00:40</div>
+            <div class="content"><p>氧气雾化罐</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 14:58:21</div>
+            <div class="content"><p>天然水，微塑料</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 14:47:41</div>
+            <div class="content"><p>物品清单，没用的可以退</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 14:45:40</div>
+            <div class="content"><p>坐凳子上大便</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 14:43:06</div>
+            <div class="content"><p>饮食内容</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 14:23:11</div>
+            <div class="content"><p>14:20小便</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 14:20:05</div>
+            <div class="content"><p>测量大小便量</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 14:15:11</div>
+            <div class="content"><p>不下床踝泵</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 13:38:27</div>
+            <div class="content"><p>护士不一定爱随手关门</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 13:22:29</div>
+            <div class="content"><p>蚊子（蚊帐？）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 13:20:35</div>
+            <div class="content"><p>咳嗽疼</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 13:20:08</div>
+            <div class="content"><p>揉肚子</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 13:18:05</div>
+            <div class="content"><p>中午关病房门？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 13:17:14</div>
+            <div class="content"><p>护理垫</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 13:08:48</div>
+            <div class="content"><p>一点来查房，问大便解了吗？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 12:47:01</div>
+            <div class="content"><p>便盆放置位置</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 12:39:35</div>
+            <div class="content"><p>如何帮助病人翻身</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 12:35:27</div>
+            <div class="content"><p>噪声，聊天、拍背</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 12:18:41</div>
+            <div class="content"><p>抽纸多抽出来几张放手边，方便病人抓到</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 12:08:40</div>
+            <div class="content"><p>起身运动时注意管子</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 11:54:55</div>
+            <div class="content"><p>人血白蛋白、两袋，然后是氯化钠注射液（会变扁）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 11:45:50</div>
+            <div class="content"><p>虾仁菜粥</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 11:16:54</div>
+            <div class="content"><p>擦脚，擦腹股沟、屁股</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 11:16:28</div>
+            <div class="content"><p>important，impotent</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 11:15:21</div>
+            <div class="content"><p>人血白蛋白</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 11:10:04</div>
+            <div class="content"><p>深静脉管，引流管瘪和不太红正常，鼓起按一下，还不行报告</p><p>下午三点前排尿</p><p>第一天床上大小便，不好下床</p><p>一天三次腹泻，三天一次便秘</p><p>咳嗽、三分钟下床（睁眼、坐起、落脚各一分钟）</p><p>补钾（猕猴桃、橙子、香蕉，瘦肉）</p><p>水700ml</p><p>管床护士</p><p>鸡蛋（1蛋黄，4蛋白）</p><p>乳果糖三顿餐前15-20ml</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 10:36:04</div>
+            <div class="content"><p>医院开水间可能有ro水</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 10:30:56</div>
+            <div class="content"><p>陪人禁止离院，一起吃达不到膳食指南标准的饭</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 10:27:29</div>
+            <div class="content"><p>防跌倒签字</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 10:26:46</div>
+            <div class="content"><p>社会加速，行尽如驰，莫之能止</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 10:21:22</div>
+            <div class="content"><p>护工一天230/240“再加另外的费用”，一个护工可以同时看多少床？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 10:19:23</div>
+            <div class="content"><p>ct肺部感染</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-28 03:39:07</div>
+            <div class="content"><p>打鼾，呼吸短促</p><p>icu出汗洗澡？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 21:23:26</div>
+            <div class="content"><p>hpv别人衣服（洗衣后、旧衣服）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 20:58:30</div>
+            <div class="content"><p>我并不是刻意左右横跳想要两边讨好，首先有没有两边就是个疑问</p><p>我实际上至少是半个防疫爱好者，现在还坚持外出时佩戴支米n95口罩（往往也符合规定），欸呀，这好像也不太方便说哦嘻嘻</p><p>服从规则，又能够帮助所有人，那可真算得天底下最理想的事情</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 20:33:55</div>
+            <div class="content"><p>身体自信（赤足）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 17:28:52</div>
+            <div class="content"><p>靠竞业协议诉讼赚钱</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 13:27:27</div>
+            <div class="content"><p>“这些人是刻意低效吗？”</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 12:52:38</div>
+            <div class="content"><p>刷牙、久坐、不睡觉、护眼</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 12:35:08</div>
+            <div class="content"><p>这是清华大学，一定严谨科学地对赤足运动的</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 12:34:06</div>
+            <div class="content"><p>当脚趾抓握能力得到开发或恢复后，立定跳远等达到乃至超越穿鞋也未尝不可</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 12:21:55</div>
+            <div class="content"><p>含糖酸奶的健康益处？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 12:16:52</div>
+            <div class="content"><p>拿快递、找人帮忙考党员考试、等ct</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 11:42:17</div>
+            <div class="content"><p>打氧</p><p>主人亲戚</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 11:41:37</div>
+            <div class="content"><p>储物间（一大堆东西放着，哪些真要用）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 11:33:19</div>
+            <div class="content"><p>也影响送外卖</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 11:33:03</div>
+            <div class="content"><p>医院误工降低社会劳动供给了</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 11:28:51</div>
+            <div class="content"><p>很多人做不了一个俯卧撑，然后爆发俯卧撑受伤</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 11:24:54</div>
+            <div class="content"><p>医院流程图，逆向淘汰</p><p>流程不透明，地铁还得告我现在在哪下一站到哪呢</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 11:24:27</div>
+            <div class="content"><p>误工费，ct1.5-2小时</p><p>家属干等，浪费时间，站着静脉曲张，坐着久坐</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 11:16:35</div>
+            <div class="content"><p>堂堂满载</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 10:46:50</div>
+            <div class="content"><p>医生吩咐完就跑了，说不定把家属忘了，然后护士不知道</p><p>等检查报告，那么告诉</p><p>医疗工作者都有点</p><p></p><p>送水果纸巾（这也没有）</p><p>帮开门推病床车，</p><p>从病床车往ct床上拖，把仪器都木乃伊包裹起来，留一个家属穿防护衣（只用穿上身吗？）</p><p>如果不是</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 10:38:47</div>
+            <div class="content"><p>和其他医生一起</p><p>保安又没培训过啥，哪有打不过之理</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 10:28:55</div>
+            <div class="content"><p>医院里都是什么人员，穿什么，问谁</p><p>等待时如何缓解焦虑</p><p>没有大致等待时间，就是等，很容易“干等”，内耗快</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 10:25:47</div>
+            <div class="content"><p>看病流程流程图</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 10:20:46</div>
+            <div class="content"><p>监护室一天一万，即便有医保（一部分也是自己挣的，只是“企业代缴”罢了），因病返贫（或者——现在应该没有贫困了）的情况也并不鲜见，那么你可能不是我们需要的出类拔萃的劳动者、先进的劳动者</p><p>所以千万不要顺着他们的自我感觉良好推卸责任，生病并不都是，现在不关心家人健康，以后也不会关心自己健康</p><p>需要非医疗手段来避免健康水平进一步下降</p><p>嵌入时间</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 10:03:00</div>
+            <div class="content"><p>能通用的对什么症，不同原因的</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 10:02:13</div>
+            <div class="content"><p>要检查——但是检查单还没开好下来（是要纸质人肉运送吗？）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 09:59:48</div>
+            <div class="content"><p>家属不清楚流程，一心关注病人状况，不确定就很慌很急，隔着明明看不清的模糊窗口往里望个不停</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 09:58:24</div>
+            <div class="content"><p>护工，能一次护几个人吗？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 09:58:20</div>
+            <div class="content"><p>等很久</p><p>检查</p><p>“人要多”——卧床拉一把</p><p>除了面对面和电话口述，不能手机上网络宣教吗？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 09:52:29</div>
+            <div class="content"><p>不要相信家属的话随波逐流，他们不是专家，不懂</p><p>腿收一下</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 09:31:29</div>
+            <div class="content"><p>转运通道</p><p>等待与希望</p><p>在医院等和在景区和食品厂等不一样</p><p>过年打酱油都没等过</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 09:29:32</div>
+            <div class="content"><p>和其他病人躺一起到处看很担心恢复慢</p><p>neo从icu出来拔管了</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 09:13:14</div>
+            <div class="content"><p>造影对身体有影响——之前身体好好的</p><p>——</p><p>运动</p><p>护工口音</p><p>电动门</p><p>等待</p><p>过来等，出去等</p><p>一般情况下，比如不是校感流行期，中国的医疗等待时间是比英国等同样采用全民医保制度的发达国家（我不是说中国已经是发达国家了；美国则是拿金钱换时间，显然大多数美国人民换不起）短得多的，英国急诊能在走廊上等待超过一天，你敢信吗？</p><p>健康中国应该是几乎所有中国人，即便是那些，应该也希望消费者能够毫无成瘾之外的副作用，如果还能改进健康的话就更好了，</p><p>当然，医疗和康复行业可能还是希望，但随着推广家庭医生等从治疗到预防绝大多数基层工作者应该还是能从中受益，转换工作内容即便不是内心所愿，也是被催着跑的</p><p></p><p>打很多电话给亲友，亲友问要不要来</p><p></p><p>医生让过来，让带到另一个门等，然后医生打电话问你到底来没来</p><p>后面是做ct</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 08:55:59</div>
+            <div class="content"><p>医院骚扰电话，交钱还是检查</p><p>监护室检查</p><p>人手不够，跑不开，必须要家属或护工</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 07:26:30</div>
+            <div class="content"><p>办俱乐部</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 06:25:46</div>
+            <div class="content"><p>症状加上词缀或者不加就是病，脆皮（？）、红眼病、爆发性心肌炎，还是新闻医学好使</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 06:15:45</div>
+            <div class="content"><p>挣钱用于看病</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-27 06:12:49</div>
+            <div class="content"><p>我只知道以后还会有想得到和更多想不到的困难，应该并不是我倒错</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 20:50:31</div>
+            <div class="content"><p>西方人不蹲与种族歧视？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 20:47:41</div>
+            <div class="content"><p>蹲爬滚抖等组合（注意撞头眼和脚趾；小动作）；将抖腿视为分心的标志，不要抖腿就是害人</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 20:13:57</div>
+            <div class="content"><p>医疗工作者自以为日常诊疗就是最合理的作法，对自己也一样，这也是知识的诅咒</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 19:49:31</div>
+            <div class="content"><p>现代锻炼的战争起源</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 19:44:42</div>
+            <div class="content"><p>必须长时间坐着做无聊低效的工作</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 19:41:06</div>
+            <div class="content"><p>获取食物等再生产资料/生活资料时间，以及品质折价（工业食物与）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 18:44:06</div>
+            <div class="content"><p>医院储物柜</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 18:43:44</div>
+            <div class="content"><p>储物间，没拿的东西</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 18:22:14</div>
+            <div class="content"><p>防滑，不能跌倒</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 18:00:14</div>
+            <div class="content"><p>弱者思维，概率思维</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 16:53:18</div>
+            <div class="content"><p>水果医院能直接供应吗</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 16:51:13</div>
+            <div class="content"><p>呼吸机，第二天氧气面罩</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 16:50:40</div>
+            <div class="content"><p>2分钟视频</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 16:44:44</div>
+            <div class="content"><p>电热水壶做菜</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 16:35:00</div>
+            <div class="content"><p>问题不大，对抗学习技术罢了</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 16:14:14</div>
+            <div class="content"><p>复眼，躯体性</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 15:30:00</div>
+            <div class="content"><p>监护室送切好的水果</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 09:14:16</div>
+            <div class="content"><p>解剖学，田中脊髓剑</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 07:55:08</div>
+            <div class="content"><p>脚底酸爽，可能因为仍然沿袭常见的穿鞋跑的足跟着地姿势，可能组织者应该提供相关指导，以避免学生受伤，毕竟赤足运动会要维持名称，总有些赤足项目是不便取消的，而在这些项目中，学生比赛当然会使劲</p><p>而如果留下伤口，是否可能在运动员和观赛者、看新闻的人心中默默否决赤足跑可以很安全这一可能？</p><p>可能作为第三方的校内媒体也可以在之前报道记录的基础上一年比一年拓展深度，新闻工作不只是如实呈现事实</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 06:06:00</div>
+            <div class="content"><p>保健品，焦虑和诱惑</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-26 06:02:41</div>
+            <div class="content"><p>出监护室后能不能运回家护理？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 21:16:21</div>
+            <div class="content"><p>长久力量训练的“防弹衣”和“最后一道保险”————温宁热身法 https://b23.tv/K0SmLTl</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 20:53:37</div>
+            <div class="content"><p>运动员研究，普通人需适应</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 20:43:34</div>
+            <div class="content"><p>潮鞋第三性征罢了</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 20:20:57</div>
+            <div class="content"><p>推流渠道</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 19:49:22</div>
+            <div class="content"><p>手机或迷你主机加便携显示器能随身带着或装推车上学习吗？之前</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 19:38:43</div>
+            <div class="content"><p>体检报告持续跟踪提醒（单位体检呢？）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 19:36:50</div>
+            <div class="content"><p>现实中的例子让我没法保证他们系统想过就不会在我家人需要时出偏差</p><p>当然我问了没解决的问题一般还是有可能还在我的优先级序列里，有空有机会再研究下（或者再问下），时间有限，不得不选择</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 19:19:51</div>
+            <div class="content"><p>对“病理状态”的程度判定（有些病理状态更病理状态）会不会造成某种优先级序列，进而影响医疗实践，比如在体检报告写个体检者事后发现看不懂的“随访”，也许当时像回答医院里路怎么走一样说了啥，但是体检者带着上学时装着自己懂的心态过了几分钟忘了，过了两三年又查了下发现没救了，可能这样的事并不鲜见</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 17:56:17</div>
+            <div class="content"><p>半小时内到，拥堵</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 17:49:00</div>
+            <div class="content"><p>家属陪护，护士不能代替吗？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 15:38:50</div>
+            <div class="content"><p>做手术病房预约</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 15:30:32</div>
+            <div class="content"><p>回声电话</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 15:17:08</div>
+            <div class="content"><p>hpv消毒，马桶，喷雾</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 13:08:12</div>
+            <div class="content"><p>口水防蛀</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 12:36:03</div>
+            <div class="content"><p>共享浏览器</p><p>anki（搜索关键词）</p><p>人员审核、保密制度</p><p>匿名聊天室给下了</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 12:26:09</div>
+            <div class="content"><p>线下/现场的暴力</p><p>人流量、地租</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 12:10:54</div>
+            <div class="content"><p>没时间做就只能话更多钱吃更不健康的食物把钱散出去</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 01:07:27</div>
+            <div class="content"><p>空调外机噪声，关不严的窗</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 00:58:55</div>
+            <div class="content"><p>右肩侧卧</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-25 00:48:15</div>
+            <div class="content"><p>监护室里还有打鼾吗</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 20:06:34</div>
+            <div class="content"><p>挂在淋浴间门上的是浴巾还是地布</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 19:42:07</div>
+            <div class="content"><p>习近平挑担子</p><p>筋膜训练</p><p>为什么原始部落、农民能够以瘦小身体挑重物，城里人却不能？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 16:10:26</div>
+            <div class="content"><p>货车司机可能疲劳驾驶</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 16:01:03</div>
+            <div class="content"><p>单向度的人，横断面久坐，矢状面驾驶</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 14:02:31</div>
+            <div class="content"><p>生产机器中通过暴力替换旧零件</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 13:48:53</div>
+            <div class="content"><p>主=6，三主成魔</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 13:46:16</div>
+            <div class="content"><p>课程很忙很紧张，实际是刻意这么慢，是为了减速陪跑</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 13:42:42</div>
+            <div class="content"><p>打字本来就没给我润滑剂，玻璃滑滑玻璃心得了</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 13:30:38</div>
+            <div class="content"><p>每个时代都有风险，可能还有机遇</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 13:27:07</div>
+            <div class="content"><p>高温压力盖过同辈压力、社会压力</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 13:19:55</div>
+            <div class="content"><p>恐慌（惧）</p><p>脆弱推手</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 12:25:05</div>
+            <div class="content"><p>公积金——房款</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 11:28:59</div>
+            <div class="content"><p>病房鼾声大，单人病房200元</p><p>耳塞</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 10:52:24</div>
+            <div class="content"><p>dsa</p><p>墙上网格板</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 09:36:19</div>
+            <div class="content"><p>从三无动作开始练</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 09:18:29</div>
+            <div class="content"><p>屏幕小，不好查看和编辑</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 09:15:39</div>
+            <div class="content"><p>车站等饮用水</p><p>石工交流群</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-24 07:11:27</div>
+            <div class="content"><p>tpe维修</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 23:58:53</div>
+            <div class="content"><p>健身房最“讨厌”这种人之 死虫式 https://b23.tv/TxVbnc6</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 23:52:16</div>
+            <div class="content"><p>盗版墙——默许下载站提供非破解版</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 23:48:28</div>
+            <div class="content"><p>应用商店抽成</p><p>规模效应</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 23:45:21</div>
+            <div class="content"><p>俱乐部成员能保证啥？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 23:35:56</div>
+            <div class="content"><p>你眼中的自己：有肌肉、围度涨了，宝宝口中的你：“啥也不是”，哈哈哈哈哈… https://b23.tv/qri5cJF</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 23:07:42</div>
+            <div class="content"><p>认证方式，中心化证书，二次验证等，分级保密</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 22:48:18</div>
+            <div class="content"><p>蚊：进门进入</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 22:42:19</div>
+            <div class="content"><p>避开高温时段减少成本</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 22:36:37</div>
+            <div class="content"><p>自查蛀牙</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 17:30:02</div>
+            <div class="content"><p>永恒的时间</p><p>无脸男</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 17:27:39</div>
+            <div class="content"><p>性欲的延宕</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 12:15:08</div>
+            <div class="content"><p>血险（献血）</p><p>脐带血</p><p>生育险（冻卵冻精）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 11:59:42</div>
+            <div class="content"><p>前后滑动坐椅</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 11:56:31</div>
+            <div class="content"><p>拒诊</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 10:55:00</div>
+            <div class="content"><p>站晃（单腿）支蹲跪坐结合</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 10:03:15</div>
+            <div class="content"><p>脸颊下部不饱满</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 00:01:09</div>
+            <div class="content"><p>身份识别认证</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-23 00:00:34</div>
+            <div class="content"><p>跨平台同步（自动化高一些的复制粘贴）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 23:42:11</div>
+            <div class="content"><p>本地到远程结合，而非飞书的远程到远程</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 23:38:58</div>
+            <div class="content"><p>审查，版本控制（“查无此网”）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 23:37:41</div>
+            <div class="content"><p>如果有公共同步盘，就可以把更多人的更多文件聚合（“放进一个或一系列的多个抽屉”）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 23:34:47</div>
+            <div class="content"><p>遮羞腰带</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 23:32:57</div>
+            <div class="content"><p>飞书支持的文件格式和语法（复制粘贴的圆点只有一级的）受限</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 23:32:43</div>
+            <div class="content"><p>不用drawio插件呢？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 23:32:02</div>
+            <div class="content"><p>面包好吃，我很爱吃</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 23:29:44</div>
+            <div class="content"><p>你就是看清我了又能咋滴？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 23:27:23</div>
+            <div class="content"><p>视觉媒介</p><p>壁画，雕刻，羊皮卷，纸，电子屏幕软件界面（图形化界面？从何开始？）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 23:26:09</div>
+            <div class="content"><p>梗指南，社交货币还是解谜游戏</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 23:23:22</div>
+            <div class="content"><p>网络协作大小三权</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 23:16:46</div>
+            <div class="content"><p>能够有更高的信息流量（流速✖️截面）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 23:15:39</div>
+            <div class="content"><p>外部文本，脑内思索领会熟悉，定位，引导，认同归属感（“我生命的一部分”）</p><p>fetch查看，日记人工推荐</p><p>平台聚合动态与单独点开博客</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 21:29:33</div>
+            <div class="content"><p>fetch通过github desktop查看作者距上次更新了啥</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 17:15:25</div>
+            <div class="content"><p>挂钩直接挂窗膜</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 17:15:18</div>
+            <div class="content"><p>裆</p><p>吸盘夹</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 17:15:00</div>
+            <div class="content"><p>避开紫外线较强时段，在较强时段防晒，露背</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 13:29:36</div>
+            <div class="content"><p>环绕扣裙</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 11:55:58</div>
+            <div class="content"><p>高压锅牛油炸土豆泥</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 11:05:57</div>
+            <div class="content"><p>生儿育女，做女人真好，少年为何穿短裙，社会应该让每个人生活得舒适</p><p>女装有演化优势</p><p>吊裆</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 09:25:54</div>
+            <div class="content"><p>消毒湿纸巾（卧床排便等）</p><p>病床帘</p><p>耳塞</p><p>口罩</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 08:17:18</div>
+            <div class="content"><p>世界上只有一种英雄主义——生活的本质在哪里？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-22 07:36:47</div>
+            <div class="content"><p>群众可以很轻松地有一个免费、多用途、不需要为自己的使命计费的灵魂，看似不需要紧密联系群众、只管独自搞地下工作的先锋队（魔法少女）直面实在界，许愿就是立志，但明志有过程，不断地使用各种暴力夺回生产资料（叹息之种，意思是对生产资料的不合理使用已经造成了很多伤害）是运动得以持续的关键，但如果采用不合法的途径消灭了，也会堕落为魔女（影响了集体形象）</p><p>这就是不可持续性，所以现实是现实，魔法是魔法，魔法来源于现实，现实比魔法更魔法</p><p>只是，没有经典，</p><p>宇宙延缓了热寂，我怎么知道热力学第二定律是不是定律，有没有可能是外星势力骗魔法少女的</p><p>从这种渐进的过程看，可能“青年”未派也算是魔法少女</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-21 20:20:27</div>
+            <div class="content"><p>我想到了前几周我爸还没放弃让我进银行，有两三回饭局上主宾突然就像海里的鱼群一样突然给我演起来了</p><p>被新旧创作拖着，活着就能创作实际效果偶尔不明确的，</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-21 18:35:15</div>
+            <div class="content"><p>吃个饭一年也就3600，话费之类的费用，分母可以很小，但我现在自己实际上创造多少，以前学的更多还是自学的</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-20 22:26:20</div>
+            <div class="content"><p>夏天48度虽然可能极轻微烫伤，但并没有冬天的冷水的退出压力大</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-20 22:12:49</div>
+            <div class="content"><p>皮尺、pvc管</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-20 20:10:41</div>
+            <div class="content"><p>开窗控制温湿度</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-20 19:30:10</div>
+            <div class="content"><p>我爸可能因为腰突，多了更老年的正向社交，去小区单杠认识了两位左右小区健身王</p><p>把他们往广场跑</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-20 15:55:47</div>
+            <div class="content"><p>如果企业有点基础的理性，可能是怕你死了要赔更多，赔率胜率</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-20 14:34:42</div>
+            <div class="content"><p>站着两手抓pvc管两端后摆</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-20 13:25:05</div>
+            <div class="content"><p>药代请主任吃饭——科室主任可以提出需要采购什么药</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-20 11:55:10</div>
+            <div class="content"><p>长时间低头的姿势要保留给默哀，看手机电脑不行</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-20 10:38:13</div>
+            <div class="content"><p>之前平老哥的那个问券是可以试试，难道因为担心病人自己乱填，问了就能没有“好像（没有）”吗？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-20 09:58:20</div>
+            <div class="content"><p>猪网膜</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-20 07:29:58</div>
+            <div class="content"><p>兜售秘籍</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 22:40:22</div>
+            <div class="content"><p>乔布斯是很厉害的甲方</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 22:26:40</div>
+            <div class="content"><p>“计量单位：豆沙包”（肉松包可能就不好意思拿出来了），一个豆沙包多少钠，相当于含有多少倍能量的多少什么食物——看到这里，假设读者看噎着了的场景，椅背呢两手呢救一下啊——然后dontworry，在预期形成新稳态的运动中委屈一下别的食物完事，接着在钠之外科普一下全谷物、添加糖（“红豆泥？”）、豆类、（发酵）奶制品，推荐自己做着搭配着一起吃，没空做的话来店里吃、量血压；面筋类比筋膜（现代人基本上都是稀疏不连续低筋，很蛇皮，没有连续绵密高筋回弹爆发强），学一下简单的筋膜训练，用脚趾抓绝对精神毛巾，坚持练习，回来用店里的健身器械和户外足球赛验证一下训练效果（包括“嗯造面包没事”）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 22:01:21</div>
+            <div class="content"><p>以前好像是买这本书送了个火星车的蓝图啥的，它应该是有畅销的讲故事风格把科学知识与脑洞结合（但科普效果有多好就不清楚了），近几月则有“被知识侵犯”的风格</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 21:49:25</div>
+            <div class="content"><p>更绑定的具体的场景比如被面包噎着了如何自救、吃面包同时如何以低钠饮食补偿和配合的吃法、高血压测量方法、相对健康的发酵食物还有哪些如何购买或自制等</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 21:41:34</div>
+            <div class="content"><p>anki可能更适合达到记忆程度（进而可以跟看不得手机电脑的别人比划比划）的学习，比如解剖学、劳动法（工伤处理流程图做成遮挡卡）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 21:17:23</div>
+            <div class="content"><p>饮食表我是想顺带推广我设计的食谱的，俱乐部也可以做，做菜可能更多是维持劳动和协作意识</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 18:07:36</div>
+            <div class="content"><p>提前送达</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 12:14:47</div>
+            <div class="content"><p>医院停车费8元1小时</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 12:01:03</div>
+            <div class="content"><p>饭、床/躺椅涨价</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 11:59:51</div>
+            <div class="content"><p>留言区</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 11:59:02</div>
+            <div class="content"><p>军属住军医院好吃好喝</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 11:57:51</div>
+            <div class="content"><p>护理、饮食</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 11:07:33</div>
+            <div class="content"><p>嗓音已经被喝酒破坏了</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 11:05:36</div>
+            <div class="content"><p>规则怪谈</p><p>十一点多食堂送餐，之前问要什么</p><p>订饭餐车，塑料餐盒</p><p>楼下超市</p><p>四点半五点半抽空腹血</p><p>心脏病人不离开这层</p><p>写在白板上</p><p>打开水、微波炉、洗碗</p><p>床尾纸质二维码洗澡</p><p>家属签字</p><p>住院病员服</p><p>心电监测（不能沾水，洗澡问护士）</p><p>检查做好再住院，不然上科技后每天各种限制行动</p><p></p><p>豆类不是深色蔬菜</p><p></p><p>移动电脑显示器升高</p><p></p><p>陪睡医院给床对面可以拉开的躺椅，10元一晚，家属可以楼下买被子</p><p>还有人像是躺在楼梯间</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 10:59:36</div>
+            <div class="content"><p>每天至少开窗通风两次，热</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 10:58:04</div>
+            <div class="content"><p>拉扯衣服快速鼓风（筋膜训练）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 10:51:11</div>
+            <div class="content"><p>住院问一堆问题</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 10:45:53</div>
+            <div class="content"><p>停车场废气工伤</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 10:01:41</div>
+            <div class="content"><p>座椅后仰头颈枕角度就对了</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 10:01:14</div>
+            <div class="content"><p>模拟赛马</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 09:51:20</div>
+            <div class="content"><p>好比在镇江开车开惯了开得好好的开到南京甚至上海</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 07:03:54</div>
+            <div class="content"><p>用颜色代替线？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 03:26:34</div>
+            <div class="content"><p>把自己的血打回来，尽管是贴着表皮，无可挽回，但仍然微微有一丝爽感——复仇，爽！</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-19 01:53:16</div>
+            <div class="content"><p>合适颜色距离的磁吸门帘</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-18 23:27:30</div>
+            <div class="content"><p>筋膜训练脚趾比赤足跑脚掌更靠下，训练更优先</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-18 22:50:13</div>
+            <div class="content"><p>纯蒸俱乐部</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-18 22:43:07</div>
+            <div class="content"><p>同样，肩部关节响了就停</p><p>量力而行</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-18 22:34:55</div>
+            <div class="content"><p>监控要法院允许才能调查，到那步就是仲裁他</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-18 22:34:20</div>
+            <div class="content"><p>干扰病例说是（直接）工作场所外受伤</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-18 22:26:20</div>
+            <div class="content"><p>离职证明能否被差评？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-18 21:56:21</div>
+            <div class="content"><p>我认为我有几个俱乐部，但是，完全没有</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-18 21:22:48</div>
+            <div class="content"><p>加油，我现在主要还是筋膜训练增强手动灭蚊能力，以及躺地板睡觉创造更宽敞、少干扰的灭蚊环境，还没用上最可靠的蚊帐，我不太喜欢走化学</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-18 21:06:23</div>
+            <div class="content"><p>人数</p><p>组团忽悠你来了</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-18 20:42:52</div>
+            <div class="content"><p>在楼梯上跟大部队搞阶级斗争，还能分辨出先锋队吗？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-18 20:38:38</div>
+            <div class="content"><p>运动表现</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-18 17:22:42</div>
+            <div class="content"><p>听到关节响（可能主要是大拇趾）就停，往另一只腿倾减小受力，再试，如果关节有点痛就休息到明天再试试</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-18 16:49:40</div>
+            <div class="content"><p>疲劳可以促进非理性消费，工作的本质是生产消费</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-18 14:00:27</div>
+            <div class="content"><p>颜色比较明确的操作，落地程度</p><p>体育、学习、交友</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 21:59:38</div>
+            <div class="content"><p>不想困扰到拼多多好友和更多人的话建议取消同步</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 21:18:31</div>
+            <div class="content"><p>安全绩效</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 16:22:58</div>
+            <div class="content"><p>“掌拳、键震要两手抓！”</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 15:45:40</div>
+            <div class="content"><p>网上办事服务大厅</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 14:12:23</div>
+            <div class="content"><p>拥堵了——离开（好借口）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 14:05:24</div>
+            <div class="content"><p>这里面水很深，你把握不住</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 13:46:16</div>
+            <div class="content"><p>实人认证</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 13:23:06</div>
+            <div class="content"><p>只陪了“误工费”，但是你少了些</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 11:56:42</div>
+            <div class="content"><p>手机架在方向盘上看</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 10:27:02</div>
+            <div class="content"><p>透气和舒适（偏硬）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 10:19:01</div>
+            <div class="content"><p>弹簧坐垫</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 10:12:35</div>
+            <div class="content"><p>小型制衣厂自购坐垫</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 10:00:14</div>
+            <div class="content"><p>睾酮与睾丸温度？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 09:53:14</div>
+            <div class="content"><p>腰背靠、头枕</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 09:44:23</div>
+            <div class="content"><p>长下摆，小平角/三角</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 09:21:08</div>
+            <div class="content"><p>制衣间坐垫</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 08:18:21</div>
+            <div class="content"><p>胸垫</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 05:56:41</div>
+            <div class="content"><p>爸妈在走廊上点了蚊香后，这只开灯也难看见的蚊子有点安分，像开灯时一样只闻其声，不见其蚊，</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-17 01:11:58</div>
+            <div class="content"><p>提前关门（不让蚊子提前进去埋伏），关门缝</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 22:58:59</div>
+            <div class="content"><p>凉感床品等</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 22:48:35</div>
+            <div class="content"><p>要行动力就是要舍生忘死</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 22:41:39</div>
+            <div class="content"><p>自己下决心就行</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 22:30:19</div>
+            <div class="content"><p>躺椅？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 22:06:36</div>
+            <div class="content"><p>钟表时间、预期寿命</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 21:59:59</div>
+            <div class="content"><p>为什么办事机构没有高效指南？因为各自为政？因为互联网对当地办事影响不大？怕工作量加大？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 21:59:27</div>
+            <div class="content"><p>工伤期间解雇？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 21:22:26</div>
+            <div class="content"><p>人口再生产、自恋</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 21:22:18</div>
+            <div class="content"><p>自认倒霉、</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 20:31:02</div>
+            <div class="content"><p>菜鸟逸站</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 20:02:22</div>
+            <div class="content"><p>弱者思维</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 18:35:19</div>
+            <div class="content"><p>运动完直接坐下</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 18:11:20</div>
+            <div class="content"><p>全省通办</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 17:47:14</div>
+            <div class="content"><p>经办规程</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 16:49:01</div>
+            <div class="content"><p>烧烤的危害</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 16:29:42</div>
+            <div class="content"><p>足球（练脚）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 13:42:54</div>
+            <div class="content"><p>父亲节</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 13:30:40</div>
+            <div class="content"><p>痛点（军训等），海报进流程图</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 12:21:38</div>
+            <div class="content"><p>学校桌椅凳搭脚板、绳</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 12:05:36</div>
+            <div class="content"><p>直接睡平面上也许还能帮助加速骨盆前倾等体态问题的解决（</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 11:50:47</div>
+            <div class="content"><p>夏日光照和温度等因素延长了清醒时间，乃至睡眠质量</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 11:45:39</div>
+            <div class="content"><p>赤足名人</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 11:37:30</div>
+            <div class="content"><p>现在就敢怕蝉，以后敢怕什么我都不敢想了</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 11:36:56</div>
+            <div class="content"><p>享受国务院津贴？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 11:36:46</div>
+            <div class="content"><p>不会主刀？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 11:36:21</div>
+            <div class="content"><p>心脏造影住院（镇江）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 10:19:36</div>
+            <div class="content"><p>零知识证明</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 09:15:57</div>
+            <div class="content"><p>电脑按摩椅结合，制冷，自慰</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 08:53:35</div>
+            <div class="content"><p>未明子：诚邀鸡肉爱好者关注植青俱乐部直播 https://b23.tv/oLip1ex</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 08:50:28</div>
+            <div class="content"><p>https://www.zhihu.com/answer/1959993219</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 08:23:44</div>
+            <div class="content"><p>抖腿真的不好吗？不同抖腿方法，踩横杠横断面</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 08:08:18</div>
+            <div class="content"><p>赶着上班还是啥的自行拆线造成康复退行</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 07:12:30</div>
+            <div class="content"><p>撞树与筋膜</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 04:59:50</div>
+            <div class="content"><p>降低接触面温度可能会使蚊子更倾向于落在腹部等容易打到的位置</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 04:57:29</div>
+            <div class="content"><p>早起在窗边打死正努力往外飞的蚊子</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 04:55:34</div>
+            <div class="content"><p>髂腰肌拉伸注意回正</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 04:38:35</div>
+            <div class="content"><p>蛞蝓</p><p>短睡睡地板，制造选择压力</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 00:40:25</div>
+            <div class="content"><p>让他们尝尝我们的厉害</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 00:38:25</div>
+            <div class="content"><p>睡地板灭蚊</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 00:18:03</div>
+            <div class="content"><p>骨盆前倾，下腹突出</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-16 00:10:12</div>
+            <div class="content"><p>硅胶、tpe等原料、模具</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 23:54:15</div>
+            <div class="content"><p>防晒头套</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 23:47:10</div>
+            <div class="content"><p>说我疯了，还说我是精神病</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 22:26:23</div>
+            <div class="content"><p>性行为就提前淋浴等</p><p>还可试泡澡</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 22:24:07</div>
+            <div class="content"><p>数值化的锻炼产业</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 22:15:56</div>
+            <div class="content"><p>pdf导入为牌组</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 21:19:27</div>
+            <div class="content"><p>乳贴贴衣服内侧</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 21:04:46</div>
+            <div class="content"><p>用脚开门后拉开距离看蚊子有没有进门再进门</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 20:55:13</div>
+            <div class="content"><p>冰丝帽，速干帽？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 20:15:48</div>
+            <div class="content"><p>两手一起拍，增大扑击面积</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 19:48:55</div>
+            <div class="content"><p>效费比</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 19:47:29</div>
+            <div class="content"><p>好赌，不当回事</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 19:47:13</div>
+            <div class="content"><p>伤口在临界范围，不当回事</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 19:45:57</div>
+            <div class="content"><p>玻璃纤维，胶带粘</p><p>石棉网，一根根摘</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 19:43:34</div>
+            <div class="content"><p>盖章</p><p>有些伤口单手自己换</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 19:39:02</div>
+            <div class="content"><p>安检乘客物品卡着，安检员工直接往安检机里掏——很熟练，可能还没工伤预防培训</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 19:33:03</div>
+            <div class="content"><p>第一次住院初步诊断——医生怕参与骗担责</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 19:29:55</div>
+            <div class="content"><p>医生怕担参与工伤认定的“后果”，避免</p><p>被建议写病历“模棱两可”</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 19:24:47</div>
+            <div class="content"><p>1根手指2万</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 19:22:12</div>
+            <div class="content"><p>部队评残，很难</p><p>参军回来，半月板磨损、腰突</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 19:16:17</div>
+            <div class="content"><p>槲皮素、菠萝蛋白酶</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 19:15:41</div>
+            <div class="content"><p>药店便宜换药包两块钱</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 19:09:43</div>
+            <div class="content"><p>打螺丝，腱鞘炎</p><p>网球肘</p><p>搬运工、厨师</p><p>腰肌劳损、腰突</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 18:33:18</div>
+            <div class="content"><p>一点就抱怨 郭继承</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 18:19:32</div>
+            <div class="content"><p>蹲着看（看到更多天空）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 17:30:50</div>
+            <div class="content"><p>流程图可以加链接，可以做典型的流程的关键路径，可以加案例</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 16:56:29</div>
+            <div class="content"><p>凡杀不死我的——热适应</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 16:09:14</div>
+            <div class="content"><p>shift切换图形</p><p>ctrl复制图形</p><p>drawio快捷键</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 15:34:34</div>
+            <div class="content"><p>肥皂洗碗</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 14:42:34</div>
+            <div class="content"><p>在远眺同时做一些需要更多时间乃至追求更长时间记录的运动</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 14:36:51</div>
+            <div class="content"><p>慢性轻度炎症</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 14:33:44</div>
+            <div class="content"><p>我不是说《圣经密码》的类似套路，而是说，流行文化难道独立于高精尖的学术吗？当然，这也不是一锅粥和稀泥</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 13:57:48</div>
+            <div class="content"><p>绝对律令，是崇高</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 13:56:19</div>
+            <div class="content"><p>能人往往坚持运动</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 13:49:37</div>
+            <div class="content"><p>推车玩具</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 13:44:37</div>
+            <div class="content"><p>必需运动、可选运动</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 13:17:00</div>
+            <div class="content"><p>流水不腐，户枢不蠹</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 13:16:51</div>
+            <div class="content"><p>不要让机器生锈</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 13:02:59</div>
+            <div class="content"><p>舞蹈，瑜伽，合爱</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 12:26:16</div>
+            <div class="content"><p>英棒、美刀、法棍</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 12:19:55</div>
+            <div class="content"><p>看视频比讲话更影响消化吗？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 11:57:31</div>
+            <div class="content"><p>即插即用，即拔即弃</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 11:48:39</div>
+            <div class="content"><p>认知失调，进化失配</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 11:25:32</div>
+            <div class="content"><p>图示bgm</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 11:24:19</div>
+            <div class="content"><p>不论汗流浃背，胜似闲庭信步</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 11:15:34</div>
+            <div class="content"><p>现代性，现代病，现代性病</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 10:40:07</div>
+            <div class="content"><p>女泉（下头男）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 09:12:06</div>
+            <div class="content"><p>分配到工作内容而是事后看工作量差不多能达标</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 09:09:26</div>
+            <div class="content"><p>拍牙科诊所门头柜台发朋友圈发软毛牙刷</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 09:06:41</div>
+            <div class="content"><p>写手册是很简单的，精诚合作</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 08:47:05</div>
+            <div class="content"><p>把裤子塞隔开</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 08:46:32</div>
+            <div class="content"><p>有这样笔记可以放笔记里，没有建议放文档或白板里，白板可以画成流程图那样</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 08:42:45</div>
+            <div class="content"><p>2小时不饮食</p><p>24小时不刷牙</p><p>后牙7天拆线</p><p>疼的话吃止痛药</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 08:25:03</div>
+            <div class="content"><p>口腔诊所等可能有无密码WiFi</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 08:23:05</div>
+            <div class="content"><p>现代人全身上下没一块健康的</p><p>牙齿</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 07:57:35</div>
+            <div class="content"><p>我是打算等马逍拉个群再说，因为很多环节是贯通三个部分的，比如职业病诊断标准，可能大多数人都要看过，单独写大概比较浪费时间</p><p></p><p>https://khtazmt.github.io/#/page/%E5%B7%A5%E4%BC%A4</p><p>这个是我整理的笔记，其中想写什么可以复制或截图发我，我给你标记一下</p><p>你可以看一下职业病目录、致病因素（那个培训视频应该有点用，可能该看看安防行业的内容）、诊断标准等文件，看看具体的事故伤害或职业病怎么预防</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-15 06:44:36</div>
+            <div class="content"><p>隔几米看</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-14 22:35:13</div>
+            <div class="content"><p>布底布鞋加胶底鞋套</p><p>无产阶级审美</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-14 22:33:15</div>
+            <div class="content"><p>审美（白，肌肥大等）——甚至不是最优，而只是有规模效应</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-14 22:30:29</div>
+            <div class="content"><p>避免用力排便，宁可少排点</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-14 22:25:10</div>
+            <div class="content"><p>放弃日化用品</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-14 18:17:51</div>
+            <div class="content"><p>炎症消耗更多热量</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-14 13:51:36</div>
+            <div class="content"><p>1.50</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-14 12:32:57</div>
+            <div class="content"><p>自愿参保</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-14 12:11:01</div>
+            <div class="content"><p>广东轻工业/服务业较多，而工伤相对稍多</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-14 12:04:24</div>
+            <div class="content"><p>问卷，是否有工伤培训，记得多少、用了多少</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-14 10:30:52</div>
+            <div class="content"><p>交接（人工预切割或“自然”切割的小块时间拼接为大块时间，并减少切割和拼接损耗）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-13 22:38:32</div>
+            <div class="content"><p>观钱法卫/品/器</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-13 22:27:46</div>
+            <div class="content"><p>血压1105976</p><p>1056678</p><p>1127278</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-13 22:24:40</div>
+            <div class="content"><p>影响驾驶交通工具，包括不能驾驶或增大驾驶风险</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-13 22:09:15</div>
+            <div class="content"><p>人社局对申请的不同——希望用人单位选择放弃和拖延</p><p>具体需要咨询人社局</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-13 20:06:39</div>
+            <div class="content"><p>缩略词（公文）与引用链接</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-13 18:29:37</div>
+            <div class="content"><p>弱者思维</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-13 17:58:47</div>
+            <div class="content"><p>空调效果不佳</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-13 17:01:11</div>
+            <div class="content"><p>斋月</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-13 12:50:57</div>
+            <div class="content"><p>无风室内比有风室外热正常，</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-13 12:43:40</div>
+            <div class="content"><p>发帽（高温段）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-13 12:34:57</div>
+            <div class="content"><p>白天可只洗冷水澡（也是帮助恢复）</p><p>有点烫伤感可以隔几天，或者较低温度淋浴</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-13 12:19:31</div>
+            <div class="content"><p>体技心</p><p>吃完饭做什么</p><p>洗碗优于看视频优于思考写作</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-13 12:07:44</div>
+            <div class="content"><p>虾头男——腰突</p><p>筋膜滑动范围受限</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-12 23:03:29</div>
+            <div class="content"><p>没完全干的衣服先不放入衣柜</p><p>衣柜开门</p><p>不用衣柜，就在外面（尤其是离地面较高处）放着</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-12 22:54:52</div>
+            <div class="content"><p>隔开大腿（尤其是较粗的大腿）和阴囊</p><p>筋膜训练收大腿</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-12 22:48:00</div>
+            <div class="content"><p>赤足，多人宿舍地面（包括有水地面、可能有点滑还不太干净的卫生间地面）不太干净的话建议还是以外面走为主</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-12 22:42:01</div>
+            <div class="content"><p>哭、流血</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-12 21:28:26</div>
+            <div class="content"><p>就像烈焰人吃了烈焰蛋糕燃起来了</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-12 18:10:10</div>
+            <div class="content"><p>苏联美学</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-12 14:56:15</div>
+            <div class="content"><p>早睡早起睡眠/清醒效率更高，均温更低</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-12 14:47:02</div>
+            <div class="content"><p>献血测血压，别太担心</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-12 13:13:50</div>
+            <div class="content"><p>蓬松，甩头——颈部要注意基本康复到位</p><p>张正午墨镜</p><p>避开眼部、外生殖器等敏感部位</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-12 12:54:23</div>
+            <div class="content"><p>卡牌生存里也这么降温</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-12 10:44:51</div>
+            <div class="content"><p>烟卡</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-12 08:52:03</div>
+            <div class="content"><p>温尼科特、克莱因</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-12 07:57:27</div>
+            <div class="content"><p>直播社会行为主义</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-12 07:54:12</div>
+            <div class="content"><p>全都放出去了——心里防御机制</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 23:39:51</div>
+            <div class="content"><p>劳动节前后生水瓶座小宝宝</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 21:46:59</div>
+            <div class="content"><p>早睡早起，自然变强每一天</p><p>从“瘫痪在床”到“风驰电掣”，从“（躺/趴）平人”到“立人”</p><p>on the run</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 21:04:01</div>
+            <div class="content"><p>累了就顺势往地上一撑（注意别骨折了）开始爬，前后左右旋转，鼻塞了转两圈就好</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 18:41:30</div>
+            <div class="content"><p>分了几个程度，更好安排间隔</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 17:43:10</div>
+            <div class="content"><p>餐具安全测试</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 16:55:45</div>
+            <div class="content"><p>宽腿裆裤</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 16:20:11</div>
+            <div class="content"><p>扁线电机——柔性生产线</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 16:16:40</div>
+            <div class="content"><p>汽车座椅通风加热/降温——ptc正负极</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 15:30:48</div>
+            <div class="content"><p>吃奇迹长大的，但我现在特想吃</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 15:02:39</div>
+            <div class="content"><p>咽炎，戒烟</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 14:41:59</div>
+            <div class="content"><p>股价跌证代接电话</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 14:40:18</div>
+            <div class="content"><p>可以加入上海的俱乐部</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 13:42:03</div>
+            <div class="content"><p>化纤，微塑料</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 09:51:55</div>
+            <div class="content"><p>原地点地跑</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 09:45:47</div>
+            <div class="content"><p>撑筋拔骨-主动拉伸</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 09:19:23</div>
+            <div class="content"><p>可以帮他们认识更多朋友、作个人优化</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 08:37:46</div>
+            <div class="content"><p>像处理一条新的碎片笔记、切歌、流鼻涕、屁股眼睛不舒服一样，任意扰动都可以使你离开座位</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 07:55:05</div>
+            <div class="content"><p>挺好的，年轻人要学会知足和均衡劳动，不要在一种符号性增殖上吊死，也可以去搞机、擦玻璃啊</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-11 06:12:44</div>
+            <div class="content"><p>坐着就能运动——坐式动感单车？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-10 23:27:12</div>
+            <div class="content"><p>不为明天忧虑——“睡晚了，明天效率不会高吧”</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-10 23:01:31</div>
+            <div class="content"><p>方程计算器</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-10 23:01:04</div>
+            <div class="content"><p>周期，学期初学期末时间充裕程度不一样</p><p>医学到日常生活迁移量较大，法律可能小些</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-10 22:26:26</div>
+            <div class="content"><p>蚊钱/费，电蚊同源（窗缝，纱窗与窗接触缝）</p><p>默默无蚊</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-10 17:34:39</div>
+            <div class="content"><p>久坐与钙流失等</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-10 12:54:55</div>
+            <div class="content"><p>因为我玩不起普通难度的生活，所以重新选择了简单难度的，但这游戏还是讲究点跨难度公平的，我要同等快、更快地升级进化乃至杀死游戏就不得不主动找事做</p><p>就目前的状况看，我还在坚持家里蹲，同时因为没有稳定收入（也就是跟投一万左右的基金）而少花钱（“有钱是真的好”；但不是为了后者而前者，不是为了一味啃老，可能有六味或什么的）</p><p>我花较多时间在网上到处看、记、整理、测试等，所以可能在较多方面都懂一点，但在公网上主要是个logseq日常生活写作领域大神</p><p>请无组织无纪律地随意向我咨询，指不定我比你更懂你在做什么，相对有沉淀的敏锐的人是这样的</p><p>你骂我能咋样，所以说懂了吧</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-10 12:17:25</div>
+            <div class="content"><p>双直角坐改跪坐（空间不够怎么办？比如教室固定座位）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-10 09:00:54</div>
+            <div class="content"><p>记忆（多层级，同层级少量）</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-09 22:40:25</div>
+            <div class="content"><p>https://www.thepaper.cn/newsDetail_forward_1351125 </p><p>https://baijiahao.baidu.com/s?id=1655495511047615975 </p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-09 20:49:16</div>
+            <div class="content"><p>这个爱眼日主题的创作计划，除了回复动态里出现的问题和决定做近视配眼镜教程外，还是可以参考我的《护眼》继续做大做强</p><p>丁师傅可能从偏临床的角度评价了那些问题和部分方案，她是我们在这个主题上的临床/学术权威，但对于一些临床前后或之外的不利条件，部分患者会自己尝试控制（比如工作条件就是得长时间看电子屏幕，那他们能不能换个好点的屏幕？他们既然问了，那他们就应该知道怎么换？——如果他们知道，那他们还问干什么？），而在“（儿童/成人）眼轴能否（持续性）缩短”之类有争议的问题上，基于“视力鸡娃”等消费动力的（儿童）近视防控产业也可能比严谨认真地搞适用于临床的证据等级制等的学术界有更敏捷的反馈——我不知道那些持续受疾病困扰的患者怎么想，反正我想赶时间整更多好活，如果有基本无害、成本低的方案，为什么不让人们自行试试？</p><p>此外，一些方案“看起来怎么样、像不像刷评论的、整‘我好对’的偶像崇拜之类cult的”不足以让我否定“说不定真有用”的诱人机会</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-09 13:17:24</div>
+            <div class="content"><p>逻辑（形式逻辑），实证</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-09 13:11:51</div>
+            <div class="content"><p>主手法则——近视、褥疮、腕管炎等</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-09 12:38:24</div>
+            <div class="content"><p>手术成功率——在哪看？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-09 12:04:14</div>
+            <div class="content"><p>手机单手操作带</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-09 11:34:42</div>
+            <div class="content"><p>清洗溶剂</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-08 12:53:28</div>
+            <div class="content"><p>骑行镜、头盔镜片、坐垫烫</p><p>换水桶</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-08 11:10:40</div>
+            <div class="content"><p>自家烧的水、滤的水、做的菜算食品吗？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-08 10:47:51</div>
+            <div class="content"><p>三件事，一点微小的贡献，很惭愧，谢谢大家</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-08 08:37:23</div>
+            <div class="content"><p>光合（二氧化碳合）、氧合</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-08 08:36:09</div>
+            <div class="content"><p>青少年鼻炎</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-08 08:31:28</div>
+            <div class="content"><p>生产过剩买了浪费掉，或者回收继续浪费</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-08 08:04:07</div>
+            <div class="content"><p>高层塔楼，既高配又低配的赫鲁晓夫楼</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-06 22:47:48</div>
+            <div class="content"><p>买东西等放一起搜</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-06 22:35:21</div>
+            <div class="content"><p>顶凉包括加快散热或脑脊液加快清理？因为工作密度和工作量上去？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-06 11:36:19</div>
+            <div class="content"><p>防晒手机壳</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-06 10:57:05</div>
+            <div class="content"><p>太阳镜架放磨损</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-06 09:51:28</div>
+            <div class="content"><p>民营医院</p><p>根浴</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-06 08:56:12</div>
+            <div class="content"><p>动脉堵了——堵车</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-05 17:56:24</div>
+            <div class="content"><p>家务，保姆</p><p>银行柜员六年不到，七八点到五六点，忙的时候轮流吃午饭，之后客户经理</p><p>老房子上班自行车一周75分钟</p><p>我小学还骑自行车</p><p>近年更多在办公室，坐45分钟左右起来一次</p><p>搬东西，静养</p><p></p><p>慢性鼻炎，长期咳嗽对心血管压力？</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-05 08:29:48</div>
+            <div class="content"><p>github对应工具页面可能有机场广告页，里面“一元机场”是包年每月一块钱不限流量的，速度对我来说够了；还有别人免费分享的一般要上电报群看</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-04 23:05:43</div>
+            <div class="content"><p>批判享乐区</p><p>详细说明</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-04 19:06:09</div>
+            <div class="content"><p>工伤申请、人证被约谈不让人证、礼物（给受工伤时帮忙的同事的）被截获、要不到监控</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-03 07:14:29</div>
+            <div class="content"><p>冰垫、</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-06-01 23:11:46</div>
+            <div class="content"><p>护眼，omega3，鱼类，黑肉牛磺酸，核辐射</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-05-31 18:38:14</div>
+            <div class="content"><p>国之大事，在祀与戎</p><p>意识形态机器和暴力机器，都是为了维持国家存在</p><p>这样的显然不完善</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-05-31 14:36:42</div>
+            <div class="content"><p>半盔</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-05-29 22:36:53</div>
+            <div class="content"><p>牛磺酸、coq10、d核糖</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-05-29 22:34:51</div>
+            <div class="content"><p>货车司机、塔吊司机、外卖骑手、</p><p>导游</p><p>白领</p><p>学生</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-05-29 22:26:13</div>
+            <div class="content"><p>职业定制</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-05-29 22:25:20</div>
+            <div class="content"><p>汽车坐垫（如果不开空调，还可以开窗——是否开窗？）</p><p>开窗油耗、开空调油耗成本</p><p>风扇吹</p><p>货车司机坐姿</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-05-29 22:22:49</div>
+            <div class="content"><p>你不必全年穿一样/一种cosplay，不必为了cosplay厚衣服而出汗，不必非要反季节cosplay</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-05-24 17:55:58</div>
+            <div class="content"><p>移走时外伸远离脚部</p></div>
+            <div class="files"></div>
+        </div>
+    
+        <div class="memo">
+            <div class="time">2024-03-16 23:58:48</div>
+            <div class="content"><p>修手机，机箱清灰，洗链条上油，看蹭碟，充电（电动牙刷等），找雨衣/一次性雨衣、枕头眼罩耳塞</p><p></p><p>烤网加高架</p><p>自制葡萄糖酸锌、维c片、气密除湿衣柜</p><p>树引体向上、鲤鱼打挺</p></div>
+            <div class="files"></div>
+        </div>
+    
+              </div>
+              <script>
+                const memos = document.querySelectorAll(".memo");
+                const dateSelect = document.querySelector("#date");
+                const tagSelect = document.querySelector("#tag");
+                const filterBtn = document.querySelector("button");
+                filterBtn.addEventListener("click", () => {
+                  const date = dateSelect.value;
+                  const tag = tagSelect.value;
+
+                  memos.forEach((memo) => {
+                    const time = memo.querySelector(".time").innerText;
+                    const content = memo.querySelector(".content").innerText;
+                    const isDateMatch = time.includes(date);
+                    const isTagMatch = content.includes(tag);
+                    if (isDateMatch && isTagMatch) {
+                      memo.style.display = "block";
+                    } else {
+                      memo.style.display = "none";
+                    }
+                  });
+                });
+              </script>
+              <script src='./file/js/select.js'></script>
+
+            </body>
+        </html>
+    
