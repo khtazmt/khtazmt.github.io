@@ -157,6 +157,7 @@
 	- TODO 结果排序方式
 	- https://docs.logseq.com/#/page/queries
 - # logseq的文件
+  collapsed:: true
 	- 如果你只是阅读（尤其是在网页端阅读）或刚开始写作的话，并不需要了解这方面，但用久了可能会为了排查故障（包括抢救文件）或把自己的库分享给别人前过滤隐私等信息而了解
 	- 库/图谱文件夹
 		- assets文件夹（放以文件形式自动复制到该文件夹的图片文件、pdf文件等）
@@ -187,6 +188,7 @@
 	- ((659b34e3-eafb-4594-89b7-fac98edf6014))
 	- （平台）发布前对logseq的格式转换/排版（目前不咋用）
 	  id:: 65bcbf46-9860-48d3-84e1-592c30b25207
+	  collapsed:: true
 		- 内容需要链接，尤其是“科学综述”
 		  logseq.order-list-type:: number
 		- logseq的markdown语言特性
@@ -221,7 +223,6 @@
 					- 注：推荐使用 Chrome 浏览器，效果最佳。另外，对于国内（中国）的朋友，访问 [Gitee Pages](https://doocs.gitee.io/md) 速度会相对快一些。
 			- 目前不用的：logseq 导出前先备份整库，然后在 ((65ab10fa-9bb1-4c11-8112-1d5744559b36)) （免费）、 ((65d2ac10-0546-4a5d-a6ed-261768b13d55)) （15 天试用，89元三台设备）等编辑器中用正则表达式查找替换，删除页面的所有超链接（含文本）、图片及同块内容（比如标签和自动生成的“collapsed true”），接着用 logseq 自带的导出功能，导出后撤销（Ctrl+Z）恢复原样
 			  id:: 659c0642-29a9-4794-ae0e-8822f0a8f549
-			  collapsed:: true
 				- [visual-studio-code – 如何更改 VS Code 的文件排序？_vscode 按时间进行排序-CSDN 博客](https://blog.csdn.net/u010598525/article/details/108978465)（纯小白文件多找不到需要按修改时间排序，按这方法最后选“modified”）
 				- 正则表达式
 				  id:: 66335bd1-4b73-4876-896e-f814584162db
