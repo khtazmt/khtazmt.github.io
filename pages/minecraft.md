@@ -1,5 +1,6 @@
 - （我的）待办
   id:: 66335bd1-49d2-4b78-ba22-702f4760f8ee
+  collapsed:: true
 	- ((6636e4f0-63d2-44dc-a30e-c3cf71c2fcd0))
 		- ![Minecraft.drawio.svg](../assets/Minecraft.drawio_1715337603306_0.svg){:height 417, :width 697}
 		  id:: 663dba34-272f-458f-bd2f-334b1f9ac712
@@ -300,7 +301,6 @@
 				- 吹水洗矿（粉碎矿石到对应的粒，省得冶炼了，很多装配直接用粒；洗锌出火药）
 	- 自动（两个及以上环节相连，比如鸡下蛋后自动运输到动力辊压机下的工作盆，和同样运输过来的先在粉碎轮加工过的糖和余烬面粉被压成烈焰蛋糕胚，然后注液器“裱花”熔岩得成品烈焰蛋糕）
 - “回归教程”
-  collapsed:: true
 	- “麦块常识”
 		- e打开背包（“你在怀疑什么？”）
 		- q扔东西
@@ -345,6 +345,7 @@
 		- 可在启动器的“版本设置-Mod管理”中右键Mod（即模组）“转到MC百科”查看
 		- [机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2021.html)（“Mod教程”也可以看）
 		  id:: 662da7ed-a0af-4534-bacb-55ec5b68caa0
+			- # “玩什么？农村小工业！”
 			- [物品/方块 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/list/2021-1.html)
 				- ((662e5fb2-0f11-4db5-9af0-5fc1df62118f))
 			- 最主要的模组，非常好
@@ -461,6 +462,7 @@
 - 不太成功的尝试
 	- [[Minecraft机械动力]]
 - DOING 通过Minecraft学习
+  collapsed:: true
   :LOGBOOK:
   CLOCK: [2024-04-30 Tue 09:48:48]
   CLOCK: [2024-05-07 Tue 13:28:36]
@@ -478,6 +480,7 @@
 	- 视角（相对）狭窄而刺激
 	  collapsed:: true
 	- 世界版本与模组
+	  collapsed:: true
 		- “我的世界”的“原版”部分已比较精彩，但模组能够创造和满足更多需求
 			- 我们的世界的原版可能比我的世界的原版更贫乏，模组是哪来的呢？
 			- 无论你是否“忠于原版”，你都可以走出“舒适圈”（存疑），玩一玩不一样的世界

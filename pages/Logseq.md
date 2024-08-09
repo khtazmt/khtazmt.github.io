@@ -169,9 +169,11 @@
 		  collapsed:: true
 			- .recycle文件夹（从图谱索引中删除但在这个“回收站”保存的笔记文件；可能残留隐私，分享需留意）
 			- bak文件夹（本地备份，可用于恢复笔记和配置；其中的pages文件夹可能残留隐私，分享需留意）
+			  id:: 66ade36e-1d3f-40b8-bf59-293dc1011a10
 				- [write most file in bak folder · Issue #3370 · logseq/logseq · GitHub](https://github.com/logseq/logseq/issues/3370)
 				- [fix: search or editor frozen caused by large text by tiensonqin · Pull Request #6455 · logseq/logseq · GitHub](https://github.com/logseq/logseq/pull/6455)
 		- pages文件夹（放md或org文档的默认文件夹，新增页面会在此新增文档）
+		  id:: 66ade36e-124c-4570-a4e4-6791c3ba896c
 		- whiteboards（放logseq白板）
 	- .logseq文件夹（位于系统盘的所在用户的文件夹内，如`C:\Users\XXX\.logseq`）
 	  id:: 6594cd23-e261-462c-b54a-a5336b75038f
