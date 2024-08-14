@@ -1,0 +1,9 @@
+excalidraw-plugin:: true
+
+- #+BEGIN_IMPORTANT
+  This file is used to store excalidraw information, Please do not manually edit this file.
+  #+END_IMPORTANT
+- {{renderer excalidraw-menu, excalidraw-2024-04-12-18-21-15}}
+- ```json
+  {"elements":[{"id":"wLl5-jtTRWHrI8UVq_i77","type":"text","x":960,"y":410.0081253051758,"width":10,"height":25,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":1576493695,"version":2,"versionNonce":1223823039,"isDeleted":true,"boundElements":null,"updated":1712917284897,"link":null,"locked":false,"text":"","fontSize":20,"fontFamily":1,"textAlign":"left","verticalAlign":"top","baseline":16,"containerId":null,"originalText":"","lineHeight":1.25},{"id":"I9HqxzPOJWra7XmUsqR_F","type":"text","x":776,"y":352.0081253051758,"width":10,"height":25,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":1664696977,"version":2,"versionNonce":871297823,"isDeleted":true,"boundElements":null,"updated":1712917298595,"link":null,"locked":false,"text":"","fontSize":20,"fontFamily":1,"textAlign":"left","verticalAlign":"top","baseline":16,"containerId":null,"originalText":"","lineHeight":1.25}],"files":{},"appState":{"gridSize":null,"viewBackgroundColor":"#ffffff","zoom":{"value":1},"offsetTop":19.99187469482422,"offsetLeft":0,"scrollX":0,"scrollY":0,"viewModeEnabled":false,"zenModeEnabled":false}}
+  ```
