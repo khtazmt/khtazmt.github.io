@@ -1,7 +1,7 @@
 -
 - 哲学；时空幻境braid
 - 看了宣传片像是那类场景较大的“新大陆神庙/雨林探险解谜”
--
+- [Steam 社区 :: 指南 :: How to play The Witness in VR](https://steamcommunity.com/sharedfiles/filedetails/?id=2566709878)
 - 游玩历史
   collapsed:: true
 	- ((6319b5ab-a9d1-4cb5-b01c-b14aaea8d74d))
