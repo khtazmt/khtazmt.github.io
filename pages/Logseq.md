@@ -207,6 +207,7 @@
 			- 字数限制
 			  logseq.order-list-type:: number
 				- 小红书上限 1000 字，所以长文可能缩成结论、摘要、图片等，还可以分篇发
+				  id:: 66ade36e-e458-4795-badb-c3d9808b7972
 			- 外部链接限制
 			  logseq.order-list-type:: number
 				- 百家号文章容易审核到外部网址让修改，不修改提交也可能过，但是一来一回至少可能影响发布时效
