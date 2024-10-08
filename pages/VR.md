@@ -1,7 +1,9 @@
+- “放大，放大，再放大！”——“拉近，拉近，再拉近！”
 - [VR 不完全科普指南 - 少数派](https://sspai.com/post/83384)
 - ![brave_7B4pzbj9ud.png](../assets/brave_7B4pzbj9ud_1723608859197_0.png)
 - VR头显
   id:: 66bafd7f-6997-4952-b509-4240e14b5bbf
+  collapsed:: true
 	- ((66ade36d-bcb8-4d9a-be60-255a07937e8c))
 	- 不是富哥富姐、日均使用时间不多的话，建议有条件先去实体店体验几小时，觉得好或一定需要的
 	- ((66ade391-5009-4e0b-8875-5a883f0d05ed))
@@ -115,3 +117,4 @@
 		- [Quest3买了后一定要装的应用（欢迎补充）【quest3吧】_百度贴吧](https://tieba.baidu.com/p/8667346019)
 		- [SkyBox VR 视频软件无线看3D电影教程【Quest必备软件】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV15M4m1Q7vV/)
 		- [Oculus Quest2无需电脑直接和手机端互传文件教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1iv41147ar)
+- ((67038098-47af-43d6-9d6c-d0123772e5ca))
