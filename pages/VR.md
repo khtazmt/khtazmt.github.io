@@ -3,7 +3,6 @@
 - ![brave_7B4pzbj9ud.png](../assets/brave_7B4pzbj9ud_1723608859197_0.png)
 - VR头显
   id:: 66bafd7f-6997-4952-b509-4240e14b5bbf
-  collapsed:: true
 	- ((66ade36d-bcb8-4d9a-be60-255a07937e8c))
 	- 不是富哥富姐、日均使用时间不多的话，建议有条件先去实体店体验几小时，觉得好或一定需要的
 	- ((66ade391-5009-4e0b-8875-5a883f0d05ed))
