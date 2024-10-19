@@ -344,8 +344,9 @@
 			- 服务器开了死亡掉落保护，所以（一般）不用担心怪叫（“可以调低敌对生物音量”）和意外死亡，但护具耐久好像还会掉
 	- 模组
 		- 可在启动器的“版本设置-Mod管理”中右键Mod（即模组）“转到MC百科”查看
-		- [机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2021.html)（“Mod教程”也可以看）
+		- [机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2021.html)
 		  id:: 662da7ed-a0af-4534-bacb-55ec5b68caa0
+			- “Mod教程”也可以看
 			- # “玩什么？农村小工业！”
 			- [物品/方块 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/list/2021-1.html)
 				- ((662e5fb2-0f11-4db5-9af0-5fc1df62118f))
