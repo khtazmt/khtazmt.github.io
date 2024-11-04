@@ -1,0 +1,83 @@
+* 香源
+:PROPERTIES:
+:END:
+** 植物（活着挥发）
+:PROPERTIES:
+:END:
+*** 香料
+:PROPERTIES:
+:END:
+**** 香草荚
+:PROPERTIES:
+:collapsed: true
+:END:
+***** [[https://journals.lww.com/nutritiontodayonline/Fulltext/2020/07000/Vanilla__Potential_Health_Benefits.10.aspx][Vanilla Potential Health Benefits]]
+***** 替代品
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 乙基香兰素
+*** 精油纯露
+*** 园艺
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 香草（herbs，可做餐）
+:PROPERTIES:
+:END:
+***** 薄荷
+***** 紫苏
+***** 百里香
+***** [[迷迭香]]
+**** 鲜花
+:PROPERTIES:
+:END:
+***** 栀子花
+:PROPERTIES:
+:END:
+****** [[https://www.zhihu.com/question/20634922][栀子花该怎么养？]]
+***** 桂花
+***** 腊梅
+***** 海桐
+**** 花环
+:PROPERTIES:
+:id: 671c4a4c-c70c-4078-b30d-92a7220ce64e
+:END:
+***** 松针环
+*** 树木
+*** 绿地
+** 食物（餐点外尽量别闻）
+** 负面
+:PROPERTIES:
+:END:
+*** 电子烟
+**** [[https://zhuanlan.zhihu.com/p/431119887][谢谢你抽电子烟：一场瞄准年轻人的健康骗局]]
+* 扩香（挥发。由快到慢一般是：喷雾、扩香仪/香薰机、扩香藤条、肉桂棒、扩香木、扩香石）
+:PROPERTIES:
+:END:
+** 精油
+:PROPERTIES:
+:END:
+*** 松柏
+:PROPERTIES:
+:END:
+**** 大西洋雪松
+:PROPERTIES:
+:END:
+***** [[https://zhuanlan.zhihu.com/p/76311479][植识库|大西洋雪松精油的14大益处及7种配方]]
+*** 肉桂（嚼过没？厚实饱满的蛮好吃）
+*** 野橘
+*** TODO 乳香（视力？）
+** 蜡烛
+** 熏香（燃烧，部分人介意颗粒物污染等）
+:PROPERTIES:
+:END:
+*** 檀香
+*** 沉香
+** 填充物
+:PROPERTIES:
+:END:
+*** “调味枕芯”
+:PROPERTIES:
+:END:
+**** 枕芯里掺一点点乙基香兰素、碎香草荚等，反正也不会变质
