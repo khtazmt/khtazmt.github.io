@@ -56,13 +56,35 @@
 		- ((66335bea-765e-49a8-ad56-87c4569e6389))
 - # 插件
 	- 网页端大概不支持插件，看不到对应效果，有些块空着（块引用或图片的链接也没有），可能就是TOC、表格等没显示
-	- 我现用的插件可在 https://github.com/khtazmt/khtazmt.github.io/blob/main/.logseq.7z 下载
-		- ((6594cd23-e261-462c-b54a-a5336b75038f))
 	- TODO 插件一般从对应GitHub仓库下载，而国内直接访问GitHub有点困难，可以
 		- ![Logseq_zDpnhqvR4r.png](../assets/Logseq_zDpnhqvR4r_1706835013569_0.png)
 	- 学习插件可以查看示例
 		- 插一句，有些插件有比较鲜明的特征，比如sethyuan大佬的插件图标就是“蓝色经典”，hkgnp大佬的是“灰色经典”
-	- 4T3L2A·FGBHSPD（“Favorite Great Britain High SPeeD，最喜欢的英国高速是吧？”）——“好好好，这下步[[风]]之后尘找到相对简单但开始变复杂的分类/助记规律了”
+	- Get webpage title：`/ti`获取链接标题（不在块首输入时前面需要加个空格）
+	  id:: 65bef800-0e4a-430f-8f5a-4e98314b64d9
+		- “骗自己换个地方疯狂稍后再看是这样的”
+	- Awesome Links：获取外部链接的favicon图标，给日志之类的内部页面加上对应图标（“至少我这里看得到”）
+	- Move Block：右键菜单、页面标题右侧箭头或快捷键把块引用、块嵌入、块的内容等移动到当天日志等位置，这样通过日志展示更新内容就相对顺手了
+	  id:: 65cc4a78-a2e4-40a8-870c-706cb31aabb9
+		- TODO 如何批量导出日志中的块引用等的原文内容？
+		  id:: 65cec1fb-446f-42b2-aeff-cdcd9137b181
+	- logseq-swapblocks-plugin：切换块引用与被引用块的位置（可能总得有个位置），使用逻辑可能是，想把被引用块放到“更贴切”的页面，或是需要有限度地分享（比如不分享日志的话，不会块引用日志的块）
+	  id:: 65bcbf46-ee5b-46e7-b8fa-4a82744cf8e7
+	- Text Wrapper：随选择文本唤起的格式工具栏
+	  collapsed:: true
+		- ((65964bb1-80e8-471e-9e2e-a66e831be12f))
+		- ((65bcbf46-ee6e-4ba6-9f88-67b1f6ade195))
+		- ((65bcbf46-8b21-4944-8f02-b4758ecba292))
+	- Block to page：把块作为页面名，下级块作为页面内容，整体转进为页面，过程看着像是自动复制粘贴块；使用场景：“兜不住时先收起”
+	- Split block：右键圆点在菜单中选择，把一个块内的多行文本按行分成块。有些复制过来的长文和之前因为过长而崩成一块的页面要这样救一下
+	- 以上是常用的
+	- ---
+	- Ordered Lists：可能比内置的更好的有序列表（“至少我这里看得到”）
+	- Heading level shortcuts：标题快捷键，Ctrl+1~6分别为一到六级标题，设置较多标题时少按`#`（但我觉得略有些别扭，可能跟小尺寸键盘有关）
+	- Tags：快速查看所有标签，点击标签展开标签所在块，再点击可跳转到所在页面（位置可能不精确）
+	- Live Math：数学表达式输入器，要写数理化似乎不得不用啊
+		- ((65bcbf46-8b21-4944-8f02-b4758ecba292))
+	- TOC Generator：在页面内或（点击右上角插件图标在）侧栏生成TOC（Table Of Contents，直译为“内容表”，可俗称“目录”、“提纲”），见页首（滚轮或点击右下角“TOP”“回到顶部”），点击标题可聚焦该块，点后面的“回车”可滚动到并选中该块，点击并按住标题可在TOC内或（双栏间的相同或不同页面中的）TOC间拖动并实现在页内拖动相关块，点击箭头和可切换TOC的展开/折叠状态——总的来说，有助长文写作
 	- Tabs：开启类似浏览器的标签页栏，双击可固定/取消固定页面
 	  collapsed:: true
 		- ## 键盘快捷键
@@ -70,41 +92,20 @@
 			- 关闭标签: SHIFT + CTRL + W (macOS: SHIFT + CMD + W)
 			- 更改为下一个选项卡: CTRL + TAB
 			- 更改为第n个选项卡: CTRL + 1 ~ 9 (这尚无法配置)
-	- Text Wrapper：随选择文本唤起的格式工具栏
-	  collapsed:: true
-		- ((65964bb1-80e8-471e-9e2e-a66e831be12f))
-		- ((65bcbf46-ee6e-4ba6-9f88-67b1f6ade195))
-		- ((65bcbf46-8b21-4944-8f02-b4758ecba292))
-	- TOC Generator：在页面内或（点击右上角插件图标在）侧栏生成TOC（Table Of Contents，直译为“内容表”，可俗称“目录”、“提纲”），见页首（滚轮或点击右下角“TOP”“回到顶部”），点击标题可聚焦该块，点后面的“回车”可滚动到并选中该块，点击并按住标题可在TOC内或（双栏间的相同或不同页面中的）TOC间拖动并实现在页内拖动相关块，点击箭头和可切换TOC的展开/折叠状态——总的来说，有助长文写作
-	- Tags：快速查看所有标签，点击标签展开标签所在块，再点击可跳转到所在页面（位置可能不精确）
-	- Logseq pinyin match tags：Ctrl+T，滚动鼠标或按拼音搜索标签并插入块
-	- logseq-swapblocks-plugin：切换块引用与被引用块的位置（可能总得有个位置），使用逻辑可能是，想把被引用块放到“更贴切”的页面，或是需要有限度地分享（比如不分享日记的话，不会块引用日记的块）
-	  id:: 65bcbf46-ee5b-46e7-b8fa-4a82744cf8e7
 	- Luckysheet：块内嵌入类似Excel的表格，还不错，有时确实不适合一次次地按计算器
-	- Live Math：数学表达式输入器，要写数理化似乎不得不用啊
-		- ((65bcbf46-8b21-4944-8f02-b4758ecba292))
-	- Awesome Links：获取外部链接的favicon图标，给日志之类的内部页面加上对应图标
-	- TODO Agenda：任务管理（含番茄钟），打算试试替换 腾讯文档（看板和日历排期，没搞懂替代方案时，多列多行的显示效果差不多够用；如果显示不全，为了一目了然、一触即出的方便可以尝试调低浏览器拦截功能中的“阻止指纹识别”等级，或者不嫌麻烦也可以一个个右键展开）
-	  id:: 66335bd1-9f9f-48e3-a190-127ffa573070
-	  collapsed:: true
-		- [Logseq 日历 & 任务管理 & Daily Planner 插件 Agenda3 使用介绍_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1yG411i7d9)
-	- Move Block：右键菜单、页面标题右侧箭头或快捷键把块引用、块嵌入、块的内容等移动到当天日志等位置，这样通过日志展示更新内容就相对顺手了
-	  id:: 65cc4a78-a2e4-40a8-870c-706cb31aabb9
-		- TODO 如何批量导出日志中的块引用等的原文内容？
-		  id:: 65cec1fb-446f-42b2-aeff-cdcd9137b181
-	- Favorite Tree：在左侧栏“收藏页面”中增加页面层级
-	- Get webpage title：`/ti`获取链接标题（不在块首输入时前面需要加个空格）
-	  id:: 65bef800-0e4a-430f-8f5a-4e98314b64d9
-	- Block to page：把块作为页面名，下级块作为页面内容，整体转进为页面，过程看着像是自动复制粘贴块；使用场景：“兜不住时先收起”
-	- Heading level shortcuts：标题快捷键，Ctrl+1~6分别为一到六级标题，设置较多标题时少按`#`（但我觉得略有些别扭，可能跟小尺寸键盘有关）
-	- Split block：右键圆点在菜单中选择，把一个块内的多行文本按行分成块
-	- Paste More：带格式粘贴，减少粘贴进logseq时的格式损失
-	- Ordered Lists：可能比内置的更好的有序列表
 	- Doc View Exporter：左对齐、无缩进预览，然后可导出为左对齐、无缩进的窄长图（TOC好像不能点击跳转）的或相对完整的HTML文件==（但非本地看不到本地图片等本地文件）==，相比[Logseq Publish SPA](https://github.com/marketplace/actions/logseq-publish-spa)保留了一部分插件的效果（比如TOC Generator的，但Luckysheet的就不显示、无法操作原表格，此外可能与Awesome UI不兼容，影响导出文件的显示效果），点击其中的块引用链接可打开本地对应位置的块
 	  id:: 659b89b8-f17c-4d75-a9d2-3332ef699d60
 	  collapsed:: true
 		- “曾经”
 		   >因多平台手动发布麻烦和重新试了下导出插件感觉不错而试，暂时用 logseq 插件 Doc View Exporter 手动导出为 html 文件再拖动到对应 github 库上传，再在库中的首页文件 index.html 中添加链接，未来可能通过博客框架和同步盘提高自动化水平
+	- Logseq pinyin match tags：Ctrl+T，滚动鼠标或按拼音搜索标签并插入块
+	- TODO Agenda：任务管理（含番茄钟），打算试试替换 腾讯文档（看板和日历排期，没搞懂替代方案时，多列多行的显示效果差不多够用；如果显示不全，为了一目了然、一触即出的方便可以尝试调低浏览器拦截功能中的“阻止指纹识别”等级，或者不嫌麻烦也可以一个个右键展开）
+	  id:: 66335bd1-9f9f-48e3-a190-127ffa573070
+	  collapsed:: true
+		- [Logseq 日历 & 任务管理 & Daily Planner 插件 Agenda3 使用介绍_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1yG411i7d9)
+	- Favorite Tree：在左侧栏“收藏页面”中增加页面层级
+	- Paste More：带格式粘贴，减少粘贴进logseq时的格式损失
+	- ---
 	- 暂时没用起来的插件
 		- Logseq Anki Sync
 		  id:: 666c0ac7-3cc5-4c8f-8beb-701e0e8f1b6f
@@ -114,6 +115,10 @@
 			  id:: 666c084b-b9a8-4d9e-b031-4bb1d88a6e15
 		- Excalidraw（嵌入更完整的Excalidraw；画得不多，没看出相比在浏览器网页端的Excalidraw里画效率高在哪，没协作白板协作，至少没法免费协作，也不如logseq白板能集成内部页面——“多画点画”）
 		- 看板类（两个带‘kanban’的和模板更多的Logtools；看起来可能有点用，但是logseq的显示给了上限，多来几个缩进，行的长度就太短了，“载不动许多愁”——折叠、聚焦、TOC用用就能改善不少）
+	- 我现用（现在不确定了）的插件可在 https://github.com/khtazmt/khtazmt.github.io/blob/main/.logseq.7z 下载
+		- ((6594cd23-e261-462c-b54a-a5336b75038f))
+	- 4T3L2A·FGBHSPD（“Favorite Great Britain High SPeeD，最喜欢的英国高速是吧？”）——“好好好，这下步[[风]]之后尘找到相对简单但开始变复杂的分类/助记规律了”
+		- “现在按常用顺序排辣！”
 - # （显示）主题
   collapsed:: true
 	- Dev theme（内置了“连锁闪电”插件bullet threading）
