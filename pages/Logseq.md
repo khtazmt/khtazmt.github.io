@@ -60,10 +60,17 @@
 		- ![Logseq_zDpnhqvR4r.png](../assets/Logseq_zDpnhqvR4r_1706835013569_0.png)
 	- 学习插件可以查看示例
 		- 插一句，有些插件有比较鲜明的特征，比如sethyuan大佬的插件图标就是“蓝色经典”，hkgnp大佬的是“灰色经典”
+	- Awesome Links：获取外部链接的favicon图标，给日志之类的内部页面加上对应图标（“至少我这里看得到”）
+	- Page-tags and Hierarchy：多层级页面UI
+	- Tabs：开启类似浏览器的标签页栏，双击可固定/取消固定页面
+		- ## 键盘快捷键
+			- 固定/取消固定标签: CTRL + P (macOS: CMD + P)
+			- 关闭标签: SHIFT + CTRL + W (macOS: SHIFT + CMD + W)
+			- 更改为下一个选项卡: CTRL + TAB
+			- 更改为第n个选项卡: CTRL + 1 ~ 9 (这尚无法配置)
 	- Get webpage title：`/ti`获取链接标题（不在块首输入时前面需要加个空格）
 	  id:: 65bef800-0e4a-430f-8f5a-4e98314b64d9
 		- “骗自己换个地方疯狂稍后再看是这样的”
-	- Awesome Links：获取外部链接的favicon图标，给日志之类的内部页面加上对应图标（“至少我这里看得到”）
 	- Move Block：右键菜单、页面标题右侧箭头或快捷键把块引用、块嵌入、块的内容等移动到当天日志等位置，这样通过日志展示更新内容就相对顺手了
 	  id:: 65cc4a78-a2e4-40a8-870c-706cb31aabb9
 		- TODO 如何批量导出日志中的块引用等的原文内容？
@@ -85,13 +92,6 @@
 	- Live Math：数学表达式输入器，要写数理化似乎不得不用啊
 		- ((65bcbf46-8b21-4944-8f02-b4758ecba292))
 	- TOC Generator：在页面内或（点击右上角插件图标在）侧栏生成TOC（Table Of Contents，直译为“内容表”，可俗称“目录”、“提纲”），见页首（滚轮或点击右下角“TOP”“回到顶部”），点击标题可聚焦该块，点后面的“回车”可滚动到并选中该块，点击并按住标题可在TOC内或（双栏间的相同或不同页面中的）TOC间拖动并实现在页内拖动相关块，点击箭头和可切换TOC的展开/折叠状态——总的来说，有助长文写作
-	- Tabs：开启类似浏览器的标签页栏，双击可固定/取消固定页面
-	  collapsed:: true
-		- ## 键盘快捷键
-			- 固定/取消固定标签: CTRL + P (macOS: CMD + P)
-			- 关闭标签: SHIFT + CTRL + W (macOS: SHIFT + CMD + W)
-			- 更改为下一个选项卡: CTRL + TAB
-			- 更改为第n个选项卡: CTRL + 1 ~ 9 (这尚无法配置)
 	- Luckysheet：块内嵌入类似Excel的表格，还不错，有时确实不适合一次次地按计算器
 	- Doc View Exporter：左对齐、无缩进预览，然后可导出为左对齐、无缩进的窄长图（TOC好像不能点击跳转）的或相对完整的HTML文件==（但非本地看不到本地图片等本地文件）==，相比[Logseq Publish SPA](https://github.com/marketplace/actions/logseq-publish-spa)保留了一部分插件的效果（比如TOC Generator的，但Luckysheet的就不显示、无法操作原表格，此外可能与Awesome UI不兼容，影响导出文件的显示效果），点击其中的块引用链接可打开本地对应位置的块
 	  id:: 659b89b8-f17c-4d75-a9d2-3332ef699d60
