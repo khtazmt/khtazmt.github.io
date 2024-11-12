@@ -306,6 +306,7 @@
 		- e打开背包（“你在怀疑什么？”）
 		- q扔东西
 		- ctrl疾跑、水中固定高度
+		  collapsed:: true
 			- [疾跑 - Minecraft Wiki，最详细的我的世界百科](https://minecraft.fandom.com/zh/wiki/%E7%96%BE%E8%B7%91)
 		- shift潜行（防摔）
 		- tab查看在线玩家状态（第一位是服主；同时在模组的大/小地图里显示点对应的生物头像）
@@ -314,8 +315,10 @@
 		- 下落时攻击是暴击，伤害高（跳起来），攻击有冷却时间（太快挥损失攻击力）
 		- f切换副手，比如盾牌（可以打一下挡一下）和需要配合使用的物品（比如砂纸和玫瑰石英）；按住shift使用副手
 		- ctrl、shift、右键、左键拖动、alt对于物品整理和生产有不同作用
+		  collapsed:: true
 			- 按住shift+左键移动可以批量转移物品（“我也是偶然试了才知道”）
 		- L查看“进度”（游戏、模组的推荐游玩目标序列）
+		  collapsed:: true
 			- 有时进度用的是别人放的设备，所以归在别人名下，这时都在附近的话就该来个面面相觑
 			- ((66335bd1-ca96-4a81-a6e9-c78b650eb353))
 		- 右击床重设重生点，在夜晚可跳过夜晚（三人及以上在线时需要多人一起躺）
@@ -326,13 +329,16 @@
 		- K光影（可以增加服务器的负担，效果还不一定让你满意），R重新加载光影
 		  id:: 66332ea7-c5b5-4702-bcae-9eb12ba93130
 		- 更多按键可按Esc键查看“选项-控制-按键绑定”，有些模组的默认按键可能被按键冲突解决模组或整合包调换了，比如背负旅行者背包时打开旅行者背包的B键（我的是被汤姆的简易存储占了，被换成了“,”）和访问附近的工具箱的左ALT键（我的是被换成了“-”）——可以调回去，顺手最重要
+		  collapsed:: true
 			- 还可查看[控制 - Minecraft Wiki，最详细的我的世界百科](https://minecraft.fandom.com/zh/wiki/%E6%8E%A7%E5%88%B6)
 		- 部分音乐与时点时段有关
 	- 入服接引
 	  collapsed:: true
 		- 起点不是家！别被半成品石房、石房稍北的小麦田和两条水上泥土路绕走了
+		  collapsed:: true
 			- 当然，纯小白可以先体验下某种程度的自力更生、逐步发展
 		- 起点北偏东15度左右走两三百米左右是我们的村庄
+		  collapsed:: true
 			- 村北有水车，水车西边是我搭的一些小设备和更西的服主挖的向北向下通往下界传送门的矿道，水车东边是服主搭的粉碎轮和鼓风机冶炼，还有我接在鼓风机冶炼东边的动力合成器组
 			- 水车南边有云杉、沃土、蘑菇，有风车、蒸汽机，有由石质压力板和可编程齿轮箱控制、由起重机杆传动的动力收割机排
 			- 水车更南边、村中心附近有个传送石碑，点上，在矿道下面的下界传送门旁边还有一个，点上后就可以两地传送了
@@ -343,6 +349,7 @@
 			- 现在装备好，打怪也就图一乐，真要经验还得用粉碎矿石和蠹虫机
 			- 服务器开了死亡掉落保护，所以（一般）不用担心怪叫（“可以调低敌对生物音量”）和意外死亡，但护具耐久好像还会掉
 	- 模组
+	  collapsed:: true
 		- 可在启动器的“版本设置-Mod管理”中右键Mod（即模组）“转到MC百科”查看
 		- [机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2021.html)
 		  id:: 662da7ed-a0af-4534-bacb-55ec5b68caa0
@@ -350,10 +357,13 @@
 			- “Mod教程”也可以看
 			- # “玩什么？农村小工业！”
 			- [物品/方块 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/list/2021-1.html)
+			  collapsed:: true
 				- ((662e5fb2-0f11-4db5-9af0-5fc1df62118f))
 			- 最主要的模组，非常好
 			- 有些物品可以按W思索，演示动画做得不错
+			  collapsed:: true
 				- [思索 (Ponder) - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/555624.html)
+				  collapsed:: true
 					- [/create ponder - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/566996.html)
 				- [思索.exe,但是原版_单机游戏热门视频](https://www.bilibili.com/video/BV1zr421W7q9)
 				- 按q“显示方块名称”，移到演示图上可以顺蔓摸瓜
@@ -365,6 +375,7 @@
 			  collapsed:: true
 				- [我的世界:从零开始的机械动力入门教程【纯干货】【超齐全】_哔哩哔哩bilibili_我的世界_攻略](https://www.bilibili.com/video/BV1964y1K7mv)
 				- 应力
+				  collapsed:: true
 					- Stress
 					- [应力与压力的区别 - 知乎](https://zhuanlan.zhihu.com/p/266823662)
 					- [应力（物理名词）_百度百科](https://baike.baidu.com/item/%E5%BA%94%E5%8A%9B/3075028)
@@ -378,7 +389,9 @@
 			- 列车的问题
 			  collapsed:: true
 				- 蒸汽笛（想着到站提醒——但是不自带这种功能——也是“进度让装的”）
-					- >汽笛装在储罐上面，实体化后坐在火车坐垫上按ctrl键就能响了
+				  collapsed:: true
+					- collapsed:: true
+					  >汽笛装在储罐上面，实体化后坐在火车坐垫上按ctrl键就能响了
 						- “啊？”
 				- 列车相撞歪了，重新安置失败（“甚至拆轨道时被泥头车创死”），可能本体其实在下界门另一边
 		- [[XMM]Xaero的小地图 (Xaero's Minimap) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1701.html)、[[XWM]Xaero的世界地图 (Xaero's World Map) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1483.html)
@@ -388,11 +401,14 @@
 			- ((6631bb2b-ca9c-4d70-9c60-9d63dd02b90f))
 		- [玉 🔍 (Jade 🔍) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/3482.html)
 		  id:: 670d40c4-1f1d-4958-baab-e7ec97c731d9
+		  collapsed:: true
 			- ((663048c0-7b00-44f6-af35-154c8e0c964a))
+			  collapsed:: true
 				- “很显眼，但是很不显眼”
 			- 查看方块会显示需要用什么工具采集，用错了大力出奇迹就没了
 			- “？天天鉴宝是吧？”
 		- [[IPN]一键背包整理Next (Inventory Profiles Next) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/4104.html)
+		  id:: 670d40c4-b381-4b19-bd88-03398a3ba82a
 		  collapsed:: true
 			- 除了几种整理功能外，最显眼的是自动换更高耐久的装备，没有的话会跳“IPN警告”
 			- 在任意界面，左上角会有它的两个按钮（“看不懂是吧？”）
@@ -406,11 +422,13 @@
 		  id:: 66332ea7-bcb1-4c93-b0ab-e822ad7b3a85
 		  collapsed:: true
 			- 也是个大模组，有刀、可以做绳子（可以攀爬、缓降，可以潜行向上搭建，比梯子和方块灵活，可做防坠的、可配合弹射置物台和向上搭建且从底部回收的绳子使用的安全网，可以代替黏液球做栓绳，总之就是好用）的草秆
+			  collapsed:: true
 				- [绳子 (Rope) - 农夫乐事 (Farmer's Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/382018.html)
 			- [食物 - 物品/方块 - 农夫乐事 (Farmer's Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/list/2820-1-173073.html)
 			- [主食讲解（配图）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1TP4y1s7A3?p=2)
 			  id:: 6637a1b9-2913-42f9-811a-ca8d98440c06
 			- [料理乐事 (Cuisine Delight) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/11405.html)
+			  collapsed:: true
 				- [农夫乐事国创附属！料理乐事！在MC里沉浸式炒菜！——你一定没玩过的模组介绍_我的世界](https://www.bilibili.com/video/BV12a4y1R7gg)
 		- [旅行者背包 (Traveler's Backpack) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1732.html)
 		  id:: 66335bd1-b6be-4ba0-844f-3cd54646c300
@@ -422,10 +440,12 @@
 			- 自带工作台，石镐全挖爆了就可以继续做了
 			- [旅行者背包 (Traveller's Backpack) - 旅行者背包 (Traveler's Backpack) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/199182.html)
 			- 能力
+			  collapsed:: true
 				- “蜘蛛，爽！”
 				- [List of available abilities · Tiviacz1337/Travelers-Backpack Wiki · GitHub](https://github.com/Tiviacz1337/Travelers-Backpack/wiki/List-of-available-abilities)
 				- [Travelers-Backpack-Recipes/OriginalRecipes.md at main · winderine/Travelers-Backpack-Recipes · GitHub](https://github.com/winderine/Travelers-Backpack-Recipes/blob/main/OriginalRecipes.md)
 			- 扩容
+			  collapsed:: true
 				- [旅行者背包新添加的扩容功能概述 - 旅行者背包 (Traveler's Backpack) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/3157.html)
 		- ==[[REI]REI物品管理器 (Roughly Enough Items) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1674.html)==
 		  id:: 662e5fb2-0f11-4db5-9af0-5fc1df62118f
@@ -440,19 +460,26 @@
 		- 不太容易“看”到的
 		  collapsed:: true
 			- [Iris Shaders - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/3697.html)
+			  collapsed:: true
 				- “看到了，但是，没有完全看到”——以为是整合包本身乃至新版本的自带功能
 				- ((66332ea7-c5b5-4702-bcae-9eb12ba93130))
 			- [搬运 (Carry On) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1081.html)
+			  collapsed:: true
 				- 搬箱子（“啊？”）、动物
+				  collapsed:: true
 					- “之前村民忘了carry on了，用船押运的”
 				- ((66236190-211b-4686-81e3-35a32cd8773f))
+				  collapsed:: true
 					- 小奥直播坐在辆Karry上
 			- [汤姆的简易存储 (Tom's Simple Storage Mod) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2882.html)
+			  collapsed:: true
 				- 像我一样不熟练的新玩家一般按物品数量降序排列，以及搜索
 			- [输入法冲突修复 (IMBlockerFabric) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2840.html)
+			  collapsed:: true
 				- ((6636f0c7-8751-4e0a-9c66-345d0cbdf5d2))
 		- ---
 		- 新模组
+		  collapsed:: true
 			- [这是我的世界？_单机游戏热门视频](https://www.bilibili.com/video/BV1a5yaYfEj2)
 	- 较大的工程可以先在创造模式测试（而且可以先是小尺寸的），创建时选择超平坦、白天，按e键后，上部可以翻页到相应模组
 	  id:: 66335bd1-21f7-4aaf-870b-1b58a6980f44

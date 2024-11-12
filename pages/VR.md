@@ -31,6 +31,7 @@
 		- [想看VR色色片更帶勁⋯升級至Quest 3值得嗎？網曝：只在意這1項就別買 | 3C家電 | udn科技玩家](https://tech.udn.com/tech/story/123152/7603362)
 		- 看VR视频一般更专注特定区域，不需要眼观六路那样的紧张刺激，对甜蜜点范围需求不大
 		- 单头显
+		  id:: 670d40c4-c2bc-4127-bcf3-c95c499133f4
 			- [400多的quest单头显能用来干什么？你想要知道的这里都有_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1n8VaeSEqu)
 	- 验货
 		- 一般是送上门验货后签收或拒收
@@ -129,6 +130,7 @@
 		- [Quest2激活全流程教程-VRcoast带你玩转VR,国内VR虚拟现实新闻门户网站,为您提供VR虚拟现实等新闻咨询。](https://www.vrcoast.cn/bbs/328913.html)
 		- 手柄配对
 			- 没手柄可以借别人手柄
+			  id:: 67271349-abb2-45d1-bad0-94ec3ebcdeb7
 		- 开发者模式
 			- 双重验证
 			- 手机验证码

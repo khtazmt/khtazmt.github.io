@@ -3,6 +3,8 @@
 - #赶时间参考流程
 	- RSS
 - ((6222d6cd-92fa-4d00-9215-23d72e1a0a23))
+- [AI 复兴 RSS ？ - 少数派](https://sspai.com/post/89494)
+- [RSS订阅工具推荐：AI学习者的效率利器-首席AI分享圈](https://www.aisharenet.com/rssdingyuegongjutuian/)
 - 访问部分订阅源平台和网页需要上[[外网]]
 - 缺点是，很多公开的订阅源更新较慢，平均可能得等个几小时，不太适合阅读时效信息
 - https://github.com/AboutRSS/ALL-about-RSS
