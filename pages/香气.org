@@ -17,6 +17,9 @@
 :collapsed: true
 :END:
 ****** 乙基香兰素
+:PROPERTIES:
+:id: 671c4a4c-a03a-4e85-998c-06a8e71e9ba5
+:END:
 *** 精油纯露
 *** 园艺
 :PROPERTIES:
