@@ -68,6 +68,7 @@
 			- 关闭标签: SHIFT + CTRL + W (macOS: SHIFT + CMD + W)
 			- 更改为下一个选项卡: CTRL + TAB
 			- 更改为第n个选项卡: CTRL + 1 ~ 9 (这尚无法配置)
+	- Bullet Threading：高亮光标所在块的全部直接上级块的线条，方便一屏看不完时确认层级关系（“原来如此”）； ((670d40c3-4575-485c-8b47-bea78a726ae7)) 主题自带
 	- Get webpage title：`/ti`获取链接标题（不在块首输入时前面需要加个空格）
 	  id:: 65bef800-0e4a-430f-8f5a-4e98314b64d9
 		- “骗自己换个地方疯狂稍后再看是这样的”
@@ -78,7 +79,6 @@
 	- logseq-swapblocks-plugin：切换块引用与被引用块的位置（可能总得有个位置），使用逻辑可能是，想把被引用块放到“更贴切”的页面，或是需要有限度地分享（比如不分享日志的话，不会块引用日志的块）
 	  id:: 65bcbf46-ee5b-46e7-b8fa-4a82744cf8e7
 	- Text Wrapper：随选择文本唤起的格式工具栏
-	  collapsed:: true
 		- ((65964bb1-80e8-471e-9e2e-a66e831be12f))
 		- ((65bcbf46-ee6e-4ba6-9f88-67b1f6ade195))
 		- ((65bcbf46-8b21-4944-8f02-b4758ecba292))
@@ -98,13 +98,11 @@
 	- Luckysheet：块内嵌入类似Excel的表格，还不错，有时确实不适合一次次地按计算器
 	- Doc View Exporter：左对齐、无缩进预览，然后可导出为左对齐、无缩进的窄长图（TOC好像不能点击跳转）的或相对完整的HTML文件==（但非本地看不到本地图片等本地文件）==，相比[Logseq Publish SPA](https://github.com/marketplace/actions/logseq-publish-spa)保留了一部分插件的效果（比如TOC Generator的，但Luckysheet的就不显示、无法操作原表格，此外可能与Awesome UI不兼容，影响导出文件的显示效果），点击其中的块引用链接可打开本地对应位置的块
 	  id:: 659b89b8-f17c-4d75-a9d2-3332ef699d60
-	  collapsed:: true
 		- “曾经”
 		   >因多平台手动发布麻烦和重新试了下导出插件感觉不错而试，暂时用 logseq 插件 Doc View Exporter 手动导出为 html 文件再拖动到对应 github 库上传，再在库中的首页文件 index.html 中添加链接，未来可能通过博客框架和同步盘提高自动化水平
 	- Logseq pinyin match tags：Ctrl+T，滚动鼠标或按拼音搜索标签并插入块
 	- TODO Agenda：任务管理（含番茄钟），打算试试替换 腾讯文档（看板和日历排期，没搞懂替代方案时，多列多行的显示效果差不多够用；如果显示不全，为了一目了然、一触即出的方便可以尝试调低浏览器拦截功能中的“阻止指纹识别”等级，或者不嫌麻烦也可以一个个右键展开）
 	  id:: 66335bd1-9f9f-48e3-a190-127ffa573070
-	  collapsed:: true
 		- [Logseq 日历 & 任务管理 & Daily Planner 插件 Agenda3 使用介绍_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1yG411i7d9)
 	- Favorite Tree：在左侧栏“收藏页面”中增加页面层级
 	- Paste More：带格式粘贴，减少粘贴进logseq时的格式损失
@@ -123,8 +121,8 @@
 	- 4T3L2A·FGBHSPD（“Favorite Great Britain High SPeeD，最喜欢的英国高速是吧？”）——“好好好，这下步[[风]]之后尘找到相对简单但开始变复杂的分类/助记规律了”
 		- “现在按常用顺序排辣！”
 - # （显示）主题
-  collapsed:: true
-	- Dev theme（内置了“连锁闪电”插件bullet threading）
+	- Dev theme
+	  id:: 670d40c3-4575-485c-8b47-bea78a726ae7
 	- “灰喜鹊主题有没有搞头？”
 - # 可能常用的markdown语言
   id:: 65a7b394-7f9b-42a3-b8f7-7a94faf19512
@@ -157,12 +155,9 @@
 		- ((6594cd34-349c-4cb2-9b08-620eb81234cc))
 		- ((6596a0b4-dacb-4d1e-928c-69f428e60256))
 - # 查询query
-  collapsed:: true
 	- ((65bcbf46-3c16-4ef1-a798-ac1be861d095))
-	  collapsed:: true
 	- {{query (and (page [[阳光]]) "http")}}
 	  query-table:: true
-	  collapsed:: true
 	- 连结果导出
 		- ((659b89b8-f17c-4d75-a9d2-3332ef699d60))
 		- [Query export to doc or pdf - Questions & Help - Logseq](https://discuss.logseq.com/t/query-export-to-doc-or-pdf/10169)
@@ -170,13 +165,11 @@
 	- TODO 结果排序方式
 	- https://docs.logseq.com/#/page/queries
 - # logseq的文件
-  collapsed:: true
 	- 如果你只是阅读（尤其是在网页端阅读）或刚开始写作的话，并不需要了解这方面，但用久了可能会为了排查故障（包括抢救文件）或把自己的库分享给别人前过滤隐私等信息而了解
 	- 库/图谱文件夹
 		- assets文件夹（放以文件形式自动复制到该文件夹的图片文件、pdf文件等）
 		- journals文件夹（类似pages文件夹，但是命名方式另有一套的日记文档）
 		- logseq文件夹
-		  collapsed:: true
 			- .recycle文件夹（从图谱索引中删除但在这个“回收站”保存的笔记文件；可能残留隐私，分享需留意）
 			- bak文件夹（本地备份，可用于恢复笔记和配置；其中的pages文件夹可能残留隐私，分享需留意）
 			  id:: 66ade36e-1d3f-40b8-bf59-293dc1011a10
@@ -203,7 +196,6 @@
 	- ((659b34e3-eafb-4594-89b7-fac98edf6014))
 	- （平台）发布前对logseq的格式转换/排版（目前不咋用）
 	  id:: 65bcbf46-9860-48d3-84e1-592c30b25207
-	  collapsed:: true
 		- 内容需要链接，尤其是“科学综述”
 		  logseq.order-list-type:: number
 		- logseq的markdown语言特性
