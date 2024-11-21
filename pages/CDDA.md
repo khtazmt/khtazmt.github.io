@@ -1,23 +1,37 @@
 - 有点像pathos，但相对“现实”些，或者说不那么DND（龙与地下城/地牢）
 	- [[推荐]原滋原味的roguelike是什么样的？边谈边荐《NetHack》《Elona》《CDDA》 - 星晖帝国的一番的动态 - TapTap](https://www.taptap.cn/moment/15216925399319905)
 	- [还有其他类似cdda，但是非丧尸题材的游戏吗【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9014735050)
-- [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/)
-	- 选带“tiles”和“sounds”（声音比最基础的几个多）的链接下载
-	- 我玩的0.G稳定版
-- 不推荐用手机玩
+- 游戏本体
+	- [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/)
+		- 0.H实验版更新频率挺高，我“学”了0.G稳定版三天最后为了“学学[[英语]]”换过去了
+		- 选带“tiles”和“sounds”（多个CC-Sounds音效包，比只有“界面音效”的Basic音效包多很多音效），你的操作系统、位数（32位还是64位）的链接下载
+- 启动器
+	- [GitHub - DoiiarX/CDDA-Game-Launcher: A Cataclysm: Dark Days Ahead launcher with additional features](https://github.com/DoiiarX/CDDA-Game-Launcher)
+		- 功能比下面官网链接里的丰富不少，就是疑似有点卡
+		- [CDDA 游戏启动器 汉化版 国内直连加速  | Doiiars Blog](https://doiiars.com/article/CDDA-Game-Launcher)
+		- [【图片】我做了个cdda启动器汉化版【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8883710208)
+	- [GitHub - Fris0uman/CDDA-Game-Launcher: A Cataclysm: Dark Days Ahead launcher](https://github.com/Fris0uman/CDDA-Game-Launcher)
+		- 较方便地更新（实际）最新版、回到前一个版本、自动/手动备份存档（我是启动前和更新前自动备份）、选择备份存档回档、安装/禁用/删除音效包等
+- （额外的）贴图包
+	- [GitHub - Theawesomeboophis/UndeadPeopleTileset: UndeadPeople Tileset for CDDA.](https://github.com/Theawesomeboophis/UndeadPeopleTileset)
+	  id:: 673ed7cc-d657-4e38-8f28-82d55611bc8b
+		- 复制那一两个文件夹到游戏根目录下即可
+- 不推荐用手机玩（电脑玩家纯主观判断，可无视）
 	- 有tab键的手机输入法
 		- >黑客键盘
 		- >讯飞输入法，有tab键，有游戏键盘，非常适合手机cdda，
 - 兼顾赶时间开玩和探索趣味的“常识”攻略
+	- “真正正确的入门玩法”：“直接游戏！”，看能玩到什么程度——“就像你一样！”
 	- CDDA“相对很真实”，所以要用“常识”设身处地
-	- 要敢于破坏旧世界，包括相对整齐对称的紧急避难所，“强迫症”可以对称操作，包括拆东墙补西墙，具体而言，可以G移动
+	- 我们大概都没有跟“丧尸”战斗过，可能相当一部分人都没跟什么生物战斗过，甚至没有有意识地杀过什么生物，但这并不意味着我们不能把现实生活中已相对间接的“常识”用于游戏
 	- 想想旅游经验，出门带太多东西吃不完，不能像某些年代的很多小学生春游秋游那样只带零食
-	- 背包里的东西很多密度不如水，比如乐事薯片，很可能，所以一来要有大背包，二来捡东西要省大容量
+	- 背包里的很多东西密度不比水高多少，比如乐事薯片（游戏里有没有害），很可能很快容积/空间不够了还没多重，所以一来要有大背包，二来捡东西（尤其可能没空集中整理时）也要讲究些，不一定全要，不一定一定要捡
 	- 游戏视野是一格一格的，默认世界最近的其他建筑实际上没多远，一秒走一格，大概不超过十分钟就走回来了，相比之下，&制造不少东西、R阅读不少攻略才算费时
 	- m大地图有比例尺，一格
+	- 要敢于按s破坏旧世界，包括相对整齐对称的紧急避难所，“强迫症”可以对称操作，包括拆东墙补西墙，具体而言，可以按G移动
 - 按键
 	- “是的，这是一个需要按键的游戏”
-	- “都是单键是傻还是高级？”
+	- “一键一用，开关不能共用一键，大无语了”
 	- 符号输入模式下大概要关闭中文输入法，不然有些键按不出来
 		- ((673de2eb-fd38-497a-aca0-8ef241e98cca))
 	- 鼠标代替键盘（可减少按键学习成本过渡用，也可长期用）
@@ -29,6 +43,7 @@
 		- ---
 		- ((672b2e36-18c7-485d-9f96-2ad574782946))（“买一赠一，白加黑”）
 	- ?按键设置
+		- ((673efd78-b423-4fb8-9108-003ff0d5e2ad))
 		- ((673d778a-f2bf-49e9-b583-7ee171ef3578))
 		- 按键设置大改（可先跳过）
 			- 参考相关游戏
@@ -55,9 +70,11 @@
 	  id:: 673e84d6-2523-4301-abcc-7781122cdb8b
 		-
 - ---
+- 光标所在物品会在右侧标注对应穿着的容器，反之亦然
 - 想赶时间、提高时间利用效率、没啥“玻璃心”开始游戏可以先跳过以下的部分“入门的前置成本”，鼠标加方向键差不多够了
 - 选项
 	- 常规
+	  collapsed:: true
 		- 允许自动拾取（是）
 			- 配合 ((673e84d6-2523-4301-abcc-7781122cdb8b)) ，可将物品集中后再慢慢I对比、e/E查看、挑选，提高效率
 		- 自动存档（可能更新alt+F4的回档点，新手建议否）
@@ -68,13 +85,18 @@
 		- 节日特殊物品（所有——既然追求刺激，那就贯彻到底咯）
 		- 选择音效包（基础音效包基本没声音）
 	- 界面
+	  collapsed:: true
 		- 语言
 			- 赶时间还是先用母语看看罢（“活动程度：点亮”），或者——
 			- 快速切换语言
+			  id:: 673d8ca3-0ee9-4009-b881-6aa6e258356f
+				- 0.H实验版：“切换游戏语言为英文”（这下是同一个键来回切换了，而且更深；“哈哈，早该学学了”）
+				  id:: 673efd78-b423-4fb8-9108-003ff0d5e2ad
+				- ---
 				- 选项可以设为`·`（Esc下）
 				  id:: 673d778a-f2bf-49e9-b583-7ee171ef3578
-				- 然后tab，根据情况西东按按
-				- 更快就用 ((66db8ac4-d558-458d-9528-499eb66f69ee))新建动作
+				- 然后tab，西东按按
+				- 更快就用 ((66db8ac4-d558-458d-9528-499eb66f69ee))新建动作代替手按
 		- 单位、格式按需改
 		- 显示枪械型号（是）
 		- 详细容器（可以全部）
@@ -82,20 +104,21 @@
 		  id:: 673de2eb-fd38-497a-aca0-8ef241e98cca
 			- [【强烈推荐】键码模式【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7167807747)（部分商务笔记本等的键盘可能不太适配按键码模式）
 		- 仅用大写字母（否；“光需要确认就是多此一举了”）
+		- 对其至目标（是）
 		- 物品栏高亮模式（高亮，比符号显眼）
 	- 图形
+	  collapsed:: true
 		- 选择贴图包
 			- 赶时间自己试即可
 			- [cdda大灾变中自带贴图包和常见贴图包的画风介绍 - 哔哩哔哩](https://www.bilibili.com/opus/560236332963288901)
-			- [GitHub - Theawesomeboophis/UndeadPeopleTileset: UndeadPeople Tileset for CDDA.](https://github.com/Theawesomeboophis/UndeadPeopleTileset)
+			- ((673ed7cc-d657-4e38-8f28-82d55611bc8b))
 		- 渲染器
 			- [我来说一个发现，能提高游戏丝滑度【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7470148887)（可能默认就是direct3d11、不用调整）
 	- 调试
 		- 技能遗忘（可以关，例如开健忘特性时）
-		- 3D视野（测试）（可以开，上楼顶时观察敌对生物、往楼下扔东西等有用）
+		- 3D视野（0.H默认开；0.G测试，建议开，上楼顶时观察敌对生物、往楼下扔东西等有用）
 	- ---
 	- [【图片】任何人都该看看的可视化/操作优化（包括安卓）【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8889206737)（安卓可以看一下）
-- 贴图包
 - 人物
 	- [推荐给新人的一个万金油强力捏人开局【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8951867212)
 	- 特性
@@ -104,7 +127,6 @@
 - ---
 - 侧边栏
 	- ((673e93d2-7fb1-4640-acdd-e79e45b84242))
-- 光标所在物品会在右侧标注对应穿着的容器，反之亦然
 - ---
 - 怪物
   collapsed:: true
@@ -138,9 +160,12 @@
 	- 防守
 		- 室内
 - 探索
-  collapsed:: true
-	- g
-	- [实验版怎么快速搜刮？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8368825109)
+	- 地图
+		- 大地图1格边长24
+			- [Map - The Cataclysm: Dark Days Ahead Wiki](https://cddawiki.danmakudan.com/wiki/index.php/Map)
+	- 拾取
+		- g
+		- [实验版怎么快速搜刮？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8368825109)
 - 衣服
   collapsed:: true
 	- 无伤要啥衣服，眼防阳光够了（？）
@@ -159,10 +184,10 @@
 	- 在物品信息页前移总容量
 	- 在各种操作界面对物品进行各种其他操作（“简单说就是”不管物品在哪，选中它时按啥键就是对应操作，而不用在操作界面中选好了物品再提交）
 	- 选择、复制文本
+	  id:: 673ed7cc-90aa-4b35-ba66-966acfaa0f27
 		- 或 ((65c88759-d9ce-4137-ad25-b75ec2f268cc))（并自动复制）
 	- 侧边栏蓝紫配色在低屏幕亮度下不容易看清
 	- 设置文件（帮别人省设置时间）
-	- 存档管理（只覆盖saves文件夹好像无法切换存档）
 - ---
 - [【图片】【CDDA导航】面向新人的CDDA导航。【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7072292082)（内容较老，看完记住或想起了alt+F4）
 - [CDDA中文攻略手册](https://surflurer.github.io/CDDA-CN-Guide/)（新手看看，但内容也不太新）
@@ -173,6 +198,7 @@
 - [现在0.G稳定版有什么超长距离跑图手段么_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/9224832261)
 - [【图片】一些没用小知识和小技巧【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8428454318)
 - [CDDA的冷门小寄巧【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8881527015)
+- [做了个CDDA人物/车辆导入导出工具【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7787766014)
 - ---
 - 看别人玩
 	- [【补档】【CDDA】琴叶姐妹的末日行记【VOICEROID实况】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1J7steaEMX)
