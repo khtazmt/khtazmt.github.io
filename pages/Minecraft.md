@@ -348,8 +348,7 @@
 			- 遇到拿弩的劫掠者可以快跑走位躲箭，可以进屋蹲门
 			- 现在装备好，打怪也就图一乐，真要经验还得用粉碎矿石和蠹虫机
 			- 服务器开了死亡掉落保护，所以（一般）不用担心怪叫（“可以调低敌对生物音量”）和意外死亡，但护具耐久好像还会掉
-	- 模组
-	  collapsed:: true
+	- 模组Mod
 		- 可在启动器的“版本设置-Mod管理”中右键Mod（即模组）“转到MC百科”查看
 		- [机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2021.html)
 		  id:: 662da7ed-a0af-4534-bacb-55ec5b68caa0
@@ -407,6 +406,14 @@
 				- “很显眼，但是很不显眼”
 			- 查看方块会显示需要用什么工具采集，用错了大力出奇迹就没了
 			- “？天天鉴宝是吧？”
+		- TODO [Language Reload - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/6596.html)（快速切换语言学外语）
+		  id:: 673d7400-ef68-4152-92d3-dd16fe7866f6
+			- [Lazy language loader - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/4836.html)
+			  id:: 673d722c-e22a-4306-af79-d34a6c83c955
+		- 联机
+			- TODO [Plasmo 语音 (Plasmo Voice) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/5236.html)
+				- [庄主：让MC有更真实的语音，Plasmo Voice模组介绍！_单机游戏热门视频](https://www.bilibili.com/video/BV1x341177cG)
+			- TODO [聊天工具箱 (Chat Tools) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/10777.html)
 		- [[IPN]一键背包整理Next (Inventory Profiles Next) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/4104.html)
 		  id:: 670d40c4-b381-4b19-bd88-03398a3ba82a
 		  collapsed:: true
