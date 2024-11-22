@@ -155,13 +155,15 @@
 		- ((6594cd34-349c-4cb2-9b08-620eb81234cc))
 		- ((6596a0b4-dacb-4d1e-928c-69f428e60256))
 - # 查询query
+	- 需求
+		- 可选层级搜索（关键词可能散布在不同页面的不同层级）
+		- 连结果导出
+			- ((659b89b8-f17c-4d75-a9d2-3332ef699d60))
+			- [Query export to doc or pdf - Questions & Help - Logseq](https://discuss.logseq.com/t/query-export-to-doc-or-pdf/10169)
+			- [How to export query results as markdown or rich text? - Questions & Help - Logseq](https://discuss.logseq.com/t/how-to-export-query-results-as-markdown-or-rich-text/20363)
 	- ((65bcbf46-3c16-4ef1-a798-ac1be861d095))
 	- {{query (and (page [[阳光]]) "http")}}
 	  query-table:: true
-	- 连结果导出
-		- ((659b89b8-f17c-4d75-a9d2-3332ef699d60))
-		- [Query export to doc or pdf - Questions & Help - Logseq](https://discuss.logseq.com/t/query-export-to-doc-or-pdf/10169)
-		- [How to export query results as markdown or rich text? - Questions & Help - Logseq](https://discuss.logseq.com/t/how-to-export-query-results-as-markdown-or-rich-text/20363)
 	- TODO 结果排序方式
 	- https://docs.logseq.com/#/page/queries
 - # logseq的文件

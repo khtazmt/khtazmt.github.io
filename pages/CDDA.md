@@ -1,12 +1,20 @@
 - 有点像pathos，但相对“现实”些，或者说不那么DND（龙与地下城/地牢）
 	- [[推荐]原滋原味的roguelike是什么样的？边谈边荐《NetHack》《Elona》《CDDA》 - 星晖帝国的一番的动态 - TapTap](https://www.taptap.cn/moment/15216925399319905)
 	- [还有其他类似cdda，但是非丧尸题材的游戏吗【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9014735050)
+- ((65d2ecf3-8af1-47e4-9219-317a3d501fe1))
 - 游戏本体
 	- [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/)
-		- 0.H实验版更新频率挺高，我“学”了0.G稳定版三天最后为了“学学[[英语]]”换过去了
+		- 0.H实验版更新频率挺高，我“学”了0.G稳定版三天最后为了“学学[[英语]]”换过去了，操作更方便，它应该已经更新快两年了，还剩下的bug新手大概碰不到
 		- 选带“tiles”和“sounds”（多个CC-Sounds音效包，比只有“界面音效”的Basic音效包多很多音效），你的操作系统、位数（32位还是64位）的链接下载
-- 启动器
+			- 据说：msvc可用于做mod，在windows原生环境更稳定
+			- [我该下哪一个【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9023960609)
+			- [实验版下载求助【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7929876571)
+		- 有tab键的手机输入法
+			- >黑客键盘
+			- >讯飞输入法，有tab键，有游戏键盘，非常适合手机cdda，
+- 启动器（电脑）
 	- [GitHub - DoiiarX/CDDA-Game-Launcher: A Cataclysm: Dark Days Ahead launcher with additional features](https://github.com/DoiiarX/CDDA-Game-Launcher)
+	  id:: 67402aab-601e-4702-b366-49894d1aa778
 		- 功能比下面官网链接里的丰富不少，就是疑似有点卡
 		- [CDDA 游戏启动器 汉化版 国内直连加速  | Doiiars Blog](https://doiiars.com/article/CDDA-Game-Launcher)
 		- [【图片】我做了个cdda启动器汉化版【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8883710208)
@@ -16,25 +24,37 @@
 	- [GitHub - Theawesomeboophis/UndeadPeopleTileset: UndeadPeople Tileset for CDDA.](https://github.com/Theawesomeboophis/UndeadPeopleTileset)
 	  id:: 673ed7cc-d657-4e38-8f28-82d55611bc8b
 		- 复制那一两个文件夹到游戏根目录下即可
-- 不推荐用手机玩（电脑玩家纯主观判断，可无视）
-	- 有tab键的手机输入法
-		- >黑客键盘
-		- >讯飞输入法，有tab键，有游戏键盘，非常适合手机cdda，
+		- “大名鼎鼎的活死人贴图包”——但相比默认的UltiCa和有立体感的Ultica_iso感觉还是可爱、小了点，断更后贴图也相对没那么全
+- 整合包
+	- ((67402aab-601e-4702-b366-49894d1aa778)) 启动器里可安装
+		- [GitHub - linonetwo/CDDA-Kenan-Modpack-Chinese: （最新实验版）Kenan's 大型 modpack 社区汉化版 For Cataclysm - Dark Days Ahead](https://github.com/linonetwo/CDDA-Kenan-Modpack-Chinese)
+			- [Kenan整合包 | Cataclysm: DarkDays Ahead Wiki | Fandom](https://cdda.fandom.com/zh/wiki/Kenan%E6%95%B4%E5%90%88%E5%8C%85)
+- [[《CDDA思维：为什么CDDA这么难，为什么玩家玩的也是自己游戏史的CDDA》]]
 - 兼顾赶时间开玩和探索趣味的“常识”攻略
 	- “真正正确的入门玩法”：“直接游戏！”，看能玩到什么程度——“就像你一样！”
-	- CDDA“相对很真实”，所以要用“常识”设身处地
+		- 当然也可以复刻一下自己
+	- CDDA“相对很真实”，所以要用“常识”设身处地，想象！
 	- 我们大概都没有跟“丧尸”战斗过，可能相当一部分人都没跟什么生物战斗过，甚至没有有意识地杀过什么生物，但这并不意味着我们不能把现实生活中已相对间接的“常识”用于游戏
 	- 想想旅游经验，出门带太多东西吃不完，不能像某些年代的很多小学生春游秋游那样只带零食
 	- 背包里的很多东西密度不比水高多少，比如乐事薯片（游戏里有没有害），很可能很快容积/空间不够了还没多重，所以一来要有大背包，二来捡东西（尤其可能没空集中整理时）也要讲究些，不一定全要，不一定一定要捡
 	- 游戏视野是一格一格的，默认世界最近的其他建筑实际上没多远，一秒走一格，大概不超过十分钟就走回来了，相比之下，&制造不少东西、R阅读不少攻略才算费时
-	- m大地图有比例尺，一格
+	- m大地图有比例尺，一格对应视野24*24格
 	- 要敢于按s破坏旧世界，包括相对整齐对称的紧急避难所，“强迫症”可以对称操作，包括拆东墙补西墙，具体而言，可以按G移动
 - 按键
 	- “是的，这是一个需要按键的游戏”
 	- “一键一用，开关不能共用一键，大无语了”
+	- 默认键位图
+	  id:: 67406753-2d8a-4f07-acfa-7e1ed8756e94
+		- https://i.redd.it/b81dxqht5my51.png
+			- [Another Keyboard controls cheatsheet/reference. : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/js87yz/another_keyboard_controls_cheatsheetreference/)
+		- https://imgsa.baidu.com/forum/pic/item/c3dd902bd40735faff3c238a9d510fb30e24087d.jpg
+		  id:: 67403656-2dab-4ff5-9053-3e29cbbf61ff
+			- [CDDA键盘映射表——献给新手的满满的爱啊【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/3192919944)
+			  id:: 674034d1-5944-4f7a-b9c0-c0cdefaea70d
 	- 符号输入模式下大概要关闭中文输入法，不然有些键按不出来
 		- ((673de2eb-fd38-497a-aca0-8ef241e98cca))
 	- 鼠标代替键盘（可减少按键学习成本过渡用，也可长期用）
+	  collapsed:: true
 		- “鼠标点点强化版”
 			- [让萌新用不用背按键就能玩cdda的小工具！_哔哩哔哩bilibili](https://www.bilibili.com/video/BV1V44y1P7bZ)（下了才发现最近版本已经用不了了......）
 				- 可用 ((659c9e71-570c-46ec-8f44-82c8af29f35e)) 置顶、透明窗口减少遮挡
@@ -42,12 +62,26 @@
 			- 说明：默认配置：系统语言英语，选项按键`·`（Esc下），不同可自行调整
 		- ---
 		- ((672b2e36-18c7-485d-9f96-2ad574782946))（“买一赠一，白加黑”）
+	- 掌机
+		- [【图片】用steamdeck玩cdda的简单教程【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8268845312)
 	- ?按键设置
+		- “改键位如果不动、看到要改的再确认要按哪个键、再去找那个键按、按完再找要改的键、看它分配到从当前第一行开始的字母顺序是哪个字母、再去找键盘上那个字母按就很难，但换成边下移时边确认要不要改、再走中间流程、再直接按a、再走后面流程就简单很多力！”
+			- 当然，中间遇到还不熟的键可以先学一下？
+			- 被改掉或被跳过的可以改完一遍再回来看往哪塞——“以优先级、大局为重！”
 		- ((673efd78-b423-4fb8-9108-003ff0d5e2ad))
 		- ((673d778a-f2bf-49e9-b583-7ee171ef3578))
 		- 按键设置大改（可先跳过）
-			- 参考相关游戏
-			- ((673eb94b-f645-4493-8856-6bbe7e72c3ca))
+			- 参考相关游戏（“求同存异”）
+			- ((67402acb-e7aa-4f9b-a1f4-b29400b2720c))
+			- ---
+			- “最Compact的一集”（木器时代长跑自动拾取新手版）
+				- 我是原始人，多出来的键看不懂，顺手删了，不常用走
+				- 键盘略逆时针向左转，左右手按住
+				- ((673dd820-df44-4c27-92ab-02bb43c0eefe))
+				- 根据右手（手指）按小键盘的方向确认
+					- 斜着走不太多，合情合理
+				- 这是什么？c戳一下
+				- 睡觉del（delete）——“最边上、消除、lost control（ctrl）”
 			- [【图片】自用的一套按键设置分享【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8864846714)
 			- [CDDA：关于按键操作系统设置的发现与简化 - 哔哩哔哩](https://www.bilibili.com/opus/650534945400291363)（键盘按键左移，鼠标强化）
 	- 游戏内教程（“哈哈，一开始没注意”）
@@ -76,6 +110,7 @@
 	- 常规
 	  collapsed:: true
 		- 允许自动拾取（是）
+		  id:: 673dd820-df44-4c27-92ab-02bb43c0eefe
 			- 配合 ((673e84d6-2523-4301-abcc-7781122cdb8b)) ，可将物品集中后再慢慢I对比、e/E查看、挑选，提高效率
 		- 自动存档（可能更新alt+F4的回档点，新手建议否）
 		- 自动屠宰/捣碎尸体（好像不用开）
@@ -100,7 +135,7 @@
 		- 单位、格式按需改
 		- 显示枪械型号（是）
 		- 详细容器（可以全部）
-		- 使用按键码输入模式（按键码，可继续使用中文输入法）
+		- 使用按键码输入模式（比符号/character更原初的按键码/code，可继续使用中文输入法）
 		  id:: 673de2eb-fd38-497a-aca0-8ef241e98cca
 			- [【强烈推荐】键码模式【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7167807747)（部分商务笔记本等的键盘可能不太适配按键码模式）
 		- 仅用大写字母（否；“光需要确认就是多此一举了”）
@@ -129,11 +164,9 @@
 	- ((673e93d2-7fb1-4640-acdd-e79e45b84242))
 - ---
 - 怪物
-  collapsed:: true
 	- [原版条件下，米戈是不是CDDA最难缠的一类怪物【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9268064650)
 	- 尸体钱包捡一下
 - 战斗
-  collapsed:: true
 	- 随行NPC
 		- 如果NPC因为加入队伍或任务跟着的话就借ta一用，拿枪的开枪会引来更多怪，但你就说开（霰弹）枪快不快吧
 	- 相互敌对的野怪
@@ -161,8 +194,13 @@
 		- 室内
 - 探索
 	- 地图
-		- 大地图1格边长24
+		- 大地图1格对应视野中边长24格的区域
 			- [Map - The Cataclysm: Dark Days Ahead Wiki](https://cddawiki.danmakudan.com/wiki/index.php/Map)
+		- [cdda大灾变地图基本知识介绍_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/6856465043)
+		- 民宅朝向？
+	- 配色
+		- 汽油等
+		- 侧边栏蓝紫配色在低屏幕亮度下不容易看清
 	- 拾取
 		- g
 		- [实验版怎么快速搜刮？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8368825109)
@@ -175,9 +213,12 @@
 		  collapsed:: true
 			- 不一定需要造
 - 制造
+- 露出墙壁布线
 - 拍照
+	- “拍僵尸是吧？”
 - ---
 - 需求
+	- ((673e84d6-2523-4301-abcc-7781122cdb8b))
 	- 切换到所在容器
 	- 所有同类物品（包括已在其他容器内的）放入同一个容器
 	- 直接显示物品体积、重量、总容量（方便整理）
@@ -186,19 +227,23 @@
 	- 选择、复制文本
 	  id:: 673ed7cc-90aa-4b35-ba66-966acfaa0f27
 		- 或 ((65c88759-d9ce-4137-ad25-b75ec2f268cc))（并自动复制）
-	- 侧边栏蓝紫配色在低屏幕亮度下不容易看清
 	- 设置文件（帮别人省设置时间）
 - ---
-- [【图片】【CDDA导航】面向新人的CDDA导航。【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7072292082)（内容较老，看完记住或想起了alt+F4）
-- [CDDA中文攻略手册](https://surflurer.github.io/CDDA-CN-Guide/)（新手看看，但内容也不太新）
-- [The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/?lang=zh_CN)（游戏信息查询，支持中英搜索）
-	- [The Hitchhiker's Guide to the Cataclysm](https://cdda.doiiars.com/?lang=zh_CN)
-		- [CDDA漫游指南 国内直连镜像站【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8871692136)
-- [2024船新答疑贴【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8768394721)
-- [现在0.G稳定版有什么超长距离跑图手段么_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/9224832261)
-- [【图片】一些没用小知识和小技巧【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8428454318)
-- [CDDA的冷门小寄巧【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8881527015)
-- [做了个CDDA人物/车辆导入导出工具【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7787766014)
+-
+	- [【0.C】cdda科技树-工具【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/5579018613)
+	- [【图片】【CDDA导航】面向新人的CDDA导航。【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7072292082)（内容较老，看完记住或想起了alt+F4）
+	- [CDDA中文攻略手册](https://surflurer.github.io/CDDA-CN-Guide/)（新手看看，但内容也不太新）
+	- [The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/?lang=zh_CN)（游戏信息查询，支持中英搜索）
+		- [The Hitchhiker's Guide to the Cataclysm](https://cdda.doiiars.com/?lang=zh_CN)
+			- [CDDA漫游指南 国内直连镜像站【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8871692136)
+	- ---
+	- “想太多”
+		- [2024船新答疑贴【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8768394721)
+		- [现在0.G稳定版有什么超长距离跑图手段么_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/9224832261)
+		- [【图片】一些没用小知识和小技巧【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8428454318)
+		- [CDDA的冷门小寄巧【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8881527015)
+		- [刚玩cdda 求助【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7393944971)
+		- [做了个CDDA人物/车辆导入导出工具【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7787766014)
 - ---
 - 看别人玩
 	- [【补档】【CDDA】琴叶姐妹的末日行记【VOICEROID实况】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1J7steaEMX)
@@ -210,6 +255,5 @@
 	- 听音乐负面效果（随机时间耳鸣、听力下降）
 	- 玩游戏负面效果（视疲劳、视力下降）
 - 游玩笔记
-  collapsed:: true
 	- 第一把（实际上是第三把，第一把怀疑自己按错了键把物品啥的啥啥了，第二把按错吃多了蛋白质口粮）
 		- 先“测试一下”，尝试绕着走看多远能（“没想象的短，但是合理，隔三十米左右看不到人是啥玩意”）、利用树等障碍躲开怪物视野，但是用处不大，看游戏说明、在避难所看房看物品和路上看安全模式、僵尸和真菌对战惊惊乍乍花了两三小时了（“英语哦”），不能白走，继续，避难所之外的房子的门窗好像都上锁，没工具撞不开（“哈哈，没做教程也不知道破窗大概比破门更快”），然后被僵尸围着，旁边正好是难走的玫瑰丛，被僵尸抓住逃不了，小刀（原来空手，身上有小刀，我是新手）不能一次打死两只僵尸，打死一只，打死全身甲的僵尸难，逃，没走几步又来僵尸，没逃得了，死了~

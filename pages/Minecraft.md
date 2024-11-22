@@ -464,6 +464,7 @@
 		  collapsed:: true
 			- 按住“1/!”左边的“·/~”挖掘，同时按住左键和W键前进即可
 			- “原来如此，看服主这么挖的，但还是想‘啊？’一下”
+		- ((67402aab-efc2-4be8-8ab3-503db346b5d2))
 		- 不太容易“看”到的
 		  collapsed:: true
 			- [Iris Shaders - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/3697.html)
