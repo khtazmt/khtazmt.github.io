@@ -456,7 +456,6 @@
 				- [旅行者背包新添加的扩容功能概述 - 旅行者背包 (Traveler's Backpack) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/post/3157.html)
 		- ==[[REI]REI物品管理器 (Roughly Enough Items) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1674.html)==
 		  id:: 662e5fb2-0f11-4db5-9af0-5fc1df62118f
-		  collapsed:: true
 			- ((662e5aa4-d3fd-46f0-958c-2bfb9cb55b49))
 			- 下部有搜索框（“我之前好像有努力找过，但是疑似没看到？”）
 		- [连锁挖掘 (Diggus Maximus) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/3080.html)
