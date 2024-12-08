@@ -5,6 +5,7 @@
 	- [如何通过ChatGPT来上传和分析文档 - 知乎](https://zhuanlan.zhihu.com/p/633119060)
 	- [ChatGPT Sidebar & GPT-4 Vision, GPT-4o, Claude 3.5, Gemini 1.5 | AITOPIA - Chrome 应用商店](https://chromewebstore.google.com/detail/chatgpt-sidebar-gpt-4-vis/becfinhbfclcgokjlobojlnldbfillpf)
 - [真把自己“当个人”的AI，扫去了我的社交贫困_澎湃号·湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_28632464)
+id:: 670df95e-beb1-437c-b489-786e8240aa46
 - TODO [Kimi Chat - 帮你看更大的世界](https://kimi.moonshot.cn/)
   collapsed:: true
 	- [让国产AI大模型读文献、出考卷，效果如何？Kimi Chat初体验_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ve411Y7y7)
@@ -14,9 +15,11 @@
 - ((66db8ac1-fdfb-42c0-b8ba-73c7e8f3f3b3))
 - [BrainSoup: build an AI team that works for you](https://www.nurgo-software.com/products/brainsoup)
 - ((65bcbf4a-a87e-4ced-9252-33d77393097f))（现在win11能在任务栏看到了）
+id:: 66077989-67ba-424f-b227-8f1676dfa75c
 - AI免费体验API
 	- [ChatGPT online free](https://www.mfc972.com/)
 - AI工具集成站
+  id:: 668e501d-b441-4900-b123-8a1e830ae2a6
   collapsed:: true
 	- [Collection of scientific research tools](https://www.helicard.com/)
 	- [YesChat-ChatGPT4o与Dalle3合为一体免费应用](https://www.yeschat.ai/zh-CN)
@@ -32,6 +35,7 @@
 	- [8个科研人必备好用 AI 学术写作工具 | Wordvice AI](https://wordvice.ai/cn/blog/8-best-ai-tools-for-researchers)
 	- 历史记录再利用
 - AI辅助编程
+id:: 66b55128-4fca-4a17-89f1-4aa307238020
 	- [有没有哪个AI代码解释器能读取一整个项目（多文件），然后进行问答的？ - 知乎](https://www.zhihu.com/question/628855786)
 	- GitHub Copilot
 		- [如何评价 GitHub 的 Copilot？ - 知乎](https://www.zhihu.com/question/470873369)
@@ -47,6 +51,7 @@
 	- prompt/提示词（关键词、“命令”、“咒语”）
 		- >要能自定义提示词/台词/话术，在模型APP里成品一般叫“智能体”，不专门搞的蹭个热度可能只会给个通用的聊天（我没试过）
 - AI内容总结
+  id:: 65d57a62-17da-4b94-bd7a-ad05b1602d0c
   collapsed:: true
 	- 用途：（收藏了）长点的视频总结字幕出来看
 	- 此处以 ((65d588aa-07e3-4113-8cf7-3e575fd031bc)) 为例
@@ -63,9 +68,11 @@
 	  collapsed:: true
 		- ((6663fa17-56ad-4e29-9362-ba96650ead04))
 	- [BibiGPT · AI 音视频内容一键总结](https://bibigpt.co)（功能多些）
+	  id:: 65d57cbb-6cbd-4f1b-bae0-4eb87655c9c2
 	  collapsed:: true
 		- [【BibiGPT】AI 自动总结 B站 视频内容，ChatGPT API 智能提取并总结字幕_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fX4y1Q7Ux)
 	- TODO （超免费总结时）长视频（免费）AI总结
+id:: 65d80bdb-40c7-4da3-b864-681fbce055cf
 	- [通义听悟+kimi，教你两分钟总结本地音视频内容_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qw4m1D7Ty)（还没试过通义自带总结与kimi的比怎么样）
 	- 比较
 	  collapsed:: true
@@ -74,8 +81,10 @@
 			- >哦，海螺ai也理解了，但是看着有点像copilot，我让它润色，它直接上来就是“你很懂”，然后就从原文提取这样的建议
 - ((66a4c2be-76bc-4358-b26a-d5fcf79dc201))
 - TODO AI内容转表格、图表
+id:: 670b72f6-fe62-4f3f-8ec5-6181009bdcc0
 	- 比如含需要可视化、对比的统计信息的链接、文件
 - TODO AI批量重命名文件
+id:: 670b915f-e0a1-4f15-85ae-5b610e60e06c
 	- 有些文件下载后文件名看不出实际名称，手动重命名需要打开文件看，有时需要重命名较多文件
 		- ((66db8abb-488e-4d8e-8fac-0e5a8adc84e1))
 	- 获取下载链接附近文本
