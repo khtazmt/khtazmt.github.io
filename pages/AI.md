@@ -35,7 +35,7 @@ id:: 66077989-67ba-424f-b227-8f1676dfa75c
 	- [8个科研人必备好用 AI 学术写作工具 | Wordvice AI](https://wordvice.ai/cn/blog/8-best-ai-tools-for-researchers)
 	- 历史记录再利用
 - AI辅助编程
-id:: 66b55128-4fca-4a17-89f1-4aa307238020
+  id:: 66b55128-4fca-4a17-89f1-4aa307238020
 	- [有没有哪个AI代码解释器能读取一整个项目（多文件），然后进行问答的？ - 知乎](https://www.zhihu.com/question/628855786)
 	- GitHub Copilot
 		- [如何评价 GitHub 的 Copilot？ - 知乎](https://www.zhihu.com/question/470873369)
