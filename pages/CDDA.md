@@ -1,3 +1,5 @@
+- ((6757f068-5024-4299-a0cf-1c0db42dbe1a))
+- ---
 - 有点像pathos，但相对“现实”些，或者说不那么DND（龙与地下城/地牢）
 	- [[推荐]原滋原味的roguelike是什么样的？边谈边荐《NetHack》《Elona》《CDDA》 - 星晖帝国的一番的动态 - TapTap](https://www.taptap.cn/moment/15216925399319905)
 	- [还有其他类似cdda，但是非丧尸题材的游戏吗【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9014735050)
@@ -76,6 +78,7 @@
 	  collapsed:: true
 		- 香蒲草、冬青、松树（松枝煮茶）
 - 地点/位置（location）
+  collapsed:: true
 	- ((674c3c02-0814-4a5d-9bba-88071b88ccdf))
 	- 因为多数丧尸没你走得快、跑得快、不会攀爬等设定，开局直接跑，武器不造、衣服不做、枪也不拿，开车、骑车乃至走路直接到难民中心发家致富是有可能的，冬季等延迟开局也有可能
 	- ---
@@ -712,6 +715,7 @@
 	- 和平模式
 		- [这游戏要是有和平模式就好了【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8866200323)
 	- [丧失游戏的乐趣。各位玩的动力是啥？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8987137556)
+	- [CDDA首日指南【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9300189587) /ti2
 	- [【图片】CDDA 中后期路线 需求 路线指南【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8838390011)
 	- 看别人玩
 	  collapsed:: true
@@ -1131,6 +1135,7 @@
 		- 套娃（避难所电脑）
 - ---
 - 角色@
+  collapsed:: true
 	- “我早就移动鼠标看到我了，还有我的姓名，就这？”
 	- “亦！物！”
 	- [推荐给新人的一个万金油强力捏人开局【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8951867212)
