@@ -1,4 +1,5 @@
 - ((6757f068-5024-4299-a0cf-1c0db42dbe1a))
+	- “玩打火机玩的”
 - ---
 - 有点像pathos，但相对“现实”些，或者说不那么DND（龙与地下城/地牢）
 	- [[推荐]原滋原味的roguelike是什么样的？边谈边荐《NetHack》《Elona》《CDDA》 - 星晖帝国的一番的动态 - TapTap](https://www.taptap.cn/moment/15216925399319905)
@@ -678,6 +679,7 @@
 			- ((67402aab-d155-4c11-ad8f-0aef8aa0de3b))
 			- [发现一个神奇的小技巧【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9247877107)
 - 玩法
+  collapsed:: true
 	- “新游戏”-“直接游戏！”
 	  id:: 674c3c02-cdd8-4324-8f15-e7ce3ce0bc08
 		- 看能玩到什么程度——“就像你一样！”
@@ -798,6 +800,7 @@
 		- 可以在怪不知道时躲，但只有3乘3视野，怪知道了还得攻击
 		- [H版本的垃圾箱是纯钢垃圾箱【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9301007476)
 - 载具
+  id:: 6742fa85-e9fc-4067-8b4d-b10f44d6916d
   collapsed:: true
 	- 开局两条腿，武器不造、东西不捡，半小时内直接上车（大电池自动驾驶电车）开走，低速路过看到（ ((67402aab-625b-438e-947f-42d6e3de740f)) ）好东西就拿，拿完就开走，有NPC就忽悠入团，欸就是玩儿！
 		- “徒步的游戏性何在？！”
@@ -841,6 +844,7 @@
 	  id:: 674abbe3-963a-4321-b973-f3a7d08a5c39
 		- [回复：【CDDA】有什么软用的小技巧？！【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7554427086?pid=141444720710&cid=0#141444720710)
 	- 单格电动“平衡车”
+	  id:: 674bd945-f074-453b-b058-09bdc4f521b0
 	- ---
 	- 滑板
 		- [滑板真是开局神器【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9192563137)
@@ -948,7 +952,6 @@
 	  id:: 67442188-4637-4b93-840e-a8273ee90211
 	- [大家会主动去记某个物品的来源/用途吗?【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9284809979)
 - 物品
-  collapsed:: true
 	- 很多物品“极大丰富”，可以不造
 	- 同一格不止一种（而不是一个）物品就会显示两或三个小点
 	- ---
@@ -971,6 +974,7 @@
 	- 钻石、金、蛋白石除了装饰外没用，铂金、银可用于杀虫剂等的制造
 	- [The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/?lang=zh_CN)
 	  id:: 674c3c02-0814-4a5d-9bba-88071b88ccdf
+		- “这玩意比游戏本体耐玩欸！”
 		- 游戏信息查询，支持中英搜索
 		- 可以查地点/位置有什么物品，有什么家具可以拆、砸，等等
 		- [The Hitchhiker's Guide to the Cataclysm](https://cdda.doiiars.com/?lang=zh_CN)
@@ -1041,7 +1045,6 @@
 - `“打开更多（游戏内）窗口”`
 - `“文字不少？要字字读完？我要干什么？应拿尽拿吗？”`
 - 选项
-  collapsed:: true
 	- 常规
 		- ((6742c0ab-6530-4fc3-aafd-2ba66e95e79f))
 		  id:: 67406f6e-d380-4e07-b8a8-712738be36dc
@@ -1107,6 +1110,7 @@
 					- “大名鼎鼎的活死人贴图包”——但相比默认的UltiCa还是可爱、小了点，断更后贴图也相对没那么全
 				- 符号类贴图包的大类辨识度高，具体物品辨识度可能低
 					- 可能对一些人而言比较有想象空间吧
+						- 可能也是一种延缓电子阳痿的方法
 				- [cdda大灾变中自带贴图包和常见贴图包的画风介绍 - 哔哩哔哩](https://www.bilibili.com/opus/560236332963288901)
 			- 选择大地图贴图包
 				- 我用的是SurveyorsMap
