@@ -1,4 +1,5 @@
 - 语音转文字、总结、搜索、问答、多媒体创作
+- [鬼畜的AI视频和狡猾的AI撒谎](https://mp.weixin.qq.com/s/3zoMU0MWhsS9qHYouuAyZA)
 - [懂AI | 一站式AI导航](https://www.dongaigc.com/)
   id:: 675501cb-d49d-40e0-937c-5aa11d65fc40
 - 上传文件
