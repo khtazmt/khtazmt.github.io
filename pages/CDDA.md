@@ -186,6 +186,9 @@
 			- ((674a8f8c-bf5c-4b7e-b667-90712e759674))
 			- 地下室可能有奇怪场景，pawn porn是吧？
 			  id:: 6750e572-23bb-43c8-be83-8d8f73b7adc0
+		- 停车场
+			- 多功能工具、手电筒、各种车用工具、车
+			- 在城里开车穿梭的空间
 	- 民宅等很多地点有的“次级/附属地点”
 		- 车库
 		- 地下室
@@ -707,6 +710,7 @@
 			- ((67553cf9-1b09-47a3-87c1-01448453d1d3))
 			- “你在做什么？~”
 		- [路人无聊过来问个问题啊【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6339407492)
+		  id:: 67402aab-bba8-4588-852c-ceac26ba83c9
 		  collapsed:: true
 	- [你们玩cdda的心态是啥？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8467128124)
 	- [这里是cdda忏悔室，大家做了什么坏事都可以在这里说【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8727599791)
