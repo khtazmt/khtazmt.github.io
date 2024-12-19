@@ -1,17 +1,19 @@
 - {{embed ((6757f068-5024-4299-a0cf-1c0db42dbe1a))}}
 - 下载安装
 	- steam正版
+		- 服务器多，低延时服务器多
 		- [DayZ服务器快速 / 一键开服教程，模组自动更新（支持单机/联机/网页管理，无需Steam） - 2023_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1iu411T7DL)
 	- 俄罗斯社区服项目DayZavr提供的游戏本体和启动器
+		- （大概是非steam正版用户）默认只能玩他们的服务器——我不会玩本机服务器或其他服务器
 		- [DayZavr - DAYZ STANDALONE ПИРАТКА + 19 СЕРВЕРОВ](https://dayzavr.ru/)
 			- [Сервера DayZ Standalone на проекте DayZavr Пиратка + Steam](https://dayzavr.ru/servers.html)（服务器介绍）
 			- [《DayZ》|v1.25|中文|免安装硬盘版 - SWITCH618游戏公益分享](https://www.switch618.com/1234.html)（没必要用这个下——百度网盘蜗牛下完恍然大悟）
-		- 默认只能玩他们的服务器——我不会玩本机服务器或其他服务器
-		- 19个服务器，3小时一轮，绝大多数最后5分钟强制踢出，过5~15分钟重启
+		- 打开启动器，启动器未显示用户名、密码、验证码的话，可能要切换网络节点
+		- 19个服务器，3小时一轮，绝大多数还剩5-6分钟时强制踢出，过5~15分钟重启
 		- 连接启动器内的服务器还需下载服务器相关模组，等等
-		- 如果还不能登录
+		- 如果还不能登录服务器
 		  collapsed:: true
-			- 如果是battleye bad packet可以输cmd指令后重启
+			- 如果是battleye bad packet可以输cmd指令后重启电脑
 			  collapsed:: true
 				- [出问题了，实在解决不了了【命运2游戏吧】_百度贴吧](https://tieba.baidu.com/p/7768043982)
 			- 无法compile world（末尾kr swatsuit）
@@ -21,7 +23,8 @@
 			- 好像地图mod也是，身上没地图就看不了了
 - ---
 - 食物
-	- 水井喝水
+	- [Food and Drink - DayZ Wiki](https://dayz.fandom.com/wiki/Food_and_Drink)
+	- 水井接水（塑料瓶、水壶等，接了喝得更快）、喝水
 	- 刀、锯等
 		- 可用两个石块合并合成石刀
 		- 开罐头，手锯损失10-40%，
@@ -31,15 +34,18 @@
 		- 砍灌木得长木棍和短木棍，长木棍可折为短木棍
 		- 削树皮
 	- 钓鱼
-	  collapsed:: true
+		- 在海边钓两三条鲭鱼烤了就很够吃了
 		- 长木棍+绳子=简易鱼竿
 		- 简易（木质）鱼钩
 			- 适用于服务器里没鸡搞不到骨头的场景
 			- 2短木棍
+		- 骨质鱼钩
 		- 金属鱼钩
 			- 海滩木船上可能刷
 		- 刀等对草地挖蚯蚓，串上鱼钩
 	- 生火
+		- 所有可烹饪的食物烹饪后热量都加得更多，还少占胃——烤鲭鱼柳的热量是生鲭鱼柳的10倍，疑似有点游戏性了——现实生活中这种关系可能是反过来的
+			- [[生食]]
 		- 点火
 			- 火柴
 			- 短木棍+树皮=火钻
@@ -51,33 +57,47 @@
 	- [Crafting - DayZ Wiki](https://dayz.fandom.com/wiki/Crafting)
 	- [DayZ All Crafts 1.26 - YouTube](https://www.youtube.com/watch?v=eP-8ojgPzjo)
 - 战斗
-	- 丧尸控距
-		- 放
-		- 最好提前开着门（只开一个，可能是有些mod丧尸会感应哪里没关门）、没啥网络延迟，不然（新手）可能来不及
+	- 丧尸上不去的地方
+		- 注意近战会前移，多走两步可能会落下，注意后退
+	- 室内窗边
+		- [DayZ萌新无伤打僵尸教学_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1b34y1a7tR)
+		- 进室内最好提前开着门（只开一个，丧尸会感应哪里没关门，可能是有些mod）、网络延迟不高，不然（新手）关门可能来不及
 	- 绕后背刺
 		- [【DAYZ独立版】《教你们如何速清僵尸》👍可无伤！](https://www.bilibili.com/video/BV1Q8411A7w2)
+	- [【Dayz教学类】如何无伤清理僵尸，以及其他情况的处理_哔哩哔哩bilibili_技巧](https://www.bilibili.com/video/BV1gx4y18731)
+		- 北山君关丧尸好像还加个重击让丧尸暂时无法攻击
+	- “其他玩家”帮清理
+		- PVP是螳螂捕蝉，黄雀在后，PVE则是“跟”
+	- ---
+	- [【图片】盘点一下车臣尼亚的军事基地（仅限官服）【dayz吧】_百度贴吧](https://tieba.baidu.com/p/7438353923)
+		- 可能很多都改了，或者说整体也改少了
+		- 不着急的话还是可以“走一步看一步”
 	- 钢锯可以锯短部分枪的枪管，从而把枪放容器里而不是背肩上
+	- ctrl瞄准镜屏息
+- 地图
+	- “到此一游”
+	- [DayZ在线地图](https://dayz.plus/#/map)
+		- 搜路标、服务器空投提示等定位
+		- 可以全开（果树比较多，可以不开；其他可以不开；），点圆点查看图例
+		- 可以复制所选位置坐标发给队友
+		- ((675ae713-a80e-434f-a0bc-b4d1178edd64))
+			- ((675fb9a0-0cd3-4cc4-9bee-5b12faea6a5f))
+			- “看到就是有了”
+	- Chernarus
+		- 恶魔岛
+			- 平均物资水平可能比沿海的镇的警察局更高，有些mod会更更高
+			- 有的服务器加了跨海大桥，但加入的区域可能不会刷物资和丧尸
 - 储存
-	- 树下藏枪
+	- 钉子
+		- [钉子在哪有啊【dayz吧】_百度贴吧](https://tieba.baidu.com/p/7896105419)
+	- 木箱
+	- 树下
 	  id:: 6760cf25-6b7b-4675-a844-eb97ac414366
-- [DayZ Wiki](https://dayz.fandom.com/wiki/DayZ_Wiki)
-- [Dayz中文维基百科 wiki|Gamekee游戏攻略百科](https://www.gamekee.com/dayz/)
-- [DayZ Wiki](https://wiki.dayz.plus/)
-- [【图片】萌新贴，从零开始手把手教！！老玩家慎入！！！【dayz吧】_百度贴吧](https://tieba.baidu.com/p/8029020211)
-- [【图片】【老魏填坑】从0开始的Dayz的新手教程【dayz独立版吧】_百度贴吧](https://tieba.baidu.com/p/6924155862)
-- [【DayZ新手教程01】服务器登陆教程及常见问题，新手第一次进服该怎么做？_教程](https://www.bilibili.com/video/BV1NV4y1m7Po)
-- [【DayZ新手教程02】吃喝篇，保姆级教学新手怎么找吃的？内含钓鱼教学_新手教程](https://www.bilibili.com/video/BV1jk4y1H7rt)
-- [【DayZ新手教程03】地图篇，怎么看地图，怎么认路，物资点在哪？_哔哩哔哩bilibili_新手教程](https://www.bilibili.com/video/BV19m4y1Y78d)
-- [【DayZ新手教程04】车辆篇，怎么找车，怎么开车，怎么修车？_网络游戏热门视频](https://www.bilibili.com/video/BV1Ls4y1r7Hb)
-- [【DAYZ独立版】常用入门生存技巧汇总_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1va4y1t7Lq)
-	- [【DAYZ独立版】常用入门生存技巧汇总 - 第二期_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1P3411q7k3)
-- [【图片】《DayZ》全物品合成表分享【dayz吧】_百度贴吧](https://tieba.baidu.com/p/6495741088)
-- [DayZ在线地图](https://dayz.plus/#/map)
-	- 搜路标、服务器空投提示等定位
-	- 可以全开（果树比较多，可以不开；其他可以不开；），点圆点查看图例
-- 进服务器夜晚不想玩或没足够照明、雨天没防水衣物、想等食物等物品刷新可以先退出做点别的事
+- 网络延迟
+	- 在服务器人多时、在自己或其他人基地附近可能会比较卡，可能梯子都没法爬、食物都没法吃，要搜图且不赶时间的话可以退出
+- 进服务器夜晚或阴雨天不想玩或没足够照明、雨天没防水衣物、想等食物等物品刷新可以先退出做点别的事
 - tab打开物品栏，左边是临近，中间上部是当前物品展示，下部是手部和快捷槽，右边是当前装备
-	- 手部可以合并或交换物品
+	- 手部可以合并或交换物品，手持物品不会在服务器里消失
 	- 将物品拖到对应装备槽可切换穿戴
 	- 双击转移物品
 	- 右键物品分半
@@ -94,3 +114,16 @@
 		- “好肉啊，原地近战A死衣服要吃大亏”
 	- 疲倦
 		- “我shift键跟输入法串了吗？耐力还有不少呀？”
+- [DayZ Wiki](https://dayz.fandom.com/wiki/DayZ_Wiki)
+	- ((675ae713-a80e-434f-a0bc-b4d1178edd64))
+- [Dayz中文维基百科 wiki|Gamekee游戏攻略百科](https://www.gamekee.com/dayz/)
+- [DayZ Wiki](https://wiki.dayz.plus/)
+- [【图片】萌新贴，从零开始手把手教！！老玩家慎入！！！【dayz吧】_百度贴吧](https://tieba.baidu.com/p/8029020211)
+- [【图片】【老魏填坑】从0开始的Dayz的新手教程【dayz独立版吧】_百度贴吧](https://tieba.baidu.com/p/6924155862)
+- [【DayZ新手教程01】服务器登陆教程及常见问题，新手第一次进服该怎么做？_教程](https://www.bilibili.com/video/BV1NV4y1m7Po)
+- [【DayZ新手教程02】吃喝篇，保姆级教学新手怎么找吃的？内含钓鱼教学_新手教程](https://www.bilibili.com/video/BV1jk4y1H7rt)
+- [【DayZ新手教程03】地图篇，怎么看地图，怎么认路，物资点在哪？_哔哩哔哩bilibili_新手教程](https://www.bilibili.com/video/BV19m4y1Y78d)
+- [【DayZ新手教程04】车辆篇，怎么找车，怎么开车，怎么修车？_网络游戏热门视频](https://www.bilibili.com/video/BV1Ls4y1r7Hb)
+- [【DAYZ独立版】常用入门生存技巧汇总_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1va4y1t7Lq)
+	- [【DAYZ独立版】常用入门生存技巧汇总 - 第二期_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1P3411q7k3)
+- [【图片】《DayZ》全物品合成表分享【dayz吧】_百度贴吧](https://tieba.baidu.com/p/6495741088)

@@ -981,6 +981,7 @@
 	- [The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/?lang=zh_CN)
 	  id:: 674c3c02-0814-4a5d-9bba-88071b88ccdf
 		- “这玩意比游戏本体耐玩欸！”
+		  id:: 675ae713-a80e-434f-a0bc-b4d1178edd64
 		- 游戏信息查询，支持中英搜索
 		- 可以查地点/位置有什么物品，有什么家具可以拆、砸，等等
 		- [The Hitchhiker's Guide to the Cataclysm](https://cdda.doiiars.com/?lang=zh_CN)
