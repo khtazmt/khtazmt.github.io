@@ -1351,6 +1351,7 @@
 		- [诸位流浪党一般主食吃啥【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8391210254)
 		- [cdda厨神争霸赛，烹饪大佬请进（doge）【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9235409882)
 	- CBM
+	  id:: 675650c8-e9da-46ef-a853-1037199fd094
 		- [你们觉得有什么cbm可推荐的？怎么提高cbm上限？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7863751893)
 		- [【图片】cbm测评记录贴【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7972349477)
 		- [关节伺服和动力齿轮【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8839960681)
