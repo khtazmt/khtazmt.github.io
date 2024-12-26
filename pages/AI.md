@@ -6,7 +6,7 @@
 	- [如何通过ChatGPT来上传和分析文档 - 知乎](https://zhuanlan.zhihu.com/p/633119060)
 	- [ChatGPT Sidebar & GPT-4 Vision, GPT-4o, Claude 3.5, Gemini 1.5 | AITOPIA - Chrome 应用商店](https://chromewebstore.google.com/detail/chatgpt-sidebar-gpt-4-vis/becfinhbfclcgokjlobojlnldbfillpf)
 - [真把自己“当个人”的AI，扫去了我的社交贫困_澎湃号·湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_28632464)
-id:: 670df95e-beb1-437c-b489-786e8240aa46
+  id:: 670df95e-beb1-437c-b489-786e8240aa46
 - TODO [Kimi Chat - 帮你看更大的世界](https://kimi.moonshot.cn/)
   collapsed:: true
 	- [让国产AI大模型读文献、出考卷，效果如何？Kimi Chat初体验_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ve411Y7y7)
