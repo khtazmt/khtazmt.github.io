@@ -52,10 +52,11 @@
 		- 临近建筑、建筑顶部等地标的连线、延长线
 	- 地图上北下南左西右东
 	- 地图等高线与目视地势
+	- 罗盘在手上准，在快捷槽或背包里会偏
+	- GPS接收器可以开启右下角小地图显示位置
 	- 有地图有罗盘才会在地图上定位（可能是mod内容？）
 		- [Tourist Map - DayZ Wiki](https://dayz.fandom.com/wiki/Tourist_Map)
 - 地图
-  collapsed:: true
 	- “到此一游”
 	- [DayZ在线地图](https://dayz.plus/#/map)
 		- 搜路标、服务器空投提示等定位
@@ -66,8 +67,9 @@
 		- 也可以试试不看，就看游戏内的，乃至就看游戏本体的——尤其是不小心死了后
 	- Chernarus
 		- 恶魔岛
-			- 平均物资水平可能比沿海的镇的警察局更高，有些mod会更更高（民房里刷了两件70格防弹狩猎背心）
-			- 有的服务器加了跨海大桥，但加入的区域可能不会刷物资和丧尸
+			- 平均物资水平可能比警察局更高，有些mod会更更高（第一次去民房里刷了两件70格防弹狩猎背心，第二次有弩、弩箭、GPS接收器、MK2手枪）
+			- 可以反复刷
+			- 有的服务器加了跨海大桥mod，但加入的区域可能不会刷物资和丧尸
 - 聊天
 	- [从相遇到分离需要多久，35分钟的影像碎片凑起了我对亚索的所有记忆，祝你活得长久_哔哩哔哩bilibili_剧情](https://www.bilibili.com/video/BV1Fa41177Vj)
 	- DayZ常用语
@@ -87,6 +89,7 @@
 	- [Crafting - DayZ Wiki](https://dayz.fandom.com/wiki/Crafting)
 	- [DayZ All Crafts 1.26 - YouTube](https://www.youtube.com/watch?v=eP-8ojgPzjo)
 - 食物
+  collapsed:: true
 	- [Food and Drink - DayZ Wiki](https://dayz.fandom.com/wiki/Food_and_Drink)
 	- 进食由三个向上转为一个向上就是满了
 	- 水井接水（塑料瓶、水壶等，接了喝得更快）、喝水
@@ -169,7 +172,8 @@
 	- 近战武器
 		- PVE
 			- 带个干草叉、大锤之类的长柄武器，方便打刀够不到的丧尸
-	- 枪
+	- 远程武器
+		- rr卸弹
 		- 瞄准时按f可用枪近战攻击
 		- PVE
 			- 打普通怪需要枪弹量大管饱，打精英怪需要高DPS（可能还要“弹匣总伤害”）
@@ -188,8 +192,10 @@
 		- ctrl瞄准镜屏息
 	- ---
 - 修理
+	- 全新、破旧、损坏、严重损坏、毁坏（无法修理）
 	- 刀用磨刀石
 	- 背心和鞋用皮革修理包（“严重损坏？这年头谁还穿皮衣啊，腾格尔！”）
+	- 环氧树脂可以修头盔、背心、弩
 	- [请问各位大佬，新图什么地方刷武器清理工具？_dayz吧_百度贴吧](https://tieba.baidu.com/p/9233135465)
 - 储存
 	- [官服6094 最多10个人在线的服 家也被撬【dayz吧】_百度贴吧](https://tieba.baidu.com/p/9190409657)
@@ -212,7 +218,8 @@
 					- ![image.png](../assets/image_1734929520187_0.png)
 				- 54239999
 					- ![image.png](../assets/image_1734941769495_0.png)
-				- 约13480 3090（松树后）
+				- 约13450 3110（松树后）
+					- ![image.png](../assets/image_1735187276252_0.png)
 		- [Wooden Crate - DayZ Wiki](https://dayz.fandom.com/wiki/Wooden_Crate)
 		- [【图片】分享几个艺高人胆大的绿玩物资点【dayz吧】_百度贴吧](https://tieba.baidu.com/p/8342092529)
 		- 建议截屏方便查看
