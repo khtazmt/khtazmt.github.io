@@ -87,8 +87,8 @@
 	- [Crafting - DayZ Wiki](https://dayz.fandom.com/wiki/Crafting)
 	- [DayZ All Crafts 1.26 - YouTube](https://www.youtube.com/watch?v=eP-8ojgPzjo)
 - 食物
-  collapsed:: true
 	- [Food and Drink - DayZ Wiki](https://dayz.fandom.com/wiki/Food_and_Drink)
+	- 进食由三个向上转为一个向上就是满了
 	- 水井接水（塑料瓶、水壶等，接了喝得更快）、喝水
 		- 小镇的水井或许可能潜伏避免战斗
 	- 刀、锯等
@@ -176,7 +176,7 @@
 				- [DayZ Weapon Stat Tool | Damage Per Second Stat in DayZ](https://wobo.tools/dayz-single-weapon-stat-tool?weapon_stat=Damage_Per_Second#selectbox)
 			- 用单发枪打猎、引怪都OK，固定点批量清丧尸有点“慢条斯理”了，甚至不如近战
 			- 左轮手枪
-				- 点357，不错，虽然比普通手枪多占两格，但自带弹巢（转轮），容弹量6发、射速均大于常见霰弹枪、猎枪，装弹操作方便、不用拆下弹匣装弹再装回去，装弹不慢，噪声比普通手枪大些（？）也可以增大引怪范围，一次多清，少点一惊一乍
+				- 点357，不错，虽然比普通手枪多占两格，但自带弹巢（转轮），容弹量6发、射速均大于常见霰弹枪、猎枪，装弹操作方便、不用拆下弹匣装弹再装回去，装弹不慢，噪声比普通手枪大些（？）也可以增大引怪范围，一次多清，少点一惊一乍——没别的手枪时可用（
 		- [Interactive Web Tools & Wiki for DayZ Information | WOBO Tools](https://wobo.tools/)
 		- [[DAYZ]萌新前期武器推荐一览，八年老兵实测_哔哩哔哩bilibili_英雄联盟_游戏解说](https://www.bilibili.com/video/BV1Zr4y147W4)
 		- [大佬看看我！求枪械配件表【dayz吧】_百度贴吧](https://tieba.baidu.com/p/9005217224)
@@ -212,6 +212,7 @@
 					- ![image.png](../assets/image_1734929520187_0.png)
 				- 54239999
 					- ![image.png](../assets/image_1734941769495_0.png)
+				- 约13480 3090（松树后）
 		- [Wooden Crate - DayZ Wiki](https://dayz.fandom.com/wiki/Wooden_Crate)
 		- [【图片】分享几个艺高人胆大的绿玩物资点【dayz吧】_百度贴吧](https://tieba.baidu.com/p/8342092529)
 		- 建议截屏方便查看
