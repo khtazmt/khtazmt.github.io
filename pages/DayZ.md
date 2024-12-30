@@ -153,6 +153,9 @@
 		- [我打算在官服第一人称找个啤酒屋开个餐馆【dayz吧】_百度贴吧](https://tieba.baidu.com/p/7763383693)
 - 疾病
   collapsed:: true
+	- 伤口感染
+		- [Wound Infection - DayZ Wiki](https://dayz.fandom.com/wiki/Wound_Infection)
+		- 所以说消毒用品还是有点用
 	- 霍乱和沙门氏菌感染可能误触出（“家人们谁懂啊？！”），小口吃喝（水、食物符号上三个向上后不再吃喝，等下来或快下来再吃一些，随着食物剩余比例逐渐减小而逐渐增大转动角度，如此慢慢吃）把免疫力值堆到95以上很费时（单人通常需要守着水井、钓鱼），刚开始或还没搞到/储存高价值物品且没信心较快搞到药的话建议重开
 - 战斗
   collapsed:: true
@@ -212,7 +215,6 @@
 	- 环氧树脂可以修头盔、背心、弩
 	- [请问各位大佬，新图什么地方刷武器清理工具？_dayz吧_百度贴吧](https://tieba.baidu.com/p/9233135465)
 - 储存
-  collapsed:: true
 	- [官服6094 最多10个人在线的服 家也被撬【dayz吧】_百度贴吧](https://tieba.baidu.com/p/9190409657)
 	- 替换衣物（比如防护服）、多余的枪（“用不着，就是囤、收藏”、“给朋友和有缘人用”——“防止挂了刷没”；相比弹药可能不易堆叠，可优先放）、弹药
 	- 钉子
@@ -233,8 +235,8 @@
 					- ![image.png](../assets/image_1734929520187_0.png)
 				- 54239999
 					- ![image.png](../assets/image_1734941769495_0.png)
-				- 约13450 3110（松树后）
-					- ![image.png](../assets/image_1735450411483_0.png)
+				- 约13450 3110（恶魔岛松树后）
+					- ![image.png](../assets/image_1735542677634_0.png)
 		- [Wooden Crate - DayZ Wiki](https://dayz.fandom.com/wiki/Wooden_Crate)
 		- [【图片】分享几个艺高人胆大的绿玩物资点【dayz吧】_百度贴吧](https://tieba.baidu.com/p/8342092529)
 		- 建议截屏方便查看
