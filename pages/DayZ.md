@@ -72,10 +72,15 @@
 			- 平均物资水平可能比警察局更高，有些mod会更更高（第一次去民房里刷了两件70格防弹狩猎背心，第二次多刷了几次有140格大背包、弩、弩箭、GPS接收器、MK2手枪、气炉头、气罐、308、76254子弹）
 			- 可以反复刷
 			- 有的服务器加了跨海大桥mod，但加入的区域可能不会刷物资和丧尸
-- [持续跑步 - by 用户670025759866055 - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=6315c044-a977-4cdc-02b1-08dd267f7c7b)
-  id:: 676f7433-cafd-4d23-a5b0-789e597debdd
-	- 可以在旁边运动一下
-	  collapsed:: true
+- 快捷方式
+	- id:: 677261e7-2f1e-4f25-910f-e8b3a9a4daf8
+	  >我在游戏里钓鱼时是臀腿悬空坐桩，跑图时是练这个循环1
+	  接下来我可能还要搞个长按若干秒挖钓鱼蚯蚓、声控提竿
+		- ((666e0f29-90c8-45a3-b3f4-8ec03039b2fb))
+		- [持续跑步 - by 用户670025759866055 - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=6315c044-a977-4cdc-02b1-08dd267f7c7b)
+		  id:: 676f7433-cafd-4d23-a5b0-789e597debdd
+		- [长按鼠标左键 - by 用户670025759866055 - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=1040f2a5-da39-48e0-a709-08dd2875ceca)
+		  id:: 67726355-86bf-4e6a-8505-def58caa0c4d
 - 聊天
   collapsed:: true
 	- [从相遇到分离需要多久，35分钟的影像碎片凑起了我对亚索的所有记忆，祝你活得长久_哔哩哔哩bilibili_剧情](https://www.bilibili.com/video/BV1Fa41177Vj)
@@ -215,6 +220,7 @@
 	- 环氧树脂可以修头盔、背心、弩
 	- [请问各位大佬，新图什么地方刷武器清理工具？_dayz吧_百度贴吧](https://tieba.baidu.com/p/9233135465)
 - 储存
+  collapsed:: true
 	- [官服6094 最多10个人在线的服 家也被撬【dayz吧】_百度贴吧](https://tieba.baidu.com/p/9190409657)
 	- 替换衣物（比如防护服）、多余的枪（“用不着，就是囤、收藏”、“给朋友和有缘人用”——“防止挂了刷没”；相比弹药可能不易堆叠，可优先放）、弹药
 	- 钉子
