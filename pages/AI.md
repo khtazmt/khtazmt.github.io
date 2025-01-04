@@ -16,6 +16,7 @@
 - ((66db8ac1-fdfb-42c0-b8ba-73c7e8f3f3b3))
 	- TODO AI查重插件
 	  id:: 675af399-0e5f-4369-a90a-b2efccd9a0a4
+	  collapsed:: true
 		- 也适用于规模相对庞大的非学术创作等内部查重
 		- {{embed ((67402ab2-a8f2-4c51-a498-5962761b6fec))}}
 - [BrainSoup: build an AI team that works for you](https://www.nurgo-software.com/products/brainsoup)
@@ -40,6 +41,7 @@
 	- [8个科研人必备好用 AI 学术写作工具 | Wordvice AI](https://wordvice.ai/cn/blog/8-best-ai-tools-for-researchers)
 	- 历史记录再利用
 - AI辅助编程
+  id:: 66b55128-4fca-4a17-89f1-4aa307238020
 	- [有没有哪个AI代码解释器能读取一整个项目（多文件），然后进行问答的？ - 知乎](https://www.zhihu.com/question/628855786)
 	- GitHub Copilot
 		- [如何评价 GitHub 的 Copilot？ - 知乎](https://www.zhihu.com/question/470873369)
