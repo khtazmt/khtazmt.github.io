@@ -78,14 +78,17 @@
 	- 有地图有罗盘才会在地图上定位（可能是mod内容？）
 		- [Tourist Map - DayZ Wiki](https://dayz.fandom.com/wiki/Tourist_Map)
 - 地图
+  collapsed:: true
 	- “到此一游”
 	- [DayZ在线地图](https://dayz.plus/#/map)
+	  collapsed:: true
 		- 搜路标、服务器空投提示等定位
 		- 可以全开（果树比较多，随缘捡到，可以不开；其他可以不开），点圆点查看图例
 		- “看到就是有了”
 		- 可以复制所选位置坐标发给队友
 		- ---
 		- 也可以试试不看，就看游戏内的，乃至就看游戏本体的——尤其是不小心死了后
+	- [Spawn locations of ALL ITEMS in DayZ | Find gear easily using the DayZ Loot Finder spawn point loot location maps](https://wobo.tools/dayz-loot-finder-tool?map=chernarus#top)
 	- Chernarus
 		- 恶魔岛
 			- 平均物资水平可能比警察局更高，有些mod会更更高（第一次去民房里刷了两件70格防弹狩猎背心，第二次多刷了几次有140格大背包、弩、弩箭、GPS接收器、MK2手枪、气炉头、气罐、308、76254子弹）
@@ -223,7 +226,7 @@
 		- [Wound Infection - DayZ Wiki](https://dayz.fandom.com/wiki/Wound_Infection)
 		- 所以说消毒用品还是有点用
 	- 霍乱和沙门氏菌感染可能误触出（“家人们谁懂啊？！”），小口吃喝（水、食物符号上三个向上后不再吃喝，等下来或快下来再吃一些，随着食物剩余比例逐渐减小而逐渐增大转动角度，如此慢慢吃）把免疫力值堆到95以上很费时（单人通常需要守着水井、钓鱼），刚开始或还没搞到/储存高价值物品且没信心较快搞到药的话建议重开
-- 战斗（以下主要对丧尸）
+- 战斗（以下主要对PVE）
   collapsed:: true
 	- 耐力
 		- 非常重要，不够来不及爬上去被围着打就爽了，不够的话，可以先潜行、先放下减重、肾上腺素、宁可在室内打
@@ -232,18 +235,21 @@
 	- >不要怂，就是干！
 	- 卡门卡楼梯
 		- 如果门没来得及关上或mod丧尸开门，来不及或耐力不够不方便跑，那么至少一次对付一只减轻战斗压力
-	- 室内窗边
-		- [DayZ萌新无伤打僵尸教学_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1b34y1a7tR)
-		- 投掷物品可以吸引丧尸
-		- 进室内最好提前开着门（只开一个，丧尸会感应哪里没关门，可能是有些mod）、网络延迟不高，不然（新手）关门可能来不及
-	- 丧尸上不去的地方
-		- 注意近战会前移，多走可能会落下挨打，注意后退
-		- 开着的集装箱门可以站
-		- 干草垛好像是能爬还是挤上去，不太安全
-		- 但一般高度并非高枕无忧，丧尸等多了可能会被挤上去，少的话还能对付
-			- [惹了就后悔！《DayZ》里比《闪灵》还要可怕的熊_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vN411f7Lh)
-	- 水中
-		- 近岸站着即可
+	- 丧尸到不了、进不去的地方
+	  id:: 67790393-e475-4e3d-83b8-9ad56656573f
+		- 室内窗边
+			- [DayZ萌新无伤打僵尸教学_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1b34y1a7tR)
+			- 投掷物品可以吸引丧尸
+			- 进室内最好提前开着门（只开一个，丧尸会感应哪里没关门，可能是有些mod）、网络延迟不高，不然（新手）关门可能来不及
+		- 丧尸上不去的地方
+		  id:: 67640a7e-5a11-4fa6-8876-2111577c135f
+			- 注意近战会前移，多走可能会落下挨打，注意后退
+			- 开着的集装箱门可以站
+			- 干草垛好像是能爬还是挤上去，不太安全
+			- 但一般高度并非高枕无忧，丧尸等多了可能会被挤上去，少的话还能对付
+				- [惹了就后悔！《DayZ》里比《闪灵》还要可怕的熊_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vN411f7Lh)
+		- 水中
+			- 近岸站着即可
 	- 蹲走背刺
 	- 靠近后绕后
 		- [【DAYZ独立版】《教你们如何速清僵尸》👍可无伤！](https://www.bilibili.com/video/BV1Q8411A7w2)
@@ -294,6 +300,7 @@
 		- [手雷能被子弹打爆吗xdm【dayz吧】_百度贴吧](https://tieba.baidu.com/p/8307910484)
 		- 不算轻，多扔扔
 		- 扔一个炸了后丧尸会聚集，再扔一个就能带走多个
+		- 在空间较大的 ((67790393-e475-4e3d-83b8-9ad56656573f)) ，可以直接扔雷或扔雷后快速后撤
 	- ---
 - 修理
   collapsed:: true
@@ -334,6 +341,7 @@
 		- 比较难找
 		- 可以每个木箱里放16个钉子，或者身上只带一两组，钉子可能比锯（有锯就可以锯木板堆了）和斧更难找
 		- 一时找不到钉子也可以用斧子拆原有木箱，不用的东西丢了
+		- [Where to find the Nail Box in DayZ | Find gear easily using the DayZ Loot Finder spawn point loot location maps](https://wobo.tools/dayz-loot-finder-tool?loot=NailBox&map=chernarus#selectbox)
 		- [钉子在哪有啊【dayz吧】_百度贴吧](https://tieba.baidu.com/p/7896105419)
 		- [钉子！钉子 ！【dayz吧】_百度贴吧](https://tieba.baidu.com/p/7483011663)
 	- ---
