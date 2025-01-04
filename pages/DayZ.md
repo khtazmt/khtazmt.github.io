@@ -78,7 +78,6 @@
 	- 有地图有罗盘才会在地图上定位（可能是mod内容？）
 		- [Tourist Map - DayZ Wiki](https://dayz.fandom.com/wiki/Tourist_Map)
 - 地图
-  collapsed:: true
 	- “到此一游”
 	- [DayZ在线地图](https://dayz.plus/#/map)
 		- 搜路标、服务器空投提示等定位
@@ -88,12 +87,12 @@
 		- ---
 		- 也可以试试不看，就看游戏内的，乃至就看游戏本体的——尤其是不小心死了后
 	- Chernarus
-	  collapsed:: true
 		- 恶魔岛
-		  collapsed:: true
 			- 平均物资水平可能比警察局更高，有些mod会更更高（第一次去民房里刷了两件70格防弹狩猎背心，第二次多刷了几次有140格大背包、弩、弩箭、GPS接收器、MK2手枪、气炉头、气罐、308、76254子弹）
 			- 可以反复刷
 			- 有的服务器加了跨海大桥mod，但加入的区域可能不会刷物资和丧尸
+			- ---
+			- 刚又在恶魔岛刷到70格防弹背心，反攻大陆！ [[20241230]]
 		- 西北机场
 		  collapsed:: true
 			- 东南的北边帐篷北边有一小洼池可以钓鱼，营房可以生火
@@ -149,6 +148,7 @@
 	- [Crafting - DayZ Wiki](https://dayz.fandom.com/wiki/Crafting)
 	- [DayZ All Crafts 1.26 - YouTube](https://www.youtube.com/watch?v=eP-8ojgPzjo)
 - 食物
+  collapsed:: true
 	- [Food and Drink - DayZ Wiki](https://dayz.fandom.com/wiki/Food_and_Drink)
 	- [Food decay - DayZ Wiki](https://dayz.fandom.com/wiki/Food_decay)
 	  id:: 67777a91-8b00-4c6a-89ad-da9d7c19b912
@@ -183,6 +183,7 @@
 	  collapsed:: true
 		- 多出来的塑料瓶可以做成小型捕鱼陷阱，但效率低于比钓鱼和渔网陷阱
 	- 狩猎
+		- 打到大猎物，就会有更多时间打到大猎物
 	- 长保质期食物可以留着储存备用，比如存复活点附近，复活后可以快速吃饱喝足
 	- 生火
 	  collapsed:: true
@@ -227,6 +228,7 @@
 	- 耐力
 		- 非常重要，不够来不及爬上去被围着打就爽了，不够的话，可以先潜行、先放下减重、肾上腺素、宁可在室内打
 		- 不动瞄准也消耗耐力，到时候想跑就晚了，所以没退路别乱狙
+	- 及时换弹或换枪，丧尸可能在旁边就刷出来，但也可以退出
 	- >不要怂，就是干！
 	- 卡门卡楼梯
 		- 如果门没来得及关上或mod丧尸开门，来不及或耐力不够不方便跑，那么至少一次对付一只减轻战斗压力
@@ -256,6 +258,7 @@
 		- PVE
 			- 带个干草叉、大锤之类的长柄武器，方便打刀够不到的丧尸
 	- 远程武器
+	  collapsed:: true
 		- rr卸弹
 		- 长按r换弹匣
 		  id:: 6773fe77-4479-4868-83fc-7fddf0aeb7bc
