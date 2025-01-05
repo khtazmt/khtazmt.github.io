@@ -16,8 +16,8 @@
 - ((66db8ac1-fdfb-42c0-b8ba-73c7e8f3f3b3))
 	- TODO AI查重插件
 	  id:: 675af399-0e5f-4369-a90a-b2efccd9a0a4
-	  collapsed:: true
 		- 也适用于规模相对庞大的非学术创作等内部查重
+		- ((677a1577-1b9d-4c8e-aaee-4cfe07458cc9))
 		- {{embed ((67402ab2-a8f2-4c51-a498-5962761b6fec))}}
 - [BrainSoup: build an AI team that works for you](https://www.nurgo-software.com/products/brainsoup)
 - ((65bcbf4a-a87e-4ced-9252-33d77393097f))（现在win11能在任务栏看到了）
