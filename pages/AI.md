@@ -14,6 +14,7 @@
   collapsed:: true
 	- [Cartography of generative AI](https://tongyi.aliyun.com/efficiency/doc/read?taskId=1799445&isShare=true)
 - ((66db8ac1-fdfb-42c0-b8ba-73c7e8f3f3b3))
+  collapsed:: true
 	- TODO AI查重插件
 	  id:: 675af399-0e5f-4369-a90a-b2efccd9a0a4
 		- 也适用于规模相对庞大的非学术创作等内部查重
@@ -39,6 +40,7 @@
 - AI学术辅助
   id:: 670d40d8-799b-4119-8eea-2289bb8597da
 	- [8个科研人必备好用 AI 学术写作工具 | Wordvice AI](https://wordvice.ai/cn/blog/8-best-ai-tools-for-researchers)
+	- ((677a1577-1b9d-4c8e-aaee-4cfe07458cc9))
 	- 历史记录再利用
 - AI辅助编程
   id:: 66b55128-4fca-4a17-89f1-4aa307238020
@@ -52,7 +54,6 @@
 	- 估值
 		- 价格歧视
 			- “不是无产阶级不给用！”
-- AI
 - 图像化界面
 	- gradio
 		- [简单易用的图像化界面库gradio - 知乎](https://zhuanlan.zhihu.com/p/677799629)
