@@ -65,12 +65,10 @@
 		- >要能自定义提示词/台词/话术，在模型APP里成品一般叫“智能体”，不专门搞的蹭个热度可能只会给个通用的聊天（我没试过）
 - AI内容分析/总结/摘要/梳理
   id:: 65d57a62-17da-4b94-bd7a-ad05b1602d0c
-  collapsed:: true
 	- 用途：（收藏了）长点的视频总结字幕出来看
 	- 此处以 ((65d588aa-07e3-4113-8cf7-3e575fd031bc)) 为例
 	- ((668dd031-d4ff-4009-b84d-3bef8db95c22))
 	- b站自带的（测试版，好像手机APP暂无此功能，好像比较老或没字幕的视频也不支持此功能）
-	  collapsed:: true
 		- ![brave_N61jg7YTV6.png](../assets/brave_N61jg7YTV6_1708490634251_0.png)
 		- ![brave_LhhQXYh0WG.png](../assets/brave_LhhQXYh0WG_1708491828379_0.png)
 		- ((65bcbf4a-6899-4481-8a0b-b58afc33858a))
@@ -78,17 +76,15 @@
 	- ((65ab4567-90f8-4360-b3d0-458aed2e8abb))
 	- 发布“@XX 总结一下”之类的评论
 	- 多链接/来源内容总结
-	  collapsed:: true
+id:: 6663fa6b-a571-45e3-b732-be7ed940c555
 		- ((6663fa17-56ad-4e29-9362-ba96650ead04))
 	- [BibiGPT · AI 音视频内容一键总结](https://bibigpt.co)（功能多些）
 	  id:: 65d57cbb-6cbd-4f1b-bae0-4eb87655c9c2
-	  collapsed:: true
 		- [【BibiGPT】AI 自动总结 B站 视频内容，ChatGPT API 智能提取并总结字幕_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fX4y1Q7Ux)
 	- TODO （超免费总结时）长视频（免费）AI总结
 	  id:: 65d80bdb-40c7-4da3-b864-681fbce055cf
 	- [通义听悟+kimi，教你两分钟总结本地音视频内容_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qw4m1D7Ty)（还没试过通义自带总结与kimi的比怎么样）
 	- 比较
-	  collapsed:: true
 		- ![微信图片_20240710191933.jpg](../assets/微信图片_20240710191933_1720610464175_0.jpg)
 			- >不对润色内容一条条对比而是一个个版本逐字看完的话，比较难看出来，kimi的可能最“忠于原味”，也是唯一对第三段末尾理解大致正确的（当然，也可以视作“忠于原味”）
 			- >哦，海螺ai也理解了，但是看着有点像copilot，我让它润色，它直接上来就是“你很懂”，然后就从原文提取这样的建议
