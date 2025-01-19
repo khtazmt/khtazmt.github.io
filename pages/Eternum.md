@@ -1,0 +1,170 @@
+- #VR #元宇宙 #加密货币 #AI #实在论 #复制人
+- [不要向欲望让步——以黄油为例阐明何为欲望（PartA） - 知乎](https://zhuanlan.zhihu.com/p/407331939)
+  id:: 66ade38e-0106-43cd-85fc-1285cef8f973
+- [【主义主义】不可能的乌托邦（4-4）——虚拟世界的本体论实验=现实世界的生存论实践_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV16L4y1J7BT)
+- [第二人生 (互联网) - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E4%BA%BA%E7%94%9F_(%E4%BA%92%E8%81%AF%E7%B6%B2))
+- ((630e0d46-b661-4b23-ac2f-47f47c5c1e52))
+- portal系列（传送门）
+- EVE
+- [永恒领域 - 饥荒维基 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://dontstarve.huijiwiki.com/wiki/%E6%B0%B8%E6%81%92%E9%A2%86%E5%9F%9F)
+- 游戏背景是2034年，而作为（“游戏中”）游戏的《Eternum》发布于2024年，前作Once in a lifetime发生于2023年，在最终之战的跑车上，Judie提到Eternum将于一年后发布
+	- ((661e55d2-938e-41a8-9149-543f3505fc37))
+	- 但 ((66223bb0-241b-41d2-ad68-eb18fba6769c)) 不太能对上，也许他们就是挑周六提前庆祝了（“真的吗？我不信！”）
+- ((6614ccd8-0f52-486b-b1da-6331c7e0fb65))
+- Ethereum以太坊
+	- Gertrude在Nancy想着怎么搞到一台设备、询问她时把Eternum（拼）读成了Ethereum
+- ---
+- 是否可能不是游戏，而只是连接到其他世界？所以才高度拟真，而不是加强（ogigyia）
+	- ((66192338-51e3-43f1-9336-ed2b284f8fab))
+		- Alex说Ulysses不为残疾人士制造躯体是因为不赚钱，男主则接着在看到村庄被打断前说
+			-
+		- Calypso的关键能力是传送门，也可能暗示这一点
+	- ((661ea064-a09c-4e90-bdd7-3923ef62ee49))
+		- ？？？可能意指implant连接了人的灵魂
+		- Alex说Eternum为了极少人能关注的细节模拟得太到位了
+		- “你相信魔法吗？”
+	- “接下来就是确保多元宇宙间的平衡的经典戏码？”
+- ((6614f2d4-405d-4596-b1a7-563ecadee83e))
+- 人物
+	- The Founder（一个比中本聪影响力大得多的男人，但企业和事业面临被资本控制的压力，可能类似《黑客帝国》中的The Architect——他是真人吗？）
+	  id:: 661626d5-7b1c-43ec-b330-284b9adad2bb
+		- [The Architect | Matrix Wiki | Fandom](https://matrix.fandom.com/wiki/The_Architect)
+		- ((661ea064-a09c-4e90-bdd7-3923ef62ee49))
+			- 到达奇点后自形成的AI公司？
+		- 所以根据童话（Yliar，liar），他也可以是发现的found？（newfound powers）
+		  id:: 6627b6a1-feea-4ee1-9b14-38604b5d2b47
+			- 而idriel（则对应被束缚的elven witch）想要保护大家，不惜最终毁灭自己？
+		- 有一些服务器不在他掌控之中，所以calypso是用来帮玩家找宝石的？
+		- 知道宝石初次获取是固定的特性？
+	- 男主（可能被Syndicate选中为类似《黑客帝国》中的男主Neo）
+	- Praetorian（类似《黑客帝国》中的警察/特工AI，蒸汽朋克式的快速移动方式，可能有部分觉醒，试图违反规则进行过度执法。可能它们也是有等级制、工资和雇佣兵之类的积极性的）
+		- ((661ea064-a09c-4e90-bdd7-3923ef62ee49)) 有Linus展示的机器可以改变npc用途，那么willaim可能用了
+		- “Patreon是吧？”
+	- Syndicate（一个组织，其成员被Praetorian追捕，可能想要通过男主获取Gem of Doom或Calypso，或将男主作为代理人掌握权力，看名称像是大股东们想要夺权，对比看行事风格又像是对AI统治的人类反抗军，但似乎也可能是觉醒的自由AI组织）
+		- 可能The Founder也是这么计划的？为了更新自己尚不满意的系统？他掌控哪一方？还是都不掌控？
+		- 其中有一部分可能是人类扮演的？——“have much use for another”，可能一人多号
+		- 为了让男主通过Calypso到达冥河，然后把它们放出来？
+		- 在接入neural implant、知道适配度100%之前就打电话给他？就托梦给他？还是说男主就有出体天赋？
+	- Idirel
+	  id:: 6618f4ea-d9ea-424c-a4ed-e09141e00b05
+		- 问了错误的问题？“Will you help us”是吧？
+		- Israel？Id-real？
+		- 怎么，你戴着眼罩的也是Syndicate一员？
+			- ((66227858-a402-476b-8da8-bdb8599051e9))
+				- BTC比特币是吧？打碎区块链是吧？
+			- 所以不主动联机其实也能给你连上？至少适配性够高的人可以？
+				- 还能选择性删除（可能敏感的）记忆？
+	- Lady（像是Syndicate的集体化身，然后报菜名一堆关联词）
+		- ((66250e3a-aeb5-40d2-8352-06e155b0c4f9))
+			- 觉醒的数字生命NPC的代表？
+	- Calypso
+	  id:: 66192338-51e3-43f1-9336-ed2b284f8fab
+		- “坏了，这下是女神被困在岛上了”
+		- “什么串串？什么中国结？”
+		- 扫描思想
+		- “Friendship is magic是吧？”
+		- “坏了，这下真纳尼亚传奇了”
+		- “坏了，还有女神治疗环节，也有离开环节，都给它对上了”
+		- ((661ea064-a09c-4e90-bdd7-3923ef62ee49))
+			- 是Idriel创造的
+		- ((6620c79c-510b-4552-8dbb-d5c229334932))
+			- 已经能部分切入现实世界，还是男主有了bleeding case？
+		- ((6618f4ea-d9ea-424c-a4ed-e09141e00b05)) 演示时是黑洞是吧？
+	- 本杰明的死亡
+		- 与黑客试图制造大新闻进而夺权有关吗？
+	- CHOP-CHOP（一个高级NPC，误杀了人没被Praetorian抓捕？；还有点对“四选项”模式的嘲讽）
+	- ((661f3a3d-1236-4600-be34-25a6fa7ffa30))
+		- 证人保护计划？拥有一块宝石？
+- red herring（“red pill？”）
+	- Annie，Judie；Luna（预知未来？是有点像绿子），Lauren
+- 干细胞实验
+	- 复活？让AI人进入现实世界？
+	- 记忆下载和传输到克隆人
+- 麻醉品
+	- 反乌托邦？
+- 低成本粗浅体验
+- Woghorts
+	- 笑点解析
+		-
+- 音效
+	- 沉重打击音效
+- The Cove
+	- [为什么章鱼繁殖之后会停止进食，选择自我毁灭？ - 知乎](https://www.zhihu.com/question/42087649)
+	  id:: 661d2b85-5556-4c3a-b646-023b752c9a09
+- Andromeda
+	- 根据[[词联]]，剧情大概会是安妮被抓了，然后男主救她
+	- 第三段录音提到两具尸体胸部中间大孔，那么男主是否可能有类似成分，但是“受控”？
+	- 第四段录音后，男主提到的1979年大概指的是当年的电影《异形》，在Eternum发布的45年前
+	  id:: 661e55d2-938e-41a8-9149-543f3505fc37
+	- lab路线
+		- mercenary－mercer＝nay（否定）
+		- hasler，hustler（骗子）
+		- NOX-7上的异形生物是天然形成的，在andromeda一开始就有
+		  id:: 661e6895-3733-441d-b56a-0a0d037c3463
+		- 这下又让我想到lifeline系列了，科幻、魔幻，总有一款口味，
+	- “可能会在未来产生影响”——是因为还没做到那个可能影响的版本吗？
+	- 综合两路线，mercer博士可能是想着通过附身或修改DNA而变为“基因强化人”
+- 晚会
+  id:: 661ea064-a09c-4e90-bdd7-3923ef62ee49
+	- Psyche
+		- ((65bcbf56-d7bd-4142-b13b-8d3efd953283))
+	- ？？？
+	  id:: 661f3a3d-1236-4600-be34-25a6fa7ffa30
+		- 服务器之谜
+			- 海德格尔路径？
+				- ((6624c802-26f8-4826-9937-6258cda67604))
+	- 迷宫
+		- 参考对应希腊神话，父亲（国王）在迷宫外面，女儿（公主）也在迷宫外面
+- The Roof
+	- Aeternita永恒女神
+	- “就是没有Roof是吧？”
+- 亡灵节
+  id:: 6620c79c-510b-4552-8dbb-d5c229334932
+	- “你不仅肌肉逐渐且突然地变壮了，而且你的眼睛好像更早就变得越来越亮绿了”
+	- “Luna的皮是爱子是吧？”
+	- “Luna就是那个飞快的人是吧？”
+		- “Luna祖母也是是吧？”
+- 万圣节前夕
+  id:: 66223bb0-241b-41d2-ad68-eb18fba6769c
+	- "（To all my friends, ）The night is young! "
+	- “港口是吧？”
+		- >KREDON UNIVERSITY
+		  >Where Excellence is made
+	- break the chain
+	  id:: 66227858-a402-476b-8da8-bdb8599051e9
+		- 所以有个轮回？抛硬币的人每次都被海精专拿捏了？
+	- “ethereal是吧？”
+- 周日
+	- [LGBTTQQIAAP - Wiktionary, the free dictionary](https://en.wiktionary.org/wiki/LGBTTQQIAAP)
+	  id:: 6623c4c9-6dd5-4c71-829c-eaa9ac14552b
+	- Thanatos
+		- 急性死亡都上传灵簿域成为数字生命是吧？
+		  id:: 66250e3a-aeb5-40d2-8352-06e155b0c4f9
+			- ((661e6895-3733-441d-b56a-0a0d037c3463))
+				- 那么是有意地“天然”形成的吗？为了之后快速橙汁化？
+- 三周后在一个二三战（？）模拟器
+	- “原子之心是吧？”
+- 收藏家
+	- harley jones
+		- 乍一看像praetorian，还像健身房的millie？
+	- 传送门枪、你没买的chop-chop的铲子？埃及服务器的猫？
+	- nova找到的壁画小人是吧？
+- 安妮房间
+	- gemini预言kitten，choke是吧？
+- axel（alex，6；lex法律，xel）与benjamin融合？
+	- 游戏是用人力运算的是吧？（林夕《天生我材》）
+		- 服务器是玩家幻想、灵魂的成果？
+			- 这下托马斯·阿奎那了
+				- ((65f39270-1b75-4ebf-9015-f95753f3a30e))
+- blackridge
+	- 可能有些praetorian也听命于其他人（比如william）
+	- 人不登录，calypso的时间不加载是吧？
+	- ((6627b6a1-feea-4ee1-9b14-38604b5d2b47))
+	- “VR精神分析是吧？”
+- 狼人
+	- “Burpee是吧？”
+- 照相
+	- ((66227858-a402-476b-8da8-bdb8599051e9))
+		- 这下真是锁链了
+		- 原子之心的灵簿域也是这个limbo？
+		- 不同的问题就是反面是吧？tails还是个操作系统

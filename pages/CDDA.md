@@ -991,7 +991,6 @@
 	- [末日下的必需品【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9001215561)
 	  id:: 674bf374-86bd-4d42-b865-1e7cd04054d2
 - 一些物品
-  collapsed:: true
 	- 手术刀
 	- 简易锤子（厨房可能有锤子）
 	  id:: 674e5c15-deb6-485e-9a6e-ffe43f6a4df0
@@ -1502,7 +1501,6 @@
 	- ((67402ab4-1445-4a93-9864-cca136b63a1d))
 	- 英雄无敌烈火魔墙
 - 战斗
-  collapsed:: true
 	- 攻击/开火/射击fire f
 	- 自动攻击tab
 	- 看不见时也可以打到
@@ -1669,14 +1667,12 @@
 		- 简易撬棍
 			- 钢管+1级锤打
 - 武器
-  collapsed:: true
 	- 武器攻击时可能被墙、货架等挡着
 	- 攻击距离
 	- 也可根据人物属性
 	- [萌新求推荐近战武器【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9032576342)
 	- 矛
 	  id:: 674ecae0-42b1-4e1f-9338-66149338a946
-	  collapsed:: true
 		- [萌新求推荐近战武器【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9032576342)
 		  id:: 67402aab-85ed-4a89-91c3-46b250ee2c89
 		- [现在弓怎么玩？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9295195037?pid=151305490654&cid=0#151305490654)
