@@ -55,8 +55,8 @@
 	- TODO 一些难搞的应用
 		- 微信QQ
 			- TODO 微信公众号
+			  id:: 678b0488-9a6e-44a1-aed4-33f6891ca72f
 				- https://feeddd.org/ 或 https://cdn.jsdelivr.net/gh/feeddd/feeds/feeds_all_rss.txt （也许挂了）
-				-
 			- 朋友圈
 				- 智能过滤（生活分享等）
 				- 朋友圈能加星特别关注吗？
