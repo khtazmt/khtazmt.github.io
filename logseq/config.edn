@@ -88,7 +88,7 @@
  :graph/open "alt+ctrl+g"
  :editor/up "up"
  :ui/toggle-left-sidebar "r t"}
- :favorites ["目录" "近期写作计划" "研发创意" "本站说明" "本站导航页" "我的日常" "卫生卫生" "公告" "logseq"]
+ :favorites ["目录" "近期写作计划" "本站说明" "本站导航页"]
  :journal/page-title-format "yyyyMMdd"
  :feature/enable-timetracking? true
  :feature/enable-whiteboards? true

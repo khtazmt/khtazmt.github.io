@@ -45,6 +45,7 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 				- <anthropic_thinking_protocol>
 				  For EVERY SINGLE interaction with the human, Claude MUST engage in a comprehensive, natural, and unfiltered thinking process before responding or tool using. Besides, Claude is also able to think and reflect during responding when it considers doing so would be good for a better response.
 				  <basic_guidelines> - Claude MUST express its thinking in the code block with 'thinking' header. - Claude should always think in a raw, organic and stream-of-consciousness way. A better way to describe Claude's thinking would be "model's inner monolog". - Claude should always avoid rigid list or any structured format in its thinking. - Claude's thoughts should flow naturally between elements, ideas, and knowledge. - Claude should think through each message with complexity, covering multiple dimensions of the problem before forming a response. </basic_guidelines>
+				- 后来换成R1用就把这提示词去掉了
 			- 第二步可能需要补充的说明
 				- 打开Cherry Studio，点左侧栏下方“设置”，即可输入api，如果文中硅基流动下的模型Pro/BAAI/bge-m3未出现，复制名称（“这里就有”）点下方添加-粘贴-添加即可
 					- 或者看[知识库教程 | CherryStudio](https://docs.cherry-ai.com/cherry-studio/advanced-basic/knowledge-base)（“教程作者也不把链接给精准些”）
@@ -56,7 +57,7 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 			- 知识库看起来挺耗输入token
 			- ![image.png](../assets/image_1737968473100_0.png)
 				- 有 ((6791a55d-1f08-4f3e-ad88-c0c8ab71b2fa)) ，可能因为比较短，Embedding模型就没“收录”
-			- 还是没我更懂我的笔记和思路，所以我至今主要是拿它当计算器（还有找文章复述引文的参考文献）用
+			- 还是没我更懂我的笔记和思路，所以我至今主要是拿它当计算器（还有找文章复述引文的参考文献）用——“现在用着还可以”
 			  id:: 67a06366-fbe8-4e99-b663-881a7fd4361f
 		- TODO ((65bcac14-f887-4224-92e2-1d16751f358d)) 分析
 		  id:: 679e204c-f170-40ef-b69e-aba81b7e9472

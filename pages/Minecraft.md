@@ -354,9 +354,11 @@
 		- 可在启动器的“版本设置-Mod管理”中右键Mod（即模组）“转到MC百科”查看
 		- [机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2021.html)
 		  id:: 662da7ed-a0af-4534-bacb-55ec5b68caa0
+		  collapsed:: true
 			- “Mod教程”也可以看
 			- # “玩什么？农村小工业！”
 			- [物品/方块 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/list/2021-1.html)
+			  collapsed:: true
 				- ((662e5fb2-0f11-4db5-9af0-5fc1df62118f))
 			- 最主要的模组，非常好
 			- 有些物品可以按W思索，演示动画做得不错
@@ -504,12 +506,12 @@
 	- 还有就是服务器之前可能没啥人，出生点没留条消息，昨天有几小时更多是“重温”
 - 不太成功的尝试
 	- [[Minecraft机械动力]]
-- DOING 通过Minecraft学习
+- TODO 通过Minecraft学习
   id:: 66db8aa8-3712-4373-a936-f441cd625c95
   collapsed:: true
   :LOGBOOK:
   CLOCK: [2024-04-30 Tue 09:48:48]
-  CLOCK: [2024-05-07 Tue 13:28:36]
+  CLOCK: [2024-05-07 Tue 13:28:36]--[2025-02-10 Mon 15:42:46] =>  6698:14:10
   :END:
 	- 现实是加倍（加了很多模组的整合包（存疑））的游戏，游戏是提纯的现实
 		- {{embed ((66379dcd-4044-4bcf-aca4-8be7638c5bce))}}
