@@ -98,6 +98,8 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 - [BrainSoup: build an AI team that works for you](https://www.nurgo-software.com/products/brainsoup)
 - ((65bcbf4a-a87e-4ced-9252-33d77393097f))（现在win11能在任务栏看到了）
   id:: 66077989-67ba-424f-b227-8f1676dfa75c
+- ---
+- ((67aa151b-2c04-4dd1-aaf1-20888dd2276a))
 - AI免费体验API
 	- [ChatGPT online free](https://www.mfc972.com/)
 - TODO AI人才筛选、库
