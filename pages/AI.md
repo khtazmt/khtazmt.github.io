@@ -8,72 +8,86 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 	- 还可以帮我把聊天记录等带来源、时间戳等整理到笔记，毕竟我能看懂的我应该就能看懂
 - 语音转文字、总结、搜索、问答、多媒体创作
 - ---
-- RAG/检索增强生成（AI知识库模糊搜索；“缩”）
-  id:: 669316b9-222d-4598-8410-36ff9b789232
-	- 最好记住所有关键字，但你记不住
-	- 很多对话AI一次只能输入“50个”这种量级的文件，对于我等动辄背负成千上万篇雄文的人类高质量带文豪，这种尽可能让AI成为我们“肚子里的蛔虫”后再在对话中有理有据地“甲乙丙丁，开中药铺”啥的努力简直杯水车薪
-	- >电子书（包括手册）、视频、文档、动态等都可以做进知识库里，可能用日常语言的关键字就能搜到知识库里的专业内容，没看过或看过忘了都可能减少搜索成本，更别提与肉眼翻找没普通OCR过的PDF电子书相比了
-	- ---
-	- [手把手教你FastGPT自定义模型对接oneapi【保姆级教程】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1nw4m197Dq)
-	- [RAGFlow：采用OCR和深度文档理解结合的新一代 RAG 引擎，具备深度文档理解、引用来源等能力，大大提升知识库RAG的召回率降低幻觉_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12T42117VT)
-	  collapsed:: true
-		- [5款开源免费本地知识库大横评，总有一款适合你！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1TM4m1m74N)
-		- [Win 11本地搭建部署RagFlow_ragflow windows本地化部署-CSDN博客](https://blog.csdn.net/qq_33290485/article/details/140733068)
-	- [闲来无事，我测了测国产大模型的RAG能力](https://mp.weixin.qq.com/s/g-ekmGjFkLN6H_NCIWoSPw)（文心一言）
-	  id:: 679726bf-fcb8-46ed-9da9-47e67c17fdce
-	- cherry studio
-		- ((6797057c-f863-40ad-9aab-15a00a859d58))
-- 对话（“扩”）
-	- deepseek
-	  id:: 67958617-f66c-4637-a847-aa8272217218
-	  collapsed:: true
-		- [新星球大战，这次轮到谁恐慌了](https://mp.weixin.qq.com/s/f-SY2mSzENfaRUX45tvEvw)
-		  id:: 679585f0-7ab6-4dd0-8fe5-f5338245568f
-			- [新星球大战，这次轮到谁恐慌了|美国|英伟达|gpu|war|系列显卡_网易订阅](https://www.163.com/dy/article/JMQFRRLG0553M0QM.html)
-		- ((6799ce35-e109-4694-aec2-fe8735f22f26))
-		- ((679a0879-d5a9-4d83-b9b8-8978f258c047))
-		- ---
-		-
-		- >The deepseek-chat model has been upgraded to DeepSeek-V3. The API remains unchanged. You can invoke DeepSeek-V3 by specifying model='deepseek-chat'.
-		  deepseek-reasoner is the latest reasoning model, DeepSeek-R1, released by DeepSeek. You can invoke DeepSeek-R1 by specifying model='deepseek-reasoner'.
-			- [Your First API Call | DeepSeek API Docs](https://api-docs.deepseek.com/)
-		- [Models & Pricing | DeepSeek API Docs](https://api-docs.deepseek.com/quick_start/pricing)
-			- “缓存命中”的比“缓存未命中”便宜，应该就是复用提示词便宜
-		- [Deepseek-V3 + CoT思维链 + RAG知识库！我的AI现在强的可怕 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/316186)
-		  id:: 6797057c-f863-40ad-9aab-15a00a859d58
-			- 应该是通过使用提示词把聊天模型V3当推理模型R1用
-				- <anthropic_thinking_protocol>
-				  For EVERY SINGLE interaction with the human, Claude MUST engage in a comprehensive, natural, and unfiltered thinking process before responding or tool using. Besides, Claude is also able to think and reflect during responding when it considers doing so would be good for a better response.
-				  <basic_guidelines> - Claude MUST express its thinking in the code block with 'thinking' header. - Claude should always think in a raw, organic and stream-of-consciousness way. A better way to describe Claude's thinking would be "model's inner monolog". - Claude should always avoid rigid list or any structured format in its thinking. - Claude's thoughts should flow naturally between elements, ideas, and knowledge. - Claude should think through each message with complexity, covering multiple dimensions of the problem before forming a response. </basic_guidelines>
-				- 后来换成R1用就把这提示词去掉了
-			- 第二步可能需要补充的说明
-				- 打开Cherry Studio，点左侧栏下方“设置”，即可输入api，如果文中硅基流动下的模型Pro/BAAI/bge-m3未出现，复制名称（“这里就有”）点下方添加-粘贴-添加即可
-					- 或者看[知识库教程 | CherryStudio](https://docs.cherry-ai.com/cherry-studio/advanced-basic/knowledge-base)（“教程作者也不把链接给精准些”）
-				- 点左侧栏“知识库”创建知识库
-				- 在“默认模型”中可选择DeepSeek Chat为默认模型（可能我一开始还是V2.5就是因为这里或哪里没设置好）
-					- 应该也可以在聊天输入区下方“@”选模型
-			- 第三步可能需要补充的说明
-				- 点左侧栏上方“助理”，添加或直接右键编辑助理，粘贴文中对应提示词
-			- 知识库看起来挺耗输入token
-			- ![image.png](../assets/image_1737968473100_0.png)
-				- 有 ((6791a55d-1f08-4f3e-ad88-c0c8ab71b2fa)) ，可能因为比较短，Embedding模型就没“收录”
-			- 还是没我更懂我的笔记和思路，所以我至今主要是拿它当计算器（还有找文章复述引文的参考文献）用——“现在用着还可以”
-			  id:: 67a06366-fbe8-4e99-b663-881a7fd4361f
-		- TODO ((65bcac14-f887-4224-92e2-1d16751f358d)) 分析
-		  id:: 679e204c-f170-40ef-b69e-aba81b7e9472
-		- [利用 Deepseek 结合 Obsidian Web Clipper 实现快速剪藏及内容总结 - 知识管理工具 - PKMer](https://forum.pkmer.net/t/topic/4745)
-	- [[chatgpt]]
-- 智能体
-  id:: 67972651-f92f-48a8-9c8a-a1d26e920d29
-  collapsed:: true
-	- [GitHub - bytedance/UI-TARS-desktop: A GUI Agent application based on UI-TARS(Vision-Lanuage Model) that allows you to control your computer using natural language.](https://github.com/bytedance/UI-TARS-desktop)
-		- [字节版Operator抢跑OpenAI? 直接免费开源， 网友：怒省200美元！](https://mp.weixin.qq.com/s/P2yTgxTH2NSackelIfDKwg)
-		  id:: 67972655-643f-4a3d-9fab-b852af4d7b99
 - ---
 - 模型
 	- LLM
-		- [大模型混入0.001%假数据就「中毒」，成本仅5美元！NYU新研究登Nature子刊](https://mp.weixin.qq.com/s/RV6glS-1kKLWsru87c3mng)
-		  id:: 67a2becc-fd09-47d7-8c9a-d3ff44ad00e9
+		- 对话（“扩”）
+			- deepseek
+			  id:: 67958617-f66c-4637-a847-aa8272217218
+			  collapsed:: true
+				- [新星球大战，这次轮到谁恐慌了](https://mp.weixin.qq.com/s/f-SY2mSzENfaRUX45tvEvw)
+				  id:: 679585f0-7ab6-4dd0-8fe5-f5338245568f
+					- [新星球大战，这次轮到谁恐慌了|美国|英伟达|gpu|war|系列显卡_网易订阅](https://www.163.com/dy/article/JMQFRRLG0553M0QM.html)
+				- ((6799ce35-e109-4694-aec2-fe8735f22f26))
+				- ((679a0879-d5a9-4d83-b9b8-8978f258c047))
+				- ---
+				-
+				- >The deepseek-chat model has been upgraded to DeepSeek-V3. The API remains unchanged. You can invoke DeepSeek-V3 by specifying model='deepseek-chat'.
+				  deepseek-reasoner is the latest reasoning model, DeepSeek-R1, released by DeepSeek. You can invoke DeepSeek-R1 by specifying model='deepseek-reasoner'.
+					- [Your First API Call | DeepSeek API Docs](https://api-docs.deepseek.com/)
+				- [Models & Pricing | DeepSeek API Docs](https://api-docs.deepseek.com/quick_start/pricing)
+					- “缓存命中”的比“缓存未命中”便宜，应该就是复用提示词便宜
+				- [Deepseek-V3 + CoT思维链 + RAG知识库！我的AI现在强的可怕 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/316186)
+				  id:: 6797057c-f863-40ad-9aab-15a00a859d58
+					- 应该是通过使用提示词把聊天模型V3当推理模型R1用
+						- <anthropic_thinking_protocol>
+						  For EVERY SINGLE interaction with the human, Claude MUST engage in a comprehensive, natural, and unfiltered thinking process before responding or tool using. Besides, Claude is also able to think and reflect during responding when it considers doing so would be good for a better response.
+						  <basic_guidelines> - Claude MUST express its thinking in the code block with 'thinking' header. - Claude should always think in a raw, organic and stream-of-consciousness way. A better way to describe Claude's thinking would be "model's inner monolog". - Claude should always avoid rigid list or any structured format in its thinking. - Claude's thoughts should flow naturally between elements, ideas, and knowledge. - Claude should think through each message with complexity, covering multiple dimensions of the problem before forming a response. </basic_guidelines>
+						- 后来换成R1用就把这提示词去掉了
+					- 第二步可能需要补充的说明
+						- 打开Cherry Studio，点左侧栏下方“设置”，即可输入api，如果文中硅基流动下的模型Pro/BAAI/bge-m3未出现，复制名称（“这里就有”）点下方添加-粘贴-添加即可
+							- 或者看[知识库教程 | CherryStudio](https://docs.cherry-ai.com/cherry-studio/advanced-basic/knowledge-base)（“教程作者也不把链接给精准些”）
+						- 点左侧栏“知识库”创建知识库
+						- 在“默认模型”中可选择DeepSeek Chat为默认模型（可能我一开始还是V2.5就是因为这里或哪里没设置好）
+							- 应该也可以在聊天输入区下方“@”选模型
+					- 第三步可能需要补充的说明
+						- 点左侧栏上方“助理”，添加或直接右键编辑助理，粘贴文中对应提示词
+					- 知识库看起来挺耗输入token
+					- ![image.png](../assets/image_1737968473100_0.png)
+						- 有 ((6791a55d-1f08-4f3e-ad88-c0c8ab71b2fa)) ，可能因为比较短，Embedding模型就没“收录”
+					- 还是没我更懂我的笔记和思路，所以我至今主要是拿它当计算器（还有找文章复述引文的参考文献）用——“现在用着还可以”
+					  id:: 67a06366-fbe8-4e99-b663-881a7fd4361f
+				- TODO ((65bcac14-f887-4224-92e2-1d16751f358d)) 分析
+				  id:: 679e204c-f170-40ef-b69e-aba81b7e9472
+				- [利用 Deepseek 结合 Obsidian Web Clipper 实现快速剪藏及内容总结 - 知识管理工具 - PKMer](https://forum.pkmer.net/t/topic/4745)
+			- [[chatgpt]]
+			- ---
+			- RAG检索增强生成（AI知识库模糊搜索；“缩”）
+			  id:: 669316b9-222d-4598-8410-36ff9b789232
+			  collapsed:: true
+				- 知识库、embedding模型
+				- 最好记住所有关键字，但你记不住
+				- 很多对话AI一次只能输入“50个”这种量级的文件，对于我等动辄背负成千上万篇雄文的人类高质量带文豪，这种尽可能让AI成为我们“肚子里的蛔虫”后再在对话中有理有据地“甲乙丙丁，开中药铺”啥的努力简直杯水车薪
+				- >电子书（包括手册）、视频、文档、动态等都可以做进知识库里，可能用日常语言的关键字就能搜到知识库里的专业内容，没看过或看过忘了都可能减少搜索成本，更别提与肉眼翻找没普通OCR过的PDF电子书相比了
+				- ---
+				- [手把手教你FastGPT自定义模型对接oneapi【保姆级教程】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1nw4m197Dq)
+				- [RAGFlow：采用OCR和深度文档理解结合的新一代 RAG 引擎，具备深度文档理解、引用来源等能力，大大提升知识库RAG的召回率降低幻觉_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12T42117VT)
+				  collapsed:: true
+					- [5款开源免费本地知识库大横评，总有一款适合你！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1TM4m1m74N)
+					- [Win 11本地搭建部署RagFlow_ragflow windows本地化部署-CSDN博客](https://blog.csdn.net/qq_33290485/article/details/140733068)
+				- [闲来无事，我测了测国产大模型的RAG能力](https://mp.weixin.qq.com/s/g-ekmGjFkLN6H_NCIWoSPw)（文心一言）
+				  id:: 679726bf-fcb8-46ed-9da9-47e67c17fdce
+				- cherry studio
+					- ((6797057c-f863-40ad-9aab-15a00a859d58))
+			- 智能体（“有操作的啊这个——智能体”）
+			  id:: 67972651-f92f-48a8-9c8a-a1d26e920d29
+				- [GitHub - bytedance/UI-TARS-desktop: A GUI Agent application based on UI-TARS(Vision-Lanuage Model) that allows you to control your computer using natural language.](https://github.com/bytedance/UI-TARS-desktop)
+					- [字节版Operator抢跑OpenAI? 直接免费开源， 网友：怒省200美元！](https://mp.weixin.qq.com/s/P2yTgxTH2NSackelIfDKwg)
+					  id:: 67972655-643f-4a3d-9fab-b852af4d7b99
+		- 本地部署
+			- 微调
+				- RL
+					- GRPO
+						- Unsloth
+						  id:: 67aab9f2-154d-48c0-9d78-fac89db0702f
+							- [DeepSeek-R1推理本地跑，7GB GPU体验啊哈时刻？GRPO内存暴降，GitHub超2万星](https://mp.weixin.qq.com/s/WayXEwbzAv00gd1uj-7jqg)
+							- [Unsloth训练自己的R1推理模型 - DeepSeek GRPO_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tMNMeMEiS)
+							- [Unsloth微调DeepSeek-R1蒸馏模型 - 构建医疗专家模型_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qVNRenEBX)
+		- 训练数据
+			- 数据污染
+				- [大模型混入0.001%假数据就「中毒」，成本仅5美元！NYU新研究登Nature子刊](https://mp.weixin.qq.com/s/RV6glS-1kKLWsru87c3mng)
+				  id:: 67a2becc-fd09-47d7-8c9a-d3ff44ad00e9
+- ---
 - [懂AI | 一站式AI导航](https://www.dongaigc.com/)
   id:: 675501cb-d49d-40e0-937c-5aa11d65fc40
 - [鬼畜的AI视频和狡猾的AI撒谎](https://mp.weixin.qq.com/s/3zoMU0MWhsS9qHYouuAyZA)
