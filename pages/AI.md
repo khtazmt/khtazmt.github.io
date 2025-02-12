@@ -30,6 +30,7 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 					- “缓存命中”的比“缓存未命中”便宜，应该就是复用提示词便宜
 				- [Deepseek-V3 + CoT思维链 + RAG知识库！我的AI现在强的可怕 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/316186)
 				  id:: 6797057c-f863-40ad-9aab-15a00a859d58
+				  collapsed:: true
 					- 应该是通过使用提示词把聊天模型V3当推理模型R1用
 						- <anthropic_thinking_protocol>
 						  For EVERY SINGLE interaction with the human, Claude MUST engage in a comprehensive, natural, and unfiltered thinking process before responding or tool using. Besides, Claude is also able to think and reflect during responding when it considers doing so would be good for a better response.
@@ -51,6 +52,8 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 				- TODO ((65bcac14-f887-4224-92e2-1d16751f358d)) 分析
 				  id:: 679e204c-f170-40ef-b69e-aba81b7e9472
 				- [利用 Deepseek 结合 Obsidian Web Clipper 实现快速剪藏及内容总结 - 知识管理工具 - PKMer](https://forum.pkmer.net/t/topic/4745)
+				- ---
+				- ((67ac5265-d572-4098-82d6-8b39dc2ba276))
 			- [[chatgpt]]
 			- ---
 			- RAG检索增强生成（AI知识库模糊搜索；“缩”）
