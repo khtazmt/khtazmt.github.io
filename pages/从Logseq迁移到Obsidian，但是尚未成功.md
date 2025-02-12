@@ -23,6 +23,6 @@
 - 其他可能要对应补上的插件
 	- [两年后，我还在用的 Obsidian 插件 - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/10622)
 - [双剑合璧：Obsidian和Logseq联用的一些经验 - 少数派](https://sspai.com/post/80042)
-- “绝妙的 Logseq”
+- “绝妙的Logseq”
 	- [基于 Logseq 重构个人知识管理体系-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2345367)
 	- [Logseq：使用一年的感受 - 知乎](https://zhuanlan.zhihu.com/p/642024906)

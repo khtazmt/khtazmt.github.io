@@ -6,6 +6,7 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 
 	- ((678cdfa1-6079-4925-89c3-5c8aa2a73c47))
 	- 还可以帮我把聊天记录等带来源、时间戳等整理到笔记，毕竟我能看懂的我应该就能看懂
+	- ((67abe060-4a13-425c-823f-21aa0019a408))（“恍然大悟？”）
 - 语音转文字、总结、搜索、问答、多媒体创作
 - ---
 - ---
@@ -90,7 +91,8 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 - ---
 - [懂AI | 一站式AI导航](https://www.dongaigc.com/)
   id:: 675501cb-d49d-40e0-937c-5aa11d65fc40
-- [鬼畜的AI视频和狡猾的AI撒谎](https://mp.weixin.qq.com/s/3zoMU0MWhsS9qHYouuAyZA)
+- 评测
+	- [鬼畜的AI视频和狡猾的AI撒谎](https://mp.weixin.qq.com/s/3zoMU0MWhsS9qHYouuAyZA)
 - 上传文件（疑似有点旧了）
 	- [如何通过ChatGPT来上传和分析文档 - 知乎](https://zhuanlan.zhihu.com/p/633119060)
 	- [ChatGPT Sidebar & GPT-4 Vision, GPT-4o, Claude 3.5, Gemini 1.5 | AITOPIA - Chrome 应用商店](https://chromewebstore.google.com/detail/chatgpt-sidebar-gpt-4-vis/becfinhbfclcgokjlobojlnldbfillpf)
@@ -189,6 +191,10 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 	- TODO ((658fc4ca-21a3-49e7-a6b8-6277d16e0062)) commit分析
 	  id:: 678369b1-f629-42a5-8f71-4b4daf46d227
 		- ((6780e61e-54be-4d21-802c-4391d1c0cf7d))
+		- 忽略[[Logseq]]的折叠/展开状态标记符号的变动
+		- 识别块引用等
+		- 按commit时间叠加查看按日、周等的更新
+		- 像“查找下一处”那样翻阅的插件
 - TODO AI内容转表格、图表
   id:: 670b72f6-fe62-4f3f-8ec5-6181009bdcc0
 	- 比如含需要可视化、对比的统计信息的链接、文件

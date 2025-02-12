@@ -33,6 +33,9 @@
 		- 单头显
 		  id:: 670d40c4-c2bc-4127-bcf3-c95c499133f4
 			- [400多的quest单头显能用来干什么？你想要知道的这里都有_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1n8VaeSEqu)
+			- TODO 单头显激活、租手柄
+			  id:: 679add83-6245-472f-a77d-8861795b7427
+				- ((67271349-abb2-45d1-bad0-94ec3ebcdeb7))
 	- 验货
 		- 一般是送上门验货后签收或拒收
 		- 生产日期
