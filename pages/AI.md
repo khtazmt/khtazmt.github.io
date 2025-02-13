@@ -195,7 +195,8 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 			- >哦，海螺ai也理解了，但是看着有点像copilot，我让它润色，它直接上来就是“你很懂”，然后就从原文提取这样的建议
 	- TODO ((658fc4ca-21a3-49e7-a6b8-6277d16e0062)) commit分析
 	  id:: 678369b1-f629-42a5-8f71-4b4daf46d227
-		- ((6780e61e-54be-4d21-802c-4391d1c0cf7d))
+		- [Commits · khtazmt/khtazmt.github.io · GitHub](https://github.com/khtazmt/khtazmt.github.io/commits/main/)
+		  id:: 6780e61e-54be-4d21-802c-4391d1c0cf7d
 		- 忽略[[Logseq]]的折叠/展开状态标记符号的变动
 		- 识别块引用等
 		- 按commit时间叠加查看按日、周等的更新
