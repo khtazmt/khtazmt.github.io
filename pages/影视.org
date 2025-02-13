@@ -25,7 +25,7 @@
 :PROPERTIES:
 :id: 6252da6b-64b2-4608-843d-6e73afed25ce
 :END:
-*** “CC协议是吧？”
+*** “CC协议/契约是吧？”
 :PROPERTIES:
 :id: 67a972da-7212-4a87-8ead-0d9a78f437c7
 :END:

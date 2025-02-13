@@ -81,6 +81,12 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 					- [字节版Operator抢跑OpenAI? 直接免费开源， 网友：怒省200美元！](https://mp.weixin.qq.com/s/P2yTgxTH2NSackelIfDKwg)
 					  id:: 67972655-643f-4a3d-9fab-b852af4d7b99
 		- 本地部署
+			- [别随便本地部署大模型，Ollama重大安全隐患](https://mp.weixin.qq.com/s/1JUWyjVm3W6CRvAuYGBwag)
+			  id:: 67adb9d2-e244-4c78-8c71-7d49f09e778d
+				- ((67adc936-87ee-43ff-ae2d-37031c07d46f))
+					- app="Ollama" && is_domain=false && country="CN"
+					- >还真有，接下来不会了
+				- [大量私有Ollama接口在公网暴露导致任意人员可链接AI模型 | CN-SEC 中文网](https://cn-sec.com/archives/3734902.html)
 			- 微调
 				- RL
 					- GRPO
