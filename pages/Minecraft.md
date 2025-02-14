@@ -354,7 +354,7 @@
 		- 可在启动器的“版本设置-Mod管理”中右键Mod（即模组）“转到MC百科”查看
 		- [机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2021.html)
 		  id:: 662da7ed-a0af-4534-bacb-55ec5b68caa0
-		  collapsed:: true
+			- {{embed ((6674b04c-7354-473b-9611-08605fae7947))}}
 			- “Mod教程”也可以看
 			- # “玩什么？农村小工业！”
 			- [物品/方块 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/list/2021-1.html)
@@ -410,9 +410,11 @@
 			- “？天天鉴宝是吧？”
 		- TODO [Language Reload - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/6596.html)（快速切换语言学外语）
 		  id:: 673d7400-ef68-4152-92d3-dd16fe7866f6
+		  collapsed:: true
 			- [Lazy language loader - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/4836.html)
 			  id:: 673d722c-e22a-4306-af79-d34a6c83c955
 		- 联机
+		  collapsed:: true
 			- TODO [Plasmo 语音 (Plasmo Voice) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/5236.html)
 				- [庄主：让MC有更真实的语音，Plasmo Voice模组介绍！_单机游戏热门视频](https://www.bilibili.com/video/BV1x341177cG)
 			- TODO [聊天工具箱 (Chat Tools) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/10777.html)

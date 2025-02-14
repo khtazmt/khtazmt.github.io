@@ -1,5 +1,8 @@
 - {{renderer :tocgen2}}
 - ((65996fd3-b62c-454a-9ed5-ea72d66a8f68))
+- [工作后，发现logseq更适合我 - 知乎](https://zhuanlan.zhihu.com/p/676562851)
+- [logseq最近都没太多人关注了吗？  ? - 知乎](https://www.zhihu.com/question/634480324)
+	- https://xuanhuai.wiki/
 - Logseq是一个笔记软件，块级粒度，双向链接，大纲结构，本地保存
   id:: 679adca5-d53e-4312-91ed-0c91a80ec7aa
 	- 显而易见，你可以认为你此刻看到的东西是“博客”，可能因为你不常见别人把这么多“笔记”，而根据内容的“完成度”、小红书等平台的叫法等也可以认为它是“笔记”——更复杂的认知过程赶时间就不梳理了
@@ -30,6 +33,7 @@
 	  id:: 66335bd1-c711-4712-8086-ddf302aeb6e3
 - Logseq下载： https://github.com/logseq/logseq/releases
   id:: 6651bb5e-a06b-43aa-918f-0e04043281cd
+- [[电子笔记组织方式]]
 - # 基本操作
 	- 文字前的圆点（也叫子弹/bulletin）有指示（“这里的确有个圆点，然后呢？”）、（按住）拖动、（点击）聚焦、（右键）菜单的功能
 	  id:: 65bcf627-e061-4bad-aa44-14171d6064bc

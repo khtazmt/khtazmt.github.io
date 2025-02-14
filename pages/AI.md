@@ -59,7 +59,6 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 			- [[chatgpt]]
 			- ---
 			- RAG检索增强生成（AI知识库模糊搜索；“缩”）
-			  id:: 669316b9-222d-4598-8410-36ff9b789232
 			  collapsed:: true
 				- 知识库、embedding模型
 				- 最好记住所有关键字，但你记不住
@@ -77,12 +76,15 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 					- ((6797057c-f863-40ad-9aab-15a00a859d58))
 			- 智能体（“有操作的啊这个——智能体”）
 			  id:: 67972651-f92f-48a8-9c8a-a1d26e920d29
+			  collapsed:: true
 				- [GitHub - bytedance/UI-TARS-desktop: A GUI Agent application based on UI-TARS(Vision-Lanuage Model) that allows you to control your computer using natural language.](https://github.com/bytedance/UI-TARS-desktop)
 					- [字节版Operator抢跑OpenAI? 直接免费开源， 网友：怒省200美元！](https://mp.weixin.qq.com/s/P2yTgxTH2NSackelIfDKwg)
 					  id:: 67972655-643f-4a3d-9fab-b852af4d7b99
 		- 本地部署
+		  collapsed:: true
 			- [别随便本地部署大模型，Ollama重大安全隐患](https://mp.weixin.qq.com/s/1JUWyjVm3W6CRvAuYGBwag)
 			  id:: 67adb9d2-e244-4c78-8c71-7d49f09e778d
+			  collapsed:: true
 				- ((67adc936-87ee-43ff-ae2d-37031c07d46f))
 					- app="Ollama" && is_domain=false && country="CN"
 					- >还真有，接下来不会了
@@ -96,9 +98,16 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 							- [Unsloth训练自己的R1推理模型 - DeepSeek GRPO_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tMNMeMEiS)
 							- [Unsloth微调DeepSeek-R1蒸馏模型 - 构建医疗专家模型_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qVNRenEBX)
 		- 训练数据
+		  collapsed:: true
 			- 数据污染
 				- [大模型混入0.001%假数据就「中毒」，成本仅5美元！NYU新研究登Nature子刊](https://mp.weixin.qq.com/s/RV6glS-1kKLWsru87c3mng)
 				  id:: 67a2becc-fd09-47d7-8c9a-d3ff44ad00e9
+		- AI幻觉
+		  id:: 67ae7d7b-f9db-4549-85c5-1f60c192555d
+			- 大概可以调低模型温度，能更准确、幻觉较少
+			- [当心！第一批用DeepSeek的人，已经被坑惨了](https://mp.weixin.qq.com/s/E6CaYVLGmwfDBCmqI1CQzQ)
+			- “对我来说有的还是有点启发的，其中还有类似原力的技术，已保密”
+				- ((679add8c-64f1-4bc6-ae5c-a0f3a9f98165))
 - ---
 - [懂AI | 一站式AI导航](https://www.dongaigc.com/)
   id:: 675501cb-d49d-40e0-937c-5aa11d65fc40
@@ -160,8 +169,14 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 	- ((66a4c2be-76bc-4358-b26a-d5fcf79dc201))
 	- 估值
 		- 价格歧视
+		  id:: 679adc9c-139f-4529-97d7-7c1e367f14f6
 			- “不是无产阶级不给用！”
-			- ((677f6c87-31dc-47ec-bfc8-077088d9b0aa))
+			- ((65b865b9-ab57-4bcf-b6e0-558ba2073164))
+			- ((679adda8-d02b-4cd4-af98-f6e8815b0141))
+			- ((679add7f-2413-4010-8dbf-cff36dca28da))
+			- ---
+			- 应对
+				- ((677f6c87-31dc-47ec-bfc8-077088d9b0aa))
 - 情感识别
 	- “真情实感即可”
 	- “高山流水”
