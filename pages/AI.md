@@ -15,7 +15,6 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 		- 对话（“扩”）
 			- deepseek
 			  id:: 67958617-f66c-4637-a847-aa8272217218
-			  collapsed:: true
 				- [新星球大战，这次轮到谁恐慌了](https://mp.weixin.qq.com/s/f-SY2mSzENfaRUX45tvEvw)
 				  id:: 679585f0-7ab6-4dd0-8fe5-f5338245568f
 					- [新星球大战，这次轮到谁恐慌了|美国|英伟达|gpu|war|系列显卡_网易订阅](https://www.163.com/dy/article/JMQFRRLG0553M0QM.html)
@@ -30,12 +29,11 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 					- “缓存命中”的比“缓存未命中”便宜，应该就是复用提示词便宜
 				- [Deepseek-V3 + CoT思维链 + RAG知识库！我的AI现在强的可怕 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/316186)
 				  id:: 6797057c-f863-40ad-9aab-15a00a859d58
-				  collapsed:: true
 					- 应该是通过使用提示词把聊天模型V3当推理模型R1用
 						- <anthropic_thinking_protocol>
 						  For EVERY SINGLE interaction with the human, Claude MUST engage in a comprehensive, natural, and unfiltered thinking process before responding or tool using. Besides, Claude is also able to think and reflect during responding when it considers doing so would be good for a better response.
 						  <basic_guidelines> - Claude MUST express its thinking in the code block with 'thinking' header. - Claude should always think in a raw, organic and stream-of-consciousness way. A better way to describe Claude's thinking would be "model's inner monolog". - Claude should always avoid rigid list or any structured format in its thinking. - Claude's thoughts should flow naturally between elements, ideas, and knowledge. - Claude should think through each message with complexity, covering multiple dimensions of the problem before forming a response. </basic_guidelines>
-						- 后来换成R1用就把这提示词去掉了
+						- 后来换成R1用就把这提示词去掉了（同一个对话好像不太方便更改提示词，可以一个对话用一个模型）
 					- 第二步可能需要补充的说明
 						- 打开Cherry Studio，点左侧栏下方“设置”，即可输入api，如果文中硅基流动下的模型Pro/BAAI/bge-m3未出现，复制名称（“这里就有”）点下方添加-粘贴-添加即可
 							- 或者看[知识库教程 | CherryStudio](https://docs.cherry-ai.com/cherry-studio/advanced-basic/knowledge-base)（“教程作者也不把链接给精准些”）
@@ -59,6 +57,7 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 			- [[chatgpt]]
 			- ---
 			- RAG检索增强生成（AI知识库模糊搜索；“缩”）
+			  id:: 67aea414-0ae3-4e22-8b7a-cd4faed6d983
 			  collapsed:: true
 				- 知识库、embedding模型
 				- 最好记住所有关键字，但你记不住
