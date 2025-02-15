@@ -1,4 +1,5 @@
 - {{renderer :tocgen2}}
+- ((67b07706-126c-4c69-91b8-dcb79d246ff6))
 - ((65996fd3-b62c-454a-9ed5-ea72d66a8f68))
 - [工作后，发现logseq更适合我 - 知乎](https://zhuanlan.zhihu.com/p/676562851)
 - [logseq最近都没太多人关注了吗？  ? - 知乎](https://www.zhihu.com/question/634480324)
