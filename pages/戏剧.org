@@ -12,7 +12,10 @@
 :id: 66db8af3-9397-4762-b168-c5895a821363
 :END:
 ** 梗指南，社交货币还是解谜游戏
-** [[https://zh.moegirl.org.cn/%E8%B0%81%E6%8C%87%E4%BD%BF%E4%BD%A0%E6%9D%A5%E7%9A%84][谁指使你来的]]
+** ((67b14a7f-80b0-45e2-8ff9-f624e72693df))
+:PROPERTIES:
+:id: 67a47bf7-da9e-4a8a-97b0-54b98cbab63e
+:END:
 ** [[https://zhuanlan.zhihu.com/p/395834120][梗学研究院 ：“蒙古上单”和“四川打野”是什么梗？]]
 :PROPERTIES:
 :id: 6280db8c-65f1-46c8-a557-94b06826b4bb

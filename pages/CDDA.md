@@ -6,7 +6,6 @@
 	- [还有其他类似cdda，但是非丧尸题材的游戏吗【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9014735050)
 - ((65d2ecf3-8af1-47e4-9219-317a3d501fe1))
 - 下载安装
-  collapsed:: true
 	- 游戏本体
 		- [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/)
 			- 基于DDA的开源免费游戏
@@ -80,7 +79,6 @@
 	  collapsed:: true
 		- 香蒲草、冬青、松树（松枝煮茶）
 - 地点/位置（location）
-  collapsed:: true
 	- ((674c3c02-0814-4a5d-9bba-88071b88ccdf))
 	- 因为多数丧尸没你走得快、跑得快、不会攀爬等设定，开局直接跑，武器不造、衣服不做、枪也不拿，开车、骑车乃至走路直接到难民中心发家致富是有可能的，冬季等延迟开局也有可能
 	- ---
