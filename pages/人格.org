@@ -40,7 +40,6 @@
 人的基因等方面有差异（见下图，不用测也不用猜，大致了解有这个差异就成，我就没测没法确定自己是什么玩意儿），意味着不同人在时间、精力、情绪等之间存在着不同的矛盾关系，也就形成了不同的人格。当然，基因不是全部，很多时候一两个好习惯就能让你领先很多人了。（五图）
 * 人格测试
 :PROPERTIES:
-:collapsed: true
 :END:
 ** 不做也没关系，但建议从了解理论的角度做一下
 ** [[https://st.music.163.com/st-color-quiz][你的性格主导色]]
@@ -82,14 +81,10 @@
 :PROPERTIES:
 :id: 6222d6b1-74d0-4d5e-baed-f291adc0b627
 :END:
+** “从古至今都是高级货，每个人都能问你吃了吗吃了啥爱吃啥，但拿命说道说道就不太一样了”
 ** 算命范式
 *** “记命类型”——我完整准确地了解了一种人格类型的特征，但是我在哪里？
 ** 有再多标签都可能意义不大（尤其是比较普通的标签），自我是相对的，没有别人认识，你一定意义上就不存在
-** [[https://music.163.com/song?id=28471458&userid=77770261][What My Cutie Mark Is Telling Me ]]
-:PROPERTIES:
-:id: 62a1f174-597d-4241-9299-b4f4c9c18225
-:END:
-** ((6242d714-a101-4437-95df-4f0cc0af358e))
 ** “直接告诉我我是什么样的人、能成什么样的事、为了成事需要改掉哪些小缺点！”
 *** 只要你愿意信，八字、星座甚至性别、物种都能给你整出花来
 ** [[https://mp.weixin.qq.com/s/m63DLN-F6Dlwrjvns97x-w][占星术盛行，人们借此寻求些什么？]]
@@ -101,119 +96,10 @@
 		- “二极管”测试题
 		- 运势预测
 			- 自证预言（更关注相关现象、更具主动性）
-** 大五人格
-:PROPERTIES:
-:collapsed: true
-:END:
-*** 感觉相比其他要么较多“命定的数值模拟”要么多少受做经影响的理中客；隔几月做一次也可以解释题设、生活学习工作社交环境等的影响啦
-*** 测不准
-**** 由于问题情境等的缺失和差异，测不准是正常的，可能某项测出30分的甲的实际表现只相当于乙的20分
-*** 开放性O
-*** 尽责性C
-**** [[https://mp.weixin.qq.com/s/umllxrJJvwrCikOzusk3OA][什么人更爱分享假新闻？]]
-:PROPERTIES:
-:id: 6222d6b1-d354-4380-87c4-3858d56737e7
-:END:
-*** 外向型E
-**** 咖啡因可能暂时增强
-**** “社牛”
-***** 特征
-****** 一般之后主动联系你的人至少比你“社牛”，无论是否用什么词语（“好尴尬哦”“大型社死”等）描述
-***** ((668ce769-ff5c-4471-bc88-db8b433bde97))
-:PROPERTIES:
-:id: 65bcbf52-b343-4f01-aabf-8ca0eb8db482
-:END:
-***** 想象你是一只珠颈斑鸠
-*** 宜人性A
-**** 可爱？（开放性加宜人性？）
-*** 神经质N
-:PROPERTIES:
-:id: 618b222e-9e42-4ed5-9ed3-57be032aaee9
-:END:
-**** [[脱敏]]
-**** [[https://www.zhihu.com/question/435011275][大五人格测试低神经质，高宜人性为什么也会得抑郁症？]]
-**** [[https://www.psychspace.com/psych/viewnews-15469][神经质程度高的女性身体运动比较少]]
-**** [[https://www.docin.com/p-506883001.html][应激和健康相关行为与健康：神经质的调节作用]]
-**** [[https://mp.weixin.qq.com/s/X4F7RtSOjc058Or81uuO8A][颅内高潮(ASMR)与人格特质有关]]（可能神经质较高）
-:PROPERTIES:
-:id: 621f0f44-e09f-48bf-bf2c-7f2a76ccab25
-:END:
-**** 个人猜测，爱听“DJ/炸曲/重低音/鼓点音乐”可能与低神经质和稍高的外向性有关
-**** “沉稳”
-***** 可能对社恐等的影响规避充分，但并不意味着相对社牛
-** 生肖
-:PROPERTIES:
-:collapsed: true
-:END:
-*** 牛（“听懂掌声！”）
-** 八字
-:PROPERTIES:
-:collapsed: true
-:END:
-*** 听爸妈说我是凌晨出生的，感谢妈妈，我没有早产
-** 星座
-:PROPERTIES:
-:collapsed: true
-:END:
-*** 水瓶座
-** 政治
-:PROPERTIES:
-:collapsed: true
-:END:
-*** [[https://www.idrlabs.com/cn/8-values-political/test.php][8项价值观政治测试]]：民社
-** 哲学
-:PROPERTIES:
-:collapsed: true
-:END:
-*** 主义主义
 ** 心理学
 :PROPERTIES:
-:collapsed: true
 :END:
 *** 精神分析
-*** mbti
-:PROPERTIES:
-:id: 624e3378-545e-4313-86c5-a64095899a46
-:END:
-**** {{embed ((6258c8b3-8d55-42a9-8d3a-793b9dc290e4))}}
-***** “mbti补完计划是吧？”
-**** “你为什么要靠这对于具体个人而言相当先验的理论规划你的生活？”
-**** “你（被）定型了，你（被）定格了”
-**** 相似物
-***** DND九宫格
-***** ((62555d01-0152-44a7-ab24-75234dfb41bf))
-**** ((6252d89b-8cb7-4290-95d9-ed7a379e69fa))
-**** [[https://www.bilibili.com/video/BV1xb4y1Q7gw][【视知研究所】号称比星座科学的MBTI测试，就这？]]
-**** [[https://new.qq.com/rain/a/20220304A07P2E00.html][火遍全网的MBTI，到底是什么梗？]]
-**** [[https://mp.weixin.qq.com/s/i-ZJHQ5dgshbUojn1ZeHgw][MBTI怎么又火了？这种人格测试，从头到脚不靠谱]]
-**** [[https://mp.weixin.qq.com/s/saZgP6Ol5GjgGBEegASxEg][为啥一点也不科学的MBTI测试，有那么多人愿意信？]]
-**** [[https://mp.weixin.qq.com/s/eFoGqkpkSe2RPfbG8DGz1Q][火出圈的四个字母 | MBTI在相亲领域中的应用]]（交友符号）
-:PROPERTIES:
-:id: 6248544b-63d1-4b9c-851c-a7be94f57d64
-:END:
-***** ((6247c5dc-452d-43d2-966f-53ee9c97700a))
-**** intp（“据说这玩意很容易在mbti的框架下测出来”）
-***** [[https://zhuanlan.zhihu.com/p/146342251][intp是一个奢侈的个性状态]]
-**** entp（未测出过，看描述确定的，之前测过几次别的；这个人格大概意味着我喜欢找到或创造捷径，虽然多数只是简单指个方向期待好风景）
-***** [[https://www.douban.com/group/topic/30291240/#8097059kjaVXKT][ENTP型 发明家型人格]]
-****** “个人经验”：确实是智商加上个人经验才勉强弥补情商
-***** [[https://zhuanlan.zhihu.com/p/325104259][ENTP与INTP的区别——以马克思和康德为例]]
-****** #+BEGIN_QUOTE
-ENTP：做就完了，没那么多理由，你要理由我也可以给你找。（做完了如果需要，也能给出解释）
-#+END_QUOTE
-****** [[https://www.zhihu.com/question/350945954][卡尔·马克思在MBTI性格测试中属于什么性格类型？]]
-***** [[https://www.zhihu.com/question/356580523/answer/1202971421][entp的爱情观是什么样的？（知道各位entp很懒，所以能不能稍微动一下下 敷衍也行。）？]]
-:PROPERTIES:
-:id: 6208c239-4b63-46b2-aafc-a5b339b3efcd
-:END:
-****** 个体差异可能较大，就拿发展相对完善的名人来说，毛泽东和你这玩意肯定不一样对吧
-****** [[https://www.zhihu.com/question/38009847][和ENTP恋爱是怎样一种体验？]]
-***** [[https://www.zhihu.com/question/471643831][我们entp在社会中怎么生存？]]
-****** entp可能会是分类爱好者，也可能在实践中逐步成为分类高手，并且不仅对事物概念有较详细的分类，对人亦然，这就遇千人千面了
-**** ENFP
-***** [[https://zhuanlan.zhihu.com/p/151245036][ENFP—利他型人格分析]]
-**** INFP
-***** [调停者人格 (INFP) | 16Personalities](https://www.16personalities.com/ch/infp-%E4%BA%BA%E6%A0%BC)
 ** 游戏
 :PROPERTIES:
 :collapsed: true
