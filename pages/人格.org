@@ -101,9 +101,6 @@
 :END:
 *** 精神分析
 ** 游戏
-:PROPERTIES:
-:collapsed: true
-:END:
 *** 人物属性加点
 **** 辐射系列的SPECIAL系统
 * 内向
