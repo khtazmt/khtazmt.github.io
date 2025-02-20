@@ -1281,7 +1281,8 @@
 			- 注意有的枪已经装上背带了
 			- 棉布片
 				- 拆解枕头
-		- 暴走鞋
+		- [暴走鞋（滑） - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/roller_shoes_on?lang=zh_CN)
+		  id:: 679adca1-73b6-4a88-846d-dd9c854e5305
 		- ---
 		- 内衬（无内衬时会与部分穿戴物摩擦、膈应使对应部位“皮肤不适”降低速度）
 	- 护甲
