@@ -226,6 +226,7 @@
 	- ---
 	- 报纸等提到的
 		- 罗德岛
+		  id:: 679adca2-2f3c-421c-b921-318ff204eb9e
 			- [罗得岛州_百度百科](https://baike.baidu.com/item/%E7%BD%97%E5%BE%97%E5%B2%9B%E5%B7%9E/3439332)
 - 用[[logseq]]、 ((65bcac14-f887-4224-92e2-1d16751f358d)) 、游戏内日记（`)`）等记录待办
   collapsed:: true

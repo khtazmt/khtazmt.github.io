@@ -13,11 +13,15 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 - 语音转文字、总结、搜索、问答、多媒体创作
 - ---
 - ---
+- [【大白话搞懂DeepSeek】从函数到神经网络_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1uGA3eLEeu)
+  id:: 67b916f6-6c58-438d-8c46-cb9b2d007a37
 - 模型
-	- LLM
+	- LLM（大语言模型）/LMM（多模态大模型）
 		- 对话（“扩”）
+		  id:: 679adc9c-3c66-41ba-818d-bd594d2ee003
 			- deepseek
 			  id:: 67958617-f66c-4637-a847-aa8272217218
+			  collapsed:: true
 				- [新星球大战，这次轮到谁恐慌了](https://mp.weixin.qq.com/s/f-SY2mSzENfaRUX45tvEvw)
 				  id:: 679585f0-7ab6-4dd0-8fe5-f5338245568f
 					- [新星球大战，这次轮到谁恐慌了|美国|英伟达|gpu|war|系列显卡_网易订阅](https://www.163.com/dy/article/JMQFRRLG0553M0QM.html)
@@ -58,7 +62,18 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 				- ---
 				- ((67ac5265-d572-4098-82d6-8b39dc2ba276))
 			- [[chatgpt]]
+			- new bing（相对chatgpt的特点是习惯给出引用链接和一言不合就终止对话；关键在于注册时避免自动重定向到大陆的bing，可以通过代理服务器或浏览器插件实现，下方链接为浏览器插件方案）
+			  collapsed:: true
+				- [总是跳转到国内版(cn.bing.com)？New Bing使用全攻略你是否想要使用强大的（被削后大嘘）New Bing - 掘金](https://juejin.cn/post/7202531472720592951)
+				- [如何看待微软的Bing AI聊天机器人被限制为每个会话的问答上限为5个，每天的提问上限不超过50个？ - 知乎](https://www.zhihu.com/question/584808550)
 			- ---
+			- NLP
+				- [ai大模型和nlp的关系以及前者能否大幅度替代后者？ - 知乎](https://www.zhihu.com/question/626612429)
+				- 词向量
+					- [发明词向量的人真是个天才_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1JgrQYpExg)
+				- 词频图谱
+				- ((628ce7f5-50ac-4299-9765-08ebb8a7c27f))
+				- 同义识别
 			- RAG检索增强生成（AI知识库模糊搜索；“缩”）
 			  id:: 67aea414-0ae3-4e22-8b7a-cd4faed6d983
 			  collapsed:: true
