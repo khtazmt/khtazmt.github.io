@@ -19,21 +19,28 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 	- LLM（大语言模型）/LMM（多模态大模型）
 		- 对话（“扩”）
 		  id:: 679adc9c-3c66-41ba-818d-bd594d2ee003
+			- ((67ba643b-a572-43fc-ad2b-2a5c54ca2163))
+				- （“试之前先云一下之前的想法：”）r1有思维链，纯小白可以学术语和表达然后换claude使唤
 			- deepseek
 			  id:: 67958617-f66c-4637-a847-aa8272217218
-			  collapsed:: true
 				- [新星球大战，这次轮到谁恐慌了](https://mp.weixin.qq.com/s/f-SY2mSzENfaRUX45tvEvw)
 				  id:: 679585f0-7ab6-4dd0-8fe5-f5338245568f
 					- [新星球大战，这次轮到谁恐慌了|美国|英伟达|gpu|war|系列显卡_网易订阅](https://www.163.com/dy/article/JMQFRRLG0553M0QM.html)
 				- ((6799ce35-e109-4694-aec2-fe8735f22f26))
 				- ((679a0879-d5a9-4d83-b9b8-8978f258c047))
 				- ---
-				-
+				- deepseek api
+					- （如果）硅基流动注册早了，没更多赠送额度，可以换别家薅
+					  id:: 679adc9c-5c62-4074-b736-47c44690136d
+						- [DeepSeek本地化部署及API服务商汇总 - 总有一款适合你_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1d4FzeZEJD)
+						- [火山引擎DeepSeek-R1全流程API接入指南：从入门到实战测试 - 知乎](https://zhuanlan.zhihu.com/p/23798747150)
 				- >The deepseek-chat model has been upgraded to DeepSeek-V3. The API remains unchanged. You can invoke DeepSeek-V3 by specifying model='deepseek-chat'.
 				  deepseek-reasoner is the latest reasoning model, DeepSeek-R1, released by DeepSeek. You can invoke DeepSeek-R1 by specifying model='deepseek-reasoner'.
 					- [Your First API Call | DeepSeek API Docs](https://api-docs.deepseek.com/)
 				- [Models & Pricing | DeepSeek API Docs](https://api-docs.deepseek.com/quick_start/pricing)
 					- “缓存命中”的比“缓存未命中”便宜，应该就是复用提示词便宜
+				- [DeepSeek 使用指南_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ZVPNeVEk7)
+				- ---
 				- [Deepseek-V3 + CoT思维链 + RAG知识库！我的AI现在强的可怕 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/316186)
 				  id:: 6797057c-f863-40ad-9aab-15a00a859d58
 				  collapsed:: true
@@ -63,6 +70,9 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 				- [利用 Deepseek 结合 Obsidian Web Clipper 实现快速剪藏及内容总结 - 知识管理工具 - PKMer](https://forum.pkmer.net/t/topic/4745)
 				- ---
 				- ((67ac5265-d572-4098-82d6-8b39dc2ba276))
+			- claude
+				- [Build with Claude \ Anthropic](https://www.anthropic.com/api)
+				  id:: 67ba7a7d-c884-4512-9973-641f0b3f6e95
 			- [[chatgpt]]
 			- new bing（相对chatgpt的特点是习惯给出引用链接和一言不合就终止对话；关键在于注册时避免自动重定向到大陆的bing，可以通过代理服务器或浏览器插件实现，下方链接为浏览器插件方案）
 			  collapsed:: true
