@@ -36,6 +36,7 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 					- “缓存命中”的比“缓存未命中”便宜，应该就是复用提示词便宜
 				- [Deepseek-V3 + CoT思维链 + RAG知识库！我的AI现在强的可怕 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/316186)
 				  id:: 6797057c-f863-40ad-9aab-15a00a859d58
+				  collapsed:: true
 					- 应该是通过使用提示词把聊天模型V3当推理模型R1用
 						- <anthropic_thinking_protocol>
 						  For EVERY SINGLE interaction with the human, Claude MUST engage in a comprehensive, natural, and unfiltered thinking process before responding or tool using. Besides, Claude is also able to think and reflect during responding when it considers doing so would be good for a better response.
@@ -55,6 +56,7 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 					- 还是没我更懂我的笔记和思路，所以我至今主要是拿它当计算器（还有找文章复述引文的参考文献）用——“现在用着还可以”
 					  id:: 67a06366-fbe8-4e99-b663-881a7fd4361f
 				- TODO 提示词获取完整答复
+				  collapsed:: true
 					- >防 Ban 不难，可以使用 CherryStudio 或者 Chatbox 然后把 API 接过去（设置选择：网址+选择模型+密钥）然后 系统提示词 恰当设置 就能获得完整的答复了——评论
 				- TODO ((65bcac14-f887-4224-92e2-1d16751f358d)) 分析
 				  id:: 679e204c-f170-40ef-b69e-aba81b7e9472
@@ -169,8 +171,7 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 		- ((668e8494-765d-466d-b222-dd5394893e77))
 	- TODO Hayo
 	- ((65ab4567-90f8-4360-b3d0-458aed2e8abb))
-- AI编程辅助
-	-
+- ((67a05dae-c165-4bf1-9c6c-47e86e37a9c9))
 - AI学术辅助
   id:: 670d40d8-799b-4119-8eea-2289bb8597da
 	- [8个科研人必备好用 AI 学术写作工具 | Wordvice AI](https://wordvice.ai/cn/blog/8-best-ai-tools-for-researchers)
