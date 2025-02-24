@@ -71,6 +71,7 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 				- ---
 				- ((67ac5265-d572-4098-82d6-8b39dc2ba276))
 			- claude
+			  id:: 67ba7a7a-07bd-4c85-bac5-cdd2e1f5be66
 				- [Build with Claude \ Anthropic](https://www.anthropic.com/api)
 				  id:: 67ba7a7d-c884-4512-9973-641f0b3f6e95
 			- [[chatgpt]]
@@ -103,7 +104,7 @@ id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 				  id:: 679726bf-fcb8-46ed-9da9-47e67c17fdce
 				- cherry studio
 					- ((6797057c-f863-40ad-9aab-15a00a859d58))
-			- 智能体（“有操作的啊这个——智能体”）
+			- 智能体（agent，“特工”；“有操作的啊这个——智能体”）
 			  id:: 67972651-f92f-48a8-9c8a-a1d26e920d29
 			  collapsed:: true
 				- [GitHub - bytedance/UI-TARS-desktop: A GUI Agent application based on UI-TARS(Vision-Lanuage Model) that allows you to control your computer using natural language.](https://github.com/bytedance/UI-TARS-desktop)
