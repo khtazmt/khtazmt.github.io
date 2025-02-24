@@ -1,13 +1,10 @@
 - ((64043afb-7677-45d7-8714-6e64c3b61461))
-	- ((640d22c0-6e78-4710-9710-4d4f2f1ce4ed))
-- #赶时间参考流程
-	- RSS
-- ((6222d6cd-92fa-4d00-9215-23d72e1a0a23))
 - [AI 复兴 RSS ？ - 少数派](https://sspai.com/post/89494)
 - [RSS订阅工具推荐：AI学习者的效率利器-首席AI分享圈](https://www.aisharenet.com/rssdingyuegongjutuian/)
+- https://github.com/AboutRSS/ALL-about-RSS
+- ((6222d6cd-92fa-4d00-9215-23d72e1a0a23))
 - 访问部分订阅源平台和网页需要上[[外网]]
 - 缺点是，很多公开的订阅源更新较慢，平均可能得等个几小时，不太适合阅读时效信息
-- https://github.com/AboutRSS/ALL-about-RSS
 - 原蓝奏云分享描述
 	- 在chrome、edge（可以直接打开）等浏览器的扩展市场搜索安装feedbro插件，然后在其页面点“设置”导入以下订阅源和规则
 - 常见问题

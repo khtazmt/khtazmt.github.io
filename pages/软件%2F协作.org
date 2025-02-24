@@ -1,16 +1,9 @@
 * 引用
 :PROPERTIES:
-:collapsed: true
 :END:
 ** >“人总是可以再多死一分的，然而我等生来注定追求辉光，一如火花向上飞舞。” ——[[https://cultist.huijiwiki.com/wiki/%E3%80%8A%E9%AD%82%E5%BD%92%E8%8B%8D%E7%A9%B9%E3%80%8B][《魂归苍穹》]]，密教模拟器
-** :PROPERTIES:
-:id: 61fd2874-b291-4856-a406-c3d4486f73c7
-:END:
->Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity. ——Aaron Swartz
-* 价值
-:PROPERTIES:
-:collapsed: true
-:END:
+** >Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity. ——Aaron Swartz
+*** * 价值
 ** 不同格局的互联网理想
 *** 把具体的事情做好点
 *** 开源通宝
@@ -24,7 +17,7 @@
 ***** {{embed ((614fc4fd-8bab-4f4d-819e-b8c760455a56))}}
 **** 不要永远做坐井观天的井底之蛙
 **** ((640d22ee-b851-4b87-a100-450ece4181ba))
-* 问题
+*** * 问题
 ** 规模效应妨碍深度架构等
 * 文字版
 :PROPERTIES:
@@ -181,11 +174,13 @@
 *** 有一分热，发一分光
 ** {{embed ((614d9efd-2aa4-4b5e-ad74-c77f76439da8))}}
 * 一般流程（临时想的）
+:PROPERTIES:
+:id: 679adda7-36bb-47c4-84e5-ad5fb36c8ad3
+:END:
 ** 观察（实物、网络）、搜索（记忆、软件、文件、网络、交谈）、采集（文本、文件、软件、实物；下载、上传、同步）、整理（推送、分类、移动、修改）、任务（看板、分配、打卡、填表、评论、协作）
 *** ((62cd657e-d09b-4331-ab6c-d157ae6b9d9a))
 ** 搜索
 :PROPERTIES:
-:collapsed: true
 :END:
 *** 网站网页内容搜索（搜索引擎、更定制更自动化的爬虫，Aaron写的，主动搜索完整内容的部分；）
 **** 文档与网页关系（网页是一种包装呈现形式）
@@ -193,7 +188,6 @@
 *** 文件内容搜索
 :PROPERTIES:
 :background-color: #497d46
-:collapsed: true
 :END:
 **** 或“更深入的搜索”，“打通最后几公里”
 **** 批量搜索pdf、md等文档的内容，有索引功能最好（没有也行——有索引搜得快，但看不快），带中文识别质量较高的OCR功能，OCR导出txt等可选，一个文件能折叠展开或按文件名排列集中显示多个搜索结果
@@ -238,6 +232,7 @@
 *** 对持续更新的专题而言，无论“更新/编辑/协作方式”是分享本地笔记文件（文件更新，直接发送文件）还是将页面发布到博客（网页更新，通过服务器查看云端文件），重点在于将上次阅读或单纯打开后的更新内容明确推送展现（更新内容标注和通知）
 ** 整理
 :PROPERTIES:
+:collapsed: true
 :END:
 *** 一百号人在一个房子里整理东西，你说容易乱吗？
 *** 知识库位置
