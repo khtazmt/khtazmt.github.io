@@ -1,5 +1,6 @@
 - ((6757f068-5024-4299-a0cf-1c0db42dbe1a))
 	- “玩打火机玩的”
+	  id:: 679adca2-cdca-48a2-9dde-e6f959c0c77c
 - ---
 - 有点像pathos，但相对“现实”些，或者说不那么DND（龙与地下城/地牢）
 	- [[推荐]原滋原味的roguelike是什么样的？边谈边荐《NetHack》《Elona》《CDDA》 - 星晖帝国的一番的动态 - TapTap](https://www.taptap.cn/moment/15216925399319905)
