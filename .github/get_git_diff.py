@@ -69,47 +69,61 @@ def format_content_with_indent(content_list):
     """格式化内容，添加正确的 logseq 缩进"""
     formatted = []
     addition_block = []
-    previous_level = 0
     
+    # 构建层级结构
+    hierarchy = []
     for line in content_list:
-        if not line:  # 保留空行
+        if not line:  # 空行
+            hierarchy.append((line, 0))
+            continue
+            
+        if line.startswith('- [[') or line.startswith('- 20'):  # 标题行
+            hierarchy.append((line, 0))
+            continue
+        
+        # 计算缩进级别
+        indent_match = re.match(r'^(\t+)- ', line)
+        if indent_match:
+            # 使用制表符数量确定级别
+            level = len(indent_match.group(1))
+            content = line.strip()
+            hierarchy.append((content, level))
+        else:
+            # 没有缩进，默认为一级
+            content = line.strip()
+            hierarchy.append((content, 1))
+    
+    # 根据层级结构生成输出
+    previous_level = 0
+    for content, level in hierarchy:
+        if not content:  # 保留空行
             if addition_block:
                 formatted.extend(addition_block)
                 formatted.append('')
                 addition_block = []
-            formatted.append(line)
+            formatted.append(content)
             continue
             
         # 处理标题行
-        if line.startswith('- [[') or line.startswith('- 20'):
+        if content.startswith('- [[') or content.startswith('- 20'):
             if addition_block:
                 formatted.extend(addition_block)
                 formatted.append('')
                 addition_block = []
-            formatted.append(line)
+            formatted.append(content)
             previous_level = 0
             continue
             
         # 跳过转移内容的标记行
-        if line.strip().startswith('从 '):
+        if content.strip().startswith('从 '):
             continue
             
         # 处理普通内容行
-        if line.strip():
-            # 获取原始行的缩进级别
-            level = get_indent_level(line)
-            
-            # 确保缩进级别合理
-            if previous_level == 0:  # 标题下的内容
-                level = 1
-            elif level > previous_level + 1:  # 避免跳级
-                level = previous_level + 1
-            
+        if content.strip():
             # 使用制表符生成缩进
             indent = '\t' * level
             
-            # 处理内容
-            content = line.strip()
+            # 确保行以 "- " 开头
             if not content.startswith('- '):
                 content = '- ' + content
             
@@ -268,7 +282,7 @@ def save_diff_to_file(diff_content, output_dir="diffs"):
         # 确保输出目录存在
         os.makedirs(output_dir, exist_ok=True)
         
-        filename = "最近一天的更改.md"
+        filename = "最近一天的新增.md"
         filepath = os.path.join(output_dir, filename)
         
         # 需要忽略的格式
@@ -279,12 +293,10 @@ def save_diff_to_file(diff_content, output_dir="diffs"):
             'updated::',
         ]
         
-        # 使用字典来存储每个标题的内容
-        title_contents = {}
+        # 使用字典来存储每个标题的原始内容行
+        title_raw_contents = {}
         current_title = None
         current_content = []
-        source_title = None
-        deleted_content = None
         is_new_file = False
         
         for line in diff_content.splitlines():
@@ -292,10 +304,10 @@ def save_diff_to_file(diff_content, output_dir="diffs"):
                 # 处理前一个文件的内容
                 if current_content and current_title:
                     if has_real_content(current_content, ignore_patterns):
-                        # 将内容添加到对应标题的列表中
-                        if current_title not in title_contents:
-                            title_contents[current_title] = []
-                        title_contents[current_title].extend(current_content[1:])  # 跳过标题行
+                        # 将原始内容行添加到对应标题的列表中
+                        if current_title not in title_raw_contents:
+                            title_raw_contents[current_title] = []
+                        title_raw_contents[current_title].extend(current_content[1:])  # 跳过标题行
                 
                 current_content = []
                 is_new_file = False
@@ -363,20 +375,52 @@ def save_diff_to_file(diff_content, output_dir="diffs"):
         
         # 处理最后一个文件的内容
         if current_content and current_title and has_real_content(current_content, ignore_patterns):
-            if current_title not in title_contents:
-                title_contents[current_title] = []
-            title_contents[current_title].extend(current_content[1:])
+            if current_title not in title_raw_contents:
+                title_raw_contents[current_title] = []
+            title_raw_contents[current_title].extend(current_content[1:])
         
         # 生成最终的内容
         content_files = []
-        for title, contents in title_contents.items():
-            if contents:  # 只处理有内容的标题
+        for title, raw_contents in title_raw_contents.items():
+            if raw_contents:  # 只处理有内容的标题
                 # 添加标题
                 content_files.append(f"- {format_page_title(title)}")
-                # 格式化并添加内容
-                formatted_contents = format_content_with_indent([f"- {content}" if not content.startswith('- ') else content for content in contents])
-                content_files.extend(formatted_contents)
-                content_files.append('')  # 添加空行分隔
+                
+                # 预处理：标准化内容并移除已有缩进
+                standardized_contents = []
+                for line in raw_contents:
+                    if line.strip():
+                        # 移除已有的缩进
+                        content = line.strip()
+                        if not content.startswith('- '):
+                            content = '- ' + content
+                        standardized_contents.append(content)
+                
+                # 检查是否有不连续的内容块
+                blocks = []
+                current_block = []
+                for line in standardized_contents:
+                    if line.strip():
+                        current_block.append(line)
+                    else:
+                        if current_block:
+                            blocks.append(current_block)
+                            current_block = []
+                
+                if current_block:  # 添加最后一个块
+                    blocks.append(current_block)
+                
+                # 分别处理每个块，保持独立性
+                all_processed = []
+                for block in blocks:
+                    processed = analyze_hierarchy(block)
+                    all_processed.extend(processed)
+                    all_processed.append('')  # 块之间添加空行
+                
+                # 添加处理后的内容
+                if all_processed:
+                    content_files.extend(all_processed)
+                    content_files.append('')  # 标题之间添加空行
         
         # 移除末尾的空行
         while content_files and not content_files[-1]:
@@ -405,6 +449,54 @@ def format_page_title(title):
     if '[[' in title or ']]' in title:
         return title
     return f"[[{title}]]"
+
+def analyze_hierarchy(raw_contents):
+    """分析内容的层级关系并添加正确的缩进"""
+    processed = []
+    
+    # 简化处理：对于大多数内容，默认使用一级缩进
+    # 只有明确识别为嵌套内容时才使用更深的缩进
+    for line in raw_contents:
+        if not line.strip():
+            continue
+            
+        content = line.strip()
+        # 确保行以 "- " 开头
+        if not content.startswith('- '):
+            content = '- ' + content
+            
+        # 跳过删除的内容
+        if '~~' in content and '**' not in content:
+            continue
+            
+        # 处理添加的内容
+        if '**' in content:
+            content = re.sub(r'\*\*([^*]+)\*\*', r'\1', content)
+        
+        # 检查是否是引用内容，可能需要额外缩进
+        is_quote = (content.startswith('- "') or content.startswith('- 「') or 
+                   content.startswith('- #') or content.startswith('- (('))
+        
+        # 检查是否是链接内容
+        is_link = ('http' in content or 'bilibili' in content or '哔哩哔哩' in content or 
+                  content.startswith('- 🔗') or '[' in content and ']' in content)
+        
+        # 默认使用一级缩进
+        level = 1
+        
+        # 特殊情况：引用内容和链接内容可能是子项
+        if is_quote and len(processed) > 0 and processed[-1].startswith('\t- '):
+            # 如果前一项是一级缩进，并且当前是引用，可能是子项
+            prev_line = processed[-1].strip()
+            if not (prev_line.startswith('- "') or prev_line.startswith('- 「') or 
+                    prev_line.startswith('- #') or prev_line.startswith('- ((')):
+                level = 2
+        
+        # 添加缩进并保存
+        indent = '\t' * level
+        processed.append(indent + content)
+    
+    return processed
 
 if __name__ == "__main__":
     # 如果提供了命令行参数，则使用它作为commit范围
