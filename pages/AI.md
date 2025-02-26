@@ -19,6 +19,7 @@
 - [【大白话搞懂DeepSeek】从函数到神经网络_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1uGA3eLEeu)
   id:: 67b916f6-6c58-438d-8c46-cb9b2d007a37
 - 模型
+  collapsed:: true
 	- LLM（大语言模型）/LMM（多模态大模型）
 		- 对话（“扩”）
 		  id:: 679adc9c-3c66-41ba-818d-bd594d2ee003
@@ -135,10 +136,10 @@
 							- [Unsloth训练自己的R1推理模型 - DeepSeek GRPO_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tMNMeMEiS)
 							- [Unsloth微调DeepSeek-R1蒸馏模型 - 构建医疗专家模型_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qVNRenEBX)
 		- 训练数据
-		  collapsed:: true
-			- 数据污染
+			- 数据注入、污染
 				- [大模型混入0.001%假数据就「中毒」，成本仅5美元！NYU新研究登Nature子刊](https://mp.weixin.qq.com/s/RV6glS-1kKLWsru87c3mng)
 				  id:: 67a2becc-fd09-47d7-8c9a-d3ff44ad00e9
+				- ai模型污染失控机仆（？）
 		- AI幻觉
 		  id:: 67ae7d7b-f9db-4549-85c5-1f60c192555d
 			- 大概可以调低模型温度，能更准确、幻觉较少

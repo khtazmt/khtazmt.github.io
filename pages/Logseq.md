@@ -152,6 +152,7 @@
 	- Dev theme
 	  id:: 670d40c3-4575-485c-8b47-bea78a726ae7
 	- “灰喜鹊主题有没有搞头？”
+	  id:: 679adca5-2dbe-4df3-ab03-4c7c01631a8a
 - # 可能常用的markdown语言
   id:: 65a7b394-7f9b-42a3-b8f7-7a94faf19512
 	- ## 学习
