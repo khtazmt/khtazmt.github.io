@@ -1,73 +1,71 @@
 /*
-logseq主题黑与白.css
-作者-Seagull
-更新时间-20210606182354
-使用方法-下载后重命名为custom.css，放入logseq的库根目录下的logseq文件夹即可
-相关知乎说明 https://zhuanlan.zhihu.com/p/378379176
+logseq主题：灰喜鹊 (Azure-winged Magpie)
+原作者-Seagull
+改编日期-current_date
+特色-以灰喜鹊的黑色头部、灰色身体和蓝色翅膀为灵感
 */
 
 
-/*夜晚模式颜色*/
+/*夜晚模式颜色 - 灰喜鹊夜色*/
 
 .dark-theme,
 html[data-theme=dark] {
     /*四个主要的背景色（背景、块嵌入背景色）*/
-    /* 黑色*/
-    --ls-primary-background-color: #000000;
-    --ls-secondary-background-color: #2f2f2f;
-    --ls-tertiary-background-color: #434343;
-    --ls-quaternary-background-color: #555555;
-    /* 墨绿色
-    --ls-primary-background-color: #023643;
-    --ls-secondary-background-color: #003c4b;
-    --ls-tertiary-background-color: #004153;
-    --ls-quaternary-background-color: #0a4a58;
-    */
+    /* 深灰色背景，灰喜鹊的夜晚栖息地 */
+    --ls-primary-background-color: #1a1a1f;
+    --ls-secondary-background-color: #2a2a30;
+    --ls-tertiary-background-color: #34343c;
+    --ls-quaternary-background-color: #42424d;
+    
     /*主界面右侧滚动条*/
-    --ls-scrollbar-foreground-color: #3d3d3d;
-    --ls-scrollbar-background-color: #2f2f2f00;
+    --ls-scrollbar-foreground-color: #4a4a57;
+    --ls-scrollbar-background-color: #2f2f3f00;
     /*标签背景色*/
-    --ls-page-inline-code-bg-color: #515151;
+    --ls-page-inline-code-bg-color: #353542;
     /*大纲线条*/
-    --ls-guideline-color: #9a9a9ab5;
+    --ls-guideline-color: #5a5a6ab5;
     /*子弹颜色-默认状态*/
-    --ls-block-bullet-color: #9a9a9ab5;
+    --ls-block-bullet-color: #5a5a6ab5;
     /*子弹颜色-折叠状态*/
-    --ls-block-bullet-border-color: #9a9a9a96;
+    --ls-block-bullet-border-color: #5a5a6a96;
     /*文字颜色-普通文字*/
-    --ls-primary-text-color: #f0f0f0;
+    --ls-primary-text-color: #e0e0e8;
     /*文字颜色-笔记标题*/
-    --ls-title-text-color: #f0f0f0;
-    /*---链接文字颜色-淡蓝---*/
+    --ls-title-text-color: #e0e0e8;
+    /*---链接文字颜色-蓝色，灰喜鹊的翅膀---*/
     /*链接文字颜色-双方*/
-    --ls-link-ref-text-color: #bad6ff;
+    --ls-link-ref-text-color: #78a7ff;
     /*链接文字颜色-链接*/
-    --ls-link-text-color: #bad6ff;
+    --ls-link-text-color: #78a7ff;
     /*帮助菜单-的背景色*/
-    --ls-table-tr-even-background-color: #454545;
+    --ls-table-tr-even-background-color: #33333d;
     /*分割线*/
-    --ls-border-color: #bad6ff;
+    --ls-border-color: #78a7ff;
 }
 
 
-/*白天模式颜色*/
+/*白天模式颜色 - 灰喜鹊晴日*/
 
 .white-theme,
 html[data-theme=light] {
-    /*---链接文字颜色-墨蓝---*/
+    /*主背景色 - 浅灰色，如灰喜鹊的身体*/
+    --ls-primary-background-color: #b1a892;
+    /*标题颜色 - 深灰，如灰喜鹊的头部*/
+    --ls-title-text-color: #1c1b20;
+    /*---链接文字颜色-蓝色，灰喜鹊的翅膀---*/
     /*链接文字颜色-双方*/
-    --ls-link-ref-text-color: #003a8d;
+    --ls-link-ref-text-color: #88afc5;
     /*链接文字颜色-链接*/
-    --ls-link-text-color: #003a8d;
+    --ls-link-text-color: #92c7e1;
     /*---颜色更淡的子弹---*/
     /*颜色更淡的子弹-小点*/
-    --ls-block-bullet-color: rgb(67 63 56 / 18%);
+    --ls-block-bullet-color: rgba(60, 103, 181, 0.3);
     /*颜色更淡的子弹-折叠状态*/
-    --ls-block-bullet-border-color: #dededec4;
+    --ls-block-bullet-border-color: rgba(60, 103, 181, 0.4);
     /*颜色更淡的右侧和块嵌入背景*/
-    --ls-secondary-background-color: #f7f6f49e;
+    --ls-secondary-background-color: #98b0b4;
     /*主界面右侧滚动条*/
-    --ls-scrollbar-foreground-color: #f3f3f3;
+    --ls-scrollbar-foreground-color: #d0d0d8;
     --ls-scrollbar-background-color: rgb(255 255 255 / 5%);
 }
 
@@ -119,3 +117,15 @@ div[data-refs-self*="kanban"] >.block-children > div {
 /* #kanbansmall : smaller font with hover zoom */
 div[data-refs-self*="kanban-small"] > .block-children .block-content {
 	font-size: 11px;
+}
+
+/* 添加灰喜鹊主题特有的悬停效果 */
+a:hover {
+    color: #4d78c9 !important;
+    transition: color 0.3s ease;
+}
+
+/* 添加灰喜鹊主题特有的选择颜色 */
+::selection {
+    background-color: rgba(78, 122, 199, 0.3);
+}
