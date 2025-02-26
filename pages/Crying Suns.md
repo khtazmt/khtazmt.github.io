@@ -1,3 +1,4 @@
+# 有剧透，爱玩直接玩！
 - [《Crying Suns》——像素口味的硬科幻视觉小说](https://zhuanlan.zhihu.com/p/86195544)
 - 这游戏刚出来时看简介，《基地》系列（或者说《银河帝国》系列）、《沙丘》第一部看过，第三个FTL没看过（看酷酷跑的简介前猜了网友提过的Solaris，错了；然后FTL是faster than light超光速，并不是书；又错了，原来FTL确实是个游戏……），关注——换机后想到空间够了等就下来玩了
 	- [Roguelite 和 Roguelike 的区别是什么？](https://indienova.com/indie-game-development/roguelite-or-roguelike/)

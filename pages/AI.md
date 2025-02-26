@@ -2,6 +2,16 @@
 - # “你相信AI的‘人择原理’（会有用）吗？我相信！”
 	- ((678eda4c-429b-4e40-a001-4d3c411ea627))
 	  id:: 6797013f-7f11-4ef5-bd11-3047055428b7
+- # “祝家人们做人不缺AI，做AI不缺人！”
+	- >I call it Alibaba Intelligence
+		- [马斯克公开取笑马云，用成就回应当初质疑，思维视野不在一个维度_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ka4y1k7oo)
+		  id:: 67bf17db-7c83-4e9e-afda-bbf1c098ebad
+			- “你对此有何观点呢？快来评论区告诉小编吧！”
+		- ((679adda6-6fae-47f5-af40-5bef888b36de))
+		- ((679addab-9cd2-4424-b773-a36af951a423))
+- [马斯克:被问到AI时代给孩子的建议，马斯克思考了26秒说_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1sN41167dg)
+  id:: 67bf1694-5261-4bc1-b0a0-73312d41b7fe
+- {{embed ((677a958b-570c-4dfc-9a40-6c40a1a37075))}}
 - id:: 67bd3832-5150-4963-98b6-f7bbafb0c1ac
   >我主要是想看到我需要的功能、用途的介绍，比如 ((65ff88f2-9314-4c30-b655-065283a57a9f)) 、聊天辅助（注：避免“记性差”、“赛博纠纷”等的）啥的，而我不确定deepseek行不行
   应用有各种限制，比如“同事没空”，我个人可能还是看一下能不能导入本地知识库
