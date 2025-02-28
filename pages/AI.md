@@ -59,6 +59,9 @@
 					- “缓存命中”的比“缓存未命中”便宜，应该就是复用提示词便宜
 				- [DeepSeek 使用指南_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ZVPNeVEk7)
 				- ---
+				- ((67b9e245-97b0-438f-b66d-82d503fa5449)) 里用还会读取当前项目内的文档，列出“参考文献”，精确到多少行到多少行，对我来说可能真有点“查漏补缺”的作用，但出的方案就有点“私拉乱接”了
+				  id:: 67c17b2e-60f2-496d-86c1-a5f2ee5062c3
+					- ![image.png](../assets/image_1740733752218_0.png)
 				- [Deepseek-V3 + CoT思维链 + RAG知识库！我的AI现在强的可怕 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/316186)
 				  id:: 6797057c-f863-40ad-9aab-15a00a859d58
 				  collapsed:: true
@@ -149,6 +152,7 @@
 							- [Unsloth训练自己的R1推理模型 - DeepSeek GRPO_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tMNMeMEiS)
 							- [Unsloth微调DeepSeek-R1蒸馏模型 - 构建医疗专家模型_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qVNRenEBX)
 		- 训练数据
+		  collapsed:: true
 			- 数据注入、污染
 				- [大模型混入0.001%假数据就「中毒」，成本仅5美元！NYU新研究登Nature子刊](https://mp.weixin.qq.com/s/RV6glS-1kKLWsru87c3mng)
 				  id:: 67a2becc-fd09-47d7-8c9a-d3ff44ad00e9

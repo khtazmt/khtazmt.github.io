@@ -297,7 +297,11 @@ def save_diff_to_file(diff_content, output_dir="diffs"):
         title_raw_contents = {}
         current_title = None
         current_content = []
+        source_title = None
+        deleted_content = None  # 初始化 deleted_content
         is_new_file = False
+        new_file_line_count = 0  # 新增文件的行数计数器
+        last_was_addition = False  # 初始化 last_was_addition
         
         for line in diff_content.splitlines():
             if line.startswith('diff --git'):
