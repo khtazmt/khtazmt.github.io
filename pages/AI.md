@@ -134,6 +134,17 @@
 				- [GitHub - bytedance/UI-TARS-desktop: A GUI Agent application based on UI-TARS(Vision-Lanuage Model) that allows you to control your computer using natural language.](https://github.com/bytedance/UI-TARS-desktop)
 					- [字节版Operator抢跑OpenAI? 直接免费开源， 网友：怒省200美元！](https://mp.weixin.qq.com/s/P2yTgxTH2NSackelIfDKwg)
 					  id:: 67972655-643f-4a3d-9fab-b852af4d7b99
+				- TODO AI发明家
+				  id:: 67c24474-30de-4530-ac81-0901d371acda
+					- ((67c17b2e-60f2-496d-86c1-a5f2ee5062c3))
+					- ((a6efa660-72c0-4f6e-937b-f649e786d096))
+					- “莎士比亚排列组合发明机”
+					- 中间环节
+						- ((679adda6-e9cf-472f-b306-a72d78191cd1))
+				- TODO AI传话筒
+					- “大规模指指点点用的”
+					- 多消息分配顺序（像是自动驾驶车让车）
+				- ((679addd8-c653-430e-a7d4-c63040100913))
 		- 本地部署
 		  collapsed:: true
 			- [别随便本地部署大模型，Ollama重大安全隐患](https://mp.weixin.qq.com/s/1JUWyjVm3W6CRvAuYGBwag)
