@@ -104,7 +104,11 @@
 				- [总是跳转到国内版(cn.bing.com)？New Bing使用全攻略你是否想要使用强大的（被削后大嘘）New Bing - 掘金](https://juejin.cn/post/7202531472720592951)
 				- [如何看待微软的Bing AI聊天机器人被限制为每个会话的问答上限为5个，每天的提问上限不超过50个？ - 知乎](https://www.zhihu.com/question/584808550)
 			- ---
+			- “怎么说？”
+				- 问ai参考资料看通用模板（？）
+			- ---
 			- NLP
+			  collapsed:: true
 				- [ai大模型和nlp的关系以及前者能否大幅度替代后者？ - 知乎](https://www.zhihu.com/question/626612429)
 				- 词向量
 					- [发明词向量的人真是个天才_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1JgrQYpExg)
@@ -139,6 +143,7 @@
 					- ((67c17b2e-60f2-496d-86c1-a5f2ee5062c3))
 					- ((a6efa660-72c0-4f6e-937b-f649e786d096))
 					- “莎士比亚排列组合发明机”
+					- “？想让AI背锅，没那么容易！”
 					- ---
 					-
 					- 中间环节
