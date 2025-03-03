@@ -151,8 +151,11 @@
 - # （显示）主题
 	- Dev theme
 	  id:: 670d40c3-4575-485c-8b47-bea78a726ae7
-	- “灰喜鹊主题有没有搞头？”
+	- TODO 灰喜鹊主题
 	  id:: 679adca5-2dbe-4df3-ab03-4c7c01631a8a
+		- logseq图谱文件夹-logseq文件夹-custom.css
+		- “真实灰喜鹊体色”
+			- ((67c5bb7c-abeb-4252-98a3-a298ad2eea50))
 - # 可能常用的markdown语言
   id:: 65a7b394-7f9b-42a3-b8f7-7a94faf19512
 	- ## 学习
