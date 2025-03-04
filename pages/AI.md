@@ -228,6 +228,7 @@
 - ((67a05dae-c165-4bf1-9c6c-47e86e37a9c9))
 - AI学术辅助
   id:: 670d40d8-799b-4119-8eea-2289bb8597da
+  collapsed:: true
 	- [8个科研人必备好用 AI 学术写作工具 | Wordvice AI](https://wordvice.ai/cn/blog/8-best-ai-tools-for-researchers)
 	- ((677a1577-1b9d-4c8e-aaee-4cfe07458cc9))
 	- 历史记录再利用
@@ -237,6 +238,7 @@
   id:: 66b55128-4fca-4a17-89f1-4aa307238020
 - AI生成图片
   id:: 670d40f3-d788-4805-931e-fa54671defbe
+  collapsed:: true
 	- IC-Light
 		- [ICLR 惊现[10,10,10,10]满分论文，ControlNet 作者新作，Github 5.8k 颗星](https://mp.weixin.qq.com/s/ZoEXu18ZzAjUFnYsP7JGwQ)
 	- [Stable Diffusion - 在线免费AI图像生成器](https://stabledifffusion.com/zh)
@@ -257,6 +259,7 @@
 	- 风格切换（比如照片换成手绘风格）
 - ((65ab44a5-078e-4b51-bf20-1f74674bb5ee))
 - ((668ce780-d5d0-4885-96f0-2585a49a2e83))
+  collapsed:: true
 	- ((66a4c2be-76bc-4358-b26a-d5fcf79dc201))
 	- 估值
 		- 价格歧视
@@ -269,9 +272,11 @@
 			- 应对
 				- ((677f6c87-31dc-47ec-bfc8-077088d9b0aa))
 - 情感识别
+  collapsed:: true
 	- “真情实感即可”
 	- “高山流水”
 - 图像化界面
+  collapsed:: true
 	- gradio
 		- [简单易用的图像化界面库gradio - 知乎](https://zhuanlan.zhihu.com/p/677799629)
 - ---
@@ -301,7 +306,11 @@
 	- TODO （超免费总结时）长视频（免费）AI总结
 	  id:: 65d80bdb-40c7-4da3-b864-681fbce055cf
 	- [通义听悟+kimi，教你两分钟总结本地音视频内容_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qw4m1D7Ty)（还没试过通义自带总结与kimi的比怎么样）
+	- 黑话行话学习器
+		- “中译中”
+		- 准确翻译用语，无障碍交流
 	- 比较
+	  collapsed:: true
 		- ![微信图片_20240710191933.jpg](../assets/微信图片_20240710191933_1720610464175_0.jpg)
 			- >不对润色内容一条条对比而是一个个版本逐字看完的话，比较难看出来，kimi的可能最“忠于原味”，也是唯一对第三段末尾理解大致正确的（当然，也可以视作“忠于原味”）
 			- >哦，海螺ai也理解了，但是看着有点像copilot，我让它润色，它直接上来就是“你很懂”，然后就从原文提取这样的建议

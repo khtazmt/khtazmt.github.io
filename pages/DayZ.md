@@ -80,8 +80,8 @@
 	- 有地图有罗盘才会在地图上定位（可能是mod内容？）
 		- [Tourist Map - DayZ Wiki](https://dayz.fandom.com/wiki/Tourist_Map)
 - 地图
-  collapsed:: true
 	- “到此一游”
+	- >单机可以装个dayz navigation和VPP map 省的老切出去看在线地图——评论
 	- [DayZ在线地图](https://dayz.plus/#/map)
 	  collapsed:: true
 		- 搜路标、服务器空投提示等定位
@@ -93,6 +93,7 @@
 	- [Spawn locations of ALL ITEMS in DayZ | Find gear easily using the DayZ Loot Finder spawn point loot location maps](https://wobo.tools/dayz-loot-finder-tool?map=chernarus#top)
 	  id:: 678a4dd4-ec57-42dd-a080-4a54411ab61f
 	- Chernarus
+	  collapsed:: true
 		- 恶魔岛
 			- 平均物资水平可能比警察局更高，有些mod会更更高（第一次去民房里刷了两件70格防弹狩猎背心，第二次多刷了几次有140格大背包、弩、弩箭、GPS接收器、MK2手枪、气炉头、气罐、308、76254子弹）
 			- 可以反复刷
@@ -116,6 +117,7 @@
 				- 西南无线电塔
 					- 可以看一下后面有没有牛
 - 快捷方式
+  collapsed:: true
 	- id:: 677261e7-2f1e-4f25-910f-e8b3a9a4daf8
 	  >我在游戏里钓鱼时是臀腿悬空坐桩，跑图时是练这个循环1
 	  接下来我可能还要搞个长按若干秒挖钓鱼蚯蚓、声控提竿

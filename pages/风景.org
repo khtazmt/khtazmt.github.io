@@ -225,6 +225,9 @@
 :END:
 ****** 蝉鸣
 *** 鸟
+:PROPERTIES:
+:id: 67a41a89-86fd-4b4a-ad47-0fbc27664a93
+:END:
 **** 走鸟
 ***** 河边草地上放养的两只大公鸡
 **** 跳鸟
@@ -378,6 +381,7 @@
 :END:
 **** 天台
 :PROPERTIES:
+:id: 67a41a89-d0c3-4eaa-bbc6-f11a56d62951
 :collapsed: true
 :END:
 ***** 楼梯间的屋顶
