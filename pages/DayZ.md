@@ -80,6 +80,7 @@
 	- 有地图有罗盘才会在地图上定位（可能是mod内容？）
 		- [Tourist Map - DayZ Wiki](https://dayz.fandom.com/wiki/Tourist_Map)
 - 地图
+  collapsed:: true
 	- “到此一游”
 	- >单机可以装个dayz navigation和VPP map 省的老切出去看在线地图——评论
 	- [DayZ在线地图](https://dayz.plus/#/map)
@@ -121,12 +122,12 @@
 	- id:: 677261e7-2f1e-4f25-910f-e8b3a9a4daf8
 	  >我在游戏里钓鱼时是臀腿悬空坐桩，跑图时是练这个循环1
 	  接下来我可能还要搞个长按若干秒挖钓鱼蚯蚓、声控提竿
-		- [持续跑步 - by 用户670025759866055 - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=6315c044-a977-4cdc-02b1-08dd267f7c7b)
+		- [持续跑步1分钟 - by khtazmt - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=6315c044-a977-4cdc-02b1-08dd267f7c7b)
 		  id:: 676f7433-cafd-4d23-a5b0-789e597debdd
 			- 练 ((666e0f29-90c8-45a3-b3f4-8ec03039b2fb)) 中的循环1和桥
 			- TODO 翻越障碍（声控？）
 			- TODO 丧尸、踩水、受伤警告（声控？）
-		- [长按鼠标左键 - by 用户670025759866055 - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=1040f2a5-da39-48e0-a709-08dd2875ceca)
+		- [长按鼠标左键 - by khtazmt - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=1040f2a5-da39-48e0-a709-08dd2875ceca)
 		  id:: 67726355-86bf-4e6a-8505-def58caa0c4d
 			- 挖蚯蚓
 				- 练5个 ((667b89e5-ad14-43bd-b3ae-cf0bd302a266))（4蚯蚓就练完1组，然后暂时可能就坐着了）
