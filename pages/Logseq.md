@@ -153,7 +153,7 @@
 	  id:: 670d40c3-4575-485c-8b47-bea78a726ae7
 	- TODO 灰喜鹊主题
 	  id:: 679adca5-2dbe-4df3-ab03-4c7c01631a8a
-		- logseq图谱文件夹-logseq文件夹-custom.css
+		- 主题文件路径：logseq图谱文件夹-logseq文件夹-custom.css
 		- “真实灰喜鹊体色”
 			- ((67c5bb7c-abeb-4252-98a3-a298ad2eea50))
 - # 可能常用的markdown语言
