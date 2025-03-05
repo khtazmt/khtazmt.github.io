@@ -260,6 +260,8 @@
 		- [MimicBrush - 阿里等开源的AI图像编辑融合框架 | AI工具集官网](https://ai-bot.cn/mimicbrush/)
 		- [Outfit Anyone - 阿里开源的一键换衣虚拟试穿项目 | AI工具集官网](https://ai-bot.cn/outfit-anyone/)
 	- 风格切换（比如照片换成手绘风格）
+- json生成图谱，ai学习（？）
+  id:: 67c852ee-ddea-44fe-98f2-042b0ba9f9dc
 - ((65ab44a5-078e-4b51-bf20-1f74674bb5ee))
 - ((668ce780-d5d0-4885-96f0-2585a49a2e83))
   collapsed:: true
