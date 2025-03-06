@@ -14,7 +14,9 @@
 		- ((679addab-9cd2-4424-b773-a36af951a423))
 - [马斯克:被问到AI时代给孩子的建议，马斯克思考了26秒说_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1sN41167dg)
   id:: 67bf1694-5261-4bc1-b0a0-73312d41b7fe
+- [Zu Ende（结束） - Uwe Kröger/Thomas Borchert - 单曲 - 网易云音乐](https://music.163.com/song?id=1371316&uct2=U2FsdGVkX18fcrCxMrnVJDr6ZeE2uctQUct1Ca2Fzl8=)
 - {{embed ((677a958b-570c-4dfc-9a40-6c40a1a37075))}}
+- ---
 - id:: 67bd3832-5150-4963-98b6-f7bbafb0c1ac
   >我主要是想看到我需要的功能、用途的介绍，比如 ((65ff88f2-9314-4c30-b655-065283a57a9f)) 、聊天辅助（注：避免“记性差”、“赛博纠纷”等的）啥的，而我不确定deepseek行不行
   应用有各种限制，比如“同事没空”，我个人可能还是看一下能不能导入本地知识库
