@@ -3,8 +3,6 @@
 		- ((67bfe9df-95e1-42cc-aa2e-f8f15ba910fe))
 		- ((62413092-2801-4c46-b4b6-7452682b4f1e))
 - # “你相信AI的‘人择原理’（会有用）吗？我相信！”
-	- ((678eda4c-429b-4e40-a001-4d3c411ea627))
-	  id:: 6797013f-7f11-4ef5-bd11-3047055428b7
 - # “祝家人们做人不缺AI，做AI不缺人！”
 	- >I call it Alibaba Intelligence
 		- [马斯克公开取笑马云，用成就回应当初质疑，思维视野不在一个维度_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ka4y1k7oo)

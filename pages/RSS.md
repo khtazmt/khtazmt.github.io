@@ -3,6 +3,7 @@
 - [RSS订阅工具推荐：AI学习者的效率利器-首席AI分享圈](https://www.aisharenet.com/rssdingyuegongjutuian/)
 - https://github.com/AboutRSS/ALL-about-RSS
 - ((6222d6cd-92fa-4d00-9215-23d72e1a0a23))
+- TODO 全局自动添加RSS
 - 访问部分订阅源平台和网页需要上[[外网]]
 - 缺点是，很多公开的订阅源更新较慢，平均可能得等个几小时，不太适合阅读时效信息
 - 原蓝奏云分享描述

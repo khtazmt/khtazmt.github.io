@@ -285,6 +285,9 @@
 **** [[https://mp.weixin.qq.com/s/Nck2-BLF72EYzLn2Kv6b5Q][别用饮料嚯嚯孩子！]]
 **** [[https://mp.weixin.qq.com/s/HqRAtULu9CIUgrfJ8JN5qg][一边吃保健品，一边透支身体的年轻人｜GymSquare]]
 **** 钙磷比/酸碱/钙（骨量）达峰
+:PROPERTIES:
+:id: 67a45644-e080-4c76-944c-c820f7fed7cf
+:END:
 ***** [[https://zhuanlan.zhihu.com/p/415140665][时隔多年，《原始饮食》、AIP饮食的作者，加回了这些食物……]]
 ***** [[https://www.zhihu.com/question/34794434][喝牛奶的人和不喝牛奶的人差别在哪？]]
 ***** [[https://mp.weixin.qq.com/s/EC0m1majxTWjxygdX1qofQ][牛奶是最好的减肥食品？雷佩特谈奶/钙/激素 (2)]]
