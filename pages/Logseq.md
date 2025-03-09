@@ -6,6 +6,7 @@
 	- https://xuanhuai.wiki/
 - Logseq是一个笔记软件，块级粒度，双向链接，大纲结构，本地保存
   id:: 679adca5-d53e-4312-91ed-0c91a80ec7aa
+  collapsed:: true
 	- 显而易见，你可以认为你此刻看到的东西是“博客”，可能因为你不常见别人把这么多“笔记”，而根据内容的“完成度”、小红书等平台的叫法等也可以认为它是“笔记”——更复杂的认知过程赶时间就不梳理了
 	- 块与
 	  
@@ -57,6 +58,10 @@
 	- Alt+Shift+$\uparrow$/$\downarrow$ 向上/下移动块
 	- Ctrl+C/V光标在块中时，复制/粘贴块引用
 	  id:: 6596c0ca-555b-4f8f-956b-f71333edf9ce
+	- 粘贴b站等的视频链接不自动生成占位即播视频模块（“忍{{video xxx}}很久”）
+	  id:: 67cd7ccf-1cef-4233-9b4b-cf1a7b7f691a
+		- [Pasting Youtube link without turning it into a {{video …}}? : r/logseq](https://www.reddit.com/r/logseq/comments/159xef9/pasting_youtube_link_without_turning_it_into_a/)
+			- Ctrl+Shift+V，好很多了，改成Ctrl+V又粘贴不了图片，行了吧
 	- Ctrl+Enter 添加代办/切换代办状态
 	  :LOGBOOK:
 	  CLOCK: [2024-01-07 Sun 11:09:57]--[2024-01-07 Sun 11:09:58] =>  00:00:01
@@ -68,7 +73,10 @@
 	  id:: 65af1d52-3ec7-4db9-a639-bc5659e83759
 	- rt左侧栏、tr右侧栏（我自定义的）
 	- Shift+左键 在右侧栏打开块、页
+	- Shift+Enter 在右侧栏打开搜索栏中当前选择的条目
 	- Alt+Shift+J 在右侧栏打开当日日记
+	- ct 关闭右侧栏最上面的条目
+	- Ctrl+C两下 清空右侧栏
 	- gj 切换到日记页面
 		- gp 前一篇日记
 		- gn 后一篇日记
@@ -88,14 +96,14 @@
 	- 学习插件可以查看示例
 		- 插一句，有些插件有比较鲜明的特征，比如sethyuan大佬的插件图标就是“蓝色经典”，hkgnp大佬的是“灰色经典”
 	- Awesome Links：获取外部链接的favicon图标，给日志之类的内部页面加上对应图标（“至少我这里看得到”）
-	- Page-tags and Hierarchy：多层级页面UI
+	- Page-tags and Hierarchy：多层级页面的标题UI
 	- Tabs：开启类似浏览器的标签页栏，双击可固定/取消固定页面
 		- ## 键盘快捷键
 			- 固定/取消固定标签: CTRL + P (macOS: CMD + P)
 			- 关闭标签: SHIFT + CTRL + W (macOS: SHIFT + CMD + W)
 			- 更改为下一个选项卡: CTRL + TAB
 			- 更改为第n个选项卡: CTRL + 1 ~ 9 (这尚无法配置)
-	- Bullet Threading：高亮光标所在块的全部直接上级块的线条，方便一屏看不完时确认层级关系（“原来如此”）； ((670d40c3-4575-485c-8b47-bea78a726ae7)) 主题自带
+	- Bullet Threading：高亮光标所在块的全部直接上级块的线条，方便一屏看不完时确认层级关系（“原来如此”）； ((670d40c3-4575-485c-8b47-bea78a726ae7)) 主题自带，不用装
 	- Get webpage title：`/ti`获取链接标题（不在块首输入时前面需要加个空格）
 	  id:: 65bef800-0e4a-430f-8f5a-4e98314b64d9
 		- “骗自己换个地方疯狂稍后再看是这样的”
@@ -244,3 +252,4 @@
 	- [Logseq是最好用的笔记软件吗 ？全网最简单，废话最少，干货最多的Logseq笔记软件教学_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1D94y1N7U2)
 	  id:: 666c0d8c-f530-4ef2-b67e-c34af4dcd038
 	- [17 tips to level-up in Logseq - YouTube](https://www.youtube.com/watch?v=Fnxq3iITAJk)（感觉讲得有点水，也许是我的“知识的诅咒”）
+- TODO [GitHub - 71/logseq-snippets: Snippets I'm using with logseq.com.](https://github.com/71/logseq-snippets)

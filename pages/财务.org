@@ -51,11 +51,6 @@
 *** 注意部分纸箱可能带有危害健康的油墨和胶水
 *** 可放冰箱等装带皮带壳食材
 *** 可简单加工制成立柜、宠物用品等
-** 包
-:PROPERTIES:
-:collapsed: true
-:END:
-*** 皮挎包
 * 防护1.2+^^3.2^^=4.4
 :PROPERTIES:
 :collapsed: true
