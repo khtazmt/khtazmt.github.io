@@ -62,6 +62,7 @@
 	  id:: 67cd7ccf-1cef-4233-9b4b-cf1a7b7f691a
 		- [Pasting Youtube link without turning it into a {{video …}}? : r/logseq](https://www.reddit.com/r/logseq/comments/159xef9/pasting_youtube_link_without_turning_it_into_a/)
 			- Ctrl+Shift+V，好很多了，改成Ctrl+V又粘贴不了图片，行了吧
+		- ((67ce84d6-04c4-4a28-87b1-557a446b1202))
 	- Ctrl+Enter 添加代办/切换代办状态
 	  :LOGBOOK:
 	  CLOCK: [2024-01-07 Sun 11:09:57]--[2024-01-07 Sun 11:09:58] =>  00:00:01
