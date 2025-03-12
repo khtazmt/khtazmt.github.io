@@ -10,6 +10,7 @@
 	- [Oculus Quest2 VR：从入手到入门 - 少数派](https://sspai.com/post/72214)
 	- ((66cbe004-7a4b-4aa1-a98f-3100422dc21e))
 	- vr设置
+	  collapsed:: true
 		- [OpenVR-Advanced-Settings/OpenVR-AdvancedSettings: OpenVR Advanced Settings Dashboard Overlay](https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings)
 	- 买哪个？
 	  collapsed:: true
@@ -37,6 +38,7 @@
 			  id:: 679add83-6245-472f-a77d-8861795b7427
 				- ((67271349-abb2-45d1-bad0-94ec3ebcdeb7))
 	- 验货
+	  collapsed:: true
 		- 一般是送上门验货后签收或拒收
 		- 生产日期
 		- 组件
@@ -65,11 +67,13 @@
 				- 睫毛
 		- 配件
 	- 文件有线传输（无需联网）
+	  collapsed:: true
 		- “还是简简单单看个片最容易呐！”
 		- [求助！怎么把文件上传到quest2本地【oculusquest吧】_百度贴吧](https://tieba.baidu.com/p/7034163950)
 			- [如何在我的电脑里再次打开Quest2的盘符 - VR技术教程分享   免费Quest一体机VR游戏下载_SteamVR游戏汉化_171VR网](https://www.171vr.cn/thread-4754-1-1.html)
 	- 外网
 	  id:: 670d40c4-7400-4bf2-b0b4-670ec47c9f1e
+	  collapsed:: true
 		- 头显不会自动科学上网，连接的WiFi要能直接科学上网
 		- ((66c07b92-f8a3-4429-b70d-c6d27f146aa7))
 		- [解决Oculus Quest2连接受限、不自动连接WiFi - LittleJake's Blog](https://blog.littlejake.net/archives/534/)
@@ -80,6 +84,7 @@
 			- [oculus quest2创建激活环境 无需路由器 教你如何学会科学玩转quest2_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Mq4y1Z7M8)
 	- 串流（双向传输，可以玩VR一体机玩不动的大游戏）
 	  id:: 66c155ce-70e4-4464-813f-048170bdffb0
+	  collapsed:: true
 		- meta quest link
 		  id:: 66c17637-410c-429e-80b9-d7644352b02d
 			- 可以有线串流
@@ -106,13 +111,11 @@
 		- sidequest
 		- 87VR助手
 	- 播放器
-	  collapsed:: true
 		- 自带的比大多数好（“不排除盗版、旧版效果差”），同样视频，quest2自带的“文件”里的播放器远近基本上都没什么重影，而有些收费的还不如自带的
 		- [heresphere vr播放器设置指南和功能更新，以及其他多个vr播放器比较测试 - 哔哩哔哩](https://www.bilibili.com/read/cv28253278)
 		- [目前看蓝光3D原盘最好的方式【quest3吧】_百度贴吧](https://tieba.baidu.com/p/8764721379#149188521304l)
 	- [我来讲讲quest3使用的许多痛点解决_quest3吧_百度贴吧](https://tieba.baidu.com/p/8724608900)
 	- 怎么看呢？
-	  collapsed:: true
 		- [VD 使用宝典 - 哔哩哔哩](https://www.bilibili.com/opus/913004240639623200)
 		- [［天使］如何用 Oculus Quest 2 看片？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Xh411m7Z5/)
 		- [Quest3买了后一定要装的应用（欢迎补充）【quest3吧】_百度贴吧](https://tieba.baidu.com/p/8667346019)
