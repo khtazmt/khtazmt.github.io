@@ -111,11 +111,13 @@
 		- sidequest
 		- 87VR助手
 	- 播放器
+	  collapsed:: true
 		- 自带的比大多数好（“不排除盗版、旧版效果差”），同样视频，quest2自带的“文件”里的播放器远近基本上都没什么重影，而有些收费的还不如自带的
 		- [heresphere vr播放器设置指南和功能更新，以及其他多个vr播放器比较测试 - 哔哩哔哩](https://www.bilibili.com/read/cv28253278)
 		- [目前看蓝光3D原盘最好的方式【quest3吧】_百度贴吧](https://tieba.baidu.com/p/8764721379#149188521304l)
 	- [我来讲讲quest3使用的许多痛点解决_quest3吧_百度贴吧](https://tieba.baidu.com/p/8724608900)
 	- 怎么看呢？
+	  collapsed:: true
 		- [VD 使用宝典 - 哔哩哔哩](https://www.bilibili.com/opus/913004240639623200)
 		- [［天使］如何用 Oculus Quest 2 看片？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Xh411m7Z5/)
 		- [Quest3买了后一定要装的应用（欢迎补充）【quest3吧】_百度贴吧](https://tieba.baidu.com/p/8667346019)
@@ -123,6 +125,7 @@
 		- [Oculus Quest2无需电脑直接和手机端互传文件教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1iv41147ar)
 	- ---
 	- 如果二手设备上别人的账号退出
+	  collapsed:: true
 		- 切换账户
 		- ---
 		- [第一次玩Oculus Quest 2？这里有份教程为你而写！ - 哔哩哔哩](https://www.bilibili.com/read/cv15427308)
@@ -140,4 +143,14 @@
 		- 开发者模式
 			- 双重验证
 			- 手机验证码
+- VR头显减重吊架
+  id:: 67d392fa-2cd9-48c5-8a50-9e83e2c3eb0b
+  collapsed:: true
+	- “这下吊架了”
+	- [【自制】我把Apple Vision Pro最严重的问题解决了！！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Mt421n7SC)
+		- [零重力VR看片有多爽，多舒适，首款VR减重吊架帮你实现适配小派水晶PICO4 QUEST3Vision Pro大部分头显设备_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1526NYEEXs)
+		- 人可以不只在玩vr头显时只想着脖子
+		  id:: 67ccfbf1-8f46-4a97-b809-17356787e481
+- VR线缆悬挂拉线器
+  id:: 67d3931f-00fd-436d-9da5-d0ded9ca654b
 - ((67038098-47af-43d6-9d6c-d0123772e5ca))
