@@ -1,0 +1,252 @@
+* [[../assets/v2-c8a702667535d30efa99b3d9967f93c1_r_1625315094282_0.jpg]]
+* ^^别看攻略^^
+* [[密教]]
+* 伟大游戏，优秀玩家
+** [[https://invisioncommunity.co.uk/how-alexis-kennedy-crafted-cultist-simulator/][How Alexis Kennedy Crafted Cultist Simulator | Invision Game Community]]
+* 这游戏可以说有我需要的完整而写实的世界观及认知框架，夸张点可以这么评价——“仰之弥高，钻之弥坚，瞻之在前，忽焉在后。”
+* 价值
+:PROPERTIES:
+:background-color: #978626
+:END:
+** 向游戏和教主学习，做一个多相全面发展的人
+** ((670d412a-caa1-41db-8769-fecb48d18160))
+* 资料
+** [[https://indienova.com/indie-game-news/interview-with-weather-factory/][《密教模拟器》开发团队 Weather Factory 专访]]
+** [[https://www.chuapp.com/article/286382.html][《密教模拟器》幕后开发故事]]
+	- [密教秘史：隐藏ARG流程（上）](https://housewithoutwalls.lofter.com/post/1f87c7d5_1c9821725)
+** ((628b8fe7-4763-4b37-bab0-b515f81429f7))
+* DLC
+** 流亡者DLC的活动框架尤其令我期待
+* 大佬的图示盘点
+:PROPERTIES:
+:collapsed: true
+:END:
+** [[https://zhuanlan.zhihu.com/p/89950104][无法抗拒的致命诱惑——《密教模拟器》]]
+* [[密教模拟器攻略]]
+* 我的“随笔”与“论文”
+:PROPERTIES:
+:END:
+** [[《飞升——最小而美的公益》]]
+** [[灯24密传《并非全部木大——别名：桌游的诞生》]]
+:PROPERTIES:
+:id: 61f9fe15-3258-44bf-9af7-664f8ec2483e
+:END:
+** 元素解析
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 准则
+:PROPERTIES:
+:END:
+**** 灯
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 世界/宇宙是可被认识/理解的
+***** 路灯——有端联想
+***** 灯无处不在——显示屏和反光眼球
+***** 启与灯——穿过锁孔之光
+****** 解谜游戏视角——很多抽屉你不会抽拉，上锁的抽屉你更感兴趣
+******* ((628ca85e-a5a7-4b0b-a963-0af01878668c))
+***** [[https://cultist.huijiwiki.com/wiki/%E9%81%93%E8%B7%AF%EF%BC%9A%E6%9E%97%E5%9C%B0][道路：林地]]
+****** #+BEGIN_QUOTE
+无色之道：使用灯
+
+我可以在没有颜色的房间睡觉：漂白床单，刷白墙壁，染白我的头发，涂白我的皮肤。
+“颜色只存在于有光的地方”：而光不行于林地。在梦中，我阖上双眼，迈步前行，一路上踉踉跄跄，不断擦伤脚和膝盖。最终我前方的灌木丛太过茂亦无法通过，此时我睁开双眼，我正在黑色的树林间游荡。暗影振翅飘荡。我的双脚已知晓返回此处的路该怎么走。
+#+END_QUOTE
+******* ((627f6e9d-2e43-4198-87e0-be8f969c1f4a))
+**** 启
+***** 解谜（游戏）——钥匙嘛，开锁嘛
+****** 打开，打开，一定要打开！
+**** 杯
+***** :PROPERTIES:
+:id: 620dacce-244f-42b7-bb6c-e6af43e66215
+:END:
+#+BEGIN_QUOTE
+永远不会彻底干涸。完美。—— [[https://cultist.huijiwiki.com/wiki/%E2%80%9C%E8%B5%A4%E6%9D%AF%E2%80%9D][“赤杯”]]
+#+END_QUOTE
+*** 飞升
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 科创板IPO——有端联想（有对手）
+**** 灯升——贡献知识（“作品飞升”？）
+**** 舞者
+:PROPERTIES:
+:id: 6277263d-d073-4af3-a704-06a9b8080d1f
+:END:
+***** ((6270b253-531a-42a0-9547-669169dee190))
+***** 健康技能的两种发展方向：举重和舞蹈
+****** [[https://cultist.huijiwiki.com/wiki/%E6%8A%80%E8%83%BD%EF%BC%9A%E9%92%A2%E9%93%81%E4%BD%93%E9%AD%84][技能：钢铁体魄]]
+*** 古币（铁-刃-毁灭，铜-铸-改变，银-杯-创造）
+*** 牡鹿之门的画中之河（点石成金的[[https://baike.baidu.com/item/%E5%8F%A4%E5%B8%8C%E8%85%8A%E5%9B%BD%E7%8E%8B%E8%BF%88%E8%BE%BE%E6%96%AF][古希腊弗里几亚国王迈达斯]]游过）
+:PROPERTIES:
+:collapsed: true
+:END:
+**** [[https://cultist.huijiwiki.com/wiki/%E9%81%93%E8%B7%AF%EF%BC%9A%E9%80%9A%E8%BF%87%E7%89%A1%E9%B9%BF%E4%B9%8B%E9%97%A8#.E7.94.BB.E4.B8.AD.E4.B9.8B.E6.B2.B3][道路：通过牡鹿之门]]
+*** 界面图标
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 主界面
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 扯真或假的脸皮的人-蛾之易皮者
+***** 继续游戏-野心勃发的时节，幕后之人是？-铸，清除存档-刃，选项-一丝不苟
+**** 选项
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 选项-能力，帮助-曝光过度，重开-杯，保存-藏书室，保存并退出-冬
+*** 游戏界面
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 最上方
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 顺序：健康、激情、理性、资金——有xx才有xx
+**** 牌桌
+**** 下方
+*** 行动
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 理性入梦-沉迷清醒梦的可能危险
+**** 时间消耗“精力”（健康、理性、激情），但配上技能才可能产生预计效果
+**** 部分行动的淡出画面
+:PROPERTIES:
+:collapsed: true
+:END:
+***** {{embed ((612f1e43-9054-4401-9018-e13c2bed7ad1))}}
+*** 文献
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 司辰
+:PROPERTIES:
+:END:
+***** 无影众王-？，受控之火（受控核裂/聚变）-白日铸炉，伟大母亲-赤杯
+*** 秘史
+**** ((6285eb0f-7579-4889-a5a8-92b786789219))
+*** 追随者
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 第二干渴者伊泽姆
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 伊泽姆在生闷气（高潮波动？）
+*** 教团
+**** 圣许德拉会
+***** “大杂烩”——[[https://baike.baidu.com/item/%E9%80%9A%E7%A5%9E%E5%AD%A6%E4%BC%9A/3478724][通神学会]]
+*** 地点
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 伊克玛维之眼-星光攻击（浩如星光等）
+*** 技能
+:PROPERTIES:
+:id: 626fca4c-c4c6-4d49-9932-e7e456a84538
+:END:
+**** 理性技能
+***** ((6243b4b6-9e05-4657-8fec-006aab8d01c7))
+**** 与“看山论”比较
+***** 与密教模拟器的文本比较，那个“看山论”可以对应地另行理解：
+游戏里理性技能的第一层的描述是“我能熟练地引经据典了”，而原版看山是山对应的一种理解是其中有（贴近生活字面理解，就是儿童期的）很多内化的私人经验，家长老师再指点一下，山就是“山”了，之后，随着知识的积累（“博闻”），还能扯很多（或者一些）有关山的，比如横看成岭侧成峰、“看山论”；
+***** 第二层的描述是上面这个，股票走势有山（还有山谷）有水，看山不知道、不确定山，山很复杂，组成部分不是同质的，形成原因更是复杂，光是想爬上去也够复杂了，而原版看山不是山的一种理解是把山拆分了看，就像世宝可以拆成分子原子，但我并不知道具体是哪些种类的分子，它们又有什么性质——“我不知道”是谨慎返回山脚的起点
+***** 向第三层升级的描述是图片底部，“清晰可辨”，就是能区分出不同物体，也许还认识名称和用途等，世宝的各种情绪乃至观点，背后可能是什么神经物质再起作用，山是怎么通过地质运动形成、由什么样的土壤和岩石组成，以及其中我看着可能发怵、恶心的动物捕食、虫子蠕动等生态系统，不知道、不想知道的话，就不是接近原画的镜子，可能是低画质相机，甚至马赛克、黑白反色滤镜，等等
+***** 看山无“山”，看山叫“山”，看山说/侃山，看山不知山，看山知山，看山知水，看水知山
+***** 然后想到“刘看山”吉祥物——“吾有知乎哉?无知也。有鄙夫问于我，空空如也”
+* 此库的九大准则分类
+* 有端联想
+** 林地
+*** 《神曲》
+**** >我走过我们人生的一半旅程，
+却又步入一片幽暗的森林，
+这是因为我迷失了正确的路径。
+啊！这森林是多么荒野，多么险恶，多么举步维艰！
+**** ** 轰雷之皮——鼓面、音箱（低音炮）
+** 蠕虫——[[http://music.163.com/song?id=4279851&userid=77770261][The Conqueror Worm II (Instrumental)]]
+*** “别尬喷，外来物种入侵罢了”
+*** #+BEGIN_QUOTE
+The Conqueror Worm"是Edgar Allan Poe在1843年的作品, 它描写一场戏剧的表演. 这是一场叫做"人"的悲剧, 观众就是天使. 演员转圈跑的时候,出现了一个爬行的东西. 它就是这场剧的英雄: 蛆虫. 它吃掉了那些演员, 然后幕布落下
+#+END_QUOTE
+**** [[https://cultist.huijiwiki.com/wiki/%E3%80%8A%E6%B2%B3%E5%B7%9D%E8%AF%B8%E5%A5%B3%E7%8E%8B%E3%80%8B][《河川诸女王》]]——“继续联想”
+*** 蠕虫展馆
+**** ((61f3509f-07a6-403b-8a5f-1ec6ecb64e87))
+** 浪游旅人
+:PROPERTIES:
+:END:
+*** 面具、加密、黑客、隐私
+*** ((6455fde0-26e2-4f50-9e56-ec056e3feae7))
+:PROPERTIES:
+:id: 6455fdce-1894-4972-88c4-a0aeeb3f6f60
+:END:
+* 流亡者DLC
+:PROPERTIES:
+:id: 628b8563-8b21-4254-8268-5885cfcbcbe3
+:END:
+** [【图片】流亡者物品（排除不可得物品）盟友全收集攻略及流程【密教模拟器吧】_百度贴吧](https://tieba.baidu.com/p/7487175993)
+** 刃飞
+*** 对立双刃
+:PROPERTIES:
+:id: 64f937a0-9920-4288-b9b0-796094ce5bbc
+:END:
+**** [在知乎看到的回答【密教模拟器吧】_百度贴吧](https://tieba.baidu.com/p/8347713891)
+:PROPERTIES:
+:id: 64f93799-10b2-47bc-bad7-08fa4c2e9d35
+:END:
+** {{embed ((628b8d0d-34df-49c7-aa32-c1424eec2e61))}}
+** 现金可以用来买房产、仓库等固定资产扩大再生产，但受时间（生产周期）、购地机会（不是总有机会买到合适的房地产）和可能导致清算的监管（清算人）等影响，一地产能扩大的空间有限且不确定，所以也可能保持现有产能直接循环扩大现金量（印钞），现金可以汇款到异地准备跑路，生产中的项目也可以当一层“有用”的伪装打包卷走
+* 玩家们关于历史人物的猜想
+:PROPERTIES:
+:END:
+** [[https://tieba.baidu.com/p/7473631983][孙悟空是不是铸之具名者（笑）]]
+:PROPERTIES:
+:id: 624a4d32-1e57-4179-bef8-a01960e50865
+:END:
+* 借鉴辐射SPECIAL系统的密教模拟器自评
+** 导4史4灯4心3冬3杯2铸2
+:PROPERTIES:
+:END:
+*** 导4
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 会开锁解谜不一定意味着走对了正确的方向
+*** 灯4
+:PROPERTIES:
+:collapsed: true
+:END:
+**** khtazmt是灯之信徒，但既不是特别亮也不是特别省油的灯
+*** 心4
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 有不错的音乐细菌，乐感较好，能化身动感音乐的一部分
+**** 勇敢虎鲸，不怕困难
+*** 冬3
+:PROPERTIES:
+:collapsed: true
+:END:
+**** “冬之受害者”
+*** 杯2
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 没太大能力享受过于刺激的欲望
+* 同人小说
+:PROPERTIES:
+:collapsed: true
+:END:
+** [[http://www.jjwxc.net/onebook.php?novelid=5286535][ 【密教】一瞬追忆]]
+**** * 原来是梦访特斯拉（？）
+:PROPERTIES:
+:collapsed: true
+:END:
+** [[https://mp.weixin.qq.com/s/QvS1AWH40YbRLA3qV9Ym4g][梦访民科之神尼古拉·特斯拉]]
