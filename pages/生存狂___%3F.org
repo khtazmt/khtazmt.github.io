@@ -160,7 +160,6 @@
 * 户外
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 ** 公共设施
 *** 公厕、图书馆、城市书房、书店、大学、健身设施、公园、风景区等
