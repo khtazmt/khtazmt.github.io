@@ -106,6 +106,7 @@
 	- 马食
 	- {{embed ((66379dcd-4044-4bcf-aca4-8be7638c5bce))}}
 	- 建筑设计
+	  id:: 67eb280a-4aa8-4b3a-84e4-202a4f30eea0
 		- “在游戏里边搭边拆边设计，然后让朋友进来看”
 		- [I Built a Minecraft House Using a Real Architecture Software (Auto CAD) - YouTube](https://www.youtube.com/watch?v=EN2d-_wRdZ4)（AutoCAD设计好，然后打印出来对照着在游戏里搭建）
 		- [（MC教程向）我的世界如何快速建造大型建筑 3D模型导入技巧介绍 - 哔哩哔哩](https://www.bilibili.com/read/cv7393875/)
@@ -351,6 +352,7 @@
 			- 现在装备好，打怪也就图一乐，真要经验还得用粉碎矿石和蠹虫机
 			- 服务器开了死亡掉落保护，所以（一般）不用担心怪叫（“可以调低敌对生物音量”）和意外死亡，但护具耐久好像还会掉
 	- 模组Mod
+	  collapsed:: true
 		- 可在启动器的“版本设置-Mod管理”中右键Mod（即模组）“转到MC百科”查看
 		- [机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2021.html)
 		  id:: 662da7ed-a0af-4534-bacb-55ec5b68caa0
@@ -511,7 +513,6 @@
 	- [[Minecraft机械动力]]
 - TODO 通过Minecraft学习
   id:: 66db8aa8-3712-4373-a936-f441cd625c95
-  collapsed:: true
   :LOGBOOK:
   CLOCK: [2024-04-30 Tue 09:48:48]
   CLOCK: [2024-05-07 Tue 13:28:36]--[2025-02-10 Mon 15:42:46] =>  6698:14:10
@@ -718,3 +719,11 @@
 	- 精神分析
 		- 大他者
 			- 永远在线但不一定看得到的服主
+- 复刻地点
+	- ((67eb280a-4aa8-4b3a-84e4-202a4f30eea0))
+	- >有没有ai识别视频、照片、施工图纸等并生成，重复结构模块化复用、调节间距之类的功能
+		- [教你如何用ai生成想要的Minecraft建筑_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oVRwY5EdK)
+		- id:: 67ed405a-4ddf-4d68-adde-af9437c26fee
+		  >随便“拟制”一下什么流程：目标设定，工期预期（范围；感觉时间比较充裕的话可能会“享受（重复）劳动”），“（是否）赶时间”，“投机取巧的办法”
+		- >应该还能像“四维粘性活塞”那样快速移动特定方块（比如把这种“实心纯坯房”内部方块挖了，或者平移一部分；AI生成模型也可能实现相同效果），创造模式的命令方块可能有这功能
+		  “坏了，赶时间视频又没注意看，实际上不是实心的”
