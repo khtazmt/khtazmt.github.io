@@ -76,7 +76,7 @@
 :block/left 
 {:block/uuid #uuid "662da1c5-f3b9-4028-ad74-fe274666048f"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da1fd-4286-4072-a6ad-55f2cfbb5ffe"} 
 {:block/created-at 1714266888501
 :block/properties 
@@ -119,7 +119,7 @@
 :block/left 
 {:block/uuid #uuid "662d9adc-b7b1-44cc-b9b0-de935bb17ba7"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9af1-31c0-4d72-9e9d-8479b41cce15"} 
 {:block/created-at 1714266437150
 :block/properties 
@@ -180,7 +180,7 @@
 :block/left 
 {:block/uuid #uuid "662da60c-4cda-49f8-a5d8-a26ea7b38033"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da613-180b-4a6f-9d5a-738486a10eae"} 
 {:block/created-at 1714266888502
 :block/properties 
@@ -367,7 +367,7 @@
 :block/left 
 {:block/uuid #uuid "662da613-180b-4a6f-9d5a-738486a10eae"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da621-eeed-4650-91cd-2cdfe0cb00fb"} 
 {:block/created-at 1714270124221
 :block/properties 
@@ -482,7 +482,7 @@
 :block/left 
 {:block/uuid #uuid "662d9aba-80cf-4d43-8538-2664cbf46c50"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9acc-fa5b-41a1-8ad7-79ef8a0702e5"} 
 {:block/created-at 1714270124221
 :block/properties 
@@ -516,7 +516,7 @@
 :block/left 
 {:block/uuid #uuid "662da5d8-ec94-4398-905c-71932b5c025c"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da60c-4cda-49f8-a5d8-a26ea7b38033"} 
 {:block/created-at 1714270124220
 :block/properties 
@@ -550,14 +550,14 @@
 :block/left 
 {:block/uuid #uuid "662d9acc-fa5b-41a1-8ad7-79ef8a0702e5"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9ad0-4804-4886-93ee-512d2c175ae5"} 
 {:block/content "安山岩"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662da0f8-2f3b-494b-bf97-58629657fc10"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da0fd-abdc-49cc-b211-e84fc9783107"} 
 {:block/created-at 1714270124221
 :block/properties 
@@ -888,14 +888,14 @@
 :block/left 
 {:block/uuid #uuid "662d9d51-6613-4c03-9358-aab4fd71d2f4"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9d5f-7a4e-4a3d-bf8c-1d4222177388"} 
 {:block/content "下界合金"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662d9fee-c071-4467-839c-9c9d452f1282"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da029-7ce5-415b-94b5-21b1aef1b8ed"} 
 {:block/created-at 1714270124220
 :block/properties 
@@ -1000,7 +1000,7 @@
 :block/left 
 {:block/uuid #uuid "662d9d5f-7a4e-4a3d-bf8c-1d4222177388"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9dda-0be8-4e0e-ac73-6040cca881bb"} 
 {:block/created-at 1714270124220
 :block/properties 
@@ -1070,7 +1070,7 @@
 :block/left 
 {:block/uuid #uuid "662d9a91-9731-4c48-b785-8c11deab5efc"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9aaa-9aa2-484b-b329-5ca8c1a29295"} 
 {:block/created-at 1714266220672
 :block/properties 
@@ -1356,21 +1356,21 @@
 :block/left 
 {:block/uuid #uuid "662da2df-f550-4bad-8553-f593796e1b41"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da3bf-fb60-4f17-b394-9106da648864"} 
 {:block/content "安山机壳"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662da621-eeed-4650-91cd-2cdfe0cb00fb"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da9e6-2b40-41c6-a27f-10e6c4602762"} 
 {:block/content "传动杆"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662d9ea9-8a34-4e59-94f8-33c9fc7d8379"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9f01-6ecb-4348-be7c-42c9244ab9eb"} 
 {:block/created-at 1714270124220
 :block/properties 
@@ -1440,7 +1440,7 @@
 :block/left 
 {:block/uuid #uuid "662da4be-3a3f-4989-aec9-7b390a8df04c"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/properties 
 {}
 :block/uuid #uuid "662da4c4-6bb9-4933-ba6f-51ec622e3e02"} 
@@ -1485,7 +1485,7 @@
 :block/left 
 {:block/uuid #uuid "662da029-7ce5-415b-94b5-21b1aef1b8ed"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da03e-03f4-4edf-bb7f-d2335c153c74"} 
 {:block/created-at 1714269004882
 :block/properties 
@@ -1653,7 +1653,7 @@
 :block/left 
 {:block/uuid #uuid "662d9f06-882c-4e6d-85d8-b67f1a7ae17e"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9f13-5503-4e96-a2a0-b07c1d59f537"} 
 {:block/created-at 1714270127809
 :block/properties 
@@ -1768,21 +1768,21 @@
 :block/left 
 {:block/uuid #uuid "662da4ce-29cb-4a73-a015-214d972deec4"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da4d8-ac29-4e3e-a15e-3ac8dc12749f"} 
 {:block/content "岩浆"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662d9ad0-4804-4886-93ee-512d2c175ae5"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9adc-b7b1-44cc-b9b0-de935bb17ba7"} 
 {:block/content "时运钻石镐"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662d9b32-202a-4fbb-9637-1dbef0fe887b"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9bcc-29a8-4357-8e6e-388e75c03a41"} 
 {:block/created-at 1714266888501
 :block/properties 
@@ -1853,7 +1853,7 @@
 :block/left 
 {:block/uuid #uuid "662da4c4-6bb9-4933-ba6f-51ec622e3e02"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/properties 
 {}
 :block/uuid #uuid "662da4ce-29cb-4a73-a015-214d972deec4"} 
@@ -1887,9 +1887,9 @@
 {:block/content "望远镜"
 :block/format :markdown
 :block/left 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/properties 
 {}
 :block/uuid #uuid "662d9a91-9731-4c48-b785-8c11deab5efc"} 
@@ -1898,21 +1898,21 @@
 :block/left 
 {:block/uuid #uuid "662d9aaa-9aa2-484b-b329-5ca8c1a29295"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9aba-80cf-4d43-8538-2664cbf46c50"} 
 {:block/content "玻璃"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662da1fd-4286-4072-a6ad-55f2cfbb5ffe"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da200-e204-48ff-b61d-fb7e892de822"} 
 {:block/content "下界石英"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662da59d-4247-422f-8861-3813de37569c"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da5a2-eddf-4301-a66c-0f5ce727a2c5"} 
 {:block/created-at 1714270121320
 :block/properties 
@@ -2036,7 +2036,7 @@
 :block/left 
 {:block/uuid #uuid "662da0fd-abdc-49cc-b211-e84fc9783107"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da112-0e15-4682-8742-04fcb1610b5f"} 
 {:block/created-at 1714270124220
 :block/properties 
@@ -2205,7 +2205,7 @@
 :block/left 
 {:block/uuid #uuid "662d9f3a-0812-4c08-9625-4d95295d448b"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9fc4-7297-46d9-bfd4-1dbe1edd120e"} 
 {:block/created-at 1714270124220
 :block/properties 
@@ -2239,7 +2239,7 @@
 :block/left 
 {:block/uuid #uuid "662d9ca3-4dd0-4f46-a5f3-0c36ca8ea4c7"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9d3b-7423-4e50-a3a3-884cd889d3e0"} 
 {:block/created-at 1714270124221
 :block/properties 
@@ -2472,14 +2472,14 @@
 :block/left 
 {:block/uuid #uuid "662d9dda-0be8-4e0e-ac73-6040cca881bb"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9de3-e464-4ab4-b762-f0f7554b1ab2"} 
 {:block/content "闪长岩"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662da08c-efa8-4d70-a504-6b5e63538d56"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da0f0-630a-48ec-8573-6c1e392f801a"} 
 {:block/created-at 1714270124220
 :block/properties 
@@ -2594,7 +2594,7 @@
 :block/left 
 {:block/uuid #uuid "662da9e6-2b40-41c6-a27f-10e6c4602762"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662daae0-fa5e-4c22-a067-b862262667e1"} 
 {:block/created-at 1714267204407
 :block/properties 
@@ -2695,12 +2695,14 @@
 :nonce 1714265172713
 :italic false}}
 :block/updated-at 1714266445176} 
-{:block/content "动力合成器"
+{:block/content "动力合成器\nid:: 662d9ea5-9801-4499-9874-46b5fa1edacc"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662d9e86-720e-44a0-867d-2bdb41ccc641"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
+:block/properties 
+{:id "662d9ea5-9801-4499-9874-46b5fa1edacc"}
 :block/uuid #uuid "662d9ea5-9801-4499-9874-46b5fa1edacc"} 
 {:block/created-at 1714266699040
 :block/properties 
@@ -2734,14 +2736,14 @@
 :block/left 
 {:block/uuid #uuid "662d9de3-e464-4ab4-b762-f0f7554b1ab2"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9df1-e181-4e2f-a341-2c280edb69e3"} 
 {:block/content "小麦粉"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662daf93-c0b0-4c93-9011-a6ca6791ce04"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662daf98-517a-4fb7-b67b-5390884f725f"} 
 {:block/created-at 1714266187125
 :block/properties 
@@ -2775,7 +2777,7 @@
 :block/left 
 {:block/uuid #uuid "662da200-e204-48ff-b61d-fb7e892de822"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da2df-f550-4bad-8553-f593796e1b41"} 
 {:block/created-at 1714270124220
 :block/properties 
@@ -2908,14 +2910,14 @@
 :block/left 
 {:block/uuid #uuid "662d9c38-1805-495f-be81-c313e2a2b7fb"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9c47-3a0a-4712-935b-e515e195eff7"} 
 {:block/content "精密构件"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662d9df1-e181-4e2f-a341-2c280edb69e3"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9e3a-689a-4dfe-8631-7c1291212b9e"} 
 {:block/created-at 1714267246033
 :block/properties 
@@ -3075,21 +3077,21 @@
 :block/left 
 {:block/uuid #uuid "662da3bf-fb60-4f17-b394-9106da648864"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da4be-3a3f-4989-aec9-7b390a8df04c"} 
 {:block/content "箭"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662d9fe3-6d00-4e56-bb0f-36119a6f37f9"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9fee-c071-4467-839c-9c9d452f1282"} 
 {:block/content "海带\nid:: 662d9c02-baeb-4dc7-99fd-41445cf5b230"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662d9bcc-29a8-4357-8e6e-388e75c03a41"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/properties 
 {:id "662d9c02-baeb-4dc7-99fd-41445cf5b230"}
 :block/uuid #uuid "662d9c02-baeb-4dc7-99fd-41445cf5b230"} 
@@ -3170,7 +3172,7 @@
 :block/left 
 {:block/uuid #uuid "662d9d3b-7423-4e50-a3a3-884cd889d3e0"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9d51-6613-4c03-9358-aab4fd71d2f4"} 
 {:block/created-at 1714267231167
 :block/properties 
@@ -3213,7 +3215,7 @@
 :block/left 
 {:block/uuid #uuid "662da0f0-630a-48ec-8573-6c1e392f801a"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da0f8-2f3b-494b-bf97-58629657fc10"} 
 {:block/created-at 1714270127809
 :block/properties 
@@ -3256,7 +3258,7 @@
 :block/left 
 {:block/uuid #uuid "662d9b05-719a-406b-af34-af73f3048602"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/properties 
 {}
 :block/uuid #uuid "662d9b0b-d2d8-49f5-863d-3c437248adc8"} 
@@ -3301,7 +3303,7 @@
 :block/left 
 {:block/uuid #uuid "662d9af1-31c0-4d72-9e9d-8479b41cce15"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/properties 
 {}
 :block/uuid #uuid "662d9b05-719a-406b-af34-af73f3048602"} 
@@ -3382,7 +3384,7 @@
 :block/left 
 {:block/uuid #uuid "662d9e56-6f58-4ca8-9a03-3c3fe66cbb52"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9e64-c144-4d05-a0a7-be72c52b13dd"} 
 {:block/created-at 1714267406984
 :block/properties 
@@ -3480,14 +3482,14 @@
 :block/left 
 {:block/uuid #uuid "662daae0-fa5e-4c22-a067-b862262667e1"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662dab2d-b415-467c-b19f-8b20336a3098"} 
 {:block/content "蒸汽"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662d9b0b-d2d8-49f5-863d-3c437248adc8"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9b32-202a-4fbb-9637-1dbef0fe887b"} 
 {:block/created-at 1714270124220
 :block/properties 
@@ -3629,7 +3631,7 @@
 :block/left 
 {:block/uuid #uuid "662da4d8-ac29-4e3e-a15e-3ac8dc12749f"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da54d-413d-477f-b530-831c850c4896"} 
 {:block/created-at 1714270124220
 :block/properties 
@@ -3949,7 +3951,7 @@
 :block/left 
 {:block/uuid #uuid "662d9c02-baeb-4dc7-99fd-41445cf5b230"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9c38-1805-495f-be81-c313e2a2b7fb"} 
 {:block/created-at 1714270124221
 :block/properties 
@@ -4100,14 +4102,14 @@
 :block/left 
 {:block/uuid #uuid "662da112-0e15-4682-8742-04fcb1610b5f"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da1c5-f3b9-4028-ad74-fe274666048f"} 
 {:block/content "动力锯"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662da085-8b28-4417-88db-75edc6067909"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/properties 
 {}
 :block/uuid #uuid "662da08c-efa8-4d70-a504-6b5e63538d56"} 
@@ -4179,28 +4181,28 @@
 :block/left 
 {:block/uuid #uuid "662d9e3a-689a-4dfe-8631-7c1291212b9e"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9e56-6f58-4ca8-9a03-3c3fe66cbb52"} 
 {:block/content "土豆加农炮"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662d9ea5-9801-4499-9874-46b5fa1edacc"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9ea9-8a34-4e59-94f8-33c9fc7d8379"} 
 {:block/content "流体管道"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662d9e64-c144-4d05-a0a7-be72c52b13dd"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9e86-720e-44a0-867d-2bdb41ccc641"} 
 {:block/content "工程师护目镜"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662d9c47-3a0a-4712-935b-e515e195eff7"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9c80-09fe-42c9-a239-16d1ef382a61"} 
 {:block/created-at 1714270124221
 :block/properties 
@@ -4243,21 +4245,21 @@
 :block/left 
 {:block/uuid #uuid "662d9fc4-7297-46d9-bfd4-1dbe1edd120e"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9fe3-6d00-4e56-bb0f-36119a6f37f9"} 
 {:block/content "置物台"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662dab2d-b415-467c-b19f-8b20336a3098"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662dab84-53d6-4e46-aa5d-500ff4aff87c"} 
 {:block/content "黄铜"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662da080-8abf-4ae5-88e4-9031f32217c9"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da085-8b28-4417-88db-75edc6067909"} 
 {:block/created-at 1714270124221
 :block/properties 
@@ -4489,21 +4491,21 @@
 :block/left 
 {:block/uuid #uuid "662d9f01-6ecb-4348-be7c-42c9244ab9eb"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9f06-882c-4e6d-85d8-b67f1a7ae17e"} 
 {:block/content "石磨"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662dab84-53d6-4e46-aa5d-500ff4aff87c"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662daf93-c0b0-4c93-9011-a6ca6791ce04"} 
 {:block/content "大型水车"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662d9f13-5503-4e96-a2a0-b07c1d59f537"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9f3a-0812-4c08-9625-4d95295d448b"} 
 {:block/created-at 1714266809966
 :block/properties 
@@ -4546,7 +4548,7 @@
 :block/left 
 {:block/uuid #uuid "662da03e-03f4-4edf-bb7f-d2335c153c74"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da080-8abf-4ae5-88e4-9031f32217c9"} 
 {:block/created-at 1714266888501
 :block/properties 
@@ -4634,14 +4636,14 @@
 :block/left 
 {:block/uuid #uuid "662da54d-413d-477f-b530-831c850c4896"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da59d-4247-422f-8861-3813de37569c"} 
 {:block/content "传送带"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "662d9c80-09fe-42c9-a239-16d1ef382a61"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662d9ca3-4dd0-4f46-a5f3-0c36ca8ea4c7"} 
 {:block/created-at 1714270124220
 :block/properties 
@@ -4810,7 +4812,7 @@
 :block/left 
 {:block/uuid #uuid "662da5a8-f2df-4bcc-8d35-6ba825367afe"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da5d8-ec94-4398-905c-71932b5c025c"} 
 {:block/created-at 1714270124220
 :block/properties 
@@ -4916,7 +4918,7 @@
 :block/left 
 {:block/uuid #uuid "662da5a2-eddf-4301-a66c-0f5ce727a2c5"}
 :block/parent 
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"}
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"}
 :block/uuid #uuid "662da5a8-f2df-4bcc-8d35-6ba825367afe"} 
 {:block/created-at 1714270124218
 :block/properties 
@@ -5018,7 +5020,7 @@
 :nonce 1714264778498}}
 :block/updated-at 1714269004882})
 :pages (
-{:block/uuid #uuid "67aea415-b619-4342-8d61-29df4590d4e0"
+{:block/uuid #uuid "67eb280a-d632-4a26-8fa9-0112bbcfe57d"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
