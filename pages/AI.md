@@ -214,6 +214,8 @@
 - ((65bcbf4a-a87e-4ced-9252-33d77393097f))（现在win11能在任务栏看到了）
   id:: 66077989-67ba-424f-b227-8f1676dfa75c
 - ---
+- AI外设
+	- [人道 Pin 已死，但 OpenPin 希望将其恢复](https://cn.windows-office.net/)
 - ((67aa151b-2c04-4dd1-aaf1-20888dd2276a))
 - AI免费体验API
 	- [ChatGPT online free](https://www.mfc972.com/)
