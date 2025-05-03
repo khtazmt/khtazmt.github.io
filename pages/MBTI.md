@@ -46,7 +46,6 @@
 			- 现在我不得不赶时间、谈生意，可能也就J、E起来了
 		- ((67b28d65-67ac-4acf-842c-fad60fd0f3ed))
 	- ENTP
-	  collapsed:: true
 		- 未测出过，看描述确定的，之前测过几次别的；这个人格大概意味着我喜欢找到或创造捷径，虽然多数只是简单指个方向期待好风景
 		  collapsed:: true
 			- ((67b28d65-55c5-4e29-85d2-1c0a9393532b))
@@ -84,6 +83,7 @@
 						- {{embed ((67ad47dd-8045-412e-8c36-ce82615fbee3))}}
 					- “想到了，就叫‘十六位一体’吧！”
 		- ((67e7c006-5b23-464b-9845-88fb7b7e4f4c))
+		- [entp爱笑（探究ENTP人格特质及其幽默感的原因） - 人格森林](https://www.personalityforest.com/ENTP/98843.html)
 	- ESTJ
 		- ((67b28d65-67ac-4acf-842c-fad60fd0f3ed))
 		- ((67dd0cea-0393-4a83-ad62-8ac5cad3ce68))
