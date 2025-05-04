@@ -156,20 +156,6 @@
 ****** 景区路边有很多收费的
 *** 摩托
 **** [Martin Garrix, Matisse & Sadko - Forever (Official Music Video) - YouTube](https://www.youtube.com/watch?v=ScNsBpQ8KIg)
-*** 防晒/散热
-:PROPERTIES:
-:collapsed: true
-:END:
-**** 浅色衣物（但要注意紫外线很可能反射到脸上）
-**** 不背包或有支架等背负系统隔开透气
-**** 伞
-:PROPERTIES:
-:id: 67a49f3d-751e-4e96-977f-8d729fb8b8e1
-:END:
-***** 在肩部、背包等固定
-***** 内部可固定风扇
-**** 风扇
-***** 便携电扇/加湿空调扇
 * 饮食
 :PROPERTIES:
 :END:

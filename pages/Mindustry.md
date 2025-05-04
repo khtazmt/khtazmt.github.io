@@ -1,0 +1,45 @@
+- [像素工厂Mindustry入门教程:基础操作及游戏机制#1_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qx4y1v7h2/)
+- [Mindustry（像素工厂）萌新向教学（自定义游戏，多人游戏，附地图导入 - 哔哩哔哩](https://www.bilibili.com/opus/695082887382302739)
+- 对部分特性的评价
+	- 资源一运回核心，一次只能携带少量资源扔给核心的小飞机就能瞬间调用，这就说明核心很厉害（研究更是厉害——“你们这个研究不会是按劳分配吧？”）
+	- 小飞机重生不消耗资源，厉害
+	- 产线很自动化，各种建筑都没看到人工，不接电的动力不详
+	- 核心对每种资源的存储上限都相同，各种能装的资源都能装满
+- steam版更新
+	- [steam版本怎么更新？【mindustry吧】_百度贴吧](https://tieba.baidu.com/p/9669920345)
+- 战役
+	- 对陆军可以堵路留一路
+	- 射击角度最好固定、与敌军路线匹配，以便减少打偏，增加穿透伤害，这游戏有这么高的科技，但蓝瑟照样有瞄准-开火延迟会打偏
+	- 陆军突破前线防线后可在沿途布防，也可直接重生强化核心防线
+	- 空军会优先攻击电力系统（所以可能绕过前线防线），然后是核心
+	- 空军BOSS可能会绕过前线防空，补救方法有重生在核心附近放防空
+	- 一般占领零号地区后先打冰冻森林（解锁钻得更快、能钻钛的气动钻头，钛带比铜带运力大得多），然后打175，占领后可预留深水、浅水及附近用于泵水，然后打陨石带（煤不太密，激光钻头性价比不高，可先用气动钻头；如果防线被空军BOSS苍穹绕过或突破，可重生在核心周围放五个十个以上的分裂，之后给核心放个修复）解锁水
+	- [哪个区块最适合开发【mindustry吧】_百度贴吧](https://tieba.baidu.com/p/8869056939)
+	- [【图片】【新人向】赛普罗战役领跑，带你一步步推完主线【mindustry吧】_百度贴吧](https://tieba.baidu.com/p/8997640480)
+- 生产配比
+	- “水多加面，面多加水”
+- 蓝图
+	- 如何用蓝图
+		- “赶时间的话，资源不够了再去找合适的蓝图”
+		- 蓝图较多的话，可以加标签
+	- 如何看懂蓝图
+		- [【【Mindustry蓝图】02 液体传输和蓝图结构】 【精准空降到 02:33】](https://www.bilibili.com/video/BV1CR4y1G7V6/?share_source=copy_web&vd_source=24175964b0df2fcc2c022cae23517fdc&t=153)
+			- [【【Mindustry蓝图】02 液体传输和蓝图结构】 【精准空降到 03:23】](https://www.bilibili.com/video/BV1CR4y1G7V6/?share_source=copy_web&vd_source=24175964b0df2fcc2c022cae23517fdc&t=203)
+				- 交叉器（透视Mod，交叉器大致被挡着了——“前几秒不看是吧？”）的一个方向运不了、容量满了自然就不在那个方向上动了，那么工厂自然向其他方向（传送带桥输入端）输出
+					- [【【Mindustry蓝图】01 为何要抛弃路由器？】 【精准空降到 00:42】](https://www.bilibili.com/video/BV1tS4y167st/?share_source=copy_web&vd_source=24175964b0df2fcc2c022cae23517fdc&t=42)
+					- ((6815c3d2-0bd3-4ebd-9c0f-3783ccf436c8))
+	- [Mindustry 蓝图档案馆](https://docs.qq.com/sheet/DVHNoS3lIcm1NbFFS)
+		- [mindustry 像素工厂 群/社区/蓝图汇总站【迷路的玩家看过来】_mindustry吧_百度贴吧](https://tieba.baidu.com/p/7542534959)
+	- [自制蓝图库_像素工厂吧_百度贴吧](https://tieba.baidu.com/p/8873840966)
+	- 蓝图设计
+		- [【Mindustry蓝图】01 为何要抛弃路由器？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tS4y167st/)
+		  id:: 6815aac9-9b4d-43d2-8d6f-3c95e02b7276
+		- [【蓝图辅助】产能计算器_mindustry吧_百度贴吧](https://tieba.baidu.com/p/7812417700)
+- 模组Mod
+	- 不一定适配最新版游戏
+	- [像素工厂Mindustry | Mod安装与推荐 - 哔哩哔哩](https://www.bilibili.com/opus/985793280510787591)
+	- [MinRi2/ItemBridgeX: This a mindustry mod that can show the hidden item of the item bridge (or junction)](https://github.com/MinRi2/ItemBridgeX)（透视传送带桥和交叉器中的物品）
+	  id:: 6815c3d2-0bd3-4ebd-9c0f-3783ccf436c8
+- 逻辑
+	- [不，Mindustry 逻辑没有我想得那么不堪 - 哔哩哔哩](https://www.bilibili.com/opus/709151125677277208)
+- [本吧导航贴【mindustry吧】_百度贴吧](https://tieba.baidu.com/p/9105033033)
