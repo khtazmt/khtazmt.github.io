@@ -1,3 +1,5 @@
+- 我爸的日常疑惑
+	- “这是什么？地图啊？”
 - [像素工厂Mindustry入门教程:基础操作及游戏机制#1_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qx4y1v7h2/)
 - [Mindustry（像素工厂）萌新向教学（自定义游戏，多人游戏，附地图导入 - 哔哩哔哩](https://www.bilibili.com/opus/695082887382302739)
 - 对部分特性的评价
@@ -8,6 +10,7 @@
 - steam版更新
 	- [steam版本怎么更新？【mindustry吧】_百度贴吧](https://tieba.baidu.com/p/9669920345)
 - 战役
+	- 遗迹有的可以很快修一下投入使用，虽然不一定在最佳位置
 	- 对陆军可以堵路留一路
 	- 射击角度最好固定、与敌军路线匹配，以便减少打偏，增加穿透伤害，这游戏有这么高的科技，但蓝瑟照样有瞄准-开火延迟会打偏
 	- 陆军突破前线防线后可在沿途布防，也可直接重生强化核心防线
@@ -27,19 +30,18 @@
 			- [【【Mindustry蓝图】02 液体传输和蓝图结构】 【精准空降到 03:23】](https://www.bilibili.com/video/BV1CR4y1G7V6/?share_source=copy_web&vd_source=24175964b0df2fcc2c022cae23517fdc&t=203)
 				- 交叉器（透视Mod，交叉器大致被挡着了——“前几秒不看是吧？”）的一个方向运不了、容量满了自然就不在那个方向上动了，那么工厂自然向其他方向（传送带桥输入端）输出
 					- [【【Mindustry蓝图】01 为何要抛弃路由器？】 【精准空降到 00:42】](https://www.bilibili.com/video/BV1tS4y167st/?share_source=copy_web&vd_source=24175964b0df2fcc2c022cae23517fdc&t=42)
-					- ((6815c3d2-0bd3-4ebd-9c0f-3783ccf436c8))
+					- ((6817e7a9-b075-4b1f-98b1-44274a0ff342))
 	- [Mindustry 蓝图档案馆](https://docs.qq.com/sheet/DVHNoS3lIcm1NbFFS)
 		- [mindustry 像素工厂 群/社区/蓝图汇总站【迷路的玩家看过来】_mindustry吧_百度贴吧](https://tieba.baidu.com/p/7542534959)
 	- [自制蓝图库_像素工厂吧_百度贴吧](https://tieba.baidu.com/p/8873840966)
 	- 蓝图设计
 		- [【Mindustry蓝图】01 为何要抛弃路由器？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tS4y167st/)
-		  id:: 6815aac9-9b4d-43d2-8d6f-3c95e02b7276
 		- [【蓝图辅助】产能计算器_mindustry吧_百度贴吧](https://tieba.baidu.com/p/7812417700)
 - 模组Mod
 	- 不一定适配最新版游戏
 	- [像素工厂Mindustry | Mod安装与推荐 - 哔哩哔哩](https://www.bilibili.com/opus/985793280510787591)
 	- [MinRi2/ItemBridgeX: This a mindustry mod that can show the hidden item of the item bridge (or junction)](https://github.com/MinRi2/ItemBridgeX)（透视传送带桥和交叉器中的物品）
-	  id:: 6815c3d2-0bd3-4ebd-9c0f-3783ccf436c8
+	  id:: 6817e7a9-b075-4b1f-98b1-44274a0ff342
 - 逻辑
 	- [不，Mindustry 逻辑没有我想得那么不堪 - 哔哩哔哩](https://www.bilibili.com/opus/709151125677277208)
 - [本吧导航贴【mindustry吧】_百度贴吧](https://tieba.baidu.com/p/9105033033)
