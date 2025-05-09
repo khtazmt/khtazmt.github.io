@@ -315,7 +315,9 @@
 			- TODO （超免费总结时）长视频（免费）AI总结
 			  id:: 65d80bdb-40c7-4da3-b864-681fbce055cf
 		- AI视频内容分析
+		  id:: 681b5150-3180-4f51-9802-7f6eaedb2ed9
 			- [byjlw/video-analyzer: Analyze videos using LLMs, Computer Vision and Automatic Speech Recognition](https://github.com/byjlw/video-analyzer)
+			  id:: 681b5052-2e9a-4a28-a7e0-8468c67c0f0e
 	- [BibiGPT · AI 音视频内容一键总结](https://bibigpt.co)（功能多些）
 	  id:: 65d57cbb-6cbd-4f1b-bae0-4eb87655c9c2
 		- [【BibiGPT】AI 自动总结 B站 视频内容，ChatGPT API 智能提取并总结字幕_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fX4y1Q7Ux)

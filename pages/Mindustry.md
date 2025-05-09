@@ -40,6 +40,7 @@
 	- 蓝图设计
 		- [【Mindustry蓝图】01 为何要抛弃路由器？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tS4y167st/)
 		- [【蓝图辅助】产能计算器_mindustry吧_百度贴吧](https://tieba.baidu.com/p/7812417700)
+		  id:: 6817e7a9-a0d5-4737-9fcc-7951bf121b00
 - 模组Mod
 	- 不一定适配最新版游戏
 	- [像素工厂Mindustry | Mod安装与推荐 - 哔哩哔哩](https://www.bilibili.com/opus/985793280510787591)

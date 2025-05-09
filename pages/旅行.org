@@ -216,6 +216,9 @@
 **** 洗漱
 ***** 米家t300电动牙刷
 ***** 浴巾
+:PROPERTIES:
+:id: 67eb282f-d9d9-4905-b625-eba49b626294
+:END:
 ***** [[https://www.zhihu.com/question/21434931][酒店里面各种毛巾的用途？ - 知乎]]
 :PROPERTIES:
 :id: 675e7c28-3636-439c-ac03-2bbbea7f1054
