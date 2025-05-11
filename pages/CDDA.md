@@ -887,6 +887,7 @@
 	  id:: 674d2685-6cb0-46a8-887e-66b7cc4a6469
 	- [CDDA适用技巧:第13期 简单造车教程_哔哩哔哩bilibili_技巧](https://www.bilibili.com/video/BV1rz4y1J7Vw)
 	- 叉车
+		- ((67ecf8a7-1c17-4d4a-b0c9-6ef42abe874c))
 	- 军卡
 	- 坦克
 	- [起重机/叉车辅助搬运【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8476288546)

@@ -234,7 +234,7 @@
 - ((67a05dae-c165-4bf1-9c6c-47e86e37a9c9))
 - AI学术辅助
   id:: 670d40d8-799b-4119-8eea-2289bb8597da
-  collapsed:: true
+	- >Gemini 会员版的Deep research——网友
 	- [8个科研人必备好用 AI 学术写作工具 | Wordvice AI](https://wordvice.ai/cn/blog/8-best-ai-tools-for-researchers)
 	- ((677a1577-1b9d-4c8e-aaee-4cfe07458cc9))
 	- 历史记录再利用
