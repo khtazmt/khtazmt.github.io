@@ -263,6 +263,11 @@
 		- [MimicBrush - 阿里等开源的AI图像编辑融合框架 | AI工具集官网](https://ai-bot.cn/mimicbrush/)
 		- [Outfit Anyone - 阿里开源的一键换衣虚拟试穿项目 | AI工具集官网](https://ai-bot.cn/outfit-anyone/)
 	- 风格切换（比如照片换成手绘风格）
+- AI辅助设计
+  id:: 6822dc0e-5a9d-439b-87dd-34c3292b9e8d
+	- lovart
+		- [一手实测深夜发布的世界首个设计Agent - Lovart。](https://mp.weixin.qq.com/s/SUa1Mwd4lAsOU-d_IOFZug)
+		  id:: 6822dc11-76ab-4862-af58-177f862675bd
 - json生成图谱，ai学习（？）
   id:: 67c852ee-ddea-44fe-98f2-042b0ba9f9dc
 - ((65ab44a5-078e-4b51-bf20-1f74674bb5ee))
