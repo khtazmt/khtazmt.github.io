@@ -547,12 +547,6 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-****** 洗碗粉
-:PROPERTIES:
-:id: 65bcc04c-db7f-477c-b8c7-b4e45998a359
-:collapsed: true
-:END:
-******* 食用级纯碱（0.1/5斤；洗涤剂）、食用级柠檬酸钠（0.3/10斤；光亮剂，可不用或隔几次用；每份纯碱配至少1份柠檬酸钠）
 ****** 中盐软水盐（0.25/20斤）
 ***** 可以洗的
 :PROPERTIES:
