@@ -134,6 +134,7 @@
 				  id:: 679726bf-fcb8-46ed-9da9-47e67c17fdce
 				- cherry studio
 					- ((6797057c-f863-40ad-9aab-15a00a859d58))
+				- [【B站最详细】使用Ollama+FastGPT快速搭建属于自己的免费本地知识库_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1xMyGYwEdk)
 			- 智能体（agent，“特工”；“有操作的啊这个——智能体”）
 			  id:: 67972651-f92f-48a8-9c8a-a1d26e920d29
 			  collapsed:: true

@@ -148,7 +148,10 @@
 	- Favorite Tree：在左侧栏“收藏页面”中增加页面层级
 	- Paste More：带格式粘贴，减少粘贴进logseq时的格式损失
 	- ---
-	- 暂时没用起来的插件
+	- 暂时没用起来（或者就是还没用）的插件
+		- TODO ollama-logseq
+			- >我直接用logseq仓库的ollama插件连接 可以直接在logseq里提问和总结页面等——评论区
+				- [使用AI大模型对logseq中的文件提问_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1m99QYKEq2/)
 		- Logseq Anki Sync
 		  id:: 666c0ac7-3cc5-4c8f-8beb-701e0e8f1b6f
 			- [GitHub - debanjandhar12/logseq-anki-sync: An logseq to anki syncing plugin with superpowers - image occlusion, card direction, incremental cards, and a lot more.](https://github.com/debanjandhar12/logseq-anki-sync)
