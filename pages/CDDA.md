@@ -1,3 +1,4 @@
+- ==剧透，至少先玩半小时，提前看反正不是我倒霉==
 - ((6757f068-5024-4299-a0cf-1c0db42dbe1a))
 	- “玩打火机玩的”
 	  id:: 679adca2-cdca-48a2-9dde-e6f959c0c77c
@@ -6,6 +7,7 @@
 	- [[推荐]原滋原味的roguelike是什么样的？边谈边荐《NetHack》《Elona》《CDDA》 - 星晖帝国的一番的动态 - TapTap](https://www.taptap.cn/moment/15216925399319905)
 	- [还有其他类似cdda，但是非丧尸题材的游戏吗【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9014735050)
 - ((65d2ecf3-8af1-47e4-9219-317a3d501fe1))
+- [【图片】0.H cdda纯萌新攻略【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9561678056)
 - 下载安装
   collapsed:: true
 	- 游戏本体
