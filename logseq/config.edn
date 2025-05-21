@@ -78,7 +78,7 @@
  :preferred-format :markdown
  :default-home {}
  :date-formatter "yyyy年MM月dd日"
- :editor/logical-outdenting? true
+ :editor/logical-outdenting? false
  :ui/enable-tooltip? true
  :markdown/version 2
  :graph/settings {:journal? false, :builtin-pages? true, :orphan-pages? true}

@@ -156,7 +156,6 @@
 *** 皮肤0.3
 :PROPERTIES:
 :END:
-**** 肥皂
 **** 面巾纸
 **** 露得清挪威护手霜0.3/支（0.3）
 :PROPERTIES:
@@ -389,11 +388,6 @@
 :collapsed: true
 :END:
 ******* 罐心盐水鲭鱼、盐水牡蛎，都不太好吃（但也不常吃，问题不大，优点不小），都搭盐和甜梅酱
-***** 黄油/酥油
-:PROPERTIES:
-:collapsed: true
-:END:
-****** 一到两天带黄油就行
 ***** 寿司
 :PROPERTIES:
 :collapsed: true

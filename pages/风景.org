@@ -77,26 +77,11 @@
 *** 小区里吃胖的珠颈斑鸠有时飞得还没快没电的电轻摩快
 *** 车窗膜反射
 *** 冬天捏着车钥匙金属根部在尖端离车门2毫米左右放的电火花
-** 窗口
+** ((682d5f8b-4694-4d85-aa45-f756a82d80b7))
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 水
-:PROPERTIES:
-:collapsed: true
-:END:
-**** 雨
-:PROPERTIES:
-:collapsed: true
-:END:
-***** 雨丝抬头看到乌云飘过遮住太阳
-***** 风吹大雨在路上洒出浪（或剑气）的感觉
-**** 云
-:PROPERTIES:
-:collapsed: true
-:END:
-***** 旋转的雨云、雷鸣、闪电
-***** 倒映在部分汽车前窗上的云
+*** [[水]]
 ** 拜访
 :PROPERTIES:
 :collapsed: true
