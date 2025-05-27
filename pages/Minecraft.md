@@ -498,6 +498,9 @@
 	- 较大的工程可以先在创造模式测试（而且可以先是小尺寸的），创建时选择超平坦、白天，按e键后，上部可以翻页到相应模组
 	  id:: 66335bd1-21f7-4aaf-870b-1b58a6980f44
 	- 探图插火把时建议偏一侧插，这样找不到路时可以不自杀回家
+- 数据包
+	- [【四六级】能想出这种数据包的，家里要请英语老师了_哔哩哔哩bilibili_我的世界](https://www.bilibili.com/video/BV1KNjEzDEVK/)
+	  id:: 6835bf89-7742-4355-b204-e9857a6704cb
 - [【中字】XQC玩纯由AI生成画面的Minecraft越玩越晕_哔哩哔哩bilibili_我的世界](https://www.bilibili.com/video/BV1J8DHY8Eeq/)
 	- ((62ac6a1d-bff9-47d4-ad35-5279733ab087))
 - ---
