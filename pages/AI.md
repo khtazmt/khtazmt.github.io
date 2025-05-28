@@ -33,16 +33,13 @@
 - [【大白话搞懂DeepSeek】从函数到神经网络_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1uGA3eLEeu)
   id:: 67b916f6-6c58-438d-8c46-cb9b2d007a37
 - 模型
-  collapsed:: true
 	- LLM（大语言模型）/LMM（多模态大模型）
 		- 对话（“扩”）
 		  id:: 679adc9c-3c66-41ba-818d-bd594d2ee003
-		  collapsed:: true
 			- ((67ba643b-a572-43fc-ad2b-2a5c54ca2163))
 				- （“试之前先云一下之前的想法：”）r1有思维链，纯小白可以学术语和表达然后换claude使唤
 			- deepseek
 			  id:: 67958617-f66c-4637-a847-aa8272217218
-			  collapsed:: true
 				- [新星球大战，这次轮到谁恐慌了](https://mp.weixin.qq.com/s/f-SY2mSzENfaRUX45tvEvw)
 				  id:: 679585f0-7ab6-4dd0-8fe5-f5338245568f
 					- [新星球大战，这次轮到谁恐慌了|美国|英伟达|gpu|war|系列显卡_网易订阅](https://www.163.com/dy/article/JMQFRRLG0553M0QM.html)
@@ -66,7 +63,6 @@
 					- ![image.png](../assets/image_1740733752218_0.png)
 				- [Deepseek-V3 + CoT思维链 + RAG知识库！我的AI现在强的可怕 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/316186)
 				  id:: 6797057c-f863-40ad-9aab-15a00a859d58
-				  collapsed:: true
 					- 应该是通过使用提示词把聊天模型V3当推理模型R1用
 						- <anthropic_thinking_protocol>
 						  For EVERY SINGLE interaction with the human, Claude MUST engage in a comprehensive, natural, and unfiltered thinking process before responding or tool using. Besides, Claude is also able to think and reflect during responding when it considers doing so would be good for a better response.
@@ -86,7 +82,6 @@
 					- 还是没我更懂我的笔记和思路，所以我至今主要是拿它当计算器（还有找文章复述引文的参考文献）用——“现在用着还可以”
 					  id:: 67a06366-fbe8-4e99-b663-881a7fd4361f
 				- TODO 提示词获取完整答复
-				  collapsed:: true
 					- >防 Ban 不难，可以使用 CherryStudio 或者 Chatbox 然后把 API 接过去（设置选择：网址+选择模型+密钥）然后 系统提示词 恰当设置 就能获得完整的答复了——评论
 				- [利用 Deepseek 结合 Obsidian Web Clipper 实现快速剪藏及内容总结 - 知识管理工具 - PKMer](https://forum.pkmer.net/t/topic/4745)
 				- ---
@@ -102,7 +97,6 @@
 				  id:: 67ba7a7d-c884-4512-9973-641f0b3f6e95
 			- [[chatgpt]]
 			- new bing（相对chatgpt的特点是习惯给出引用链接和一言不合就终止对话；关键在于注册时避免自动重定向到大陆的bing，可以通过代理服务器或浏览器插件实现，下方链接为浏览器插件方案）
-			  collapsed:: true
 				- [总是跳转到国内版(cn.bing.com)？New Bing使用全攻略你是否想要使用强大的（被削后大嘘）New Bing - 掘金](https://juejin.cn/post/7202531472720592951)
 				- [如何看待微软的Bing AI聊天机器人被限制为每个会话的问答上限为5个，每天的提问上限不超过50个？ - 知乎](https://www.zhihu.com/question/584808550)
 			- ---
@@ -110,7 +104,6 @@
 				- 问ai参考资料看通用模板（？）
 			- ---
 			- NLP
-			  collapsed:: true
 				- [ai大模型和nlp的关系以及前者能否大幅度替代后者？ - 知乎](https://www.zhihu.com/question/626612429)
 				- 词向量
 					- [发明词向量的人真是个天才_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1JgrQYpExg)
@@ -119,7 +112,6 @@
 				- 同义识别
 			- RAG检索增强生成（AI知识库模糊搜索；“缩”）
 			  id:: 67aea414-0ae3-4e22-8b7a-cd4faed6d983
-			  collapsed:: true
 				- 知识库、embedding模型
 				- 最好记住所有关键字，但你记不住
 				- 很多对话AI一次只能输入“50个”这种量级的文件，对于我等动辄背负成千上万篇雄文的人类高质量带文豪，这种尽可能让AI成为我们“肚子里的蛔虫”后再在对话中有理有据地“甲乙丙丁，开中药铺”啥的努力简直杯水车薪
@@ -127,7 +119,6 @@
 				- ---
 				- [手把手教你FastGPT自定义模型对接oneapi【保姆级教程】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1nw4m197Dq)
 				- [RAGFlow：采用OCR和深度文档理解结合的新一代 RAG 引擎，具备深度文档理解、引用来源等能力，大大提升知识库RAG的召回率降低幻觉_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12T42117VT)
-				  collapsed:: true
 					- [5款开源免费本地知识库大横评，总有一款适合你！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1TM4m1m74N)
 					- [Win 11本地搭建部署RagFlow_ragflow windows本地化部署-CSDN博客](https://blog.csdn.net/qq_33290485/article/details/140733068)
 				- [闲来无事，我测了测国产大模型的RAG能力](https://mp.weixin.qq.com/s/g-ekmGjFkLN6H_NCIWoSPw)（文心一言）
@@ -137,7 +128,6 @@
 				- [【B站最详细】使用Ollama+FastGPT快速搭建属于自己的免费本地知识库_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1xMyGYwEdk)
 			- 智能体（agent，“特工”；“有操作的啊这个——智能体”）
 			  id:: 67972651-f92f-48a8-9c8a-a1d26e920d29
-			  collapsed:: true
 				- [GitHub - bytedance/UI-TARS-desktop: A GUI Agent application based on UI-TARS(Vision-Lanuage Model) that allows you to control your computer using natural language.](https://github.com/bytedance/UI-TARS-desktop)
 					- [字节版Operator抢跑OpenAI? 直接免费开源， 网友：怒省200美元！](https://mp.weixin.qq.com/s/P2yTgxTH2NSackelIfDKwg)
 					  id:: 67972655-643f-4a3d-9fab-b852af4d7b99
@@ -160,10 +150,8 @@
 		- 多模态
 		  id:: 67c6b995-1d4c-4519-b778-177c324ae31b
 		- 本地部署
-		  collapsed:: true
 			- [别随便本地部署大模型，Ollama重大安全隐患](https://mp.weixin.qq.com/s/1JUWyjVm3W6CRvAuYGBwag)
 			  id:: 67adb9d2-e244-4c78-8c71-7d49f09e778d
-			  collapsed:: true
 				- ((67adc936-87ee-43ff-ae2d-37031c07d46f))
 					- app="Ollama" && is_domain=false && country="CN"
 					- >还真有，接下来不会了
@@ -177,7 +165,6 @@
 							- [Unsloth训练自己的R1推理模型 - DeepSeek GRPO_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1tMNMeMEiS)
 							- [Unsloth微调DeepSeek-R1蒸馏模型 - 构建医疗专家模型_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qVNRenEBX)
 		- 训练数据
-		  collapsed:: true
 			- 数据注入、污染
 				- [大模型混入0.001%假数据就「中毒」，成本仅5美元！NYU新研究登Nature子刊](https://mp.weixin.qq.com/s/RV6glS-1kKLWsru87c3mng)
 				  id:: 67a2becc-fd09-47d7-8c9a-d3ff44ad00e9
@@ -199,13 +186,10 @@
 - [真把自己“当个人”的AI，扫去了我的社交贫困_澎湃号·湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_28632464)
   id:: 670df95e-beb1-437c-b489-786e8240aa46
 - TODO [Kimi Chat - 帮你看更大的世界](https://kimi.moonshot.cn/)
-  collapsed:: true
 	- [让国产AI大模型读文献、出考卷，效果如何？Kimi Chat初体验_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ve411Y7y7)
 - [Cartography of generative AI](https://cartography-of-generative-ai.net/)
-  collapsed:: true
 	- [Cartography of generative AI](https://tongyi.aliyun.com/efficiency/doc/read?taskId=1799445&isShare=true)
 - ((66db8ac1-fdfb-42c0-b8ba-73c7e8f3f3b3))
-  collapsed:: true
 	- TODO AI查重插件
 	  id:: 675af399-0e5f-4369-a90a-b2efccd9a0a4
 		- 也适用于规模相对庞大的非学术创作等内部查重
@@ -222,11 +206,9 @@
 	- [ChatGPT online free](https://www.mfc972.com/)
 - AI工具集成站
   id:: 668e501d-b441-4900-b123-8a1e830ae2a6
-  collapsed:: true
 	- [Collection of scientific research tools](https://www.helicard.com/)
 	- [YesChat-ChatGPT4o与Dalle3合为一体免费应用](https://www.yeschat.ai/zh-CN)
 	- [WaytoAGI-通往AGI之路，最好的 AI 知识库和工具站](https://www.waytoagi.com/)
-	  collapsed:: true
 		- [通往 AGI 之路 - 飞书云文档](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 		- [飞书对话「通往 AGI 之路」- 飞行家分享_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1xw4m1f7bE)
 		- ((668e8494-765d-466d-b222-dd5394893e77))
@@ -245,7 +227,6 @@
   id:: 66b55128-4fca-4a17-89f1-4aa307238020
 - AI生成图片
   id:: 670d40f3-d788-4805-931e-fa54671defbe
-  collapsed:: true
 	- IC-Light
 		- [ICLR 惊现[10,10,10,10]满分论文，ControlNet 作者新作，Github 5.8k 颗星](https://mp.weixin.qq.com/s/ZoEXu18ZzAjUFnYsP7JGwQ)
 	- [Stable Diffusion - 在线免费AI图像生成器](https://stabledifffusion.com/zh)
@@ -273,7 +254,6 @@
   id:: 67c852ee-ddea-44fe-98f2-042b0ba9f9dc
 - ((65ab44a5-078e-4b51-bf20-1f74674bb5ee))
 - ((668ce780-d5d0-4885-96f0-2585a49a2e83))
-  collapsed:: true
 	- ((66a4c2be-76bc-4358-b26a-d5fcf79dc201))
 	- 估值
 		- 价格歧视
@@ -287,11 +267,9 @@
 			- 应对
 				- ((677f6c87-31dc-47ec-bfc8-077088d9b0aa))
 - 情感识别
-  collapsed:: true
 	- “真情实感即可”
 	- “高山流水”
 - 图像化界面
-  collapsed:: true
 	- gradio
 		- [简单易用的图像化界面库gradio - 知乎](https://zhuanlan.zhihu.com/p/677799629)
 - ---
@@ -306,11 +284,9 @@
 	- ((668dd031-d4ff-4009-b84d-3bef8db95c22))
 	- 多链接/来源内容总结
 	  id:: 6663fa6b-a571-45e3-b732-be7ed940c555
-	  collapsed:: true
 		- ((6663fa17-56ad-4e29-9362-ba96650ead04))
 	- AI音视频内容分析
 	  id:: 681b515d-2446-41f4-8c39-edb267d67033
-	  collapsed:: true
 		- AI字幕分析
 			- 发布“@XX 总结一下”之类的评论
 			- b站自带的（测试版，好像手机APP暂无此功能，好像比较老或没字幕的视频也不支持此功能）
@@ -340,13 +316,12 @@
 - TODO AI内容转表格、图表
   id:: 670b72f6-fe62-4f3f-8ec5-6181009bdcc0
 	- 比如含需要可视化、对比的统计信息的链接、文件
-- TODO AI批量重命名文件
+- TODO AI批量重命名（不同名的）文件
   id:: 670b915f-e0a1-4f15-85ae-5b610e60e06c
 	- 有些文件下载后文件名看不出实际名称，手动重命名需要打开文件看，有时需要重命名较多文件
 		- ((66db8abb-488e-4d8e-8fac-0e5a8adc84e1))
 	- 获取下载链接附近文本
 - AI文本关联分析
-  collapsed:: true
 	- [InfraNodus: Generate Insight with AI and Network Thinking](https://infranodus.com/)
 		- ((66ade36a-8923-4c79-bce1-a0bc03e29179))
 - AI软件测试
