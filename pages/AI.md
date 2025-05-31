@@ -32,6 +32,7 @@
 - [【大白话搞懂DeepSeek】从函数到神经网络_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1uGA3eLEeu)
   id:: 67b916f6-6c58-438d-8c46-cb9b2d007a37
 - 模型
+  collapsed:: true
 	- LLM（大语言模型）/LMM（多模态大模型）
 		- 对话（“扩”）
 		  id:: 679adc9c-3c66-41ba-818d-bd594d2ee003
@@ -189,6 +190,7 @@
 - [Cartography of generative AI](https://cartography-of-generative-ai.net/)
 	- [Cartography of generative AI](https://tongyi.aliyun.com/efficiency/doc/read?taskId=1799445&isShare=true)
 - ((66db8ac1-fdfb-42c0-b8ba-73c7e8f3f3b3))
+  collapsed:: true
 	- TODO AI查重插件
 	  id:: 675af399-0e5f-4369-a90a-b2efccd9a0a4
 		- 也适用于规模相对庞大的非学术创作等内部查重
@@ -205,6 +207,7 @@
 	- [ChatGPT online free](https://www.mfc972.com/)
 - AI工具集成站
   id:: 668e501d-b441-4900-b123-8a1e830ae2a6
+  collapsed:: true
 	- [Collection of scientific research tools](https://www.helicard.com/)
 	- [YesChat-ChatGPT4o与Dalle3合为一体免费应用](https://www.yeschat.ai/zh-CN)
 	- [WaytoAGI-通往AGI之路，最好的 AI 知识库和工具站](https://www.waytoagi.com/)
@@ -214,8 +217,11 @@
 	- TODO Hayo
 	- ((65ab4567-90f8-4360-b3d0-458aed2e8abb))
 - ((67a05dae-c165-4bf1-9c6c-47e86e37a9c9))
+- >用AI培养或规避问问题的习惯或难题都可以是方向，就像家长因为不会控制学生使用手机电脑的内容而选择付费报班，但报班的老师不一定有AI那么周到，因为人体是有极限的
+  AI辅助人生规划也可以是
 - AI学术辅助
   id:: 670d40d8-799b-4119-8eea-2289bb8597da
+  collapsed:: true
 	- >Gemini 会员版的Deep research——网友
 	- [8个科研人必备好用 AI 学术写作工具 | Wordvice AI](https://wordvice.ai/cn/blog/8-best-ai-tools-for-researchers)
 	- ((677a1577-1b9d-4c8e-aaee-4cfe07458cc9))
