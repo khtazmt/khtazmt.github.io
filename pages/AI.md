@@ -40,6 +40,7 @@
 				- （“试之前先云一下之前的想法：”）r1有思维链，纯小白可以学术语和表达然后换claude使唤
 			- deepseek
 			  id:: 67958617-f66c-4637-a847-aa8272217218
+			  collapsed:: true
 				- [新星球大战，这次轮到谁恐慌了](https://mp.weixin.qq.com/s/f-SY2mSzENfaRUX45tvEvw)
 				  id:: 679585f0-7ab6-4dd0-8fe5-f5338245568f
 					- [新星球大战，这次轮到谁恐慌了|美国|英伟达|gpu|war|系列显卡_网易订阅](https://www.163.com/dy/article/JMQFRRLG0553M0QM.html)
@@ -103,6 +104,12 @@
 			- “怎么说？”
 				- 问ai参考资料看通用模板（？）
 			- ---
+			- AI对话导出
+				- 单对话导出
+					- [AI会话导出器：保存 ChatGPT,Claude, Gemini 和 Deepseek 等会话为PNG/PDF/MD等常见格式 - Chrome 应用商店](https://chromewebstore.google.com/detail/AI%E4%BC%9A%E8%AF%9D%E5%AF%BC%E5%87%BA%E5%99%A8%EF%BC%9A%E4%BF%9D%E5%AD%98%20ChatGPT%2CClaude%2C%20Gemini%20%E5%92%8C%20Deepseek%20%E7%AD%89%E4%BC%9A%E8%AF%9D%E4%B8%BAPNG%2FPDF%2FMD%E7%AD%89%E5%B8%B8%E8%A7%81%E6%A0%BC%E5%BC%8F/kagjkiiecagemklhmhkabbalfpbianbe)
+					  id:: 683bb6e7-60c9-46ca-8de7-abdd872ba997
+						- [[Chats-2025-06-01_10-24-09]]
+						- >希望添加自定义格式功能（可以是选项），比如在markdown等格式中区分deepseek的深度思考和回答内容
 			- NLP
 				- [ai大模型和nlp的关系以及前者能否大幅度替代后者？ - 知乎](https://www.zhihu.com/question/626612429)
 				- 词向量
