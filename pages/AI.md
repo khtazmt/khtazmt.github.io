@@ -116,6 +116,11 @@
 		- [ChatGPT Sidebar & GPT-4o, o1, Claude, Deepseek with AI Agents | AITOPIA - Chrome 应用商店](https://chromewebstore.google.com/detail/chatgpt-sidebar-gpt-4o-o1/becfinhbfclcgokjlobojlnldbfillpf)
 	- AI外设
 		- [人道 Pin 已死，但 OpenPin 希望将其恢复](https://cn.windows-office.net/)
+		- ---
+		- >前几个月看过公众号的AI鼠标软文
+		  其实很多功能或多或少会是伪需求（可能常规笔记本也是，我需要背着笔记本玩穿越防盗光栅吗？笔记本放在可能少说几千年前就有的桌面和几万几十万年前就有的大腿上，没有几百年前的工业革命后的安装方式还真是有点不太好用），比如很多AI内容总结，要么提不到字幕没法总结，要么总结了没懂还得刷一下，但别人有我也得有，不然没法忽悠消费者支付溢价
+		  当然这溢价中也可能有与消费者的合谋，比如以前有小霸王学习机、买电脑学编程，现在有买笔记本学AI
+		- ((678a4de5-d0c9-4643-919e-bdf343d7aa32))
 	- ((668ce780-d5d0-4885-96f0-2585a49a2e83))
 	  collapsed:: true
 		- ((66a4c2be-76bc-4358-b26a-d5fcf79dc201))
