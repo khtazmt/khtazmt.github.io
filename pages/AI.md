@@ -32,6 +32,7 @@
 		- ((67aa151b-2c04-4dd1-aaf1-20888dd2276a))
 		- >用AI培养或规避问问题的习惯或难题都可以是方向，就像家长因为不会控制学生使用手机电脑的内容而选择付费报班，但报班的老师不一定有AI那么周到，因为人体是有极限的
 		  AI辅助人生规划也可以是
+			- AI自尊心训练师
 	- AI补强
 		- >所谓情商高，就是会说话
 		- ((66335bea-3e02-4601-aeac-059568992815))
@@ -221,8 +222,15 @@
 		- AI对话
 			- “啊啊啊啊宝宝宝宝它只是看起来像对话啊啊啊啊！”
 			- “大讲堂”、“量大答辩”
+			- “怎么你话这么多或说这么快”
 			- [真把自己“当个人”的AI，扫去了我的社交贫困_澎湃号·湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_28632464)
 			  id:: 670df95e-beb1-437c-b489-786e8240aa46
+			- AI对话导出
+				- 单对话导出
+					- [AI会话导出器：保存 ChatGPT,Claude, Gemini 和 Deepseek 等会话为PNG/PDF/MD等常见格式 - Chrome 应用商店](https://chromewebstore.google.com/detail/AI%E4%BC%9A%E8%AF%9D%E5%AF%BC%E5%87%BA%E5%99%A8%EF%BC%9A%E4%BF%9D%E5%AD%98%20ChatGPT%2CClaude%2C%20Gemini%20%E5%92%8C%20Deepseek%20%E7%AD%89%E4%BC%9A%E8%AF%9D%E4%B8%BAPNG%2FPDF%2FMD%E7%AD%89%E5%B8%B8%E8%A7%81%E6%A0%BC%E5%BC%8F/kagjkiiecagemklhmhkabbalfpbianbe)
+					  id:: 683bb6e7-60c9-46ca-8de7-abdd872ba997
+						- [[Chats-2025-06-01_10-24-09]]
+						- >希望添加自定义格式功能（可以是选项），比如在markdown等格式中区分deepseek的深度思考和回答内容
 		- ((67a05dae-c165-4bf1-9c6c-47e86e37a9c9))
 		- AI辅助写作
 		  id:: 670d40d8-799b-4119-8eea-2289bb8597da
@@ -246,8 +254,6 @@
 				- 也适用于规模相对庞大的非学术创作等内部查重
 				- ((677a1577-1b9d-4c8e-aaee-4cfe07458cc9))
 				- {{embed ((67402ab2-a8f2-4c51-a498-5962761b6fec))}}
-	- 你以为自己，实际上用了提示词，你以为对话框，所以是对话、会话，如果不用
-	- ((67ba643b-a572-43fc-ad2b-2a5c54ca2163))
 	- deepseek
 	  id:: 67958617-f66c-4637-a847-aa8272217218
 	  collapsed:: true
@@ -302,13 +308,6 @@
 		- ((6799ce35-e109-4694-aec2-fe8735f22f26))
 	- “怎么说？”
 		- 问ai参考资料看通用模板（？）
-	- AI对话导出
-	  collapsed:: true
-		- 单对话导出
-			- [AI会话导出器：保存 ChatGPT,Claude, Gemini 和 Deepseek 等会话为PNG/PDF/MD等常见格式 - Chrome 应用商店](https://chromewebstore.google.com/detail/AI%E4%BC%9A%E8%AF%9D%E5%AF%BC%E5%87%BA%E5%99%A8%EF%BC%9A%E4%BF%9D%E5%AD%98%20ChatGPT%2CClaude%2C%20Gemini%20%E5%92%8C%20Deepseek%20%E7%AD%89%E4%BC%9A%E8%AF%9D%E4%B8%BAPNG%2FPDF%2FMD%E7%AD%89%E5%B8%B8%E8%A7%81%E6%A0%BC%E5%BC%8F/kagjkiiecagemklhmhkabbalfpbianbe)
-			  id:: 683bb6e7-60c9-46ca-8de7-abdd872ba997
-				- [[Chats-2025-06-01_10-24-09]]
-				- >希望添加自定义格式功能（可以是选项），比如在markdown等格式中区分deepseek的深度思考和回答内容
 	- ---
 	- 比较
 	  collapsed:: true
@@ -372,6 +371,7 @@
 	- AI默认不更改参考资料，但
 	- “好的，一二三四......”
 	  ((67e102e5-d984-4282-b5a1-270cd2c9761e))
+	- 模型组合与编辑器的适配
 	- 智能体
 	  id:: 67972651-f92f-48a8-9c8a-a1d26e920d29
 		- 什么是智能体？
