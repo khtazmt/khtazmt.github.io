@@ -75,7 +75,6 @@
 	- [Collection of scientific research tools](https://www.helicard.com/)
 	- [YesChat-ChatGPT4o与Dalle3合为一体免费应用](https://www.yeschat.ai/zh-CN)
 	- 浏览器AI工具
-	  id:: 668dd031-d4ff-4009-b84d-3bef8db95c22
 	  collapsed:: true
 		- 通义插件
 			- 可以一键“智能阅读”网页pdf
@@ -188,6 +187,7 @@
 			- [byjlw/video-analyzer: Analyze videos using LLMs, Computer Vision and Automatic Speech Recognition](https://github.com/byjlw/video-analyzer)
 			  id:: 681b5052-2e9a-4a28-a7e0-8468c67c0f0e
 	- 社会化聆听/社交媒体爬虫与分析
+	  id:: 668ca9da-4763-4478-b297-290003499450
 	  collapsed:: true
 		- “可以，这很社会”
 		- 舆情分析
@@ -302,13 +302,15 @@
 		- ---
 		- ((67ac5265-d572-4098-82d6-8b39dc2ba276))
 		- ---
+id:: 67ba7a7a-07bd-4c85-bac5-cdd2e1f5be66
 		- [新星球大战，这次轮到谁恐慌了](https://mp.weixin.qq.com/s/f-SY2mSzENfaRUX45tvEvw)
 		  id:: 679585f0-7ab6-4dd0-8fe5-f5338245568f
 			- [新星球大战，这次轮到谁恐慌了|美国|英伟达|gpu|war|系列显卡_网易订阅](https://www.163.com/dy/article/JMQFRRLG0553M0QM.html)
 		- ((6799ce35-e109-4694-aec2-fe8735f22f26))
 	- “怎么说？”
 		- 问ai参考资料看通用模板（？）
-	- ---
+	- collapsed:: true
+	  ---
 	- 比较
 	  collapsed:: true
 		- ![微信图片_20240710191933.jpg](../assets/微信图片_20240710191933_1720610464175_0.jpg)
@@ -366,6 +368,7 @@
 	- 风格切换（比如照片换成手绘风格）
 	- 评测
 		- [鬼畜的AI视频和狡猾的AI撒谎](https://mp.weixin.qq.com/s/3zoMU0MWhsS9qHYouuAyZA)
+- ((670d40f3-a9cd-4a29-aa33-66784ca7d812))
 - AI直接操作
   collapsed:: true
 	- AI默认不更改参考资料，但
