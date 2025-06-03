@@ -9,6 +9,7 @@
 - [Obsidian插件：LanguageTool高级语法和拼写检查工具 - 知乎](https://zhuanlan.zhihu.com/p/669914223)
 - ((66f7b266-2e48-4887-a9e4-0f1489490b6e))
 - [【Obsidian】视频笔记插件Media Extended的强大功能-CSDN博客](https://blog.csdn.net/kaspar1992/article/details/138749659)
+  id:: 67ba972b-0f13-4e99-a63b-12b8c69e2ca4
 - Obsidian协作
 	- [【杂货分享 08】分享个用 Obsidian 搭建的小型团队协同工作方案（上 - 演示与目录设置）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oZ4y1U7b9)
 	- [Obsidian Sync: Live team collaborative editing - Feature requests - Obsidian Forum](https://forum.obsidian.md/t/obsidian-sync-live-team-collaborative-editing/6058)

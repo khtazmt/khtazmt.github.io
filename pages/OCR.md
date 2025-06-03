@@ -13,7 +13,7 @@
 		- 已有较多原文本且文件数量较多时建议优先选择“混合OCR/原文本”，否则重复OCR可能影响复制和搜索
 			- ((66db8abb-488e-4d8e-8fac-0e5a8adc84e1))
 - ((683d12df-5b21-48b2-8705-d7ae39da044b))
-id:: 67402acb-53bc-4dac-9809-32a237281890
+  id:: 67402acb-53bc-4dac-9809-32a237281890
 - [OCR文本识别(微信、Umi-OCR、MinerU、ABBYY FineReader )_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1uPLtzEED2/)
 - [智能文档识别终极PK：MinerU与PaddleOCR巅峰对决，dify一键解锁多模态OCR能力_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Wk5fzfEMc/)
 - [OCR技术总结_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1iUtSehEZx/)
@@ -73,5 +73,5 @@ id:: 676b8f2a-b2f1-476a-b34f-f98754779dfd
 	- 错字替换
 	- OCR文本提取
 		- 目录等（比如用于相同相似主题的目录对照）
-id:: 67034258-2df9-4b31-b139-c534172b1e72
+		  id:: 67034258-2df9-4b31-b139-c534172b1e72
 -
