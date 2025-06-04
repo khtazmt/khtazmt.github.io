@@ -49,6 +49,7 @@
 				- [GitHub - linonetwo/CDDA-Kenan-Modpack-Chinese: （最新实验版）Kenan's 大型 modpack 社区汉化版 For Cataclysm - Dark Days Ahead](https://github.com/linonetwo/CDDA-Kenan-Modpack-Chinese)
 					- [Kenan整合包 | Cataclysm: DarkDays Ahead Wiki | Fandom](https://cdda.fandom.com/zh/wiki/Kenan%E6%95%B4%E5%90%88%E5%8C%85)
 		- [【自制mod】农业拓展mod新发布帖【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8073154761)（可能没在更新了）
+		- [【图片】<新手向>MOD入門：如何在CDDA中捏角【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6307216734)
 - 起始场景
   collapsed:: true
 	- 区别在于时间、地点、角色
@@ -90,6 +91,9 @@
 	- 冬季
 	  collapsed:: true
 		- 香蒲草、冬青、松树（松枝煮茶）
+	- ---
+	- 挑战-围城
+		- [岩石边界是什么？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8885933034)
 - 地点/位置（location）
   collapsed:: true
 	- ((674c3c02-0814-4a5d-9bba-88071b88ccdf))
@@ -141,8 +145,12 @@
 			- 方形，面积大，有较长的方形围栏围着
 			- 可能在地图坐标0,0,1附近？
 			- 可以交易，需要食物，不买智能手机
-			- 可能刷可以买的 ((6745560e-8a3b-40d6-87dd-a62a0a3f3ea7))
+			- 可能刷可以买的 ((6745560e-8a3b-40d6-87dd-a62a0a3f3ea7)) （第一周目前没见过）
 			- 我第一次到难民中心，里面NPC的故事好像有两处以上有矛盾
+			- 要领任务早领
+				- >不好说，要刷位置应该尽量早刷，不然开出了地图之后就没法生成了
+					- ((6825b31c-9365-452a-88b2-e6ed9ede0e50))
+					- 遇到过一次，阿隆索的任务位置生成失败
 			- 自由商会
 			  id:: 6751b00a-3ad1-4de3-825f-f8951bfa2dcb
 				- 斯默克
@@ -157,6 +165,7 @@
 						- >不建议刷流亡族地址，应该刷枪匠地址，流亡族可以从旧世守护者那接任务，第三个任务就会让你去侦查流亡族基地，而枪匠那可以让你前期就获得大量的武器弹药。先把其他几个地方的地址都问到，最后再问司机，他大概率就会刷出一个你还没问到的任意一个势力的地址。
 							- ((6825b31c-9365-452a-88b2-e6ed9ede0e50))
 							- ((683ec6b5-315f-4138-a664-9d6dc834c1fc))
+						- [为什么0.h司机指路hub每次都生成失败【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9303851223)
 				- 无地图标注的
 					- 原声吉他（即非电吉他，中译为“民谣吉他”；乐器店、典当行）
 					- 古兰经（图书馆、宗教场所、书店等）
@@ -166,6 +175,7 @@
 					- 100根香烟
 					- 50剂抗菌剂
 					- [简易理发剪](https://cdda-guide.nornagon.net/item/survivor_hairtrimmer?lang=zh_CN)
+					- 阿隆索的
 					- ---
 					- 隐藏的
 						- 让大厅内的乞丐NPC离开
@@ -353,6 +363,7 @@
 				- ---
 			- ((67583718-240c-4534-b627-3e156e97ad1a))
 			  id:: 67402aab-8756-4b59-aa2e-8ad7ca462eaf
+			  collapsed:: true
 				- [【图片】用steamdeck玩cdda的简单教程【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8268845312)
 		- 多些飞车任务或场景（“没时间解释了，快上车！”）
 		- 自行车可以摇车，没鞍座也可以骑
@@ -474,6 +485,7 @@
 			- “权力交接”任务（3天冷却期，相当于一个提示，不会成功也不会失败）
 				- [【图片】开个实况贴，记录从零开始变强的过程【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8658432604?pid=148828788932&cid=0#148828788932)
 	- 距离0-1格
+	  collapsed:: true
 		- 可直接使用（但无窗口）或在窗口内使用的
 		  collapsed:: true
 			- 筛选f或/（搜索；可加s）
@@ -498,6 +510,7 @@
 				- 方便用键盘选中物品，比如战斗前丢下背包
 				- [如何在物品栏中快速定位物品【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8659331899)
 		- 窗口
+		  collapsed:: true
 			- 拾取get g
 			  collapsed:: true
 				- 从四周拾取物品（同时显示周围九格内的物品；翻成片尸体时比较有效率）
@@ -710,6 +723,7 @@
 			- [发现一个神奇的小技巧【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9247877107)
 - 玩法
   collapsed:: true
+	- ((683fdfc6-c8bc-4a1f-992e-30f4f35e0aa9))
 	- “新游戏”-“直接游戏！”
 	  id:: 674c3c02-cdd8-4324-8f15-e7ce3ce0bc08
 	  collapsed:: true
@@ -721,13 +735,8 @@
 				- ((673a0a10-3e16-4fb6-b728-a6c9bcb6062a))
 			- [[趣味科普] 比删号更可怕？那些游戏里最残酷的死亡惩罚 - TapTap编辑的动态 - TapTap](https://www.taptap.cn/moment/197824887279060161)
 			- “什么是GAME OVER？‘上面的游戏’？”
-		- 当然也可以“新角色”复刻一下自己（心虚）
-		  collapsed:: true
-			- ![brave_lZUBjve5gG.png](../assets/brave_lZUBjve5gG_1733039892585_0.png)
-				- ((674bf374-86bd-4d42-b865-1e7cd04054d2))
-				- 当然也可以说游戏这部分不够“真实”，没什么负重时一秒跑三四米、跑个五十米不到就耐力严重下降也比较离谱
-			- [如果你是CDDA中的普通人【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9040691871)
-		- ---
+		- collapsed:: true
+		  ---
 		- ((675ea1d3-9e74-48b0-b48b-ab45fa3add2f)) 了也可以最后挣扎一下（
 		  id:: 6757c6ca-7a26-429f-b578-b518b5fb76ef
 	- 刷合意的世界
@@ -1147,6 +1156,7 @@
 		- 贴图包tileset
 		  id:: 674070f1-8951-449c-9837-55da5ea315fb
 			- [你们喜欢原图版还是画面较好版_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/2315583883)
+			- [小@原来一直在现实世界呀【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8464077207)
 			- 选择贴图包
 				- MSXotto+兼顾写实（例如黄色室内植物的贴图是黄的，其他贴图包好像都没细分；相对比例好像也更接近现实；窗子的开关和有无窗帘也；民用车不全是白车也可以算是？虽然好像都是红车了）、辨识度、与人物匹配（椅、凳、沙发等全都朝屏幕外，这下坐姿看起来反而正常了）、简洁、可爱
 					- [方向涂鸦（MSXotto+和NeoDays贴图包）_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/8875950013)
@@ -1189,14 +1199,62 @@
 		- 套娃（避难所电脑）
 - ---
 - 角色@
+  id:: 67eb2809-080e-4afd-a75c-376ec97628a0
   collapsed:: true
 	- “我早就移动鼠标看到我了，还有我的姓名，就这？”
 	- “亦！物！”
+	- 按从左到右顺序选择，不然后面的会被前面的覆盖（“哇靠！”）
+	- 尽量复刻自身情况（“最认真捏人、备游、ARG的一集”）
+	  id:: 683fdfc6-c8bc-4a1f-992e-30f4f35e0aa9
+		- [如果你是CDDA中的普通人【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9040691871)
+		- 点数
+			- “幸存者点数模式真好啊！”
+		- 场景
+			- 大的场景在新英格兰、中国还是其他地方——可以自己选，推荐还是“魂穿”（游戏中的）新英格兰，模仿多于超越，避免（因为姿势水平太高等导致的）“现实乐观主义”影响“原版游戏体验”，但可以适度嫁接
+				- 智能手机搭配充电宝、蓝牙通信软件等仍可以通信不少时间，但食物等影响
+				  id:: 683ffbb4-8a56-4a2a-8eae-30d01c110572
+		- 职业
+		- 背景
+			- 平时能看点书（包括论文、电子书等）的，停电几天应该很难不爱看书吧？
+			- 我不是个对消息很闭塞的人，但（“为了平衡和游戏性”）假设等我知道时已经买不到什么生存工具箱，更别提突击培训各种技能了
+				- 我的确有观鸟的兴趣，也有望远镜，所以可以选鸟类观察者——但我不太像是有生存3级
+				  id:: 684005fe-193a-4412-8df5-a33b388d3f24
+				- 家里也有收音机
+				- 所以我选个视频博主吧，我更可能带双肩包而非单肩包（信使包），假设外面的笔记本电脑大多带密码锁上了吧，虽然没数码相机
+		- 属性
+			- 智力按 ((679add58-68ab-4b15-ae02-b64e99c22383)) 等比例放大一下——“本来正常玩好好的、也不算太高，这会儿怎么就开始装逼了呢？”
+		- 技能
+		  collapsed:: true
+			- 实物（武器除外）操作类技能都点了有最多配方所需的最小等级
+				- ((679add3e-6367-4bfc-a7be-297633576b79))
+				- “主要靠先进的生产资料”
+					- “先进的生产资料，现成的（还真是，复杂部件都不用自己造），拿来！”
+				- “技能、配方等的视频等的学习资料我都下到笔记本电脑（还有智能手机）里了（“对吧，哪有什么刚买的空手机电脑”——“但你还没下多少——还有还没见过的东西要怎么提前学？”），书籍够不够细无所谓”
+					- “我还会带对应的支架等配件提高学习和跟做效率”
+				- “那么其他技能呢？”
+					- “战斗类平衡一下，没练过的不动”
+						- {{embed ((67d27058-af2a-440a-bcae-21277f942ff9))}}
+				- ---
+				- ((684005fe-193a-4412-8df5-a33b388d3f24))
+		- ---
+		- ![image.png](../assets/image_1749052051422_0.png) [[20250604]]
+		- 搞定后，在“世界”中选择“角色转为模板”
 	- [推荐给新人的一个万金油强力捏人开局【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8951867212)
+	- [哪一种开局适合新手？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7734580553)
+	- 场景
+	- 职业
+	- 背景
 	- 属性
 		- 数字与分级，对应的能力
+		- [【图片】cdda属性对应现实水平【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9676980484)
+		  id:: 678a4dd4-915e-488f-bb9a-1b1a0dd91f7e
+		- ![brave_lZUBjve5gG.png](../assets/brave_lZUBjve5gG_1733039892585_0.png)
+			- ((674bf374-86bd-4d42-b865-1e7cd04054d2))
+			- 当然也可以说游戏这部分不够“真实”，没什么负重时一秒跑三四米、跑个五十米不到就耐力严重下降也比较离谱
+		- [游戏里生物的移动速度是不是太慢了【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8448479746)
 	- 特性
-	  collapsed:: true
+		- [【图片】我发特性，8u来打分😇【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7703521595)
+		- [求问哪些特性是后天无法获得的【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8358020368)
 		- 餐桌礼仪强迫症
 		  id:: 67402aab-0069-45f6-b164-578ba4daada0
 			- 坐具（例如长凳）按G移到桌面（例如厨柜）旁
@@ -1210,6 +1268,8 @@
 			- [“热爱甜食”变异吃垃圾食品会涨健康么【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9023862608)
 		- 失聪
 			- 不能与NPC谈话（“鲁比克  说了些什么但你听不见！”），赶时间的话可以重开或改文件
+		- 末日精神病
+			- [【图片】好吓人，这就是末日精神病吗【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9181794397)
 	- 技能
 		- ((67402aab-b8ee-4c0d-9968-91c0cf2f76ac))
 		- 有不同进度范围的等级，对应理论知识进度和实践知识进度，实践知识进度低于理论知识进度时会有学习奖励
@@ -1260,7 +1320,7 @@
 		- 影响技能经验获取速率
 		- [有没有什么办法能快速提升专注啊？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9019774230)
 		- [18、当专注耗尽时该做些什么？常见问题 Q&A | CDDA中文攻略手册](https://surflurer.github.io/CDDA-CN-Guide/docs/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%20Q&A#18%E5%BD%93%E4%B8%93%E6%B3%A8%E8%80%97%E5%B0%BD%E6%97%B6%E8%AF%A5%E5%81%9A%E4%BA%9B%E4%BB%80%E4%B9%88)
-	- [哪一种开局适合新手？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7734580553)
+	- [【图片】试着AI生成了一下自己的角色【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9235827268)
 	- ---
 	- 变异
 		- [mutation - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/mutation?lang=zh_CN)
@@ -1320,9 +1380,12 @@
 		- 开局爽吃短保质期的剩饭剩菜、不做饭也不囤食材，毕竟过几天就过期了，也不会（或“要”）有什么沉没成本：让NPC队友打个猎就吃不完的肉、采集植物就有吃不完的植物，自然水体里吃不完的香蒲，农田里吃不完的农作物，正常的奶牛场里吃不完的奶制品
 		- [各位大佬都是以什么作为主要食物？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8844695947)
 		- [是香蒲草！【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9243862378)
+		- [0.G版本的食物和维生素【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8340368830)
+			- 目前好像没有营养过量的负面效果这回事
+		- [诸位流浪党一般主食吃啥【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8391210254)
+		- [cdda厨神争霸赛，烹饪大佬请进（doge）【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9235409882)
 		- [食物获取与储存 | CDDA中文攻略手册](https://surflurer.github.io/CDDA-CN-Guide/docs/%E9%A3%9F%E7%89%A9%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%82%A8%E5%AD%98)
 		- ((6743e02e-0252-46dc-a076-63461b8ca680))
-		- 食物
 		- 食用物品E（有智能手机可查看饮食记录）
 		- ((67402aab-0069-45f6-b164-578ba4daada0))
 		- 材质带垃圾食品、酒精的尽量别吃，多喝茶，“隐藏/显示配方”可以设置按键（可以设为s）
@@ -1374,8 +1437,6 @@
 		- 钓鱼
 			- >孤舟蓑笠翁，独钓寒江雪
 		- ---
-		- [0.G版本的食物和维生素【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8340368830)
-			- 目前好像没有营养过量的负面效果这回事
 		- 蔬菜沙拉
 		- 需要火的
 			- 蔬菜煎蛋卷
@@ -1393,8 +1454,6 @@
 			- 松针茶
 		- 树汁
 			- [树木插管如何使用？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/4957248202)
-		- [诸位流浪党一般主食吃啥【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8391210254)
-		- [cdda厨神争霸赛，烹饪大佬请进（doge）【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9235409882)
 	- [CBM](https://cdda-guide.nornagon.net/search/cbm?lang=zh_CN)
 	  id:: 675650c8-e9da-46ef-a853-1037199fd094
 		- [你们觉得有什么cbm可推荐的？怎么提高cbm上限？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7863751893)
@@ -1442,6 +1501,9 @@
 		- 春季FEMA避难所自带一位，友好的让ta靠近敌对，不友好有会跟着的任务的话也能跟着
 		- 有些在旷野上的小屋里
 		- 现版本NPC枪法就是好，所以一般应该没必要拿他们枪自己用
+		- 队友
+			- 规则
+				- 使用任何远程武器
 		- [游戏里如何招人？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8478774539)
 		  id:: 675295db-97b9-4730-9f1f-e18da0fddb1e
 			- [除了难民中心还有地方可以招募NPC吗【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7862459001)
@@ -1489,6 +1551,7 @@
 				- 还防催泪瓦斯喷雾
 				- 旁边有各种会被血鸷攻击的怪的话建议用来吸引注意力
 		- 疯人feral
+		  collapsed:: true
 			- “feral是什么意思啊？”
 			- 野性疯人、疯人技工（扔石头的）
 				- [【图片】野性疯人的伤害到底怎么回事啊【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8711665927)
@@ -1925,6 +1988,7 @@
 	- ((67442667-0b90-4625-97a0-c2d711e85cdb))
 - 等待
   id:: 674074e5-8364-4885-a12a-1f18b736efea
+  collapsed:: true
 	- 加个空格键
 		- 手动等待看侧边栏耐力条
 	- 空手时自动压迫止血，角色的凝血能力都太强大了！
