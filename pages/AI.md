@@ -101,7 +101,8 @@
 		- ((67eb2842-cf7f-45b7-a498-6f08b1b4e07f))
 	- 大语言模型（LLM）
 		- 提示词（prompt）
-			- 提示词就是广义上的提示词，引流、卖课
+			- [10分钟讲清楚 Prompt, Agent, MCP 是什么_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1aeLqzUE6L/)
+			  id:: 6840f6b5-54bb-448c-be22-6664484880a1
 			- ((67eb282f-c336-4ff8-948b-aa17fb523888))
 			- 关键词、“命令”、“咒语”
 			  id:: 674bf371-e51e-4922-9dad-aee42bdd800d
@@ -200,6 +201,8 @@
 - RAG检索增强生成（AI知识库模糊搜索）
   id:: 67aea414-0ae3-4e22-8b7a-cd4faed6d983
   collapsed:: true
+	- [这就是RAG 一看就懂的个人知识库架构_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV19RJhzyEWN/)
+	  id:: 6840f6a6-08be-4a43-8742-089eb7077433
 	- 知识库、embedding模型
 	- 最好记住所有关键字，但你记不住
 	- 很多对话AI一次只能输入“50个”这种量级的文件，对于我等动辄背负成千上万篇雄文的人类高质量带文豪，这种尽可能让AI成为我们“肚子里的蛔虫”后再在对话中有理有据地“甲乙丙丁，开中药铺”啥的努力简直杯水车薪
@@ -219,7 +222,6 @@
 	- [【B站最详细】使用Ollama+FastGPT快速搭建属于自己的免费本地知识库_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1xMyGYwEdk)
 - AI生成文本
   id:: 679adc9c-3c66-41ba-818d-bd594d2ee003
-  collapsed:: true
 	- 用途
 		- AI对话
 			- “啊啊啊啊宝宝宝宝它只是看起来像对话啊啊啊啊！”
@@ -256,6 +258,10 @@
 				- 也适用于规模相对庞大的非学术创作等内部查重
 				- ((677a1577-1b9d-4c8e-aaee-4cfe07458cc9))
 				- {{embed ((67402ab2-a8f2-4c51-a498-5962761b6fec))}}
+		- AI改写/“洗稿”
+		- AI翻译
+		  id:: 6840ef33-946b-4bea-9fd2-71c0aadc3fa1
+			- [NEKOparapa/AiNiee: 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本。](https://github.com/NEKOparapa/AiNiee)
 	- deepseek
 	  id:: 67958617-f66c-4637-a847-aa8272217218
 	  collapsed:: true
@@ -380,6 +386,7 @@
 	- 智能体
 	  id:: 67972651-f92f-48a8-9c8a-a1d26e920d29
 		- 什么是智能体？
+			- ((6840f6b5-54bb-448c-be22-6664484880a1))
 			- 很多可能只是包装好提示词（省得每个会话复制粘贴一次）、配上头像等，作为AI服务卖点
 			- 专业和（或）多步（操作）能力
 			- 跨标签页、应用能力

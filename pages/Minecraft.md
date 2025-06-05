@@ -360,6 +360,7 @@
 			- “Mod教程”也可以看
 			- # “玩什么？农村小工业！”
 			- [物品/方块 - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/list/2021-1.html)
+			  collapsed:: true
 				- ((662e5fb2-0f11-4db5-9af0-5fc1df62118f))
 			- 最主要的模组，非常好
 			- 有些物品可以按W思索，演示动画做得不错
@@ -518,6 +519,7 @@
 	- [[Minecraft机械动力]]
 - TODO 通过Minecraft学习
   id:: 66db8aa8-3712-4373-a936-f441cd625c95
+  collapsed:: true
   :LOGBOOK:
   CLOCK: [2024-04-30 Tue 09:48:48]
   CLOCK: [2024-05-07 Tue 13:28:36]--[2025-02-10 Mon 15:42:46] =>  6698:14:10
