@@ -77,6 +77,7 @@
 	- [Collection of scientific research tools](https://www.helicard.com/)
 	- [YesChat-ChatGPT4o与Dalle3合为一体免费应用](https://www.yeschat.ai/zh-CN)
 	- 浏览器AI工具
+	  id:: 668dd031-d4ff-4009-b84d-3bef8db95c22
 	  collapsed:: true
 		- 通义插件
 			- 可以一键“智能阅读”网页pdf
@@ -222,6 +223,7 @@
 	- [【B站最详细】使用Ollama+FastGPT快速搭建属于自己的免费本地知识库_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1xMyGYwEdk)
 - AI生成文本
   id:: 679adc9c-3c66-41ba-818d-bd594d2ee003
+  collapsed:: true
 	- 用途
 		- AI对话
 			- “啊啊啊啊宝宝宝宝它只是看起来像对话啊啊啊啊！”
@@ -309,8 +311,7 @@
 		  id:: 67eb2809-5bb1-4072-8569-ef0daae50768
 		- ---
 		- ((67ac5265-d572-4098-82d6-8b39dc2ba276))
-		- id:: 67ba7a7a-07bd-4c85-bac5-cdd2e1f5be66
-		  ---
+		- ---
 		- [新星球大战，这次轮到谁恐慌了](https://mp.weixin.qq.com/s/f-SY2mSzENfaRUX45tvEvw)
 		  id:: 679585f0-7ab6-4dd0-8fe5-f5338245568f
 			- [新星球大战，这次轮到谁恐慌了|美国|英伟达|gpu|war|系列显卡_网易订阅](https://www.163.com/dy/article/JMQFRRLG0553M0QM.html)
