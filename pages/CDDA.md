@@ -17,6 +17,7 @@
 - ((65d2ecf3-8af1-47e4-9219-317a3d501fe1))
 - [【图片】0.H cdda纯萌新攻略【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9561678056)
   id:: 6825b31c-9365-452a-88b2-e6ed9ede0e50
+  collapsed:: true
 	- [【图片】回复：0.H cdda纯萌新攻略【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9561678056?pid=151799589880&cid=0#151799589880l)
 	  id:: 683ec6b5-315f-4138-a664-9d6dc834c1fc
 - [坏蛋嘿嘿怪的个人空间-坏蛋嘿嘿怪个人主页-哔哩哔哩视频](https://space.bilibili.com/274971044)
@@ -279,6 +280,7 @@
 						- 点一下看看怎么个事
 				- 技能
 					- 实物（武器除外）操作类技能都点了有最多配方所需的最小等级（“为了游戏性灵活前瞻一下”）
+					  collapsed:: true
 						- ((679add3e-6367-4bfc-a7be-297633576b79))
 						- “主要靠先进的生产资料”
 							- “先进的、较少受人力影响的生产资料，现成的（还真是，复杂部件都不用自己造），拿来！”
@@ -375,6 +377,51 @@
 			- [mutation - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/mutation?lang=zh_CN)
 			- 发色、肤色、瞳色等也是变异，妈妈生的变异，合理
 			- 诱变剂
+- 帮助（比游戏教程详细，适合正常游戏中参考）
+- 物品
+  collapsed:: true
+	- 物品种类很丰富，挨个看（每次都）能看老半天，但并非所有物品都有用
+	- 以工具为例，其他物品有相同和更多用途（记不住按I比较）的就从身上放到载具等容器（之后可以集中卖掉或丢弃）或丢弃，除非多件物品的组合更轻（比如老虎钳比铁皮剪重）更小
+	- 制造不光看工具、材料及相关技能等级，还看除了特性（角色设定的天赋 ）的专长，叠加起来时间惩罚会比较恐怖，而且就算没有时间惩罚，那么长的制造时间也仍可能“造不如买，买不如拿”，很多物品“极大丰富”，可以不造
+	- 同一格不止一种（而不是一个）物品就会显示两或三个小点
+	- ---
+	- 用途、来源
+	  id:: 678a4dd4-34f1-487f-b44f-cab62198ef95
+		- [请问物品的各种功能等级代表什么？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8835274771)
+		  id:: 67442188-4637-4b93-840e-a8273ee90211
+		- [大家会主动去记某个物品的来源/用途吗?【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9284809979)
+		  id:: 678a4dd4-d59c-41cc-9a85-003b24dd88f5
+		- 使用物品activate（“激活”） a（从物品到用途）
+		- 物品使用菜单/功能菜单 %（从用途到物品）
+	- 耐久
+	- “+数字”表示该物品安装了多少模组（模块），例如枪械、护甲
+	- 配方
+		- 部分可由 ((67eb2809-2a07-4b63-9b8c-01ef123d9843)) 等级达到了自动学会，但其他需要从书籍学习——一定程度上是合理的
+	- 交换价值
+	  id:: 674d5fdb-ddb7-448b-a700-6865a9d976e2
+	  collapsed:: true
+		- 交易用，NPC会打折，同一物品对不同NPC的交换价值不一样（“啊？这么好的苏打不拿来用吗？”）
+		- ((6749d547-fb05-40c2-9239-3cb0f1a562c8))
+		- 指南、书籍、地图（读过了可以不扔）、游戏（战舰、国际象棋等杂物，更贵）、眼镜、护甲、饰品（耳环、戒指等）、药物、科技装备（夜视仪等）、催泪瓦斯喷雾（更贵）、智能手机等比较值钱
+		- [这游戏是不是禁止了倒卖【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9169586282)
+		- 没必要捡的
+			- ((6741e86b-c3fa-408f-bb85-d034a37819d1))
+			- 美元硬币（0.01）>美元纸币（50美元0.01，其他0）>各种卡（0）
+		- 工业垃圾箱75，不知道什么NPC会买
+		- ((6751b00a-3ad1-4de3-825f-f8951bfa2dcb))
+		- ((6749d547-fb05-40c2-9239-3cb0f1a562c8))
+	- 钻石、金、蛋白石除了装饰外没用，铂金、银可用于杀虫剂等的制造
+	- ((674c3c02-0814-4a5d-9bba-88071b88ccdf))
+	- [cdda里有什么推荐的工具 武器 衣物 背包【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8244322955)
+	- [cdda有什么东西明明有用却被新人当fw【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7717265435)
+	- [末日下的必需品【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9001215561)
+	  id:: 674bf374-86bd-4d42-b865-1e7cd04054d2
+	- ---
+	- [cdda图片生成计划。_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/9718735444)
+- 物品栏
+  collapsed:: true
+	- 界面
+		- 最长
 - 地点（location）
   collapsed:: true
 	- 主线
@@ -492,7 +539,8 @@
 					- 到Hub01，顺路！
 						- ((67eb2809-c1ef-4d0f-918c-c935ccd3b79a))
 			- [自已摸索的关于鲁比克的小信息（0.h版本）：1.鲁比克刷新的cbm在代码注释里写的是按照经过的周数解锁更高级的cbm【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9485911754)
-				- 交易界面直接回车即可，什么都不用买卖
+				- （每隔3天以上？）交谈+1-2
+				- 每次交易+2，最多加10次，界面直接回车即可，什么都不用买卖
 			- [h版鲁比任务【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9299880467)
 			- ---
 			- 奇怪的石头谷仓
@@ -619,7 +667,6 @@
 		- 罗德岛
 		  id:: 679adca2-2f3c-421c-b921-318ff204eb9e
 			- [罗得岛州_百度百科](https://baike.baidu.com/item/%E7%BD%97%E5%BE%97%E5%B2%9B%E5%B7%9E/3439332)
-- 帮助（比游戏教程详细，适合正常游戏中参考）
 - 设置
   collapsed:: true
 	- 选项
@@ -1058,51 +1105,16 @@
 			  id:: 674426f5-0c74-49dc-af72-205c01b57b10
 			- ((67402aab-d155-4c11-ad8f-0aef8aa0de3b))
 			- [发现一个神奇的小技巧【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9247877107)
-- 物品
+- ---
+- 任务
   collapsed:: true
-	- 物品种类很丰富，挨个看（每次都）能看老半天，但并非所有物品都有用
-	- 以工具为例，其他物品有相同和更多用途（记不住按I比较）的就从身上放到载具等容器（之后可以集中卖掉或丢弃）或丢弃，除非多件物品的组合更轻（比如老虎钳比铁皮剪重）更小
-	- 制造不光看工具、材料及相关技能等级，还看除了特性（角色设定的天赋 ）的专长，叠加起来时间惩罚会比较恐怖，而且就算没有时间惩罚，那么长的制造时间也仍可能“造不如买，买不如拿”，很多物品“极大丰富”，可以不造
-	- 同一格不止一种（而不是一个）物品就会显示两或三个小点
-	- ---
-	- 用途、来源
-	  id:: 678a4dd4-34f1-487f-b44f-cab62198ef95
-		- [请问物品的各种功能等级代表什么？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8835274771)
-		  id:: 67442188-4637-4b93-840e-a8273ee90211
-		- [大家会主动去记某个物品的来源/用途吗?【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9284809979)
-		  id:: 678a4dd4-d59c-41cc-9a85-003b24dd88f5
-		- 使用物品activate（“激活”） a（从物品到用途）
-		- 物品使用菜单/功能菜单 %（从用途到物品）
-	- 耐久
-	- “+数字”表示该物品安装了多少模组（模块），例如枪械、护甲
-	- 配方
-		- 部分可由 ((67eb2809-2a07-4b63-9b8c-01ef123d9843)) 等级达到了自动学会，但其他需要从书籍学习——一定程度上是合理的
-	- 交换价值
-	  id:: 674d5fdb-ddb7-448b-a700-6865a9d976e2
-	  collapsed:: true
-		- 交易用，NPC会打折，同一物品对不同NPC的交换价值不一样（“啊？这么好的苏打不拿来用吗？”）
-		- ((6749d547-fb05-40c2-9239-3cb0f1a562c8))
-		- 指南、书籍、地图（读过了可以不扔）、游戏（战舰、国际象棋等杂物，更贵）、眼镜、护甲、饰品（耳环、戒指等）、药物、科技装备（夜视仪等）、催泪瓦斯喷雾（更贵）、智能手机等比较值钱
-		- [这游戏是不是禁止了倒卖【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9169586282)
-		- 没必要捡的
-			- ((6741e86b-c3fa-408f-bb85-d034a37819d1))
-			- 美元硬币（0.01）>美元纸币（50美元0.01，其他0）>各种卡（0）
-		- 工业垃圾箱75，不知道什么NPC会买
-		- ((6751b00a-3ad1-4de3-825f-f8951bfa2dcb))
-		- ((6749d547-fb05-40c2-9239-3cb0f1a562c8))
-	- 钻石、金、蛋白石除了装饰外没用，铂金、银可用于杀虫剂等的制造
-	- ((674c3c02-0814-4a5d-9bba-88071b88ccdf))
-	- [cdda里有什么推荐的工具 武器 衣物 背包【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8244322955)
-	- [cdda有什么东西明明有用却被新人当fw【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7717265435)
-	- [末日下的必需品【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9001215561)
-	  id:: 674bf374-86bd-4d42-b865-1e7cd04054d2
-	- ---
-	- [cdda图片生成计划。_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/9718735444)
-- 物品栏
-	- 界面
-		- 最长
+	- 不用刻意优先做任务，只有少量任务对自身发展比较重要
+	- “任务/剧情/体验强迫症？”
+		- “NPC布置的作业罢了”
+		- “付出很多没实用回报的任务也做，你不做有的是玩家做”
 - 载具
   id:: 6742fa85-e9fc-4067-8b4d-b10f44d6916d
+  collapsed:: true
 	- 速度与格数对应关系
 		- 加速、减速能力
 		- ((6846dc93-e3f2-4340-9d05-7177b6e50589))
@@ -1420,7 +1432,8 @@
 		- [枫树于晚冬至早春产出枫糖浆【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9221576564)
 		- [树木插管如何使用？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/4957248202)
 	- 虎杖（解渴：6）
-id:: 675650c8-e9da-46ef-a853-1037199fd094
+	  id:: 675650c8-e9da-46ef-a853-1037199fd094
+	  collapsed:: true
 - ((675c1ac3-f0f0-4766-af89-5bcbe88e2334)) 里不是非得放食物
 - 工具
   collapsed:: true
@@ -1858,6 +1871,7 @@ id:: 675650c8-e9da-46ef-a853-1037199fd094
 			- 载具残骸
 			- 能爬上梯子，
 		- 战斗
+		  collapsed:: true
 			- 补刀
 				- 有时怪物过了陷阱还没死，并且已经到了你面前
 			- 攻击/开火/射击fire f
@@ -1968,6 +1982,14 @@ id:: 675650c8-e9da-46ef-a853-1037199fd094
   collapsed:: true
 	- 可能新手可以夜晚跑熟路
 	- [【图片】开个实况贴，记录从零开始变强的过程【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8658432604?pid=148841724655&cid=0#148841724655)
+- [CBM](https://cdda-guide.nornagon.net/search/cbm?lang=zh_CN)
+	- [你们觉得有什么cbm可推荐的？怎么提高cbm上限？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7863751893)
+	- [【图片】cbm测评记录贴【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7972349477)
+	- [关节伺服和动力齿轮【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8839960681)
+	- [实验版的多重消化系统废了【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9168330628)
+	- 投掷辅助
+	  id:: 67567842-23b8-4167-be2d-cc74ccbceae4
+		- ((675677d1-1497-4742-b56c-50277c7b9c66))
 - 阅读read R
   collapsed:: true
 	- 专注高时读一会儿即可
@@ -1979,11 +2001,6 @@ id:: 675650c8-e9da-46ef-a853-1037199fd094
   id:: 678a4dd4-fdab-4e10-a4b9-fb1ff1eff77a
   collapsed:: true
 	- “提醒自己别超时，及时撤离和起床”
-- 任务
-	- 不用刻意优先做任务，只有少量任务对自身发展比较重要
-	- “任务/剧情/体验强迫症？”
-		- “NPC布置的作业罢了”
-		- “付出很多没实用回报的任务也做，你不做有的是玩家做”
 - 营地
   collapsed:: true
 	- [CDDA大灾变:营地[0.H版]第1期 创建营地 设定区域 派发食物 收集材料 收集柴火 采集植物 打猎捕猎 武装巡逻 侦查地形 战壕工程 建造物品 藏匿点 伐_哔哩哔哩bilibili_新手教程](https://www.bilibili.com/video/BV1ZKGkzaEH9/)
@@ -2019,15 +2036,18 @@ id:: 675650c8-e9da-46ef-a853-1037199fd094
 	- [《破拆异界传送门的若干实行方案及原理》【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7501816306)
 	  id:: 678a4dd4-c27d-448c-b0a7-58306c069c7e
 - 雷区
+  collapsed:: true
 	- [雷区挡路了有什么可靠的解决方法吗？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6038589243)
 	- 好像边上没雷？摩托车可以绕过去
-- 退游原因
+- （前期）退游原因
   collapsed:: true
 	- ((6757f068-5024-4299-a0cf-1c0db42dbe1a))
 		- “玩打火机玩的”
 		  id:: 679adca2-cdca-48a2-9dde-e6f959c0c77c
 		- “还有第一周鲁比克没刷希腊长矛不想充实或跳过一周导致的”
 - 中后期
+	- 开始装CBM、造炮塔载具、变异等算进入中期
+	- [扛过前期了中后期咋发展啊【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8375956597)
 	- [【图片】CDDA 中后期路线 需求 路线指南【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8838390011)
 	- [丧失游戏的乐趣。各位玩的动力是啥？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8987137556)
 - （更多）玩法
@@ -2053,6 +2073,7 @@ id:: 675650c8-e9da-46ef-a853-1037199fd094
 			- 调好后可在“游戏”中“启用成就”调回来
 		- [做了个CDDA人物/车辆导入导出工具【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7787766014)
 	- 外部参考资料
+	  collapsed:: true
 		- ((684658b7-551b-4658-8e77-7dda2bd1befd))
 		- [The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/?lang=zh_CN)
 		  id:: 674c3c02-0814-4a5d-9bba-88071b88ccdf
@@ -2066,6 +2087,7 @@ id:: 675650c8-e9da-46ef-a853-1037199fd094
 		- [cataclysmdda吧-百度贴吧--终焉未至，痛苦犹存--Cataclysm: Dark Days Ahead是一个开源的后启示录背景生存roguelike游戏。游戏特色包括物品制作，探索搜寻，战斗，](https://tieba.baidu.com/f?kw=cataclysmdda)
 	- [这里是cdda忏悔室，大家做了什么坏事都可以在这里说【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8727599791)
 	- 看别人玩
+	  collapsed:: true
 		- [【CDDA 0.H?】色盲模式！实况01_单机游戏热门视频](https://www.bilibili.com/video/BV1sw2rY2EXj)
 		  id:: 68477306-881b-4a44-89ff-1e554267a28a
 		- [【补档】【CDDA】琴叶姐妹的末日行记【VOICEROID实况】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1J7steaEMX)
@@ -2225,16 +2247,8 @@ id:: 675650c8-e9da-46ef-a853-1037199fd094
 	- 钱包
 	  id:: 6741e86b-c3fa-408f-bb85-d034a37819d1
 		- 无法分解，无交换价值
-- [CBM](https://cdda-guide.nornagon.net/search/cbm?lang=zh_CN)
-  collapsed:: true
-	- [你们觉得有什么cbm可推荐的？怎么提高cbm上限？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7863751893)
-	- [【图片】cbm测评记录贴【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7972349477)
-	- [关节伺服和动力齿轮【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8839960681)
-	- [实验版的多重消化系统废了【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9168330628)
-	- 投掷辅助
-	  id:: 67567842-23b8-4167-be2d-cc74ccbceae4
-		- ((675677d1-1497-4742-b56c-50277c7b9c66))
 - 一些物品
+  collapsed:: true
 	- 工具腰带、承重背心，长矛等
 	- 手术刀
 	- 简易锤子（厨房可能有锤子）
