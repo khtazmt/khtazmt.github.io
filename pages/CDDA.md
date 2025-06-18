@@ -159,6 +159,10 @@
 		  collapsed:: true
 			- ((67402aab-b8ee-4c0d-9968-91c0cf2f76ac))
 			- [关于游戏技能设定【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9155459591)
+			- [咱们小@也太废物了吧【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9704653921)
+				- 但靠墙时扔燃烧瓶砸身边墙上就离谱
+			- “你这个技能疑似有点反智（力）了”
+			- ---
 			- 有不同进度范围的等级，对应理论知识进度和实践知识进度，实践知识进度低于理论知识进度时会有学习奖励
 			- 游戏中的角色面板中的技能栏目
 			  id:: 6848065a-50e3-4b65-b0e9-f749d5b53ff3
@@ -204,7 +208,14 @@
 			  collapsed:: true
 				- “最认真捏人、备游、ARG的一集”
 				- 一本正经地这样玩，或许也算是一种认识、完善你自己的路径
+					- “学CDDA就挺累人了”
+						- [Every hour in CDDA, new things to learn. (Im not making fun of new players on meme btw.) : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/1fy4tes/every_hour_in_cdda_new_things_to_learn_im_not/)
 					- [What are some things that Cataclysm has taught you in real life? : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/15z2mjm/what_are_some_things_that_cataclysm_has_taught/)
+					- [So...how many of you tried to learn irl new skill due to CDDA? : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/1bh0dji/sohow_many_of_you_tried_to_learn_irl_new_skill/)
+					  id:: 68521331-c3c3-432c-b746-29b95a423c69
+						- >Also downloaded some helpful books that i think would increase one of the skills in cdda about but i still didnt get to read them haha. Speaking about books I heard that the books on cdda are based on real life books, just named a bit differently. I wonder if theres a list of all the realife counterparts of those books.——评论
+						- >Thats cool,Have you tried making yourself in the game with the skill and stats you think you have?——评论
+						- [What real world equivalents of the Skill Books and Martial Arts books from CDDA would be in your essential apocalypse survival library? : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/l4fkvg/what_real_world_equivalents_of_the_skill_books/)
 					- ((678a4dd8-277b-4c11-9607-e6b9acc500fa)) （“有端联想”）
 					- “两个世界的平衡”
 						- 定时玩CDDA
@@ -274,6 +285,7 @@
 					- 乐天派
 						- ~~或许只是个人日常生活没啥压力导致的~~
 					- 外向
+					- ~~不需要戴近视镜就不是近视~~
 					- 自然生发
 						- 点一下看看怎么个事
 				- 技能
@@ -288,6 +300,8 @@
 						- “那么其他技能呢？”
 							- “战斗类平衡一下，没练过的不动”
 								- {{embed ((67d27058-af2a-440a-bcae-21277f942ff9))}}
+							- “什么重武器0不能用榴弹发射器、没步枪3不能装枪托？我上网用眼睛看看就会了就可以在游戏用了”——“当然，可以只加理论等级”
+							- “刺击1在小水塘用匕首扎不到鱼？这对吗？”
 						- “这么加，对于稍微赶时间的新老玩家应该都是比较友好的，很合理”
 						- ---
 						- ((684005fe-193a-4412-8df5-a33b388d3f24))
@@ -298,7 +312,7 @@
 				- ---
 				- ![image.png](../assets/image_1749052051422_0.png) [[20250604]]
 					- ((6847fbf9-55bb-4084-aa29-1210ee32f83e))
-				- 搞定后，在“世界”中选择“角色转为模板”（转为模板后不会再随游戏变化，之后游戏中有明显提升后可再转更新）
+				- 搞定后，在“世界”中选择“角色转为模板”（转为模板后不会再随游戏变化，之后游戏中有明显提升后可再转更新；状态、随身物品等也会带着，老肉体穿越流亡族了）
 			- [哪一种开局适合新手？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7734580553)
 			- [推荐给新人的一个万金油强力捏人开局【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8951867212)
 	- 详情
@@ -374,6 +388,8 @@
 			- ((6743dbdb-6fa1-43c6-84b5-15b58486053c))
 		- [【图片】肢体系数浅析【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9142732841)
 		- [【图片】试着AI生成了一下自己的角色【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9235827268)
+		- 技能
+			- 配合读书好像没纯实践快，至少初级应该是这样
 		- ---
 		- 变异
 			- [mutation - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/mutation?lang=zh_CN)
@@ -381,6 +397,7 @@
 			- 诱变剂
 - 帮助（比游戏教程详细，适合正常游戏中参考）
 - 操作方式
+  collapsed:: true
 	- 需要更多用键盘（手柄设置好了也可能用）
 		- ((68006759-4e07-4520-a79a-2c4111e8f69e))
 	- 角色在主画面中心
@@ -748,6 +765,7 @@
 				- 药物
 				- 指南
 				- 书籍
+					- [Books - The Cataclysm: Dark Days Ahead Wiki](https://srgnis.github.io/cdda-wiki/cdda_wiki/Books)
 				- 地图（读过了可以不扔）
 				- 游戏（战舰、国际象棋等杂物，更贵）
 				- 哮喘吸入剂（7.5）、双向无线电
@@ -940,14 +958,18 @@
 				- 有“标注”流亡族营地位置的地图，没找到难民中心也可以去了（然后第一次发现它后第一段自动驾驶就开到了难民中心围栏边......）
 		- 科迪·杰（子弹银行，枪匠）
 			- 科迪·米勒可能刷钢矛，不如希腊长矛，卖得也比较贵，但有需要的话就比前期短时间自制矛好不少
+			- 科迪·米勒还可能刷穿甲剑，有甲了可以（“并非”）一步到位刺击爽同时练闪避
 			- 当前用科迪·米勒的工坊可能导致信任度下降（“可以调试回来”）
 				- [Faction Territory System Doesn't Let You Use Some Mechanics · Issue #78002 · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/issues/78002)
+			- [【图片】实验版枪展任务道具【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9112445841)
 		- Hub 01
 			- 护甲（打第一个机器人后回来交任务时的智力10选项再送两件护具）、反机器人的眩晕步枪、
 			- 第一个任务
 				- 可以骑摩托车让同伴人形炮塔，也可能单人松开驾驶攻击
 			- 狩猎钢铁
 				- 如果用眩晕步枪击晕后按“查看”没反应，大概需要事先浏览一下附的“三琢面”操作手册再开枪（“介绍任务时确实说了”）
+				- 眩晕步枪用电，可用来练习枪法、步枪技能
+					- 不想打中立怪物可以找个慢的敌对怪物（比如爬行丧尸）同时练闪避
 			- 返还发件者
 				- 车喇叭走位引开（胆汁士兵丧尸可以尽量单独引开），用其他士兵丧尸卡位挡胆汁士兵丧尸的酸液
 				- [关于前中期如何快速刷战斗等级【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9614178125)
@@ -961,13 +983,18 @@
 					- 扔燃烧瓶或手雷
 					- 没杀完可以把佣兵往前推，然后注意往后躲电弧
 						- “非常好水蛭花，把咱手机的电给充满了”
-				- ---
 			- 来Hub外的自由商会商人
 				- “又来三位”
 			- [怎样重复获得HWP？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8432320032)
 			- 寻光之旅
+				- 可以贴墙砸玻璃进楼，适度卡位把附近敌人消灭后，注意绕过吊挂内脏，通过空中往楼下靠墙处扔燃烧瓶然后远离楼下怪物视野等它们被烧死，之后带枪放木梯下去，看不清的照明或开（夜视）红外（比如Hub可能卖的模块化侦查头盔），注意悬挂内脏可能在暗处，攻击距离2格
+				- 之前了解或试过的
+					- 夜里可以用Hub模块化侦查头盔等开夜视红外潜入
+					- 白天可以在东边森林里扔燃烧瓶（保险点带10个以上，减少绕怪麻烦和风险；之前只带了3个直接开摩托穿插到位开始扔，效率有点不够）卡位，然后开枪引怪
+						- 枪法不好、但有重武器1级及以上也可以用榴弹，弹药够可以走公路炸一路（反正榴弹相比唯一的任务是多得多的；“一切恐惧源自火力不足”）
+				- ---
 				- [实验版更多的hub01的模块化防护系统哪里搞？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8805991359)
-				- 白天可以在东边森林里扔燃烧瓶（保险点带5个以上）卡位，然后开枪引怪
+	- [各种时期非常值得探索的建筑【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8852887984)
 	- 富
 		- [军事掩体 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/military_bunker_1)
 			- [军事掩体有点肥啊【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9568682070)
@@ -989,18 +1016,20 @@
 	- LMOE避难所（Last Man On Earth）
 		- 私人自建避难所，比FEMA避难所更远，在林地里，无公路连接，地图上可能先看到outcropping（地表露出）
 		- [【图片】一个与LMOE避难所有关的隐藏任务【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8930715806)
-	- [各种时期非常值得探索的建筑【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8852887984)
 	- 导弹发射井
 		- 可能有辐射
 	- 可能比较特殊的地点
 		- 地缚灵-幽灵小屋
 		  id:: 684ee44c-55db-4f4e-8008-10545bbf155b
+			- [Strange Cabin - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/Strange%20Cabin)
 			- [森林中的鬼屋【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9613041840)
-		- 宁静农庄、果园
-			- 物品解谜环节主要使用砸、查看和激活（“让我试试丢东西自组装、递给人形物体东西、找阳光阅读、触发推箱子机关”）
-			- 通关赠送中性特性
+		- 安静农庄、果园
+			- [quiet_farm - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/quiet_farm)
+			- 同一个角色只能触发一次
+			- 物品解谜环节主要使用砸、查看和激活（“让我试试丢东西自组装、递给人形物体东西、多处找光阅读、触发推箱子机关”）
+			- 通关赠送正面特性，加1敏捷
 				- [舒适的体液 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/mutation/NOT_GLASS)（“并非玻璃”——《自我悦纳》）
-			- 衣柜仍可拆或砸
+			- 通关后若衣柜挡路可拆或砸
 	- ---
 	- 地形（terrain）
 		- 包括大部分“墙”、“楼顶”
@@ -1199,7 +1228,7 @@
 					- [切换大地图贴图包 - by khtazmt - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=6f026556-1b60-418f-8c66-08dda3deac8a)
 					  id:: 6841462a-6621-45b1-80ae-74625dee2db7
 					- 我用的是SurveyorsMap
-						- 地图图例根据建筑的变种进一步细分“测绘”，细节到1格之内
+						- 地图图例根据建筑的变种进一步细分“测绘”，细节到1格之内，比如栅栏缺口
 							- UltiCa类、MSXotto+相对容易区分民宅有无车库，但没细到不同变种
 						- 根据配色，可以相对快速、少重复地识别地点类别
 			- 小地图
@@ -1322,6 +1351,11 @@
 				- 单格电动货舱车
 					- [【图片】移动手推车好爽啊【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8153844446)
 					  id:: 684a76ef-3c10-45fe-8ef3-0bef7ae39692
+		- ---
+		- 可能与故障相关的
+			- [汽车过滤器 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/filter_liquid)
+			- [空气过滤器 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/filter_air)
+			- [高压泵 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/pump_complex)
 	- ---
 	- 滑板
 	  id:: 678b0485-b9f7-434e-8105-08476ed1891a
@@ -1622,11 +1656,10 @@
 	- 丁烷
 		- [新版本火烧丁烷罐的伤害太离谱了【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8295711885)
 - ---
-- [伤害和护甲【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7569629795)
-- [大伙中期都穿什么甲？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9283511045)
 - 覆盖
 - 服装
   id:: 67402aab-6efd-4540-9021-f31c26d8e843
+  collapsed:: true
 	- 修理、改合身
 		- ((678a4dd4-7cad-4a37-8869-e94a51072b36))
 		- 需要使用对应材质的“布片”而非“面料”，多种材质的使用其中一种即可
@@ -1640,6 +1673,7 @@
 	- “开局零累赘好物”
 		- 头灯（可捡可用手电筒造，能照明还有护甲）
 		- ((674fd96a-f9ff-4cfd-845d-55aee2f7ec1b))
+	- [话说好像没人讨论过背包【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9381522087)
 	- ---
 	- 内衣（贴身层）
 		- [棉帽 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/hat_cotton)
@@ -1685,9 +1719,17 @@
 	- ---
 	- 内衬（无内衬时会与部分穿戴物摩擦、膈应使对应部位“皮肤不适”降低速度）
 - 护甲
+  collapsed:: true
+	- [【CDDA】大灾变（0.H）装备_攻略](https://www.bilibili.com/video/BV1fMdQY9E4k/)
+	- [伤害和护甲【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7569629795)
+	- [大伙中期都穿什么甲？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9283511045)
 	- [战斗通用的毕业套装是什么【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8861941201)
 	- [0.G的话那套护甲最好用？？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9141921518)
 	- 怪物身上的护甲会被打烂，所以用枪比较好
+	- 幸存者面具（轻型）在实验版已经削成了幸存者半脸面罩
+		- [幸存者面具（轻型） - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mask_lsurvivor)
+		- [幸存者半脸面罩 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mask_lsurvivor)
+		- [Update and overhaul survivor masks by worm-girl · Pull Request #70666 · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/pull/70666)
 	- 防暴套装（警察丧尸）
 	- 护甲有限时，一般谁更扛伤谁穿
 - ---
@@ -1747,7 +1789,7 @@
 		- 有些在旷野上的小屋里
 		- 现版本NPC枪法就是好，所以一般应该没必要拿他们枪自己用
 		- 队友
-			- 杀儿童丧尸之类的“脏活”可以让队友干，他们不掉心情
+			- 杀儿童丧尸之类的“脏活”可以让队友干，他们不掉心情（但其实也就掉一会儿，战斗起来专注也高不了）
 			- 注意他们的弹药量
 			- 交易不用钱了，直接交换
 				- 可以帮你背东西，但得有足够容积
@@ -1755,6 +1797,8 @@
 				- 使用任何远程武器
 				- 交战规则
 					- 攻击过于靠近的敌人
+			- NPC不用你希望他们用的物品（比如武器）
+			- [这个NPC战斗系统到底是什么东西啊？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9510528937)
 			- 戒严会让队友停留在一个有门的房间不出去，需要取消戒严
 			- [开局自带的NPC不需要食物是啥啊？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9500079479)
 			- “自带寻床技能”
@@ -1779,9 +1823,11 @@
 			- 友好且食物充足时（？）可按e（“原来不是使用容器啊”）挤奶
 			- 过于靠近（2格内）牛犊会使中立的牛敌对（“原来如此”）——可以不过于靠近或稍微靠近把牛犊赶走
 	- 敌对
+	  collapsed:: true
 		- 通常会就近确定攻击对象，所以刷出各种路人、敌对生物时不着急可以先等等，包括开车穿插时，可以等开口足够大后再加速突破
 		- 有些怪物会拆墙，然后你就从屋顶掉下去了
 		- 丧尸zombie
+		  collapsed:: true
 			- [丧尸是自动刷新的吗【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8882178009)
 			- 儿童丧尸
 			  id:: 674183ff-146a-4209-9e7e-78dd1544961a
@@ -1906,6 +1952,7 @@
 					- 可能需要及时灭火，不然时间长了变成火焰，如果在拾取或绕得太近时就可能受伤——可能在围栏外也能把里面的绕死
 			- [燃烧瓶 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/molotov_lit)
 				- 一扔就是3×3的烈火
+				- 前期可能用承重背心的战术工具袋（取物耗时80）装两瓶，或是战术背心装三瓶（取物耗时50/100/100）
 			- （只）烧物品
 			- 烧建筑（备选）
 				- 最好把怪物都引到建筑物外烧死，不然烧塌方上层就没了进不去了，下层没塌的怪物也没清完
@@ -1929,10 +1976,12 @@
 				- ((68493779-5bcb-479c-b86f-64a5f562df21))
 				- ((678a4dd4-c27d-448c-b0a7-58306c069c7e))
 		- 武器
+		  collapsed:: true
 			- 武器攻击时可能被墙、货架等挡着
 			- 攻击距离
 			- 也可根据人物属性
 			- [萌新求推荐近战武器【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9032576342)
+			- [0-H版本的蝴蝶剑配菲律宾剑棍术很强啊【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9760997679)
 			- [装备我该怎么再升级一下【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9036272471)
 			- 远距攻击近战武器
 			  collapsed:: true
@@ -1997,7 +2046,9 @@
 				- 有枪的话当然拿一下
 				- 一定程度上瞄准越久越好，瞄到贴脸时射击性价比最高
 				- 枪会堵塞等，所以平时检查，带备用枪
+				- 流亡族战斗步枪可以连发
 				- [回复：(图文直播) 废土佣兵的日常生活_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/9088673526?pid=150647823117&cid=0#150647823117)
+				- [玩枪械流来聊聊你们推荐的枪械呗【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6610821127)
 				- [该怎么选枪去哪里找枪？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9043277467)
 				- [请问几个基本操作级别的问题【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8391865019)
 				- 姿势不影响射击耗时
@@ -2006,6 +2057,8 @@
 				- 弹药
 					- 士兵丧尸等射击护甲较高的建议用穿甲较高的子弹
 					- [求问如何大量获取弹药【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9016770955)
+				- 模组（模块、配件）
+					- 光标选中模组时可以选择安装（“怎么这些枪只能拆卸和调整模组啊？难道我等级还不够？不应该呀！”）
 				- 车载炮塔
 					- 悍马上一般有重机枪
 			- 投掷
@@ -2021,8 +2074,10 @@
 					  id:: 675677d1-1497-4742-b56c-50277c7b9c66
 				- ((67567842-23b8-4167-be2d-cc74ccbceae4))
 			- ---
+			- 国民警卫队刺刀
 			- 海军陆战队刺刀（近战，借助暴走鞋/旱冰鞋和地形打打普通丧尸还行，而且相对易损坏）
 			  id:: 674ab140-a3e8-4f6c-b84f-03e52866d45f
+			- 军用刺刀
 			- ---
 			- 骨刀
 			- 长棍
@@ -2060,6 +2115,9 @@
 				- 有时怪物过了陷阱还没死，并且已经到了你面前
 			- 攻击/开火/射击fire f
 			- 自动攻击tab
+				- 攻击中立怪每次都弹窗
+					- [does anyone know how to disable this? : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/1551369/does_anyone_know_how_to_disable_this/)
+					- 我是给确认键加了个tab
 			- 看不见时也可以打到
 			- ((674074e5-8364-4885-a12a-1f18b736efea))
 			- ((6740aaa0-f4f9-42ff-8f95-c72b089a3070))
@@ -2101,6 +2159,7 @@
 		- 真菌
 		- ---
 		- [CDDA 不走寻常路的群友们_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vyuXe6ETH)
+		- [这游戏中期怪怎么打【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9747576190)
 		- [抵御怪物图鉴：从入门到入土（第1期）_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/9051316840)
 		- [各位中期一般会选择如何清理城市?【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8558474870)
 	- 防止复活
@@ -2115,6 +2174,7 @@
 			  id:: 6847ecfa-d686-49f9-93d0-3837f9665a39
 		- 屠宰butcher B
 		  id:: 6743e02e-0252-46dc-a076-63461b8ca680
+		  collapsed:: true
 			- 快速肢解比捣碎更快更省力，并可在无防护时处理酸液丧尸等
 			  id:: 684e266e-8daf-4fde-8f0f-c991008c6364
 			- 如需屠宰要及时屠宰，过几小时可能变丧尸（“好可怕丧尸牛！”）
@@ -2229,6 +2289,7 @@
 		  id:: 679adca2-cdca-48a2-9dde-e6f959c0c77c
 		- “还有第一周鲁比克没刷希腊长矛不想充实或跳过一周导致的”
 - 中后期
+  collapsed:: true
 	- 开始通过做Hub01任务（一开始就有简单高回报任务）、装CBM、造炮塔载具（探图自然就能发现带炮塔底座的装甲车，但概率偏小）、用希腊长矛以上（科迪·米勒可能钢矛）、变异等变强算进入中期
 	- [扛过前期了中后期咋发展啊【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8375956597)
 	- [【图片】CDDA 中后期路线 需求 路线指南【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8838390011)
@@ -2241,6 +2302,7 @@
 		  id:: 68480450-974f-4bb0-81db-18789de02db1
 		- SL大法
 		  id:: 674b169c-92c4-460d-a11a-2b08d8f1853d
+		  collapsed:: true
 			- [路人无聊过来问个问题啊【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6339407492)
 			  id:: 67402aab-bba8-4588-852c-ceac26ba83c9
 			  collapsed:: true
@@ -2255,6 +2317,9 @@
 		  id:: 68480dde-3d5d-4041-8406-7240ecacd817
 			- 调好后可在“游戏”中“启用成就”调回来
 			- ~~“如果你想确认个事，可以调试”~~
+				- 比如物品信息比 ((674c3c02-0814-4a5d-9bba-88071b88ccdf)) 的全
+			- “东西没带，回去拿一下，但是传送”
+				- 注意传送可能会影响地图记忆，导致正常游戏时看到不该看到的地形，可按需远离点传送
 		- [做了个CDDA人物/车辆导入导出工具【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7787766014)
 		- ---
 		- [游戏回档 - 萌娘百科 万物皆可萌的百科全书](https://mzh.moegirl.org.cn/%E6%B8%B8%E6%88%8F%E5%9B%9E%E6%A1%A3)
@@ -2270,7 +2335,9 @@
 			- 可以查地点/位置有什么物品，有什么家具可以拆、砸，等等
 			- [The Hitchhiker's Guide to the Cataclysm](https://cdda.doiiars.com/?lang=zh_CN)
 				- [CDDA漫游指南 国内直连镜像站【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8871692136)
+		- [The Cataclysm: Dark Days Ahead Wiki](https://srgnis.github.io/cdda-wiki/cdda_wiki/Main_Page.html)
 		- [cataclysmdda吧-百度贴吧--终焉未至，痛苦犹存--Cataclysm: Dark Days Ahead是一个开源的后启示录背景生存roguelike游戏。游戏特色包括物品制作，探索搜寻，战斗，](https://tieba.baidu.com/f?kw=cataclysmdda)
+		- [Cataclysm: Dark Days Ahead](https://www.reddit.com/r/cataclysmdda/)
 	- [这里是cdda忏悔室，大家做了什么坏事都可以在这里说【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8727599791)
 	- 看别人玩
 	  collapsed:: true
@@ -2524,7 +2591,7 @@
 	- 声音
 	  id:: 674b137c-d771-489f-a199-705e68827b18
 		- 可用于引怪
-		- 不一定正确的音量排序：喊<口哨<用油载具启动<车喇叭<枪声
+		- 不一定正确的音量排序：喊<口哨<用油载具启动<车喇叭<枪声（“大口径引怪效率就是高！”）
 		- [噪音发生器（关） - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/noise_emitter)
 		  id:: 684a5ecd-7d44-410b-954f-0b31dcd938d8
 			- 感觉像是被削了？
