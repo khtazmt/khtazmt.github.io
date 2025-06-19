@@ -71,6 +71,10 @@
 		- [【图片】<新手向>MOD入門：如何在CDDA中捏角【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6307216734)
 		- [简单的mod教学物品章武器篇【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7642657829)
 		- [【图片】新人向|无基础情况下如何从0开始写MOD【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7880896727)
+		- ---
+		- 更多中国元素
+			- “三大神书”
+				- ((68539f90-6143-40d5-822f-a587a4ba58c8))
 - 游戏教程
 - 世界
   collapsed:: true
@@ -208,6 +212,7 @@
 			  collapsed:: true
 				- “最认真捏人、备游、ARG的一集”
 				- 一本正经地这样玩，或许也算是一种认识、完善你自己的路径
+					- ~~“这小破游给我玩也是值了”~~
 					- “学CDDA就挺累人了”
 						- [Every hour in CDDA, new things to learn. (Im not making fun of new players on meme btw.) : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/1fy4tes/every_hour_in_cdda_new_things_to_learn_im_not/)
 					- [What are some things that Cataclysm has taught you in real life? : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/15z2mjm/what_are_some_things_that_cataclysm_has_taught/)
@@ -215,7 +220,50 @@
 					  id:: 68521331-c3c3-432c-b746-29b95a423c69
 						- >Also downloaded some helpful books that i think would increase one of the skills in cdda about but i still didnt get to read them haha. Speaking about books I heard that the books on cdda are based on real life books, just named a bit differently. I wonder if theres a list of all the realife counterparts of those books.——评论
 						- >Thats cool,Have you tried making yourself in the game with the skill and stats you think you have?——评论
-						- [What real world equivalents of the Skill Books and Martial Arts books from CDDA would be in your essential apocalypse survival library? : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/l4fkvg/what_real_world_equivalents_of_the_skill_books/)
+						- TODO CDDA相关图书
+						  id:: 68539f90-6143-40d5-822f-a587a4ba58c8
+							- [What real world equivalents of the Skill Books and Martial Arts books from CDDA would be in your essential apocalypse survival library? : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/l4fkvg/what_real_world_equivalents_of_the_skill_books/)
+							  id:: 6852b44f-124d-46a4-8b81-0b02d24af58a
+							- 游戏内的书
+								- “来找 ((6719a9c1-5892-4bbb-be33-95864782f3b4)) 了噢朋友们！ ”
+								- 不赶时间玩到再搜，包括逛图书馆等，赶时间 ((68480dde-3d5d-4041-8406-7240ecacd817)) 生成（但不确定效率是否更高）。看看什么技能、等级，对应价格、交换价值、所需智力、阅读时间、加心情量等（“比较、确认一下，可选”）
+									- ((66db8b0c-0180-4c7e-8a87-6df0379118bd))
+								- ((6852b44f-b5e1-461e-853a-c34d03fba962))
+								- 完全匹配的
+									- [Chemistry for Kids: Awesome Science Experiments that Really Work - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/basic_chemistry)（应用科学3）
+									  id:: 6853fbe7-fa71-4d9a-9075-35f7e2ad536a
+										- 搜索的条目是The Chemistry Book: Big Ideas Simply Explained——但点开后标题固定这一个“AKA”（Also Known As），其他同
+										- [The Chemistry Book - Big Ideas Simply Explained | DK | download on Z-Library](https://z-lib.fm/book/22217435/7017c1/the-chemistry-book-big-ideas-simply-explained.html)
+										  id:: 68540c10-79b6-44d8-a758-e08d43a01320
+											- DK有这个The XX Book系列
+									- [Water Survival Training Field Manual - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_swimming)
+										- [Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength | Steven Low, DPT | download on Z-Library](https://z-lib.fm/book/5646357/d241b1/overcoming-gravity-a-systematic-approach-to-gymnastics-and-bodyweight-strength.html)
+											- 以前下的还没怎么看和练
+									- [AAA Guide - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/textbook_anarch)
+										- 驾驶4，但有48个应用科学配方，结合起来看比GTA更道具——“那很007了”
+								- 部分匹配的
+									- 应用科学
+										- ((6853fbe7-fa71-4d9a-9075-35f7e2ad536a))
+										  id:: 6853fbd7-7745-437c-99d4-3fc599579661
+											- >A book with comprehensive and accurate step-by-step illustrated instructions for many scientific experiments, for young researchers and anyone else who wants to delve into the amazing world of chemistry.
+											- [Chemistry For Kids : A Complete Chemistry Guide For Beginners Practical Guide To Chemistry Science Fair Periodic Table Chemical Bonds | Alice McGraw Hill | download on Z-Library](https://z-lib.fm/book/3711877/601131/chemistry-for-kids-a-complete-chemistry-guide-for-beginners-practical-guide-to-chemistry-science-f.html)
+												- 看起来易读，但有不少事实性错误（“气体无法被非压缩地contain”、“空气没有重量”、“自然中没有等离子体”）
+												- 大概（纸质版也）没有插图
+											- [Awesome Science Experiments for Kids: 100+ Fun STEAM Projects and Why They Work | Crystal Chatterton | download on Z-Library](https://z-lib.fm/book/5477677/fa9af6/awesome-science-experiments-for-kids-100-fun-steam-projects-and-why-they-work.html)
+												- 按STEAM分类
+												- 一步步，有插图，应该就是这本了
+													- >In each chapter, you will find experiments that are simply and
+													  clearly outlined. Each experiment includes a list of materials and
+													  easy-to-read, step-by-step instructions.——该书
+												- 比 ((68540c10-79b6-44d8-a758-e08d43a01320)) 易读
+											- [Awesome Physics Experiments for Kids: 40 Fun Science Projects and Why They Work | Erica L. Colón | download on Z-Library](https://z-lib.fm/book/5477663/4b46ef/awesome-physics-experiments-for-kids-40-fun-science-projects-and-why-they-work.html)
+												- 按——物理，现象分类
+							- 游戏外的书
+								- 看评论下了
+									- [Foundations of Mechanical Accuracy | Wayne R. Moore | download on Z-Library](https://z-lib.fm/book/891052/a15467/foundations-of-mechanical-accuracy.html)
+										- ((6832bb42-317c-4c61-9b59-b1c74ce64e2d))
+								- 顺带下了
+									- [The Ultimate Guide to Smoking Meat, Fish, and Game: How to Make Everything from Delicious Meals to Tasty Treats | Monte Burch | download on Z-Library](https://z-lib.fm/book/26354591/3a8876/the-ultimate-guide-to-smoking-meat-fish-and-game-how-to-make-everything-from-delicious-meals-to-t.html)
 					- ((678a4dd8-277b-4c11-9607-e6b9acc500fa)) （“有端联想”）
 					- “两个世界的平衡”
 						- 定时玩CDDA
@@ -766,6 +814,7 @@
 				- 指南
 				- 书籍
 					- [Books - The Cataclysm: Dark Days Ahead Wiki](https://srgnis.github.io/cdda-wiki/cdda_wiki/Books)
+					  id:: 6852b44f-b5e1-461e-853a-c34d03fba962
 				- 地图（读过了可以不扔）
 				- 游戏（战舰、国际象棋等杂物，更贵）
 				- 哮喘吸入剂（7.5）、双向无线电
@@ -847,7 +896,7 @@
 		- 难民中心（refugee center，文档里也叫evac center，疏散中心）
 		  collapsed:: true
 			- 方形，面积大，有较长的方形围栏围着
-			- 可能在地图坐标0,0,1附近？
+			- 生成在大地图坐标0,1,0或附近？
 			- 可以交易，需要食物，不买智能手机
 			- 可能刷可以买的 ((6745560e-8a3b-40d6-87dd-a62a0a3f3ea7)) （第一周目前没见过）
 			- 我第一次到难民中心，里面NPC的故事好像有两处以上有矛盾
@@ -963,10 +1012,14 @@
 				- [Faction Territory System Doesn't Let You Use Some Mechanics · Issue #78002 · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/issues/78002)
 			- [【图片】实验版枪展任务道具【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9112445841)
 		- Hub 01
-			- 护甲（打第一个机器人后回来交任务时的智力10选项再送两件护具）、反机器人的眩晕步枪、
-			- 第一个任务
-				- 可以骑摩托车让同伴人形炮塔，也可能单人松开驾驶攻击
+			- 取回现场数据
+				- 多拿一个EMP手雷
+					- 可以开车撞
+					- 可以骑摩托车让后座同伴人形炮塔，也可能单人松开驾驶攻击
+				- 可以骑摩托车飞车拿雷扔雷
+				- 模块化防护服可以改合身、修理，交任务时的智力10选项再送护臂、护胫
 			- 狩猎钢铁
+				- 反机器人的眩晕步枪、
 				- 如果用眩晕步枪击晕后按“查看”没反应，大概需要事先浏览一下附的“三琢面”操作手册再开枪（“介绍任务时确实说了”）
 				- 眩晕步枪用电，可用来练习枪法、步枪技能
 					- 不想打中立怪物可以找个慢的敌对怪物（比如爬行丧尸）同时练闪避
@@ -978,22 +1031,30 @@
 			- 实验（prototype，原型）XX相比其他字样开头的是较轻较便宜的基础XX，其他字样开头的几乎每项防护都不低于实验XX
 			- Hub佣兵
 				- 1公斤黄金换8Hub金币（“4倍左右”）
-				- 水蛭花
+				- 激活降噪程序
 					- 穿Hub 01环境防护服
-					- 扔燃烧瓶或手雷
-					- 没杀完可以把佣兵往前推，然后注意往后躲电弧
-						- “非常好水蛭花，把咱手机的电给充满了”
-			- 来Hub外的自由商会商人
-				- “又来三位”
-			- [怎样重复获得HWP？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8432320032)
+					- 可能需要骑摩托快速接近以缩短怪物反应窗口，骑行时可能需要蹲下遮蔽视野（可能不需要带佣兵，或者之后再引来）
+					- 提前准备扔手雷和（或）燃烧瓶
+					- 没杀完可以把佣兵往前推让ta攻击怪物，然后注意往后躲电弧（如果没穿防护服——“非常好水蛭花，把咱手机的电给充满了”）
+				- 做完水蛭花任务可以（需要一定智力看出佣兵的武器不同寻常）定做HWP步枪，需要等1周
+					- [怎样重复获得HWP？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8432320032)
 			- 寻光之旅
-				- 可以贴墙砸玻璃进楼，适度卡位把附近敌人消灭后，注意绕过吊挂内脏，通过空中往楼下靠墙处扔燃烧瓶然后远离楼下怪物视野等它们被烧死，之后带枪放木梯下去，看不清的照明或开（夜视）红外（比如Hub可能卖的模块化侦查头盔），注意悬挂内脏可能在暗处，攻击距离2格
+				- 也许最少三个防毒面具滤芯
+				- 可以走林间小径贴墙砸玻璃进楼，适度卡位把附近敌人消灭后，注意绕过吊挂内脏，通过空中往楼下靠墙处扔燃烧瓶然后远离楼下怪物视野等它们被烧死
+				- 之后放木梯或使用抓钩下去，看不清的照明或开（夜视）红外（比如Hub可能卖的模块化侦查头盔），注意悬挂内脏可能在暗处，攻击距离2格，需要远程武器（狭小多怪空间用大口径可能更合适）。最后一个金属门一下涌不少怪可能需要穿甲剑等近战武器，也可以打掉开门一波后开两门在门外远点用榴弹尽量往里发射或扔两到三枚（一枚可能干不掉吊挂内脏）
+				- 浓厚毒气看不远可以扔照明弹或打怪掉的开了手电筒的手机，稍微好些
 				- 之前了解或试过的
 					- 夜里可以用Hub模块化侦查头盔等开夜视红外潜入
 					- 白天可以在东边森林里扔燃烧瓶（保险点带10个以上，减少绕怪麻烦和风险；之前只带了3个直接开摩托穿插到位开始扔，效率有点不够）卡位，然后开枪引怪
 						- 枪法不好、但有重武器1级及以上也可以用榴弹，弹药够可以走公路炸一路（反正榴弹相比唯一的任务是多得多的；“一切恐惧源自火力不足”）
-				- ---
-				- [实验版更多的hub01的模块化防护系统哪里搞？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8805991359)
+				- “怎么没吧友们说的纳米材料罐？”
+					- [【问】关于不认识的怪【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7921665242)
+						- 大概现在版本并非如此，没见着机器人
+					- 调试短距传送也没找着，也许是削了
+				- 完成后解锁士兵套等护甲，解读需要等一天
+					- [实验版更多的hub01的模块化防护系统哪里搞？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8805991359)
+			- 来Hub外的自由商会商队
+				- 主要卖食物
 	- [各种时期非常值得探索的建筑【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8852887984)
 	- 富
 		- [军事掩体 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/military_bunker_1)
@@ -2160,6 +2221,7 @@
 		- ---
 		- [CDDA 不走寻常路的群友们_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vyuXe6ETH)
 		- [这游戏中期怪怎么打【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9747576190)
+		- [【图片】回复：说一些小的心得【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/5603750381?pid=119841223806&cid=0#119841223806)
 		- [抵御怪物图鉴：从入门到入土（第1期）_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/9051316840)
 		- [各位中期一般会选择如何清理城市?【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8558474870)
 	- 防止复活
@@ -2294,6 +2356,7 @@
 	- [扛过前期了中后期咋发展啊【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8375956597)
 	- [【图片】CDDA 中后期路线 需求 路线指南【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8838390011)
 	- [丧失游戏的乐趣。各位玩的动力是啥？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8987137556)
+	- [这游戏后期还有什么玩的内容吗?【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8058446237)
 - （更多）玩法
   collapsed:: true
 	- 存档内特殊操作
@@ -2307,7 +2370,7 @@
 			  id:: 67402aab-bba8-4588-852c-ceac26ba83c9
 			  collapsed:: true
 			- 保存游戏后，alt+F4关闭游戏（不需要从当前游戏/存档退出到主界面再退出），重新打开就是保存时的游戏
-			- 启动器备份的压缩速度可能比较慢，可以打开CDDA目录直接复制（原地）粘贴saves文件夹（为了备份省时，建议一次只玩一个档）生成其副本，需要恢复时将原saves文件夹删除，根据文件夹的修改时间或当时的重命名选择对应副本并重命名为saves，然后再复制粘贴一份
+			- 启动器备份的压缩速度可能比较慢，可以打开CDDA目录直接复制（原地）粘贴saves文件夹（如有多个存档则复制粘贴对应世界的存档）生成其副本，需要恢复时将原saves文件夹删除，根据文件夹的修改时间或当时的重命名选择对应副本并重命名为saves，然后再复制粘贴一份
 				- 启动器更新后，上一版本的存档在previous_version文件夹里（注意启动器更新只会保存上一个版本非previous_version文件夹中的存档，如有需要可手动额外备份）
 			- ---
 			- 隔着大地图2格左右刷新地点
@@ -2318,6 +2381,10 @@
 			- 调好后可在“游戏”中“启用成就”调回来
 			- ~~“如果你想确认个事，可以调试”~~
 				- 比如物品信息比 ((674c3c02-0814-4a5d-9bba-88071b88ccdf)) 的全
+				- 可以显示地图刷好地图（比如只看主线地点之间是否够近）给别人玩或等自己大致忘了再玩
+					- m地图——shift+o大地图编辑器——r显示地图——我一般选full、1
+					- 流亡族搜索“岩丘”，科迪·杰搜索“枪匠”或“铁匠”
+					- 不喜欢可以调试不保存退出（shift+q）
 			- “东西没带，回去拿一下，但是传送”
 				- 注意传送可能会影响地图记忆，导致正常游戏时看到不该看到的地形，可按需远离点传送
 		- [做了个CDDA人物/车辆导入导出工具【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7787766014)
@@ -2576,6 +2643,7 @@
 			-
 - TODO [[《CDDA思维：为什么CDDA这么难，为什么玩家玩的也是自己游戏史的CDDA》]]
 - 侧边栏
+  id:: 68499f29-905d-4bbf-b7e1-403bc6f3170b
   collapsed:: true
 	- ((673e93d2-7fb1-4640-acdd-e79e45b84242))
 	- 侧边栏设置
