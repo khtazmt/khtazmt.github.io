@@ -1,0 +1,74 @@
+- [What real world equivalents of the Skill Books and Martial Arts books from CDDA would be in your essential apocalypse survival library? : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/l4fkvg/what_real_world_equivalents_of_the_skill_books/)
+  id:: 6852b44f-124d-46a4-8b81-0b02d24af58a
+- 游戏内的书
+- “来找 ((6719a9c1-5892-4bbb-be33-95864782f3b4)) 了噢朋友们！ ”
+- 不赶时间玩到再搜，包括逛图书馆等，赶时间 ((68480dde-3d5d-4041-8406-7240ecacd817)) 生成（但不确定效率是否更高）。看看什么技能、等级，对应价格、交换价值、所需智力、阅读时间、加心情量等（“比较、确认一下，可选”）
+	- ((66db8b0c-0180-4c7e-8a87-6df0379118bd))
+- ((6852b44f-b5e1-461e-853a-c34d03fba962))
+- ---
+- 近战技能
+- 远程技能
+	- 手枪
+		- 顺带下了
+			- [The Basics of Pistol Shooting - Anna’s Archive](https://annas-archive.se/md5/8d1d955d0a6ae59af22a97efe4aac33a)
+			- [Glock Handbook: An Operational Guide To The Glock Handgun | Mike Pannone, Erik Lawrence | download on Z-Library](https://z-lib.fm/book/5408000/b430e7/glock-handbook-an-operational-guide-to-the-glock-handgun.html)
+				- ((6856b32a-3062-453d-ae1e-e37067f8c277)) 搜作者
+	- 重武器
+		- [The Tao of the Handgun - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_pistol)
+			- [Practical Guide to the Operational Use of the M79 Grenade Launcher | Erik Lawrence | download on Z-Library](https://z-lib.fm/dl/24370631/be9f49)
+			  id:: 6856b32a-3062-453d-ae1e-e37067f8c277
+				- TT-33拖卡列夫手枪那本没搜到，但书名前半段完全匹配，这是个系列，或许是有那本的
+					- TODO [Amazon.com: Practical Guide to the Operational Use of the TT-33 Tokarev Pistol eBook : Lawrence, Erik: Kindle商店](https://www.amazon.com/Practical-Guide-Operational-Tokarev-Pistol-ebook/dp/B00UOEBP4C)
+- 工艺技能
+	- 食品加工
+		- 顺带下了
+			- [The Ultimate Guide to Smoking Meat, Fish, and Game: How to Make Everything from Delicious Meals to Tasty Treats | Monte Burch | download on Z-Library](https://z-lib.fm/book/26354591/3a8876/the-ultimate-guide-to-smoking-meat-fish-and-game-how-to-make-everything-from-delicious-meals-to-t.html)
+	- 应用科学
+		- ((6853fbe7-fa71-4d9a-9075-35f7e2ad536a))
+		  id:: 6853fbd7-7745-437c-99d4-3fc599579661
+			- >A book with comprehensive and accurate step-by-step illustrated instructions for many scientific experiments, for young researchers and anyone else who wants to delve into the amazing world of chemistry.
+			- 完全匹配（同名）的
+				- [Chemistry for Kids: Awesome Science Experiments that Really Work - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/basic_chemistry)（应用科学3）
+				  id:: 6853fbe7-fa71-4d9a-9075-35f7e2ad536a
+					- 搜索的条目是The Chemistry Book: Big Ideas Simply Explained——但点开后标题固定这一个“AKA”（Also Known As），其他同
+					- [The Chemistry Book - Big Ideas Simply Explained | DK | download on Z-Library](https://z-lib.fm/book/22217435/7017c1/the-chemistry-book-big-ideas-simply-explained.html)
+					  id:: 68540c10-79b6-44d8-a758-e08d43a01320
+						- DK有这个The XX Book系列
+			- 部分匹配的
+				- [Chemistry For Kids : A Complete Chemistry Guide For Beginners Practical Guide To Chemistry Science Fair Periodic Table Chemical Bonds | Alice McGraw Hill | download on Z-Library](https://z-lib.fm/book/3711877/601131/chemistry-for-kids-a-complete-chemistry-guide-for-beginners-practical-guide-to-chemistry-science-f.html)
+					- 看起来易读，但有不少事实性错误（“气体无法被非压缩地contain”、“空气没有重量”、“自然中没有等离子体”）
+					- 大概（纸质版也）没有插图
+				- [Awesome Science Experiments for Kids: 100+ Fun STEAM Projects and Why They Work | Crystal Chatterton | download on Z-Library](https://z-lib.fm/book/5477677/fa9af6/awesome-science-experiments-for-kids-100-fun-steam-projects-and-why-they-work.html)
+					- 按STEAM学科分类
+					- 一步步，有插图，应该就是这本了
+						- >In each chapter, you will find experiments that are simply and
+						  clearly outlined. Each experiment includes a list of materials and
+						  easy-to-read, step-by-step instructions.——该书
+					- 比 ((68540c10-79b6-44d8-a758-e08d43a01320)) 易读
+				- [Awesome Physics Experiments for Kids: 40 Fun Science Projects and Why They Work | Erica L. Colón | download on Z-Library](https://z-lib.fm/book/5477663/4b46ef/awesome-physics-experiments-for-kids-40-fun-science-projects-and-why-they-work.html)
+					- 按物理现象分类
+	- 看评论下了
+		- [Foundations of Mechanical Accuracy | Wayne R. Moore | download on Z-Library](https://z-lib.fm/book/891052/a15467/foundations-of-mechanical-accuracy.html)
+			- ((6832bb42-317c-4c61-9b59-b1c74ce64e2d))
+- 交互技能
+	- [Water Survival Training Field Manual - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_swimming)
+		- [Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength | Steven Low, DPT | download on Z-Library](https://z-lib.fm/book/5646357/d241b1/overcoming-gravity-a-systematic-approach-to-gymnastics-and-bodyweight-strength.html)
+			- 以前下的还没怎么看和练
+	- 驾驶
+		- [AAA Guide - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/textbook_anarch)
+			- 驾驶4，但有48个应用科学配方，结合起来看比GTA更道具——“那很007了”
+			- 70、80、90年代，后面普遍没有了
+			- “让我看看里面有什么合法的内容”
+	- [How to Succeed in Business - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_business)
+		- [How to Day Trade for a Living: A Beginner's Guide to Trading Tools and Tactics, Money Management, Discipline and Trading Psychology | Andrew Aziz | download on Z-Library](https://z-lib.fm/book/2938594/63c155/how-to-day-trade-for-a-living-a-beginners-guide-to-trading-tools-and-tactics-money-management-di.html)
+- ---
+- 仅供娱乐
+	- [The Hitchhiker's Guide to the Cataclysm - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/guidebook)
+		- 一个场景自带物品
+		- 《银河系搭车客指南》，算是有点好笑
+	- [How to Live on Other Planets: A Handbook for Aspiring Aliens - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/book_anthology_htloop)
+		- [How to live on other planets : a handbook for aspiring aliens - Anna’s Archive](https://annas-archive.se/md5/783edeb01eda97caf20e50f27be49c4d)
+	- [Playboy - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mag_porn)
+		- “看看文章——找找文章”
+		- “女性角色看这书也同样加心情值？总之我不好说”
+		- ((66ade3ab-9c8d-4597-803b-686f6bc6ef57))

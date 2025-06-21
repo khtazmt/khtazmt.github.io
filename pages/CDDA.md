@@ -56,7 +56,12 @@
 			- 英文
 			- 较方便地更新（实际）最新版、回到前一个版本、自动/手动备份存档（我是启动前和更新前自动备份）、选择备份存档回档、安装/禁用/删除音效包等
 	- 模组mod
+	  id:: 67eb2809-b660-4ea2-a851-59736878123a
 		- 游戏本体附带一些
+			- 翻译晦涩对话
+				- 鲁比克之类对话的中译看起来会清楚些，但并非完全清楚，这个模组提供（可能）更清楚的“英译”
+			- 特色升级能力
+				- ((684f925d-ab4f-4abc-ac0f-321d55f0d06f))
 			- 杀怪提升属性
 				- [【杀怪提升属性】是如何计算的？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7285395617)
 				- ((6847ecfa-d686-49f9-93d0-3837f9665a39))
@@ -66,6 +71,7 @@
 					- [Kenan整合包 | Cataclysm: DarkDays Ahead Wiki | Fandom](https://cdda.fandom.com/zh/wiki/Kenan%E6%95%B4%E5%90%88%E5%8C%85)
 		- 带传送功能的
 			- [现在0.G稳定版有什么超长距离跑图手段么_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/9224832261)
+		- [【图片】枪械工坊的复活？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9028711320)
 		- [【自制mod】农业拓展mod新发布帖【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8073154761)（可能没在更新了）
 		- ---
 		- [【图片】<新手向>MOD入門：如何在CDDA中捏角【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6307216734)
@@ -84,6 +90,7 @@
 		- 贴图包选cuteclysm启动星露谷？
 	- 重要位置间距离近
 	  id:: 68477306-8c58-4369-87de-c83f63fb5137
+		- [从未有如此美妙的开局【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9599292838)
 		- [坏了，我成凯文神选了【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8918753579)
 	- 低物品生成率
 		- 野人
@@ -149,14 +156,16 @@
 			- 孤独者
 				- 给NPC营地任务即可
 				- ((674c3c02-b0af-44e7-8451-25a707b61b61))
-			- 杀意驱动
+			- 杀意驱动（已去除）
 			  collapsed:: true
+				- [Obsolete killer drive by kevingranade · Pull Request #81329 · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/pull/81329)
 				- 不受杀死 ((674183ff-146a-4209-9e7e-78dd1544961a)) 的负面影响（“主观上是误击——好，这下知道了！”）
 			- 热爱甜食
 				- [“热爱甜食”变异吃垃圾食品会涨健康么【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9023862608)
 			- 失聪
 				- 不能与NPC谈话（“鲁比克  说了些什么但你听不见！”），赶时间的话可以重开或改文件
 			- 末日精神病
+			  id:: 68499f29-ca77-4a7a-94c1-ab526b8dbb04
 				- [【图片】好吓人，这就是末日精神病吗【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9181794397)
 		- 技能
 		  id:: 67eb2809-2a07-4b63-9b8c-01ef123d9843
@@ -220,50 +229,8 @@
 					  id:: 68521331-c3c3-432c-b746-29b95a423c69
 						- >Also downloaded some helpful books that i think would increase one of the skills in cdda about but i still didnt get to read them haha. Speaking about books I heard that the books on cdda are based on real life books, just named a bit differently. I wonder if theres a list of all the realife counterparts of those books.——评论
 						- >Thats cool,Have you tried making yourself in the game with the skill and stats you think you have?——评论
-						- TODO CDDA相关图书
+						- TODO [[CDDA相关图书]]
 						  id:: 68539f90-6143-40d5-822f-a587a4ba58c8
-							- [What real world equivalents of the Skill Books and Martial Arts books from CDDA would be in your essential apocalypse survival library? : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/l4fkvg/what_real_world_equivalents_of_the_skill_books/)
-							  id:: 6852b44f-124d-46a4-8b81-0b02d24af58a
-							- 游戏内的书
-								- “来找 ((6719a9c1-5892-4bbb-be33-95864782f3b4)) 了噢朋友们！ ”
-								- 不赶时间玩到再搜，包括逛图书馆等，赶时间 ((68480dde-3d5d-4041-8406-7240ecacd817)) 生成（但不确定效率是否更高）。看看什么技能、等级，对应价格、交换价值、所需智力、阅读时间、加心情量等（“比较、确认一下，可选”）
-									- ((66db8b0c-0180-4c7e-8a87-6df0379118bd))
-								- ((6852b44f-b5e1-461e-853a-c34d03fba962))
-								- 完全匹配的
-									- [Chemistry for Kids: Awesome Science Experiments that Really Work - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/basic_chemistry)（应用科学3）
-									  id:: 6853fbe7-fa71-4d9a-9075-35f7e2ad536a
-										- 搜索的条目是The Chemistry Book: Big Ideas Simply Explained——但点开后标题固定这一个“AKA”（Also Known As），其他同
-										- [The Chemistry Book - Big Ideas Simply Explained | DK | download on Z-Library](https://z-lib.fm/book/22217435/7017c1/the-chemistry-book-big-ideas-simply-explained.html)
-										  id:: 68540c10-79b6-44d8-a758-e08d43a01320
-											- DK有这个The XX Book系列
-									- [Water Survival Training Field Manual - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_swimming)
-										- [Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength | Steven Low, DPT | download on Z-Library](https://z-lib.fm/book/5646357/d241b1/overcoming-gravity-a-systematic-approach-to-gymnastics-and-bodyweight-strength.html)
-											- 以前下的还没怎么看和练
-									- [AAA Guide - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/textbook_anarch)
-										- 驾驶4，但有48个应用科学配方，结合起来看比GTA更道具——“那很007了”
-								- 部分匹配的
-									- 应用科学
-										- ((6853fbe7-fa71-4d9a-9075-35f7e2ad536a))
-										  id:: 6853fbd7-7745-437c-99d4-3fc599579661
-											- >A book with comprehensive and accurate step-by-step illustrated instructions for many scientific experiments, for young researchers and anyone else who wants to delve into the amazing world of chemistry.
-											- [Chemistry For Kids : A Complete Chemistry Guide For Beginners Practical Guide To Chemistry Science Fair Periodic Table Chemical Bonds | Alice McGraw Hill | download on Z-Library](https://z-lib.fm/book/3711877/601131/chemistry-for-kids-a-complete-chemistry-guide-for-beginners-practical-guide-to-chemistry-science-f.html)
-												- 看起来易读，但有不少事实性错误（“气体无法被非压缩地contain”、“空气没有重量”、“自然中没有等离子体”）
-												- 大概（纸质版也）没有插图
-											- [Awesome Science Experiments for Kids: 100+ Fun STEAM Projects and Why They Work | Crystal Chatterton | download on Z-Library](https://z-lib.fm/book/5477677/fa9af6/awesome-science-experiments-for-kids-100-fun-steam-projects-and-why-they-work.html)
-												- 按STEAM分类
-												- 一步步，有插图，应该就是这本了
-													- >In each chapter, you will find experiments that are simply and
-													  clearly outlined. Each experiment includes a list of materials and
-													  easy-to-read, step-by-step instructions.——该书
-												- 比 ((68540c10-79b6-44d8-a758-e08d43a01320)) 易读
-											- [Awesome Physics Experiments for Kids: 40 Fun Science Projects and Why They Work | Erica L. Colón | download on Z-Library](https://z-lib.fm/book/5477663/4b46ef/awesome-physics-experiments-for-kids-40-fun-science-projects-and-why-they-work.html)
-												- 按——物理，现象分类
-							- 游戏外的书
-								- 看评论下了
-									- [Foundations of Mechanical Accuracy | Wayne R. Moore | download on Z-Library](https://z-lib.fm/book/891052/a15467/foundations-of-mechanical-accuracy.html)
-										- ((6832bb42-317c-4c61-9b59-b1c74ce64e2d))
-								- 顺带下了
-									- [The Ultimate Guide to Smoking Meat, Fish, and Game: How to Make Everything from Delicious Meals to Tasty Treats | Monte Burch | download on Z-Library](https://z-lib.fm/book/26354591/3a8876/the-ultimate-guide-to-smoking-meat-fish-and-game-how-to-make-everything-from-delicious-meals-to-t.html)
 					- ((678a4dd8-277b-4c11-9607-e6b9acc500fa)) （“有端联想”）
 					- “两个世界的平衡”
 						- 定时玩CDDA
@@ -287,12 +254,13 @@
 					- 视频博主
 						- 装备好的幸存者？
 							- 我不是个对“小道”消息很闭塞的人，但（“为了平衡和游戏性”）假设等我知道时已经来不及买不到什么生存工具箱，更别提突击培训各种技能了
-							- 更别提除此以外基本没啥了
+							- 更别提除了那小破生存工具箱外基本没啥了
 						- 鸟类观察者？
 							- 我的确有观鸟的兴趣，也有望远镜，所以可以选鸟类观察者——但我不太像是有生存3级，而且光看鸟可能只穿腰包而非信使包
 							  id:: 684005fe-193a-4412-8df5-a33b388d3f24
 						- 所以我选个视频博主吧，我的确是个发过一些视频的up主，我更可能带双肩包而非单肩包（信使包），假设外面的笔记本电脑也大多带密码锁上了吧，虽然没数码相机（当然它这个也没电，那就很厉害了）
 							- ((68317631-62dc-48ca-9f4a-58829a85fbc3))
+						- “以后试着搞个 ((67eb2809-b660-4ea2-a851-59736878123a)) ”
 				- 背景
 					- 加点效果会被后面更高级的覆盖，点不点自选，建议够格点上，省点后面发现“不行”后回来点上的时间（“那很懂省时了”）
 					- 阅读
@@ -367,7 +335,10 @@
 	- 专长
 	- ---
 	- 游戏中的角色面板（玩家信息界面/菜单）
-		- [怎么提高属性？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9711225606)
+	  collapsed:: true
+		- 属性
+			- [怎么提高属性？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9711225606)
+			  id:: 684f925d-ab4f-4abc-ac0f-321d55f0d06f
 		- 累赘度
 		  collapsed:: true
 			- 不同部位的累赘度有不同的负面影响，有些达到一定程度会影响移动等动作
@@ -443,6 +414,7 @@
 			- [mutation - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/mutation?lang=zh_CN)
 			- 发色、肤色、瞳色等也是变异，妈妈生的变异，合理
 			- 诱变剂
+	- 注意模板角色无法重复触发部分任务、获取物品等
 - 帮助（比游戏教程详细，适合正常游戏中参考）
 - 操作方式
   collapsed:: true
@@ -863,6 +835,7 @@
   collapsed:: true
 	- [【图片】回复：0.H cdda纯萌新攻略【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9561678056?pid=151799589880&cid=0#151799589880l)
 	  id:: 683ec6b5-315f-4138-a664-9d6dc834c1fc
+- [【图片】开个实况贴，记录从零开始变强的过程【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8658432604)
 - ((684d12e1-0fbb-4d20-b515-f77401c1c83e))
 - 地点（location）
   collapsed:: true
@@ -870,6 +843,7 @@
 	  collapsed:: true
 		- 对发展帮助较大
 		- FEMA避难所（紧急避难所，Evac Shelter，疏散避难所）
+		  collapsed:: true
 			- 通常在城郊四角，有公路连接
 				- ((6754571e-6012-4c3f-b60c-1b017eaeee9b))
 			- 不同型号避难所的整体物资丰富程度是C>B>A
@@ -992,14 +966,20 @@
 			- 任务
 				- 1000份麻醉剂
 					- 然后才能让鲁比克装CBM
-					- 诊所有麻醉套件，一般有几千份麻醉剂
+					- ((684e0a0c-0261-4522-9be2-94eab78d789b))
+					- ((684d12e1-87fb-4e4a-b4fd-f28515dad765))
 					- [麻醉剂 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/anesthetic)
 					- [麻醉剂哪里刷？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8495238853)
 					- ---
 					- 默认第一次先装标准神经生化接口（免费），然后再装储能模块（免费）和电缆充电器（免费）以及你在对话打开的交易界面中购买的CBM（可以合并安装节约安装时间），而如果需要安装的CBM已预先购买，则可在同一个对话里切到~~“那你能帮帮我吗？”~~“你能为我做点什么吗？”安装已预先购买的CBM
 				- 调查神秘地堡
 					- 到Hub01，顺路！
+						- ((6854c16c-191d-494c-99ce-243c04af8d95))
 						- ((67eb2809-c1ef-4d0f-918c-c935ccd3b79a))
+					- 如果之前去过Hub01则可以直接告诉他，（应该也是）加5流亡族信任（应该也有商店里的500刀）——但可能把Hub 01的对话刷掉
+					  id:: 6854c77f-78ab-45d4-98fd-790803488c6c
+					- ---
+					- 所以他们之前没见过这么先进的文明及其像Hub 01这样的秘密机构？之前的空间风暴是外部势力或搞魔法搞出来的？
 			- [h版鲁比任务【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9299880467)
 			- ---
 			- 奇怪的石头谷仓
@@ -1012,60 +992,95 @@
 				- [Faction Territory System Doesn't Let You Use Some Mechanics · Issue #78002 · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/issues/78002)
 			- [【图片】实验版枪展任务道具【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9112445841)
 		- Hub 01
+		  id:: 6852b44f-ca9f-4562-8199-9afaf800df51
+			- 去过流亡族营地领过调查神秘地堡任务并跟鲁比克聊过一通的话，一开始可以先不交难民中心斯默克任务给的FEMA数据（若有；不然就没对应对话了），可以装神弄鬼一下（“说实话......”）给流亡族情报（短选项加2信任，长选项加3点信任——“但Hub 01的信任没用”），可以要奖励，防暴套装或USP手枪
+			  id:: 6854c16c-191d-494c-99ce-243c04af8d95
+				- ((6854c77f-78ab-45d4-98fd-790803488c6c))
+				- 但之后好像会反复刷 ((684e07bb-c2b2-4c55-a009-f8ba8ea2f2ae)) ？好像不是调试的问题，而是这套流程的问题？
 			- 取回现场数据
+			  id:: 684e07bb-c2b2-4c55-a009-f8ba8ea2f2ae
 				- 多拿一个EMP手雷
 					- 可以开车撞
+						- 注意关门，避免开慢了没撞死或没撞到反而让它上车打你
 					- 可以骑摩托车让后座同伴人形炮塔，也可能单人松开驾驶攻击
 				- 可以骑摩托车飞车拿雷扔雷
 				- 模块化防护服可以改合身、修理，交任务时的智力10选项再送护臂、护胫
-			- 狩猎钢铁
-				- 反机器人的眩晕步枪、
-				- 如果用眩晕步枪击晕后按“查看”没反应，大概需要事先浏览一下附的“三琢面”操作手册再开枪（“介绍任务时确实说了”）
-				- 眩晕步枪用电，可用来练习枪法、步枪技能
-					- 不想打中立怪物可以找个慢的敌对怪物（比如爬行丧尸）同时练闪避
-			- 返还发件者
-				- 车喇叭走位引开（胆汁士兵丧尸可以尽量单独引开），用其他士兵丧尸卡位挡胆汁士兵丧尸的酸液
-				- [关于前中期如何快速刷战斗等级【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9614178125)
-				  id:: 684e340a-7ddf-47d6-8f51-cbf19e79ed9b
-			- Hub01环境防护服和周边地图（可能没开多少剩下的，不差钱就开一下）需要身上有Hub金币才会有购买选项
+			- 做以下任一任务即可解锁除HWP弹匣弹鼓外的商店物品（主要是护甲，但至少寻光之旅任务前都可能用不到）
+				- 狩猎钢铁
+					- 可能需要事先浏览一下附的“三琢面”操作手册（“介绍任务时确实说了”），否则按“查看”没反应
+					- 眩晕步枪用电，可用来练习枪法、步枪技能
+						- 不想打中立怪物可以找个慢的敌对怪物（比如爬行丧尸）同时练闪避
+				- 返还发件者
+					- 车喇叭走位引开（胆汁士兵丧尸可以尽量单独引开，或者直接开车撞死），用其他士兵丧尸卡位挡胆汁士兵丧尸的酸液
+					- [关于前中期如何快速刷战斗等级【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9614178125)
+					  id:: 684e340a-7ddf-47d6-8f51-cbf19e79ed9b
+					- 完成后，解锁购买Hub 01周边地图选项（可能没开多少剩下的，不差钱、强迫症就开一下；需要身上有Hub金币才会有购买选项），出现Hub佣兵
+			- 以上任务完成后可做寻光之旅任务，同时出现Hub佣兵
+			- Hub01环境防护服和
 			- 实验（prototype，原型）XX相比其他字样开头的是较轻较便宜的基础XX，其他字样开头的几乎每项防护都不低于实验XX
 			- Hub佣兵
 				- 1公斤黄金换8Hub金币（“4倍左右”）
 				- 激活降噪程序
 					- 穿Hub 01环境防护服
+						- ((6854e8e7-2a54-4969-8225-238fb7aa59d3))
 					- 可能需要骑摩托快速接近以缩短怪物反应窗口，骑行时可能需要蹲下遮蔽视野（可能不需要带佣兵，或者之后再引来）
 					- 提前准备扔手雷和（或）燃烧瓶
 					- 没杀完可以把佣兵往前推让ta攻击怪物，然后注意往后躲电弧（如果没穿防护服——“非常好水蛭花，把咱手机的电给充满了”）
 				- 做完水蛭花任务可以（需要一定智力看出佣兵的武器不同寻常）定做HWP步枪，需要等1周
 					- [怎样重复获得HWP？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8432320032)
 			- 寻光之旅
-				- 也许最少三个防毒面具滤芯
-				- 可以走林间小径贴墙砸玻璃进楼，适度卡位把附近敌人消灭后，注意绕过吊挂内脏，通过空中往楼下靠墙处扔燃烧瓶然后远离楼下怪物视野等它们被烧死
-				- 之后放木梯或使用抓钩下去，看不清的照明或开（夜视）红外（比如Hub可能卖的模块化侦查头盔），注意悬挂内脏可能在暗处，攻击距离2格，需要远程武器（狭小多怪空间用大口径可能更合适）。最后一个金属门一下涌不少怪可能需要穿甲剑等近战武器，也可以打掉开门一波后开两门在门外远点用榴弹尽量往里发射或扔两到三枚（一枚可能干不掉吊挂内脏）
-				- 浓厚毒气看不远可以扔照明弹或打怪掉的开了手电筒的手机，稍微好些
-				- 之前了解或试过的
-					- 夜里可以用Hub模块化侦查头盔等开夜视红外潜入
-					- 白天可以在东边森林里扔燃烧瓶（保险点带10个以上，减少绕怪麻烦和风险；之前只带了3个直接开摩托穿插到位开始扔，效率有点不够）卡位，然后开枪引怪
-						- 枪法不好、但有重武器1级及以上也可以用榴弹，弹药够可以走公路炸一路（反正榴弹相比唯一的任务是多得多的；“一切恐惧源自火力不足”）
-				- “怎么没吧友们说的纳米材料罐？”
-					- [【问】关于不认识的怪【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7921665242)
-						- 大概现在版本并非如此，没见着机器人
-					- 调试短距传送也没找着，也许是削了
-				- 完成后解锁士兵套等护甲，解读需要等一天
+			  id:: 684fb51d-9c03-4ee7-acec-7ac13f405988
+				- 接任务后可买环境防护服
+				  id:: 6854e8e7-2a54-4969-8225-238fb7aa59d3
+				- ((6854a7cf-6e2a-4020-9c76-855dc2c6ee47))
+					- 有时没看到展架和纳米材料罐可能就是生成失败
+						- 可以给调试回来，除了两个纳米制造模板任务物品外，还有150纳米材料罐和两个原本的随机的纳米制造模板
+						- [【问】关于不认识的怪【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7921665242)
+							- 大概现在版本并非如此，没见着机器人
+				- 任务完成后解锁士兵套等护甲，解读需要等一天
 					- [实验版更多的hub01的模块化防护系统哪里搞？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8805991359)
 			- 来Hub外的自由商会商队
 				- 主要卖食物
 	- [各种时期非常值得探索的建筑【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8852887984)
-	- 富
-		- [军事掩体 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/military_bunker_1)
-			- [军事掩体有点肥啊【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9568682070)
-			  id:: 684d12e1-0fbb-4d20-b515-f77401c1c83e
-		- [军事哨站 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/military_outpost)
-		- [诊所 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/office_doctor)
-			- 夜间声音引怪后潜入拿拿拿即可
-		- FEMA营地
-			- 可能有大量枪弹、实验室
-			- ((67936562-7cd5-4303-b057-39f90cf991f4))
+	- 好地方
+		- 麻醉剂、药
+			- [诊所 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/office_doctor)
+			  id:: 684e0a0c-0261-4522-9be2-94eab78d789b
+				- 可以夜间声音引怪后潜入拿拿拿
+			- ((684d12e1-87fb-4e4a-b4fd-f28515dad765))
+		- 枪械（含榴弹发射器）、弹药（含榴弹）
+			- 再加装甲车
+				- [军事掩体 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/military_bunker_1)
+				  id:: 684d12e1-87fb-4e4a-b4fd-f28515dad765
+					- [军事掩体有点肥啊【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9568682070)
+					  id:: 684d12e1-0fbb-4d20-b515-f77401c1c83e
+				- [军事哨站 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/military_outpost)
+			- FEMA营地
+				- 可能有大量枪弹、实验室
+				- ((67936562-7cd5-4303-b057-39f90cf991f4))
+		- 纳米制造模板、纳米材料罐
+		  collapsed:: true
+			- [倒塌大楼 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/office_tower_collapsed)
+			  id:: 6854a7cf-6e2a-4020-9c76-855dc2c6ee47
+				- 白天
+					- 可以在东边森林里扔燃烧瓶（保险点带10个以上，减少绕怪麻烦和风险；之前只带了3个直接开摩托穿插到位开始扔，效率有点不够）卡位，然后开枪引怪
+					- 枪法不好、但有重武器1级及以上也可以用榴弹，弹药够可以走公路炸一路（反正榴弹相比唯一的任务是多得多的；“一切恐惧源自火力不足”）
+				- 夜里可以用Hub模块化侦查头盔等开夜视红外潜入
+				- 找个“空中”照明窥探确认后放木梯或使用抓钩下去（在地下可能放置不了木梯）
+					- 有较大连片“空中”可往楼下靠墙处（但要远离你下去的地方，烈火加热不算太小）扔燃烧瓶然后引怪让它们被烧死，如果不太想打
+					- 走不通、赶时间不想换个“空中”试的可以用冲击钻等破拆实心土
+				- 倒塌大楼地下（位置在“六格那一格”在3格长方向的另一端）有两个纳米制造模板在同一个房间，纳米制造模板房间有一个展架，上有50纳米材料罐，需要绕一圈或破拆一层实心土抵达的过道有两处各一个展架，展架上各50纳米材料罐，因此总共150纳米材料罐
+				  id:: 6854a741-c4e1-49d7-91eb-74e4ef5380d3
+				- 也许最少三个防毒面具滤芯
+				- 可以走森林贴墙砸玻璃（可能更快，可选）进楼，适度卡位把附近敌人消灭
+				- 注意绕过吊挂内脏
+				- 看不清的怪物照明或开（夜视）红外（比如Hub可能卖的模块化侦查头盔），注意悬挂内脏可能在暗处，攻击距离2格，需要远程武器（狭小多怪空间用大口径可能更合适）。最后一个金属门一下涌不少怪可能需要穿甲剑等近战武器，也可以打掉开门一波后开两门在门外远点用榴弹尽量往里发射或扔两到三枚（一枚可能干不掉吊挂内脏）
+				- 浓厚毒气看不远可以用耐用头灯、拿或扔照明弹或打怪掉的开了手电筒的手机，稍微好些
+				- ---
+				- 倒塌大楼旁民宅可能带地下室
+		- 科学实验室
+			- 战斗相关技能不高的话，对麻烦的怪可以催泪瓦斯，然后长矛或枪械，实验室也可能有喷火器（对机器人可能没用）
+			- “卧槽，无情！”
 	- 公路
 	- 林间小径
 		- 林间小径之间也可能有公路
@@ -1085,6 +1100,7 @@
 			- [Strange Cabin - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/Strange%20Cabin)
 			- [森林中的鬼屋【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9613041840)
 		- 安静农庄、果园
+		  id:: 684ee449-e971-47bd-9566-5890980fd1c8
 			- [quiet_farm - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/quiet_farm)
 			- 同一个角色只能触发一次
 			- 物品解谜环节主要使用砸、查看和激活（“让我试试丢东西自组装、递给人形物体东西、多处找光阅读、触发推箱子机关”）
@@ -1299,7 +1315,7 @@
 				- 全屏模式（全屏模式或无边框模式）
 				- 渲染器
 					- [我来说一个发现，能提高游戏丝滑度【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7470148887)（可能默认就是direct3d11、不用调整）
-		- 调试
+		- ((68480dde-3d5d-4041-8406-7240ecacd817))
 		  id:: 678a4dd4-bffd-4f7a-a40b-6783971a241e
 		  collapsed:: true
 			- 角色属性数值（是）
@@ -1328,12 +1344,15 @@
 	  id:: 6741e86b-c3fa-408f-bb85-d034a37819d1
 		- 无法分解，无交换价值
 - 任务
-	- 不用刻意优先做任务，只有少量任务对自身发展比较重要
+	- 不用刻意优先做任务，只有少量任务对自身发展比较重要，比如 ((6852b44f-ca9f-4562-8199-9afaf800df51))
 	- “任务/剧情/体验强迫症？”
 		- “NPC布置的作业罢了”
 		- “付出很多没实用回报的任务也做，你不做有的是玩家做”
 	- [Missions - The Cataclysm: Dark Days Ahead Wiki](https://cddawiki.danmakudan.com/wiki/index.php/Missions)
 	- [【图片】难民中心及大农场任务详细攻略【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6147683726)
+	- 任务物品
+		- [MISSION_ITEM - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/json_flag/MISSION_ITEM)
+			- 13个任务物品（变化的不去重）， ((684ee449-e971-47bd-9566-5890980fd1c8)) 独占七个，懂不懂我们黑玻璃的含金量啊？！（战术后仰）
 - 载具
   id:: 6742fa85-e9fc-4067-8b4d-b10f44d6916d
   collapsed:: true
@@ -1646,6 +1665,7 @@
 	- 烘焙
 		- [酸面团（未完成） - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/sourdough_young_uncovered)
 			- 40g面粉加250g水？——“懂了，就像移动、工作等的时间应该会胡思乱想平摊高维手操的高时间密度操作一样，用来洗手等的水也考虑到了”
+			- [fix sourdough starter size by dynst · Pull Request #81326 · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/pull/81326)
 	- 蔬菜沙拉
 	- 需要火的
 		- 蔬菜煎蛋卷
@@ -1884,11 +1904,9 @@
 			- 友好且食物充足时（？）可按e（“原来不是使用容器啊”）挤奶
 			- 过于靠近（2格内）牛犊会使中立的牛敌对（“原来如此”）——可以不过于靠近或稍微靠近把牛犊赶走
 	- 敌对
-	  collapsed:: true
 		- 通常会就近确定攻击对象，所以刷出各种路人、敌对生物时不着急可以先等等，包括开车穿插时，可以等开口足够大后再加速突破
 		- 有些怪物会拆墙，然后你就从屋顶掉下去了
 		- 丧尸zombie
-		  collapsed:: true
 			- [丧尸是自动刷新的吗【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8882178009)
 			- 儿童丧尸
 			  id:: 674183ff-146a-4209-9e7e-78dd1544961a
@@ -1922,6 +1940,8 @@
 				- 闪避比较高，比黄蜂难打中
 				- 还防催泪瓦斯喷雾
 				- 旁边有各种会被血鸷攻击的怪的话建议用来吸引注意力
+			- 汽油丧尸（已去除）
+				- [No gas zombies by kevingranade · Pull Request #81346 · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/pull/81346)
 		- 疯人feral
 		  collapsed:: true
 			- “feral是什么意思啊？”
@@ -2013,7 +2033,7 @@
 					- 可能需要及时灭火，不然时间长了变成火焰，如果在拾取或绕得太近时就可能受伤——可能在围栏外也能把里面的绕死
 			- [燃烧瓶 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/molotov_lit)
 				- 一扔就是3×3的烈火
-				- 前期可能用承重背心的战术工具袋（取物耗时80）装两瓶，或是战术背心装三瓶（取物耗时50/100/100）
+				- 可以用MOLLE容器装，比如承重背心的战术工具袋（取物耗时80）装两瓶，或是战术背心装三瓶（取物耗时50/100/100）
 			- （只）烧物品
 			- 烧建筑（备选）
 				- 最好把怪物都引到建筑物外烧死，不然烧塌方上层就没了进不去了，下层没塌的怪物也没清完
@@ -2110,6 +2130,7 @@
 				- 流亡族战斗步枪可以连发
 				- [回复：(图文直播) 废土佣兵的日常生活_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/9088673526?pid=150647823117&cid=0#150647823117)
 				- [玩枪械流来聊聊你们推荐的枪械呗【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6610821127)
+				- [【图片】回复：开个实况贴，记录从零开始变强的过程【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8658432604?pid=148847877306&cid=0#148847877306)
 				- [该怎么选枪去哪里找枪？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9043277467)
 				- [请问几个基本操作级别的问题【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8391865019)
 				- 姿势不影响射击耗时
@@ -2118,6 +2139,7 @@
 				- 弹药
 					- 士兵丧尸等射击护甲较高的建议用穿甲较高的子弹
 					- [求问如何大量获取弹药【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9016770955)
+					- [很多小口径弹药存在的意义是什么？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9489302109)
 				- 模组（模块、配件）
 					- 光标选中模组时可以选择安装（“怎么这些枪只能拆卸和调整模组啊？难道我等级还不够？不应该呀！”）
 				- 车载炮塔
@@ -2370,7 +2392,7 @@
 			  id:: 67402aab-bba8-4588-852c-ceac26ba83c9
 			  collapsed:: true
 			- 保存游戏后，alt+F4关闭游戏（不需要从当前游戏/存档退出到主界面再退出），重新打开就是保存时的游戏
-			- 启动器备份的压缩速度可能比较慢，可以打开CDDA目录直接复制（原地）粘贴saves文件夹（如有多个存档则复制粘贴对应世界的存档）生成其副本，需要恢复时将原saves文件夹删除，根据文件夹的修改时间或当时的重命名选择对应副本并重命名为saves，然后再复制粘贴一份
+			- 启动器备份的压缩速度可能比较慢，可以打开CDDA目录直接复制（原地）粘贴saves文件夹（如有多个存档则复制粘贴对应世界的存档——“这样读取其实也更方便”）生成其副本，需要恢复时将原saves文件夹删除，根据文件夹的修改时间或当时的重命名选择对应副本并重命名为saves，然后再复制粘贴一份
 				- 启动器更新后，上一版本的存档在previous_version文件夹里（注意启动器更新只会保存上一个版本非previous_version文件夹中的存档，如有需要可手动额外备份）
 			- ---
 			- 隔着大地图2格左右刷新地点
@@ -2378,6 +2400,7 @@
 				- ((67553cf9-1b09-47a3-87c1-01448453d1d3))
 		- 调试
 		  id:: 68480dde-3d5d-4041-8406-7240ecacd817
+		  collapsed:: true
 			- 调好后可在“游戏”中“启用成就”调回来
 			- ~~“如果你想确认个事，可以调试”~~
 				- 比如物品信息比 ((674c3c02-0814-4a5d-9bba-88071b88ccdf)) 的全
@@ -2386,7 +2409,7 @@
 					- 流亡族搜索“岩丘”，科迪·杰搜索“枪匠”或“铁匠”
 					- 不喜欢可以调试不保存退出（shift+q）
 			- “东西没带，回去拿一下，但是传送”
-				- 注意传送可能会影响地图记忆，导致正常游戏时看到不该看到的地形，可按需远离点传送
+				- 注意传送可能会影响地图记忆，导致正常游戏时看到不该看到的地形，可按需远离点传送——“否则你就可能想‘求一双没看过xx的眼睛’了”
 		- [做了个CDDA人物/车辆导入导出工具【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7787766014)
 		- ---
 		- [游戏回档 - 萌娘百科 万物皆可萌的百科全书](https://mzh.moegirl.org.cn/%E6%B8%B8%E6%88%8F%E5%9B%9E%E6%A1%A3)
