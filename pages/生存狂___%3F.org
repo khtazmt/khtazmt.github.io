@@ -150,6 +150,7 @@
 :PROPERTIES:
 :id: 679adddc-5c67-4625-bc64-2ec8df31f3e0
 :END:
+**** [终于实现车内柴火炉了_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1o3LJz6EvX/)
 **** 引火物
 :PROPERTIES:
 :id: 678b04e2-0fb4-4b2c-8209-1b028cb09326

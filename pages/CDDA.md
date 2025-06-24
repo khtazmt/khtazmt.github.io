@@ -74,10 +74,11 @@
 		- [【图片】枪械工坊的复活？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9028711320)
 		- [【自制mod】农业拓展mod新发布帖【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8073154761)（可能没在更新了）
 		- ---
-		- [How to easily find conflicting mods and solve them : r/skyrimmods](https://www.reddit.com/r/skyrimmods/comments/ieqgsk/how_to_easily_find_conflicting_mods_and_solve_them/)
+		- ((685a426a-ac91-4b15-882f-85116f75a808))
 		- [【图片】<新手向>MOD入門：如何在CDDA中捏角【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6307216734)
 		- [简单的mod教学物品章武器篇【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7642657829)
 		- [【图片】新人向|无基础情况下如何从0开始写MOD【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7880896727)
+		- [How to easily find conflicting mods and solve them : r/skyrimmods](https://www.reddit.com/r/skyrimmods/comments/ieqgsk/how_to_easily_find_conflicting_mods_and_solve_them/)
 		- ---
 		- 更多中国元素
 			- “三大神书”
@@ -337,8 +338,9 @@
 						- 重武器2
 							- “区别不大”
 					- 工艺技能
-						- 生存2
+						- 生存4
 							- 生存相关配方的成本也像制造有不少细分到专长，所以生存技能本身更多也是“应知应会”性质的——“而我呢，却在这个物质极大丰富的世界不着急学”
+							- [Cub Scouts vs. BSA Scouts: What's Different? What's Similar?](https://scoutsmarts.com/difference-similarities-cub-scouts-vs-boy-scouts/)
 							- [Boy Scout Handbook For Boys - 5th Edition - Anna’s Archive](https://annas-archive.se/md5/94b64d790222053698e534b1b0adcc17)
 						- 食品加工10
 							- 做过带调味的牛心玻璃罐头（5；6级的腌制也就加个醋，水浴加热要考虑的还没高压锅多），做过1-3种动物的肝酱（6）和蒸鮟肝蘸冰梅酱
@@ -666,6 +668,8 @@
 		  collapsed:: true
 			- （物品是1格内，制造和建造范围大）
 			- 前置物品
+			- 建议只收藏随身物品及常用背包、常用载具（前期可以不超100L）内的物品，没多少东西是经常需要的，就算加了收藏也不一定在附近
+				- 按t进入类别选择模式后可按住f快速取消收藏
 			- 背包、放不进背包的武器（例如长矛）、枪械、弹匣、弹药、常用工具（不随身的放载具里）、之后（可能）要清洗、修理、拆解的、交换价值较高（也可以只收藏不卖的，方便“减负”）的
 			- 可与选项中的自动备注避免丢地上的手持物品（木矛、公文包等）、背包等
 			- 可以通过“*”筛选
@@ -768,6 +772,12 @@
 			- 不带的易腐物品低温（含地下室）保存或使用
 			- ((674090a8-07ae-48ef-b062-ac653490edf5))
 		- 修理（不包括载具）
+			- 多种材质物品可能通过多种成功、损坏概率不同的方式修理，比如焊、烙、缝
+			- 回车可在日志查看所需材料
+			- [塑料片 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/plastic_chunk)
+			- [铝废料 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/scrap_aluminum)
+			  id:: 685aa9dc-e2ee-4c40-8fa7-fae7a4cdcdc1
+				- 拆解生存工具箱（16）、耐用手电筒
 	- 距离6格内（大多是）
 	  collapsed:: true
 		- 都可以中断（？）
@@ -840,7 +850,8 @@
 				- M433榴弹（60）
 				- Hub金币（50）
 				- 电击枪（15）
-				- 国民警卫队刺刀（12.5）、军用刺刀
+				- 国民警卫队刺刀（12.5，连刀鞘14）、军用刺刀
+				- MRE包装（很多10以上）
 				- 肾上腺素
 				- 指南
 				- 书籍
@@ -851,7 +862,6 @@
 				- 哮喘吸入剂（7.5）、双向无线电
 				- 催泪瓦斯喷雾（1.5，斯默克6.5）
 				- 雪茄（5）、收音机、工兵铲、撬棍
-				- MRE
 				- 眼镜
 				- 广谱抗生素（3）、多功能工具、
 				- 商会币（2.5）、手术刀、多功能口哨、打气筒、螺丝刀组、套筒扳手组、小型灭火器（0.5，斯默克2.5）、笔记本电脑
@@ -897,9 +907,7 @@
 - [【图片】开个实况贴，记录从零开始变强的过程【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8658432604)
 - ((684d12e1-0fbb-4d20-b515-f77401c1c83e))
 - 地点（location）
-  collapsed:: true
 	- 主线
-	  collapsed:: true
 		- 对发展帮助较大
 		- FEMA避难所（紧急避难所，Evac Shelter，疏散避难所）
 		  collapsed:: true
@@ -972,6 +980,9 @@
 								- 烧到一半生菜丝掉下来会导致无法放置火盆，因此可以提前放
 						- 寻找机器人的源头
 						  id:: 684afa30-e4ec-4456-aa70-40537f6dedcb
+						- 暗杀强盗头子
+							- 在带射击孔墙外射杀即可（可能他们的射击孔搞得比较大吧（心虚）），赶时间可以不进去杀更多强盗和搜刮
+						-
 					- 司机（站在车库门边的）指路（可能不会指到流亡族营地，可以在难民中心大地图3格外SL，可能概率与距离有关，有时要好多次）
 					  collapsed:: true
 						- >不建议刷流亡族地址，应该刷枪匠地址，流亡族可以从旧世守护者那接任务，第三个任务就会让你去侦查流亡族基地，而枪匠那可以让你前期就获得大量的武器弹药。先把其他几个地方的地址都问到，最后再问司机，他大概率就会刷出一个你还没问到的任意一个势力的地址。
@@ -985,7 +996,9 @@
 						- 200份强力胶带
 							- 10个纸板盒
 					- 100根香烟（大厅守卫）
-					- 120单位商业废料（马卡拉·桑切斯；废弃农场、五金店等）
+					- 120单位商业废料（马卡拉·桑切斯）
+						- [商品肥料 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/fertilizer_commercial)
+						- 完成给10个燃烧瓶
 					- 原声吉他（德拉科·杜恩；即非电吉他，中译为“民谣吉他”；乐器店、典当行）
 					- 英文版古兰经（法蒂玛·贾迪尔；图书馆、宗教场所、书店等）
 					- 50剂抗菌剂（陈宛）
@@ -1006,7 +1019,6 @@
 						- 五卷大麻（德拉科·杜恩）
 					- 不一定有的
 		- 流亡族营地
-		  collapsed:: true
 			- ((684afa30-e4ec-4456-aa70-40537f6dedcb))
 			- 森林部分环绕，四乘四
 			- 鲁比克商品解锁
@@ -1017,9 +1029,11 @@
 					- 首次交易（可能需要你卖出一定数额，一般总共需要三商会币）+1，之后每次交易（交易界面直接回车即可，什么都不用买卖）+2（“左右”），最多总共加20（“左右”）
 					- 以上两项大概加到21，可以看到交易界面都解锁了
 			- 9
-				- “又一次找睡觉同伴时发现了，可以买武器”
+				- 平行世界的枪的水平大致齐平或略高于全威力弹狙击步枪
+				- ---
 				- ~~地图上有个NPC标注“9”，在8个大圆石那大格~~
 					- [鲁比克被我不小心玩死了……怎么办【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9476993401)
+				- “又一次找睡觉同伴时发现了，可以买武器”
 			- 可以深夜安装CBM，把视野较小时段用来“睡一觉”
 			  id:: 684c3501-a2cb-4e7d-b015-708e6f3ac8d9
 			- 任务
@@ -1045,6 +1059,7 @@
 				- 单格
 				- 有“标注”流亡族营地位置的地图，没找到难民中心也可以去了（然后第一次发现它后第一段自动驾驶就开到了难民中心围栏边......）
 		- 科迪·杰（子弹银行，枪匠）
+		  collapsed:: true
 			- 科迪·米勒可能刷钢矛，不如希腊长矛，卖得也比较贵，但有需要的话就比前期短时间自制矛好不少
 			- 科迪·米勒还可能刷穿甲剑，有甲了可以（“并非”）一步到位刺击爽同时练闪避
 			- 当前用科迪·米勒的工坊可能导致信任度下降（“可以调试回来”）
@@ -1052,6 +1067,7 @@
 			- [【图片】实验版枪展任务道具【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9112445841)
 		- Hub 01
 		  id:: 6852b44f-ca9f-4562-8199-9afaf800df51
+		  collapsed:: true
 			- 去过流亡族营地领过调查神秘地堡任务并跟鲁比克聊过一通的话，一开始可以先不交难民中心斯默克任务给的FEMA数据（若有；不然就没对应对话了），可以装神弄鬼一下（“说实话......”）给流亡族情报（短选项加2信任，长选项加3点信任——“但Hub 01的信任没用”），可以要奖励，防暴套装或USP手枪
 			  id:: 6854c16c-191d-494c-99ce-243c04af8d95
 				- ((6854c77f-78ab-45d4-98fd-790803488c6c))
@@ -1102,6 +1118,8 @@
 					- [实验版更多的hub01的模块化防护系统哪里搞？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8805991359)
 			- 来Hub外的自由商会商队
 				- 主要卖食物
+		- 塔科马
+			- [木板 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/2x4)
 	- [各种时期非常值得探索的建筑【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8852887984)
 	- 好地方
 		- 麻醉剂、药
@@ -1120,7 +1138,11 @@
 			- FEMA营地
 				- 可能有大量枪弹、实验室
 				- ((67936562-7cd5-4303-b057-39f90cf991f4))
+		- [景观美化材料供应公司 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/landscaping_supply_co)
+		  id:: 685a9af3-91f6-4596-9ece-cc002749e29b
+			- [景观美化材料供应公司【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8229455521)
 		- 纳米制造模板、纳米材料罐
+		  collapsed:: true
 			- [倒塌大楼 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/office_tower_collapsed)
 			  id:: 6854a7cf-6e2a-4020-9c76-855dc2c6ee47
 				- 白天
@@ -1409,6 +1431,8 @@
 	- 钱包
 	  id:: 6741e86b-c3fa-408f-bb85-d034a37819d1
 		- 无法分解，无交换价值
+		- 可能有钥匙卡
+		  collapsed:: true
 - 任务
   collapsed:: true
 	- 不用刻意优先做任务，只有少量任务对自身发展比较重要，比如 ((6852b44f-ca9f-4562-8199-9afaf800df51))
@@ -1730,9 +1754,9 @@
 		- >孤舟蓑笠翁，独钓寒江雪
 	- ---
 	- 烘焙
-		- [酸面团（未完成） - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/sourdough_young_uncovered)
+		- [酸面团酵头（未完成） - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/sourdough_young_uncovered)
 		  id:: 68477306-a2bf-4257-9db0-8cf3bd3e9d6a
-			- 40g面粉加250g水？——“懂了，就像移动、工作等的时间应该会胡思乱想平摊高维手操的高时间密度操作一样，用来洗手等的水也考虑到了”
+			- 80mL面粉加250mL水？~~别人也就1倍体积，你这是3倍了——“懂了，就像移动、工作等的时间应该会胡思乱想平摊高维手操的高时间密度操作一样，用来洗手等的水也考虑到了（小@的手还真干净呢）”（其实更可能是水的最小单位已经定了）~~好像问题也不太，这是6天的量一次混完然后不管，坏了，想试试了
 			- [fix sourdough starter size by dynst · Pull Request #81326 · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/pull/81326)
 	- 蔬菜沙拉
 	- 需要火的
@@ -1883,17 +1907,19 @@
 		- [Update and overhaul survivor masks by worm-girl · Pull Request #70666 · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/pull/70666)
 	- 防暴套装（警察丧尸）
 	- 护甲有限时，一般谁更扛伤谁穿
+	- ((685aa9dc-e2ee-4c40-8fa7-fae7a4cdcdc1))
 	- ---
 	- [弓箭、长枪、投矛，哪一种破甲能力最强？ - 知乎](https://www.zhihu.com/question/330438493)
 	- [【军事科普】据说欧洲锁子甲一刺就穿，一砍就烂？【普罗米修斯汉化组】_哔哩哔哩_bilibili](https://www.bilibili.com/video/av6030658/)
 - ---
 - 照明
-  collapsed:: true
 	- 智能手机等
 	- 荧光棒
 	- 蜡烛（在室内可在食物不接触火源释放的热空气时作为制造的中继点制造；在室外会被风吹灭）
 	- 照明弹
 	- ((6742fa85-e9fc-4067-8b4d-b10f44d6916d))
+	- 夜视
+		- 有光反而会影响夜视视野
 - 怪物monster
   collapsed:: true
 	- 统一叫“怪物”罢了
@@ -1904,6 +1930,9 @@
 		- 未捣碎的人类尸体疑似比较容易有好东西
 		- 棉、皮质服装一般不拿
 	- ---
+	- 怪物文件
+	  id:: 685a426a-ac91-4b15-882f-85116f75a808
+		- [CDDA怪物剖析，丧尸_游戏热门视频](https://www.bilibili.com/video/BV1m7N1zKEd3/)
 	- 索敌机制
 	  id:: 674d4299-7d03-4951-b596-065d3e0855ba
 	  collapsed:: true
@@ -1979,6 +2008,7 @@
 			- 友好且食物充足时（？）可按e（“原来不是使用容器啊”）挤奶
 			- 过于靠近（2格内）牛犊会使中立的牛敌对（“原来如此”）——可以不过于靠近或稍微靠近把牛犊赶走
 	- 敌对
+	  collapsed:: true
 		- 通常会就近确定攻击对象，所以刷出各种路人、敌对生物时不着急可以先等等，包括开车穿插时，可以等开口足够大后再加速突破
 		- 有些怪物会拆墙，然后你就从屋顶掉下去了
 		- 丧尸zombie
@@ -2062,6 +2092,7 @@
 			- [原版条件下，米戈是不是CDDA最难缠的一类怪物【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9268064650)
 	- collapsed:: true
 	  ---
+	- 危险地方不去，控视野、不照亮自己避免被发现，催泪喷雾、走位、载具甩开，有坑、陷阱、火、敌对生物用视野、声音等引过去，怪多不捡或不赶时间捡且空间不太狭窄就扔燃烧瓶或使用喷火器，怪多要捡且距离足够就爆炸，非厚甲或高刺击时穿刺，近交厚甲非高刺击时连发
 	- 查看距离
 		- `!`表示“能看见你”
 	- 逃跑
@@ -2078,6 +2109,8 @@
 			- 刷出来的路人、敌对生物的敌对生物等自动引怪，你需要做的可能只是避免比他们更靠近敌对生物和等待
 			- 还可以长距离引怪（“牧尸”），引到蜂巢、变形怪坑（物品没了可能有点亏，用不着的话无所谓）
 		- 引到
+		- 聚怪
+			- 然后手雷或榴弹解决
 		- 避战的绕怪多引一些距离再消失，不然回来再见
 		- “等一等你的丧尸”
 		- 攀爬
@@ -2086,12 +2119,13 @@
 		- ((674b137c-d771-489f-a199-705e68827b18))
 	- 卡位
 	- 杀怪
-	  collapsed:: true
 		- ((68493910-0e3e-4f51-8d38-2f2fff6d751f))
 		- ((678a4dd4-fbc6-47a4-8d83-f2420e00fd50))
 		- 火
 		  id:: 67936562-7cd5-4303-b057-39f90cf991f4
+		  collapsed:: true
 			- “太伟大啦火！”
+			- 打丧尸群用榴弹总觉得有点亏
 			- 燃烧有声音，可以引怪
 			- 点火
 				- 打火机
@@ -2110,16 +2144,20 @@
 				- 一扔就是3×3的烈火
 				- 注意捡相关玻璃罐，可 ((6742c0ab-6530-4fc3-aafd-2ba66e95e79f))
 				- 可以用MOLLE容器装，比如承重背心的战术工具袋（取物耗时80）装两瓶，或是战术背心装三瓶（取物耗时50/100/100）
+			- [M9-7 喷火器 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/flamethrower)
 			- （只）烧物品
 			- 烧建筑（备选）
 				- 最好把怪物都引到建筑物外烧死，不然烧塌方上层就没了进不去了，下层没塌的怪物也没清完
 				- 可以绕着烤，相当于换种视角的烤串——厉不厉害你烧烤大师！
 				- 在楼间距两格时，可在楼顶边缘来回走，让怪物随机移动到火焰边慢慢烧死（效率很低，隔更远就更低了）
 		- 陷阱
-		  collapsed:: true
+			- 深坑
+				- ((685a9af3-91f6-4596-9ece-cc002749e29b))
+					- “那很美化了”
 			- ((67936562-7cd5-4303-b057-39f90cf991f4))
 			- ((684a5ecd-7d44-410b-954f-0b31dcd938d8))
 			- [刀刃陷阱 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/blade_trap)
+			  collapsed:: true
 				- 动能回收再释放回去，自产自削蛮好的
 				- [大刀片 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/blade)
 					- 割草机看到就手持带走
@@ -2133,7 +2171,6 @@
 				- ((68493779-5bcb-479c-b86f-64a5f562df21))
 				- ((678a4dd4-c27d-448c-b0a7-58306c069c7e))
 		- 武器
-		  collapsed:: true
 			- 武器攻击时可能被墙、货架等挡着
 			- 攻击距离
 			- 也可根据人物属性
@@ -2197,9 +2234,8 @@
 					- id:: 67402aab-85ed-4a89-91c3-46b250ee2c89
 					- [现在弓怎么玩？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9295195037?pid=151305490654&cid=0#151305490654)
 					  id:: 674e8272-5a39-4f53-8189-01081ba55856
-			- 部分势力会提供特色专武
+			- 部分势力会提供免费或收费的特色专武，比如旧日守护者的暗杀强盗头子任务
 			- 枪械
-			  collapsed:: true
 				- 有枪的话当然拿一下
 				- 一定程度上瞄准越久越好，瞄到贴脸时射击性价比最高
 				- 枪会堵塞等，所以平时检查，带备用枪
@@ -2233,10 +2269,8 @@
 					  id:: 675677d1-1497-4742-b56c-50277c7b9c66
 				- ((67567842-23b8-4167-be2d-cc74ccbceae4))
 			- ---
-			- 国民警卫队刺刀
-			- 海军陆战队刺刀（近战，借助暴走鞋/旱冰鞋和地形打打普通丧尸还行，而且相对易损坏）
-			  id:: 674ab140-a3e8-4f6c-b84f-03e52866d45f
-			- 军用刺刀
+			- 国民警卫队刺刀>海军陆战队刺刀>军用刺刀
+id:: 674ab140-a3e8-4f6c-b84f-03e52866d45f
 			- ---
 			- 骨刀
 			- 长棍

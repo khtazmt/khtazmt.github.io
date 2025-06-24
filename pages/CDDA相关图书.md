@@ -31,7 +31,7 @@
 					- 这是个系列
 - 工艺技能
 	- 食品加工food handling
-		- [Glamopolitan - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mag_glam)
+		- [Glamopolitan - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mag_glam)1
 			- 部分匹配
 				- [Glamour（康泰纳仕主办的英国高端女性时尚周刊）_百度百科](https://baike.baidu.com/item/Glamour/4895444)
 				- [Glamour 2014 No 7 - Anna’s Archive](https://annas-archive.se/md5/98a6acdec8bc2608ef8f475a888ede2f)
@@ -62,6 +62,7 @@
 	- 应用科学
 		- ((6853fbe7-fa71-4d9a-9075-35f7e2ad536a))
 		  id:: 6853fbd7-7745-437c-99d4-3fc599579661
+		  collapsed:: true
 			- >A book with comprehensive and accurate step-by-step illustrated instructions for many scientific experiments, for young researchers and anyone else who wants to delve into the amazing world of chemistry.
 			- 完全匹配（同名）的
 				- [Chemistry for Kids: Awesome Science Experiments that Really Work - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/basic_chemistry)（应用科学3）
@@ -82,8 +83,10 @@
 					- 比 ((68540c10-79b6-44d8-a758-e08d43a01320)) 易读
 				- [Awesome Physics Experiments for Kids: 40 Fun Science Projects and Why They Work | Erica L. Colón | download on Z-Library](https://z-lib.fm/book/5477663/4b46ef/awesome-physics-experiments-for-kids-40-fun-science-projects-and-why-they-work.html)
 					- 按物理现象分类
-	- [Beauty Magazine - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mag_beauty)
+		- [chemistry textbook - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/textbook_chemistry)6
+			- [Chemistry Essentials For Dummies | John T. Moore | download on Z-Library](https://z-lib.fm/book/85461111/e95c10)
 	- 裁缝
+		- [Beauty Magazine - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mag_beauty)
 		- [Sew What? Clothing! - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_tailor)
 			- 部分匹配
 				- “因为Clothing是一类”
@@ -96,20 +99,26 @@
 	- [Water Survival Training Field Manual - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_swimming)
 		- [Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength | Steven Low, DPT | download on Z-Library](https://z-lib.fm/book/5646357/d241b1/overcoming-gravity-a-systematic-approach-to-gymnastics-and-bodyweight-strength.html)
 			- 以前下的还没怎么看和练
+	- 计算机学
+		- [How to Browse the Web - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/howto_computer)
+	- 社交
+		- [Alpha Male Quarterly - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mag_dude)1
+			- [the dude - Search - Anna’s Archive](https://annas-archive.se/search?q=the+dude)
+				- “比playboy老”
+		- [Self-Esteem for Dummies - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_speech)3
+		  id:: 6857e98b-9d9b-4166-a536-db4e5aa3449f
+			- [Self-Esteem For Dummies - PDFDrive.com | S. Renee Smith | download on Z-Library](https://z-lib.fm/book/15178463/dab0aa/selfesteem-for-dummies-pdfdrivecom.html)
+			- 部分匹配
+				- [Boosting Self-Esteem For Dummies | Branch, Rhena, Willson, Rob | download on Z-Library](https://z-lib.fm/book/11813574/466f35/boosting-selfesteem-for-dummies.html)
+		- [How to Succeed in Business - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_business)
+			- [How to Day Trade for a Living: A Beginner's Guide to Trading Tools and Tactics, Money Management, Discipline and Trading Psychology | Andrew Aziz | download on Z-Library](https://z-lib.fm/book/2938594/63c155/how-to-day-trade-for-a-living-a-beginners-guide-to-trading-tools-and-tactics-money-management-di.html)
+			- [Trading Psychology for Dummies | Roland Ullrich | download on Z-Library](https://z-lib.fm/book/28283814/af54ce/trading-psychology-for-dummies.html)
+			- 不见面股市里的勾心斗角可以泛化，或许吧
 	- 驾驶
 		- [AAA Guide - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/textbook_anarch)
 			- 驾驶4，但有48个应用科学配方，结合起来看比GTA更道具——“那很~~疯狂的安人~~007了”
 			- 70、80、90年代，后面普遍没有了，个人电脑互联网、金融危机、911？
 			- “让我看看里面有什么合法的内容”
-	- [Self-Esteem for Dummies - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_speech)
-	  id:: 6857e98b-9d9b-4166-a536-db4e5aa3449f
-		- [Self-Esteem For Dummies - PDFDrive.com | S. Renee Smith | download on Z-Library](https://z-lib.fm/book/15178463/dab0aa/selfesteem-for-dummies-pdfdrivecom.html)
-		- 部分匹配
-			- [Boosting Self-Esteem For Dummies | Branch, Rhena, Willson, Rob | download on Z-Library](https://z-lib.fm/book/11813574/466f35/boosting-selfesteem-for-dummies.html)
-	- [How to Succeed in Business - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_business)
-		- [How to Day Trade for a Living: A Beginner's Guide to Trading Tools and Tactics, Money Management, Discipline and Trading Psychology | Andrew Aziz | download on Z-Library](https://z-lib.fm/book/2938594/63c155/how-to-day-trade-for-a-living-a-beginners-guide-to-trading-tools-and-tactics-money-management-di.html)
-		- [Trading Psychology for Dummies | Roland Ullrich | download on Z-Library](https://z-lib.fm/book/28283814/af54ce/trading-psychology-for-dummies.html)
-		- 不见面股市里的勾心斗角可以泛化，或许吧
 - ---
 - 仅供娱乐
 	- [The Museum of All Things Awesome and That Go Boom - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/book_anthology_moataatgb)
