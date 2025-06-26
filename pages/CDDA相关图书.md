@@ -30,6 +30,10 @@
 				  id:: 6856b32a-3062-453d-ae1e-e37067f8c277
 					- 这是个系列
 - 工艺技能
+	- 生存
+		- [Alpha Male Quarterly - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mag_dude)1
+			- [the dude - Search - Anna’s Archive](https://annas-archive.se/search?q=the+dude)
+				- “比playboy老”
 	- 食品加工food handling
 		- [Glamopolitan - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mag_glam)1
 			- 部分匹配
@@ -102,9 +106,6 @@
 	- 计算机学
 		- [How to Browse the Web - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/howto_computer)
 	- 社交
-		- [Alpha Male Quarterly - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mag_dude)1
-			- [the dude - Search - Anna’s Archive](https://annas-archive.se/search?q=the+dude)
-				- “比playboy老”
 		- [Self-Esteem for Dummies - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_speech)3
 		  id:: 6857e98b-9d9b-4166-a536-db4e5aa3449f
 			- [Self-Esteem For Dummies - PDFDrive.com | S. Renee Smith | download on Z-Library](https://z-lib.fm/book/15178463/dab0aa/selfesteem-for-dummies-pdfdrivecom.html)
@@ -122,7 +123,8 @@
 - ---
 - 仅供娱乐
 	- [The Museum of All Things Awesome and That Go Boom - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/book_anthology_moataatgb)
-		-
+		- TODO [Amazon.com: The Museum of All Things Awesome and that Go Boom: 9781937794477: Merriam, Joanne, Kocz, Nick, Luce, Kelly, Nagamatsu, Sequoia, Oltion, Jerry, Pflug, Ursula, Satifka, Erica L., Smith, Matthew Sanborn, Stufflebeam, Bonnie Jo, Sussex, Lucy: 图书](https://www.amazon.com/Museum-Things-Awesome-that-Boom/dp/1937794474)
+			- “坏了，什么还真有的设定母本”
 	- [How to Live on Other Planets: A Handbook for Aspiring Aliens - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/book_anthology_htloop)
 		- [How to live on other planets : a handbook for aspiring aliens - Anna’s Archive](https://annas-archive.se/md5/783edeb01eda97caf20e50f27be49c4d)
 	- [The Hitchhiker's Guide to the Cataclysm - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/guidebook)

@@ -170,7 +170,7 @@
 				- [【图片】好吓人，这就是末日精神病吗【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9181794397)
 		- 技能
 		  id:: 67eb2809-2a07-4b63-9b8c-01ef123d9843
-		  collapsed:: true
+			- “学好数理化，揍遍天下都不怕”
 			- ((67402aab-b8ee-4c0d-9968-91c0cf2f76ac))
 			- [关于游戏技能设定【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9155459591)
 			- [咱们小@也太废物了吧【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9704653921)
@@ -686,7 +686,6 @@
 		- [分享几个你可能知道或不知道的小技巧~~~【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7458581060)
 		- 高级物品管理 /
 		  id:: 674c3c01-0411-4b32-95ff-8be35c3b57f8
-		  collapsed:: true
 			- 上方显示时间和日志
 			- c 查看容器中的物品
 			- x查看物品的容器
@@ -703,6 +702,7 @@
 			- s 改变排序模式（比如看交换价值——美元纸币真是废纸了）
 			  id:: 6749d547-fb05-40c2-9239-3cb0f1a562c8
 				- p 将物品添加到角色的 ((674c3c01-b867-492a-b09d-b876a27ad7ba)) 白名单
+			- 如果发现不显示某格物品了，可能是因为有了筛选，可能是按键重复导致的
 			- [回复：【CDDA】有什么软用的小技巧？！【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7554427086?pid=141444579157&cid=0#141444579157)
 			- [“/”真难用，幸好游戏不扣细节，不然我早被炸飞了【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8689088450)
 		- 攀爬
@@ -834,6 +834,7 @@
 	- 配方
 		- 部分可由 ((67eb2809-2a07-4b63-9b8c-01ef123d9843)) 等级达到了自动学会，但其他需要从书籍学习——一定程度上是合理的
 	- 交易
+	  collapsed:: true
 		- 各个派系（不分派系内部商人？）从第一次交谈（？）开始每6天更新商品
 		- 交换价值
 		  id:: 674d5fdb-ddb7-448b-a700-6865a9d976e2
@@ -881,6 +882,7 @@
 			- [卫生棉条 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/tampon)
 				- 大灾变背景下， ((66554936-9464-4c92-81e1-891eb6848b71)) 似乎更值钱了
 	- 储存
+		- 载具部件等较大的可以放附近地上
 		- 分仓
 			- 如果有
 	- 电池
@@ -907,6 +909,7 @@
 - [【图片】开个实况贴，记录从零开始变强的过程【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8658432604)
 - ((684d12e1-0fbb-4d20-b515-f77401c1c83e))
 - 地点（location）
+  collapsed:: true
 	- 主线
 		- 对发展帮助较大
 		- FEMA避难所（紧急避难所，Evac Shelter，疏散避难所）
@@ -998,6 +1001,7 @@
 					- 100根香烟（大厅守卫）
 					- 120单位商业废料（马卡拉·桑切斯）
 						- [商品肥料 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/fertilizer_commercial)
+						  id:: 685a86b8-7f30-4eef-b6f9-5475af11a7ab
 						- 完成给10个燃烧瓶
 					- 原声吉他（德拉科·杜恩；即非电吉他，中译为“民谣吉他”；乐器店、典当行）
 					- 英文版古兰经（法蒂玛·贾迪尔；图书馆、宗教场所、书店等）
@@ -1029,7 +1033,8 @@
 					- 首次交易（可能需要你卖出一定数额，一般总共需要三商会币）+1，之后每次交易（交易界面直接回车即可，什么都不用买卖）+2（“左右”），最多总共加20（“左右”）
 					- 以上两项大概加到21，可以看到交易界面都解锁了
 			- 9
-				- 平行世界的枪的水平大致齐平或略高于全威力弹狙击步枪
+				- 平行世界的枪的水平大致齐平或略高于全威力弹狙击步枪，因为战斗步枪可以五连发
+				- 但第一周不一定枪和弹药、弹匣都全
 				- ---
 				- ~~地图上有个NPC标注“9”，在8个大圆石那大格~~
 					- [鲁比克被我不小心玩死了……怎么办【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9476993401)
@@ -1060,7 +1065,7 @@
 				- 有“标注”流亡族营地位置的地图，没找到难民中心也可以去了（然后第一次发现它后第一段自动驾驶就开到了难民中心围栏边......）
 		- 科迪·杰（子弹银行，枪匠）
 		  collapsed:: true
-			- 科迪·米勒可能刷钢矛，不如希腊长矛，卖得也比较贵，但有需要的话就比前期短时间自制矛好不少
+			- 科迪·米勒可能刷钢矛，不如希腊长矛，卖得也比较贵，但有需要的话就比前期短时间自制矛好不少，有想让ta近战的同伴更得有
 			- 科迪·米勒还可能刷穿甲剑，有甲了可以（“并非”）一步到位刺击爽同时练闪避
 			- 当前用科迪·米勒的工坊可能导致信任度下降（“可以调试回来”）
 				- [Faction Territory System Doesn't Let You Use Some Mechanics · Issue #78002 · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/issues/78002)
@@ -1082,6 +1087,7 @@
 				- 可以骑摩托车飞车拿雷扔雷
 				- 模块化防护系统可以改合身、修理，交任务时的智力10选项再送护臂、护胫
 					- 无法装填护甲可以用i 放入或ii ((6741d22c-bcc3-4994-ab97-ee679e29637e)) 移动物品
+					  id:: 6857ce63-8117-4d5d-96da-e329ab70705d
 			- 做以下任一任务即可解锁除HWP弹匣弹鼓外的商店物品（主要是护甲，但至少寻光之旅任务前都可能用不到）
 				- 狩猎钢铁
 					- 可能需要事先浏览一下附的“三琢面”操作手册（“介绍任务时确实说了”），否则按“查看”没反应
@@ -1105,6 +1111,8 @@
 					- 没杀完可以把佣兵往前推让ta攻击怪物，然后注意往后躲电弧（如果没穿防护服——“非常好水蛭花，把咱手机的电给充满了”）
 				- 做完水蛭花任务可以（需要一定智力看出佣兵的武器不同寻常）定做HWP步枪，需要等1周
 					- [怎样重复获得HWP？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8432320032)
+				- 200金块
+					- [项链 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/search/%E9%A1%B9%E9%93%BE)
 			- 寻光之旅
 			  id:: 684fb51d-9c03-4ee7-acec-7ac13f405988
 				- 接任务后可买环境防护服
@@ -1114,8 +1122,10 @@
 						- 可以给调试回来，除了两个纳米制造模板任务物品外，还有150纳米材料罐和两个原本的随机的纳米制造模板
 						- [【问】关于不认识的怪【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7921665242)
 							- 大概现在版本并非如此，没见着机器人
-				- 任务完成后解锁士兵套等护甲，解读需要等一天
+				- 任务完成后解锁士兵套，解读需要等一天，然后6金币买一套士兵套（五件，比买商店里别的护甲值，所以不赶时间不妨等一天），同时其他纳米制造模板也可以给他们解读了，HWP也可以继续8金币买一套（但还得等七天）了
 					- [实验版更多的hub01的模块化防护系统哪里搞？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8805991359)
+					- 可将士兵头盔“放入”模块化侦查头盔
+						- ((6857ce63-8117-4d5d-96da-e329ab70705d))
 			- 来Hub外的自由商会商队
 				- 主要卖食物
 		- 塔科马
@@ -1251,6 +1261,7 @@
 			- 可能已经被破坏，不用冲击钻、C4、车撞等手段也能进
 		- 五金店
 		  id:: 67eb2809-4231-47b1-a6d7-056e566058ed
+			- 有大的有小的
 			- 可以到内部休息室，拖花盆、大纸板箱堵门
 				- 你和队友与门和墙隔一格，把队友外侧、你的攻击死角围上，队友站的格看情况
 				- ((674e59f1-eda1-41bf-a76d-670f150751ea))
@@ -1446,7 +1457,6 @@
 			- 13个任务物品（变化的不去重）， ((684ee449-e971-47bd-9566-5890980fd1c8)) 独占七个，懂不懂我们黑玻璃的含金量啊？！（战术后仰）
 - 载具
   id:: 6742fa85-e9fc-4067-8b4d-b10f44d6916d
-  collapsed:: true
 	- [og，3×5轻量化微型两栖房车 配备一个500货舱，一个强化高能太｜CataclysmDDA幸存者社区 大灾变:劫后余生|CDDA｜腾讯频道](https://pd.qq.com/qqweb/qunpro/share)
 	- 速度与格数对应关系
 		- 加速、减速能力
@@ -1489,8 +1499,10 @@
 	- “造车新势力，启动！”
 	- [求改车建议【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9740417278)
 	- [这个游戏的油耗是怎么算的啊？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9599202926)
-	- 载具组件
+	- 载具部件
 		- “伤害”指撞击伤害比例
+		- [轻型车架（可折叠） - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/foldframe)
+		- [超轻车架（可折叠） - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/foldxlframe)
 		- [挡风玻璃 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/vehicle_part/windshield)
 		  id:: 68499f29-d819-43ed-aa31-f316abc31c32
 			- [玻璃片 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/glass_sheet)
@@ -1788,7 +1800,10 @@
 	  collapsed:: true
 - ((675c1ac3-f0f0-4766-af89-5bcbe88e2334)) 里不是非得放食物
 - 工具
-  collapsed:: true
+	- [乙炔焊炬 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/oxy_torch)
+	- [冲击钻 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/jackhammer)
+		- [电动冲击钻 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/elec_jackhammer)
+	- [高温焊接套件 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/welding_kit)
 	- [【0.C】cdda科技树-工具【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/5579018613)
 	- [大佬们，有后期必备的工具清单吗？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9306097680)
 	- [【图片】0.H纸板卷bug拿出强力胶带的方法【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9775206967)
@@ -2090,6 +2105,29 @@
 		- 米戈mi-go
 			- “mygo是吧？”
 			- [原版条件下，米戈是不是CDDA最难缠的一类怪物【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9268064650)
+			- 米戈塔
+				- 打
+					- [米戈塔怎么打进去速度110一下就降到25，根本打不过里面的守卫【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7395671439)
+					- 米戈塔进门往角落扔雷
+					- 潮湿带毛巾多擦干
+				- 救
+					- 音爆CBM或开一格空调车用冲击钻
+						- [【求助】米戈营地的囚犯全被我招募了，但是要怎么营救呀，外墙挖不掉，室内的一挖就热死！！【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7026560793)
+							- [车载冷却器 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mountable_cooler)
+								- 小型集成冷却器安装时间过长
+								- [冷藏货车 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/vehicle/fridge_van)
+									- 没有的话得自己造
+						- 失败的
+							- 单用冲击钻在你热死之前达不到100%，只要没到100%，就会重置，钻不了一点，“太不合理了我去！”
+							- 鹤嘴锄问题大概类似冲击钻，可能难度还大些
+							- 重钢锤看起来可以砸（会提示是否继续砸），但8力肯定是不太好连续砸完，可能与冲击钻类似不会累积
+							- 手雷、自制雷管几个都炸不开
+							- 自制炸药包可能多少个都一次炸不开（“树脂666”），炸两次炸开但炸死（离树脂笼三格炸至少两次可能炸不死，但保证炸失聪——“怎么不能叫他们捂住耳朵、卧倒？”——大概率炸骨折，不骨折好不容易走几步也会被电坏），炸一次后扔手雷、自制雷管几个都炸不开，之后用重钢锤也砸不开
+					- [How do I free people from resin cages : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/jlqupl/how_do_i_free_people_from_resin_cages/)
+					- [米戈营地救人求助【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9494238674)
+					- [米戈塔有什么好东西吗 好像和僵尸打起来了【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9151834417)
+					- 可以拆共用的墙
+					- 树脂笼里有中立NPC可以救，敌对NPC可以不救
 	- collapsed:: true
 	  ---
 	- 危险地方不去，控视野、不照亮自己避免被发现，催泪喷雾、走位、载具甩开，有坑、陷阱、火、敌对生物用视野、声音等引过去，怪多不捡或不赶时间捡且空间不太狭窄就扔燃烧瓶或使用喷火器，怪多要捡且距离足够就爆炸，非厚甲或高刺击时穿刺，近交厚甲非高刺击时连发
@@ -2177,26 +2215,22 @@
 			- [萌新求推荐近战武器【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9032576342)
 			- [0-H版本的蝴蝶剑配菲律宾剑棍术很强啊【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9760997679)
 			- [装备我该怎么再升级一下【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9036272471)
+			- [有没有能在尸去年里杀个七进七出的武器【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9099873709)
 			- 远距攻击近战武器
-			  collapsed:: true
 				- [REACH_ATTACK - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/json_flag/REACH_ATTACK?lang=zh_CN)
 				- 2格及以上攻击距离，遛怪或隔着障碍无伤杀怪
 				- 矛
 				  id:: 674ecae0-42b1-4e1f-9338-66149338a946
-				  collapsed:: true
 					- 在城市可以隔着（复式公寓等的）石墙戳
 					- 长尖木棍
-					  collapsed:: true
 						- 1分钟，赶时间可以先不造其他矛
 						- 可以用来练习刺击武器技能
 					- 碳化木矛
-					  collapsed:: true
 						- 制造2、生存1
 						- 但是，虽然理论上民宅里应该都有二级切割工具，但有丧尸在外面，那么没有载具、废弃建筑等遮阳可能还得在室外先造二级切割工具——但你也可以压低遮挡降噪走位潜入，而且可以等待、睡到天黑再潜入
 						- 长木棍（有时能直接捡到，不用石头或钝击更高的物品砸小树了） +2级切割（刀或自制石刮削器），碳化木矛在周围有火（“哪里不会点哪里，so easy！”）时可制造，更省时省力
 					- [简易钢管长矛](https://cdda-guide.nornagon.net/item/simple_spear_pipe?lang=zh_CN)
 					  id:: 674e59f1-eda1-41bf-a76d-670f150751ea
-					  collapsed:: true
 						- 制造1、近战1
 						- 钝击比木矛高2，主要是物品够的话做起来比木矛快得多，相对木矛的缺点是导电，没手套不能直接用
 						- ---
@@ -2234,7 +2268,10 @@
 					- id:: 67402aab-85ed-4a89-91c3-46b250ee2c89
 					- [现在弓怎么玩？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9295195037?pid=151305490654&cid=0#151305490654)
 					  id:: 674e8272-5a39-4f53-8189-01081ba55856
-			- 部分势力会提供免费或收费的特色专武，比如旧日守护者的暗杀强盗头子任务
+			- 部分势力会提供免费或收费的特色专武，比如旧日守护者的暗杀强盗头子任务送一把左轮和枪套，而且的确可能够用
+			- 爆炸物
+				- ((685a86b8-7f30-4eef-b6f9-5475af11a7ab))
+				- [引信 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/fuse)
 			- 枪械
 				- 有枪的话当然拿一下
 				- 一定程度上瞄准越久越好，瞄到贴脸时射击性价比最高
@@ -2275,13 +2312,11 @@ id:: 674ab140-a3e8-4f6c-b84f-03e52866d45f
 			- 骨刀
 			- 长棍
 			- 钢锭
-			  collapsed:: true
 				- ((67442968-db52-4255-8e18-91817896c55c))
 					- “自由落体，启动！”
 					- “你们这（指破坏载具为敌人提供投掷物）是自寻死路！”
 					- 但投掷不准也没用
 			- 重型撬棍
-			  collapsed:: true
 				- ((67442968-db52-4255-8e18-91817896c55c))
 			- ---
 			- 弹壳
@@ -2455,7 +2490,7 @@ id:: 674ab140-a3e8-4f6c-b84f-03e52866d45f
 - ---
 - 金属门
   collapsed:: true
-	- 需要金属锯切（锯、焊）或高钝击（锤）
+	- [金属门（关）怎么破坏？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7242277239)
 	- ((67552d10-da95-412f-8fba-49c43069c00b))
 - 保险柜
   id:: 674a8f6a-fd0e-4855-b82a-2fba0936a78e
