@@ -1,3 +1,5 @@
+- [[CDDA相关图书]]
+- TODO [[《CDDA思维：为什么CDDA这么难，为什么玩家玩的也是自己游戏史的CDDA》]]
 - 有点像pathos，但相对“现实”些，或者说不那么DND（龙与地下城/地牢）
 	- [[推荐]原滋原味的roguelike是什么样的？边谈边荐《NetHack》《Elona》《CDDA》 - 星晖帝国的一番的动态 - TapTap](https://www.taptap.cn/moment/15216925399319905)
 	- [还有其他类似cdda，但是非丧尸题材的游戏吗【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9014735050)
@@ -12,6 +14,7 @@
 		- [看看我游世界观能有多绝望【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9035106857)
 		- [cdda阵营介绍【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7339545475)
 - 开发中的争端
+  collapsed:: true
 	- [好几年没玩了，回坑发现drama不少？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9691792599)
 	- [(水)【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7521643512)
 - ---
@@ -102,6 +105,7 @@
   collapsed:: true
 	- 角色不光是人（虽然也可能不太是），还有场景（角色在哪）等，相对接近“社会关系的总和”
 	- “新游戏”-“新角色”
+	  collapsed:: true
 		- ((6846eafb-d0f5-4503-a2b5-3dd06bb10e5d)) 可能会使“新角色”界面无法显示对应条目，可更改（可以先尝试调回默认，再逐渐修改，宽高比）
 		- 前面的栏目选择对后面的有限制，所以按从左到右顺序选择，否则后面的会被前面的覆盖（“哇靠！”）
 		- ---
@@ -170,6 +174,7 @@
 				- [【图片】好吓人，这就是末日精神病吗【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9181794397)
 		- 技能
 		  id:: 67eb2809-2a07-4b63-9b8c-01ef123d9843
+		  collapsed:: true
 			- “学好数理化，揍遍天下都不怕”
 			- ((67402aab-b8ee-4c0d-9968-91c0cf2f76ac))
 			- [关于游戏技能设定【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9155459591)
@@ -231,7 +236,7 @@
 					  id:: 68521331-c3c3-432c-b746-29b95a423c69
 						- >Also downloaded some helpful books that i think would increase one of the skills in cdda about but i still didnt get to read them haha. Speaking about books I heard that the books on cdda are based on real life books, just named a bit differently. I wonder if theres a list of all the realife counterparts of those books.——评论
 						- >Thats cool,Have you tried making yourself in the game with the skill and stats you think you have?——评论
-						- TODO [[CDDA相关图书]]
+						- [[CDDA相关图书]]
 						  id:: 68539f90-6143-40d5-822f-a587a4ba58c8
 					- CDDA相关音乐
 						- “小@你听的那么多细分曲风怎么个事，还有点简评，能不能让我也听听？”
@@ -336,7 +341,7 @@
 						- 手枪、冲锋枪、步枪3
 						- 霰弹枪2/5
 						- 重武器2
-							- “区别不大”
+							- “区别不大”——“马上就造”
 					- 工艺技能
 						- 生存4
 							- 生存相关配方的成本也像制造有不少细分到专长，所以生存技能本身更多也是“应知应会”性质的——“而我呢，却在这个物质极大丰富的世界不着急学”
@@ -353,11 +358,15 @@
 							- “看过也拿过”
 					- 互动技能
 						- 运动2/5
-						- 机械学0/3
+						- 机械学0/4
 							- “把咱车主手册也翻出来了”
 							- ((685921a2-5156-4f1b-9f36-3719244c1a27))
+							- （“ ((685cff64-6c91-4b54-a94f-3dfb5299d6ed)) ！”）呃，（3-4级理论的）“basic ideas”怎么就是“基本原理”啦？
+								- [How a Car Works - YouTube](https://www.youtube.com/@howacarworks)
+								  id:: 685d364d-0d31-4218-a0c5-264dfd3abaae
+									- [How a Car Works - Guides to car mechanics and automotive engineering](https://www.howacarworks.com/)
 						- 操控装置1
-							- “might be able”是吧？
+							- “might be able”是吧？“might”是吧？
 						- 计算机学3/4
 							- 没啥经验，不确定debug mod conflicts要采用何种方式，直接试出来后禁用某个或某些mod算不算debug呢？
 						- 医疗3/4
@@ -393,7 +402,6 @@
 	- 专长
 	- ---
 	- 游戏中的角色面板（玩家信息界面/菜单）
-	  collapsed:: true
 		- 属性
 			- [怎么提高属性？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9711225606)
 			  id:: 684f925d-ab4f-4abc-ac0f-321d55f0d06f
@@ -474,6 +482,10 @@
 			- [mutation - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/mutation?lang=zh_CN)
 			- 发色、肤色、瞳色等也是变异，妈妈生的变异，合理
 			- 诱变剂
+		- 疾病
+			- [《有关于流行疾病诊治与预防的参考资料》【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7511027496)
+			- [结膜炎可以治吗【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9211539072)
+			- [结膜炎怎么治？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9174666401)
 	- 注意模板角色无法重复触发部分任务、获取物品等
 - 帮助（比游戏教程详细，适合正常游戏中参考）
 - 操作方式
@@ -560,6 +572,7 @@
 			- “权力交接”任务（3天冷却期，相当于一个提示，不会成功也不会失败）
 				- [【图片】开个实况贴，记录从零开始变强的过程【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8658432604?pid=148828788932&cid=0#148828788932)
 	- 距离0-1格
+	  collapsed:: true
 		- 可直接使用（但无窗口）或在窗口内使用的
 		  collapsed:: true
 			- 筛选f或/（搜索；可加s）
@@ -686,6 +699,7 @@
 		- [分享几个你可能知道或不知道的小技巧~~~【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7458581060)
 		- 高级物品管理 /
 		  id:: 674c3c01-0411-4b32-95ff-8be35c3b57f8
+		  collapsed:: true
 			- 上方显示时间和日志
 			- c 查看容器中的物品
 			- x查看物品的容器
@@ -985,7 +999,7 @@
 						  id:: 684afa30-e4ec-4456-aa70-40537f6dedcb
 						- 暗杀强盗头子
 							- 在带射击孔墙外射杀即可（可能他们的射击孔搞得比较大吧（心虚）），赶时间可以不进去杀更多强盗和搜刮
-						-
+						- 安装无线中继模块
 					- 司机（站在车库门边的）指路（可能不会指到流亡族营地，可以在难民中心大地图3格外SL，可能概率与距离有关，有时要好多次）
 					  collapsed:: true
 						- >不建议刷流亡族地址，应该刷枪匠地址，流亡族可以从旧世守护者那接任务，第三个任务就会让你去侦查流亡族基地，而枪匠那可以让你前期就获得大量的武器弹药。先把其他几个地方的地址都问到，最后再问司机，他大概率就会刷出一个你还没问到的任意一个势力的地址。
@@ -994,10 +1008,21 @@
 							- ((683ec6b5-315f-4138-a664-9d6dc834c1fc))
 						- [为什么0.h司机指路hub每次都生成失败【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9303851223)
 				- 无地图标注的
-					- 40个小纸板盒（迪诺·戴夫；常用来装药物、蛋白口粮等，完整的紧急避难所有时遇见了就不少）
-					  id:: 678b0485-eddc-4da6-b1b5-c366a3bf4a57
+					- 迪诺·戴夫
+					  collapsed:: true
+						- 40个小纸板盒
+						  id:: 678b0485-eddc-4da6-b1b5-c366a3bf4a57
+							- 常用来装药物、蛋白口粮等，完整的紧急避难所有时遇见了就不少
 						- 200份强力胶带
-							- 10个纸板盒
+						- 10个纸板盒
+							- 购物广场（载具容器不够大可以折叠了拉购物车高级物品管理）、橄榄球场（中译可能为足球场——“多是一件美式”）
+						- 10个大塑料膜
+							- 拆解垃圾袋、MRE包装
+						- 5个大纸板箱
+					- 罗美珍
+						- 真菌样本
+							- 随便打一个真菌生物，解剖得异界真菌块
+							- 不需要[显微镜 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/microscope)（“啊啊啊啊！”）
 					- 100根香烟（大厅守卫）
 					- 120单位商业废料（马卡拉·桑切斯）
 						- [商品肥料 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/fertilizer_commercial)
@@ -1020,9 +1045,11 @@
 									- 其他人也走
 								- yusuke
 									- ((678b0485-eddc-4da6-b1b5-c366a3bf4a57))
+							- 给20商会币时“查看态度”反复刷？
 						- 五卷大麻（德拉科·杜恩）
 					- 不一定有的
 		- 流亡族营地
+		  collapsed:: true
 			- ((684afa30-e4ec-4456-aa70-40537f6dedcb))
 			- 森林部分环绕，四乘四
 			- 鲁比克商品解锁
@@ -1495,6 +1522,7 @@
 	- 载具小尺寸、大容量、低耗能、高零百加速等加起来或许是个不可能多角，但大概是一个可以追求的方向
 	- 移动中攻击
 		- 可以带队友抵近射击、矛击
+	- 车停在靠近建筑入口、尽量有遮挡的地方
 	- ---
 	- “造车新势力，启动！”
 	- [求改车建议【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9740417278)
@@ -1671,6 +1699,7 @@
 			- 露出墙壁布线
 			  id:: 67402aab-d155-4c11-ad8f-0aef8aa0de3b
 				- 窗子无法布线（可以拆了）
+					- 可以“插入电器/能源并网”进行电网连接
 				- 必须靠近墙壁，不能有家具遮挡
 				- 力量小容易在搬运中扭伤的衣柜等家具可以在“建造”中拆解
 		- 各种电池（超轻型/轻型/工具电池/汽车电瓶/蓄电池）
@@ -1781,6 +1810,7 @@
 	- 蛋
 		- “拿野生鸟蛋（还有作为鸟巢的小树枝、羽毛等）好吗？”
 			- “现在更需要保护的是人类——我的特级煎蛋三明治！”
+			- “你们这些个蛋还孵吗？”
 		- 没有 ((679adce8-be9f-489d-a336-bea71819bdbe)) 挺不真实的
 			- “这中译‘醋泡蛋’白激动两秒”
 				- [fermenting eggs jar - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/eggs_ferment)
@@ -1800,6 +1830,7 @@
 	  collapsed:: true
 - ((675c1ac3-f0f0-4766-af89-5bcbe88e2334)) 里不是非得放食物
 - 工具
+  collapsed:: true
 	- [乙炔焊炬 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/oxy_torch)
 	- [冲击钻 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/jackhammer)
 		- [电动冲击钻 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/elec_jackhammer)
@@ -1909,7 +1940,6 @@
 	- ---
 	- 内衬（无内衬时会与部分穿戴物摩擦、膈应使对应部位“皮肤不适”降低速度）
 - 护甲
-  collapsed:: true
 	- [【CDDA】大灾变（0.H）装备_攻略](https://www.bilibili.com/video/BV1fMdQY9E4k/)
 	- [伤害和护甲【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7569629795)
 	- [大伙中期都穿什么甲？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9283511045)
@@ -1922,6 +1952,7 @@
 		- [Update and overhaul survivor masks by worm-girl · Pull Request #70666 · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/pull/70666)
 	- 防暴套装（警察丧尸）
 	- 护甲有限时，一般谁更扛伤谁穿
+	- 盔甲等护甲需要内层衣物，否则会皮肤不适
 	- ((685aa9dc-e2ee-4c40-8fa7-fae7a4cdcdc1))
 	- ---
 	- [弓箭、长枪、投矛，哪一种破甲能力最强？ - 知乎](https://www.zhihu.com/question/330438493)
@@ -2113,10 +2144,14 @@
 				- 救
 					- 音爆CBM或开一格空调车用冲击钻
 						- [【求助】米戈营地的囚犯全被我招募了，但是要怎么营救呀，外墙挖不掉，室内的一挖就热死！！【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7026560793)
+							- “年轻人的第一辆自装车”
 							- [车载冷却器 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mountable_cooler)
+							  id:: 685cff64-6c91-4b54-a94f-3dfb5299d6ed
 								- 小型集成冷却器安装时间过长
 								- [冷藏货车 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/vehicle/fridge_van)
 									- 没有的话得自己造
+									- 机械学5（理论）
+									- 组件主要拆各种冰箱
 						- 失败的
 							- 单用冲击钻在你热死之前达不到100%，只要没到100%，就会重置，钻不了一点，“太不合理了我去！”
 							- 鹤嘴锄问题大概类似冲击钻，可能难度还大些
@@ -2189,6 +2224,7 @@
 				- 可以绕着烤，相当于换种视角的烤串——厉不厉害你烧烤大师！
 				- 在楼间距两格时，可在楼顶边缘来回走，让怪物随机移动到火焰边慢慢烧死（效率很低，隔更远就更低了）
 		- 陷阱
+		  collapsed:: true
 			- 深坑
 				- ((685a9af3-91f6-4596-9ece-cc002749e29b))
 					- “那很美化了”
@@ -2209,6 +2245,7 @@
 				- ((68493779-5bcb-479c-b86f-64a5f562df21))
 				- ((678a4dd4-c27d-448c-b0a7-58306c069c7e))
 		- 武器
+		  collapsed:: true
 			- 武器攻击时可能被墙、货架等挡着
 			- 攻击距离
 			- 也可根据人物属性
@@ -2216,21 +2253,26 @@
 			- [0-H版本的蝴蝶剑配菲律宾剑棍术很强啊【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9760997679)
 			- [装备我该怎么再升级一下【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9036272471)
 			- [有没有能在尸去年里杀个七进七出的武器【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9099873709)
+			  collapsed:: true
 			- 远距攻击近战武器
 				- [REACH_ATTACK - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/json_flag/REACH_ATTACK?lang=zh_CN)
 				- 2格及以上攻击距离，遛怪或隔着障碍无伤杀怪
 				- 矛
 				  id:: 674ecae0-42b1-4e1f-9338-66149338a946
+				  collapsed:: true
 					- 在城市可以隔着（复式公寓等的）石墙戳
 					- 长尖木棍
+					  collapsed:: true
 						- 1分钟，赶时间可以先不造其他矛
 						- 可以用来练习刺击武器技能
 					- 碳化木矛
+					  collapsed:: true
 						- 制造2、生存1
 						- 但是，虽然理论上民宅里应该都有二级切割工具，但有丧尸在外面，那么没有载具、废弃建筑等遮阳可能还得在室外先造二级切割工具——但你也可以压低遮挡降噪走位潜入，而且可以等待、睡到天黑再潜入
 						- 长木棍（有时能直接捡到，不用石头或钝击更高的物品砸小树了） +2级切割（刀或自制石刮削器），碳化木矛在周围有火（“哪里不会点哪里，so easy！”）时可制造，更省时省力
 					- [简易钢管长矛](https://cdda-guide.nornagon.net/item/simple_spear_pipe?lang=zh_CN)
 					  id:: 674e59f1-eda1-41bf-a76d-670f150751ea
+					  collapsed:: true
 						- 制造1、近战1
 						- 钝击比木矛高2，主要是物品够的话做起来比木矛快得多，相对木矛的缺点是导电，没手套不能直接用
 						- ---
@@ -2307,16 +2349,18 @@
 				- ((67567842-23b8-4167-be2d-cc74ccbceae4))
 			- ---
 			- 国民警卫队刺刀>海军陆战队刺刀>军用刺刀
-id:: 674ab140-a3e8-4f6c-b84f-03e52866d45f
+			  id:: 674ab140-a3e8-4f6c-b84f-03e52866d45f
 			- ---
 			- 骨刀
 			- 长棍
 			- 钢锭
+			  collapsed:: true
 				- ((67442968-db52-4255-8e18-91817896c55c))
 					- “自由落体，启动！”
 					- “你们这（指破坏载具为敌人提供投掷物）是自寻死路！”
 					- 但投掷不准也没用
 			- 重型撬棍
+			  collapsed:: true
 				- ((67442968-db52-4255-8e18-91817896c55c))
 			- ---
 			- 弹壳
@@ -2363,6 +2407,7 @@ id:: 674ab140-a3e8-4f6c-b84f-03e52866d45f
 				- “瓜子花生矿泉水~”
 				- 丧尸和疯人是一伙的
 			- 障碍（指需要破坏或工具打开的，放楼梯口的则是不可破坏的）
+			  collapsed:: true
 				- 广义上，怪物等也是
 				- 有些地图上看不到的围栏，不熟悉的话开局往那跑又没工具，可能只能望眼欲穿（当然，也可能挡相当一部分丧尸）
 				- 围栏
@@ -2404,6 +2449,7 @@ id:: 674ab140-a3e8-4f6c-b84f-03e52866d45f
 			  id:: 6847ecfa-d686-49f9-93d0-3837f9665a39
 		- 屠宰butcher B
 		  id:: 6743e02e-0252-46dc-a076-63461b8ca680
+		  collapsed:: true
 			- 快速肢解在无较高钝击和屠宰等级物品时可能比捣碎更快更省力，并可在无防护时处理酸液丧尸等
 			  id:: 684e266e-8daf-4fde-8f0f-c991008c6364
 			- 如需屠宰要及时屠宰，过几小时可能变丧尸（“好可怕丧尸牛！”）
@@ -2809,7 +2855,6 @@ id:: 674ab140-a3e8-4f6c-b84f-03e52866d45f
 		- 你或许看过小区里保洁员把楼下的“手推垃圾箱”拉到小区内部道路上，然后垃圾车夹持垃圾箱举起，将垃圾箱内物品倾倒到车内储罐里，再将垃圾箱放下
 		- 游戏视野是一格一格的，默认世界最近的其他建筑实际上没多远，一秒走一格，大概不超过十分钟就走回来了，相比之下，&制造不少东西、R阅读不少攻略才算费时，物品存取都很可能花更多时间
 			-
-- TODO [[《CDDA思维：为什么CDDA这么难，为什么玩家玩的也是自己游戏史的CDDA》]]
 - 侧边栏
   id:: 68499f29-905d-4bbf-b7e1-403bc6f3170b
   collapsed:: true
