@@ -217,7 +217,7 @@
 				- 电子学
 					- 拆电脑等
 				- 驾驶
-					- 似乎没多大用处，不需要时关闭
+					- 等级高了每秒可转动方向盘次数好像会增加
 		- 描述
 			- 可能选择对应场景的起始位置
 		- ---
@@ -1940,6 +1940,7 @@
 	- ---
 	- 内衬（无内衬时会与部分穿戴物摩擦、膈应使对应部位“皮肤不适”降低速度）
 - 护甲
+  collapsed:: true
 	- [【CDDA】大灾变（0.H）装备_攻略](https://www.bilibili.com/video/BV1fMdQY9E4k/)
 	- [伤害和护甲【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7569629795)
 	- [大伙中期都穿什么甲？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9283511045)
