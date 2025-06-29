@@ -1797,8 +1797,8 @@
 	- 烘焙
 		- [酸面团酵头（未完成） - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/sourdough_young_uncovered)
 		  id:: 68477306-a2bf-4257-9db0-8cf3bd3e9d6a
-			- 80mL面粉加250mL水？~~别人也就1倍体积，你这是3倍了——“懂了，就像移动、工作等的时间应该会胡思乱想平摊高维手操的高时间密度操作一样，用来洗手等的水也考虑到了（小@的手还真干净呢）”（其实更可能是水的最小单位已经定了）~~好像问题也不太，这是6天的量一次混完然后不管，坏了，想试试了
-			- [fix sourdough starter size by dynst · Pull Request #81326 · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/pull/81326)
+			- 80mL面粉加250mL水？别人也就1倍体积，你这是3倍了——“懂了，就像移动、工作等的时间应该会胡思乱想平摊高维手操的高时间密度操作一样，用来洗手等的水也考虑到了（小@的手还真干净呢）”（其实更可能是水的最小单位已经定了）
+				- [fix sourdough starter size by dynst · Pull Request #81326 · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/pull/81326)
 	- 蔬菜沙拉
 	- 需要火的
 		- 蔬菜煎蛋卷
@@ -2137,7 +2137,7 @@
 		- 米戈mi-go
 			- “mygo是吧？”
 			- [原版条件下，米戈是不是CDDA最难缠的一类怪物【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9268064650)
-			- 米戈塔
+			- 米戈侦查塔
 				- 打
 					- [米戈塔怎么打进去速度110一下就降到25，根本打不过里面的守卫【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7395671439)
 					- 米戈塔进门往角落扔雷
@@ -2154,6 +2154,15 @@
 									- 机械学5（理论）
 									- 组件主要拆各种冰箱
 						- 建筑菜单选择“钻开树脂笼”，进度可以累积
+							- 冲击钻300单位汽油钻一格，满1200单位能钻4格，可能不用那么多
+							- 多带水喝
+							- 相邻楼上楼下散发臭气的发光卷须和肉质钟乳石都砸了或炸了，过半小时以上，臭气就散了大半、大致可以无防毒面具通过了（但楼梯口仍可能有，上下楼不会提示直接就吸入了，所以上下楼还得戴着），否则
+								- 不砸有臭气得戴防毒面具加脸、头温度，砸了有电，有电不穿防护服就会被电几个部位，穿防护服就加更多部位温度，很烦
+							- 电好像搞不掉
+								- 放电的摇摆蕨叶和有嫌疑的血肉祭坛都破坏了也有
+							- 热过头了就得出去
+							- 没电了就拆电池回去充电
+						- ---
 						- 失败的
 							- ~~单用冲击钻在你热死之前达不到100%，只要没到100%，就会重置，钻不了一点，“太不合理了我去！”~~
 							- 鹤嘴锄问题大概类似冲击钻，可能难度还大些
@@ -2819,6 +2828,8 @@
 			- 没车或车载充电的话要有一次性电池
 			- [常见问题 Q&A 24、收音机有什么用？| CDDA中文攻略手册](https://surflurer.github.io/CDDA-CN-Guide/docs/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%20Q&A#24%E6%94%B6%E9%9F%B3%E6%9C%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8)
 			- [对于CDDA中收音机的探讨？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/5060320618?pid=106032155510&cid=0#106032155510)
+			- ---
+			- [My Radio (Phillerz Radio Edit) - Empyre One/Energizer - 单曲 - 网易云音乐](https://music.163.com/song?id=429411121&uct2=U2FsdGVkX19rpMi1QaFDGM6ZbIfx+dhUr3qBHxRowbM=)
 		- ((674c50ec-db84-4e6b-9953-720020b0cc82))
 		- 电纸书
 		  id:: 674c3c02-3143-44cf-8ba9-d79e4b97438f
