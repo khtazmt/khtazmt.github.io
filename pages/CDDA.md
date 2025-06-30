@@ -2136,6 +2136,7 @@
 			- 战斗力挺强，而且能往二层抓握
 		- 米戈mi-go
 			- “mygo是吧？”
+			- [Mi-Go | The H.P. Lovecraft Wiki | Fandom](https://lovecraft.fandom.com/wiki/Mi-Go)
 			- [原版条件下，米戈是不是CDDA最难缠的一类怪物【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9268064650)
 			- 米戈侦查塔
 				- 打

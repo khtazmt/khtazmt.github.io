@@ -63,6 +63,7 @@
 					- 废物利用是好的，以前买过几次卫岗1.5L巴氏奶，我妈还买过几次光明的加糖酸奶
 		- 顺带下了
 			- [The Ultimate Guide to Smoking Meat, Fish, and Game: How to Make Everything from Delicious Meals to Tasty Treats | Monte Burch | download on Z-Library](https://z-lib.fm/book/26354591/3a8876/the-ultimate-guide-to-smoking-meat-fish-and-game-how-to-make-everything-from-delicious-meals-to-t.html)
+			- [The Ultimate Guide to Homebrewing : Techniques and Recipes to Get Brewing Today | Editors of the Harvard Common Press | download on Z-Library](https://z-lib.fm/book/23093998/75b6da)
 	- 应用科学
 		- ((6853fbe7-fa71-4d9a-9075-35f7e2ad536a))
 		  id:: 6853fbd7-7745-437c-99d4-3fc599579661
