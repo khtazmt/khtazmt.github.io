@@ -861,6 +861,7 @@
 			- [Trading, trade goods and factions: a guide : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/15iz0en/trading_trade_goods_and_factions_a_guide/)
 			- [这游戏是不是禁止了倒卖【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9169586282)
 			- 交换价值相同的更轻的（大多）排前面
+				- 全景夜视仪（300）
 				- 麻醉套件（空的15，捡的一般带不少麻醉剂，往往值几十到满6000份麻醉剂的443.57）
 				- M433榴弹（60）
 				- Hub金币（50）
@@ -990,7 +991,8 @@
 					  collapsed:: true
 						- 内部车库有两辆救护车
 						- [分析丧尸血样的任务【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9045956182)
-					- 杀死强盗（旧日守护者联络官）
+					- 旧日守护者联络官
+					- 杀死强盗
 						- 解决敌方眼线（“差不多算是有标注”）
 							- ((683ec6b5-315f-4138-a664-9d6dc834c1fc))
 								- 这样会降低自由商会信任30点（？），导致他的物品无法购买——“可以正常玩或调试加回来”
@@ -1000,6 +1002,8 @@
 						- 暗杀强盗头子
 							- 在带射击孔墙外射杀即可（可能他们的射击孔搞得比较大吧（心虚）），赶时间可以不进去杀更多强盗和搜刮
 						- 安装无线中继模块
+							- [功率变换器 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/power_supply)
+								- [手机基站 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/furniture/f_cellphone_booster)
 					- 司机（站在车库门边的）指路（可能不会指到流亡族营地，可以在难民中心大地图3格外SL，可能概率与距离有关，有时要好多次）
 					  collapsed:: true
 						- >不建议刷流亡族地址，应该刷枪匠地址，流亡族可以从旧世守护者那接任务，第三个任务就会让你去侦查流亡族基地，而枪匠那可以让你前期就获得大量的武器弹药。先把其他几个地方的地址都问到，最后再问司机，他大概率就会刷出一个你还没问到的任意一个势力的地址。
@@ -1203,6 +1207,7 @@
 			- 黑电脑需要防电击，比如穿Hub 01环境防护服
 			- [修格斯 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/monster/mon_shoggoth)
 			  id:: 6857b383-3546-4d13-8e7a-bf05abfb33b2
+				- [Shoggoth | The H.P. Lovecraft Wiki | Fandom](https://lovecraft.fandom.com/wiki/Shoggoth)
 				- 有榴弹可以跑开约15格以上炸，重武器技能不高普通瞄准也可能一发入魂
 				- [萌新的疑问，科学实验室这层应该怎么打？打完有啥奖励吗？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8894048114)
 				- [极限用手雷杀掉修格斯【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8495508614)
@@ -1245,6 +1250,7 @@
 			- 民宅的小菜园的强化玻璃门可以关儿童丧尸等
 		- 屋顶平台
 			- 太阳能板、净水器等可以拆了带走，如果当前住的民宅、开的电车等还没有的话
+		-
 	- 因为多数丧尸没你走得快、跑得快、不会攀爬等设定，开局直接跑，武器不造、衣服不做、枪也不拿，开车、骑车乃至走路直接到难民中心发家致富是有可能的，冬季等延迟开局也有可能
 	- ---
 	- 没有必须现在就去探索的区域，弱小时多游击
@@ -1484,6 +1490,7 @@
 			- 13个任务物品（变化的不去重）， ((684ee449-e971-47bd-9566-5890980fd1c8)) 独占七个，懂不懂我们黑玻璃的含金量啊？！（战术后仰）
 - 载具
   id:: 6742fa85-e9fc-4067-8b4d-b10f44d6916d
+  collapsed:: true
 	- [og，3×5轻量化微型两栖房车 配备一个500货舱，一个强化高能太｜CataclysmDDA幸存者社区 大灾变:劫后余生|CDDA｜腾讯频道](https://pd.qq.com/qqweb/qunpro/share)
 	- 速度与格数对应关系
 		- 加速、减速能力
@@ -1727,6 +1734,7 @@
 		- [自制地下冷库vs冷冻实验室，谁输谁赢？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8881459477)
 - 食物
   id:: 6741699e-818b-4a6e-b381-b9c6cfe590c5
+  collapsed:: true
 	- 我一般旷野顺蒲公英，森林顺牛蒡，然后批量煮茶（“是汤吧？”）放保温瓶，其中一瓶带身上，其他食物路过挑罐头和没垃圾食品成分的综合研判吃一下，不用特别为
 	- 不用担心食物坏了浪费（“你到底在担心什么我都不想说”），想想看，除了食物外还有一大堆不会短期腐坏的物品放在那没用，你要都带走吗？
 	- 开局爽吃短保质期的剩饭剩菜、不做饭也不囤食材，毕竟过几天就过期了，也不会（或“要”）有什么沉没成本：让队友打个猎就吃不完的肉、采集植物就有吃不完的植物，自然水体里吃不完的香蒲，农田里吃不完的农作物，正常的奶牛场里吃不完的奶制品
@@ -2520,15 +2528,15 @@
 	  id:: 67567842-23b8-4167-be2d-cc74ccbceae4
 		- ((675677d1-1497-4742-b56c-50277c7b9c66))
 - 阅读read R
-  collapsed:: true
 	- 专注高时读一会儿即可
 		- [【图片】开个实况贴，记录从零开始变强的过程【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8658432604?pid=148840248560&cid=148841687994#148841687994)
 	- [各位大佬请问如何加智力？读书都读不出配方了【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6140502179)
 	- [CDDA的冷门小寄巧【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8881527015?pid=149709114307&cid=0#149709114307)
 	- [回复：【CDDA】有什么软用的小技巧？！【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7554427086?pid=141444729785&cid=0#141444729785)
+	- ---
+	- [书店 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/s_bookstore)
 - 闹钟
   id:: 678a4dd4-fdab-4e10-a4b9-fb1ff1eff77a
-  collapsed:: true
 	- “提醒自己别超时，及时撤离和起床”
 - 营地
   collapsed:: true
