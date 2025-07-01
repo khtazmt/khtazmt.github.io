@@ -121,6 +121,9 @@
 			- 驾驶4，但有48个应用科学配方，结合起来看比GTA更道具——“那很~~疯狂的安人~~007了”
 			- 70、80、90年代，后面普遍没有了，个人电脑互联网、金融危机、911？
 			- “让我看看里面有什么合法的内容”
+			- [Quora 提到的《无政府主义者的烹饪手册》是一本什么样的书？为什么相关内容不予显示？ - 知乎](https://www.zhihu.com/question/27195699)
+			- [一个无政府主义者的“浪子回头”路--舆情频道](https://qnck.cyol.com/content/2011-03/01/content_4213991.htm)
+			- ((66adee71-01d4-4cea-b01b-ad0a969a21bd))
 - ---
 - 仅供娱乐
 	- [The Museum of All Things Awesome and That Go Boom - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/book_anthology_moataatgb)
