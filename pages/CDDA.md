@@ -348,6 +348,7 @@
 							- [Cub Scouts vs. BSA Scouts: What's Different? What's Similar?](https://scoutsmarts.com/difference-similarities-cub-scouts-vs-boy-scouts/)
 							- [Boy Scout Handbook For Boys - 5th Edition - Anna’s Archive](https://annas-archive.se/md5/94b64d790222053698e534b1b0adcc17)
 						- 食品加工10
+						  id:: 6859019f-e044-49fe-8cd8-9db83bf16ac1
 							- 做过带调味的牛心玻璃罐头（5；6级的腌制也就加个醋，水浴加热要考虑的还没高压锅多），做过1-3种动物的肝酱（6）和蒸鮟肝蘸冰梅酱
 							- 操作难度看着都不高（“爆炒与刺击相关吗？”），干脆加满
 						- 制造2
