@@ -19,7 +19,6 @@
 	- [(水)【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7521643512)
 - ---
 - 下载
-  collapsed:: true
 	- 游戏本体
 		- [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/)
 			- 基于DDA的开源免费游戏
@@ -78,6 +77,8 @@
 		- [【自制mod】农业拓展mod新发布帖【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8073154761)（可能没在更新了）
 		- ---
 		- ((685a426a-ac91-4b15-882f-85116f75a808))
+		- [Json编写教程 | Cataclysm: DarkDays Ahead Wiki | Fandom](https://cdda.fandom.com/zh/wiki/Json%E7%BC%96%E5%86%99%E6%95%99%E7%A8%8B)
+		- [基础模组编写 | Cataclysm: DarkDays Ahead Wiki | Fandom](https://cdda.fandom.com/zh/wiki/%E5%9F%BA%E7%A1%80%E6%A8%A1%E7%BB%84%E7%BC%96%E5%86%99)
 		- [【图片】<新手向>MOD入門：如何在CDDA中捏角【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6307216734)
 		- [简单的mod教学物品章武器篇【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7642657829)
 		- [【图片】新人向|无基础情况下如何从0开始写MOD【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7880896727)
@@ -88,7 +89,6 @@
 				- ((68539f90-6143-40d5-822f-a587a4ba58c8))
 - 游戏教程
 - 世界
-  collapsed:: true
 	- 就是（没开的）大地图
 	- 和平模式
 		- [这游戏要是有和平模式就好了【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8866200323)
@@ -100,6 +100,8 @@
 	- 低物品生成率
 		- 野人
 			- [到底怎么当一个合格的野人？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7701586976)
+	- ---
+	- ((68667bd7-cf17-46a5-98c8-6d3bef8b3b03))
 - 角色@（昵称“小@”）
   id:: 67eb2809-080e-4afd-a75c-376ec97628a0
   collapsed:: true
@@ -315,6 +317,7 @@
 					- 自然生发
 						- 点一下看看怎么个事
 				- 技能
+					- 可部分依据skills.json中的描述判断
 					- 近战技能
 						- 可以从每天舞几下PVC管、登山杖开始
 						- 近战3
@@ -370,6 +373,8 @@
 							- “might be able”是吧？“might”是吧？
 						- 计算机学3/4
 							- 没啥经验，不确定debug mod conflicts要采用何种方式，直接试出来后禁用某个或某些mod算不算debug呢？
+								- ((68669d1c-2871-4062-a237-3c0a19e0a034))
+							- ((68668691-f75b-4320-b810-5320c79d79a8))
 						- 医疗3/4
 						- 社交4
 							- “我要我觉得”
@@ -381,6 +386,7 @@
 						- ((6848065a-50e3-4b65-b0e9-f749d5b53ff3))
 					- ---
 					- ~~实物（武器除外）操作类技能都点了有最多配方所需的最小等级（“为了游戏性灵活前瞻一下”）~~
+					  collapsed:: true
 						- ((679add3e-6367-4bfc-a7be-297633576b79))
 						- “主要靠先进的生产资料”
 							- “先进的、较少受人力影响的生产资料，现成的（还真是，复杂部件都不用自己造），拿来！”
@@ -401,8 +407,12 @@
 			- [推荐给新人的一个万金油强力捏人开局【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8951867212)
 	- 详情
 	- 专长
+	- 存档内角色重复 [[20250703]]
+		- [Character duplicated? : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/l6ec5u/character_duplicated/)
+			- 那两文件都点开浏览过，但还没怀疑到那上来——就突然冒出来“duplicate”这一命中solution的关键词了——之后看文件大小也不一样，不太容易直接看出来，“temp”望文生义就有点像“cache”
 	- ---
 	- 游戏中的角色面板（玩家信息界面/菜单）
+	  collapsed:: true
 		- 属性
 			- [怎么提高属性？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9711225606)
 			  id:: 684f925d-ab4f-4abc-ac0f-321d55f0d06f
@@ -492,6 +502,7 @@
 	- 注意模板角色无法重复触发部分任务、获取物品等
 - 帮助（比游戏教程详细，适合正常游戏中参考）
 - 操作方式
+  collapsed:: true
 	- 需要更多用键盘（手柄设置好了也可能用）
 		- ((68006759-4e07-4520-a79a-2c4111e8f69e))
 	- 角色在主画面中心
@@ -499,6 +510,7 @@
 	- 按住shift临时切换大小写、反向tab
 	- 空格取消
 	- 主菜单Esc
+	  collapsed:: true
 		- 帮助（有问题可以先看看帮助里有没有写）
 		- 行动菜单a或直接enter回车
 			- ((67433f54-52b6-409b-8064-42e4adf3f30c))
@@ -1085,6 +1097,8 @@
 					- [麻醉剂哪里刷？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8495238853)
 					- ---
 					- 默认第一次先装标准神经生化接口（免费），然后再装储能模块（免费）和电缆充电器（免费）以及你在对话打开的交易界面中购买的CBM（可以合并安装节约安装时间），而如果需要安装的CBM已预先购买，则可在同一个对话里切到~~“那你能帮帮我吗？”~~“你能为我做点什么吗？”安装已预先购买的CBM
+				- 装第一个CBM的成就里的拉丁文
+					- [spiritus quidem promptus est caro autem infirma | English Translation & Meaning | LingQ Dictionary](https://www.lingq.com/en/learn-latin-online/translate/la/18529387/spiritus-quidem-promptus-est-caro-autem-infirma/)
 				- 调查神秘地堡
 					- 到Hub01，顺路！
 						- ((6854c16c-191d-494c-99ce-243c04af8d95))
@@ -1405,6 +1419,7 @@
 				- 隐藏鼠标光标（按键时隐藏）
 				- 边缘滚动（快）
 		- 图形
+		  collapsed:: true
 			- 字体设置
 			  id:: 6846eafb-d0f5-4503-a2b5-3dd06bb10e5d
 				- 宽高比一般保持1:2，大小一般与高相同
@@ -1423,6 +1438,7 @@
 					- 默认的UltiCa贴图最全，也比较清晰、辨识度相对高
 					- Chibi UltiCa
 						- 像是前两者的结合，但有时仍有违和感的Ultica怪物贴图
+							- >Chibi Ultica is a combination of MSXotto+ tileset for monsters and characters, the Chibi part, and the Ultica tilset for the rest of the world.——文本文档
 					- 害怕蟑螂、黄蜂、潮虫（鼠妇）、蜘蛛等有“虫恐”的可以换成相对安全的贴图包，比如可爱的cuteclysm、brownlikebears（没试看这些生物）
 					- UndeadPeople
 					  id:: 67402aab-ea8e-4cfe-a9bb-a3d397151c24
@@ -2531,6 +2547,7 @@
 	  id:: 67567842-23b8-4167-be2d-cc74ccbceae4
 		- ((675677d1-1497-4742-b56c-50277c7b9c66))
 - 阅读read R
+  collapsed:: true
 	- 专注高时读一会儿即可
 		- [【图片】开个实况贴，记录从零开始变强的过程【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8658432604?pid=148840248560&cid=148841687994#148841687994)
 	- [各位大佬请问如何加智力？读书都读不出配方了【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6140502179)
@@ -2540,6 +2557,7 @@
 	- [书店 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/s_bookstore)
 - 闹钟
   id:: 678a4dd4-fdab-4e10-a4b9-fb1ff1eff77a
+  collapsed:: true
 	- “提醒自己别超时，及时撤离和起床”
 - 营地
   collapsed:: true
@@ -2594,67 +2612,115 @@
 	- [这游戏后期还有什么玩的内容吗?【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8058446237)
 - （更多）玩法
   collapsed:: true
-	- 存档内特殊操作
-		- [你们玩cdda的心态是啥？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8467128124)
-		- “计算机学，启动！”
-		  id:: 68480450-974f-4bb0-81db-18789de02db1
-		- SL大法
-		  id:: 674b169c-92c4-460d-a11a-2b08d8f1853d
+	- “强迫症这一块”
+		- 存档内特殊操作
 		  collapsed:: true
-			- [路人无聊过来问个问题啊【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6339407492)
-			  id:: 67402aab-bba8-4588-852c-ceac26ba83c9
+			- [你们玩cdda的心态是啥？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8467128124)
+			- SL大法
+			  id:: 674b169c-92c4-460d-a11a-2b08d8f1853d
 			  collapsed:: true
-			- 保存游戏后，alt+F4关闭游戏（不需要从当前游戏/存档退出到主界面再退出），重新打开就是保存时的游戏
-			- 启动器备份的压缩速度可能比较慢，可以打开CDDA目录直接复制（原地）粘贴saves文件夹（如有多个存档则复制粘贴对应世界的存档——“这样读取其实也更方便”）生成其副本，需要恢复时将原saves文件夹删除，根据文件夹的修改时间或当时的重命名选择对应副本并重命名为saves，然后再复制粘贴一份
-				- 启动器更新后，上一版本的存档在previous_version文件夹里（该文件夹对应启动器的“恢复以前的版本”按钮；注意启动器更新只会保存上一个版本非previous_version文件夹中的存档，如有需要可手动额外备份）
+				- [路人无聊过来问个问题啊【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6339407492)
+				  id:: 67402aab-bba8-4588-852c-ceac26ba83c9
+				  collapsed:: true
+				- 保存游戏后，alt+F4关闭游戏（不需要从当前游戏/存档退出到主界面再退出），重新打开就是保存时的游戏
+				- 启动器备份的压缩速度可能比较慢，可以打开CDDA目录直接复制（原地）粘贴saves文件夹（如有多个存档则复制粘贴对应世界的存档——“这样读取其实也更方便”）生成其副本，需要恢复时将原saves文件夹删除，根据文件夹的修改时间或当时的重命名选择对应副本并重命名为saves，然后再复制粘贴一份
+					- 启动器更新后，上一版本的存档在previous_version文件夹里（该文件夹对应启动器的“恢复以前的版本”按钮；注意启动器更新只会保存上一个版本非previous_version文件夹中的存档，如有需要可手动额外备份）
+				- ---
+				- 隔着大地图2格左右刷新地点
+					- 比如奶牛场
+					- ((67553cf9-1b09-47a3-87c1-01448453d1d3))
+			- 调试
+			  id:: 68480dde-3d5d-4041-8406-7240ecacd817
+			  collapsed:: true
+				- 调好后可在“游戏”中“启用成就”调回来
+				- ~~“如果你想确认个事，可以调试”~~
+					- 比如物品信息比 ((674c3c02-0814-4a5d-9bba-88071b88ccdf)) 的全
+					- 可以显示地图刷好地图（比如只看主线地点之间是否够近）给别人玩或等自己大致忘了再玩
+						- m地图——shift+o大地图编辑器——r显示地图——我一般选full、1
+						- 流亡族搜索“岩丘”，科迪·杰搜索“枪匠”或“铁匠”
+						- 不喜欢可以调试不保存退出（shift+q）
+				- “东西没带，回去拿一下，但是传送”
+					- 注意传送可能会影响地图记忆，导致正常游戏时看到不该看到的地形，可按需远离点传送——“否则你就可能想‘求一双没看过xx的眼睛’了”
+				- 调试可能会意外（提前）触发成就，比如技能中途调得偏高、传送到最低层
+					- ((6866a888-390a-4dfa-a9aa-7d23949f45dd))
+			- 看、改游戏、存档文件
+			  id:: 68663f23-1a78-4328-9e1c-b556a304fc6f
+				- 怎么看？
+					- 玩一阵子（尤其是至少经常切换到英文玩的）就能跟游戏里的格格又式式对应上直接看懂一些了
+					- ((68664ac1-75a4-496f-ba46-bc1619282794))
+				- 看、改什么？
+					- data文件夹
+						- json文件夹
+							- ((674c3c02-0814-4a5d-9bba-88071b88ccdf)) 的信息来源
+								- 这个网站的程序整合了多文件夹的信息，但很多情况下直接点开文件读比搜搜更精准、整体、方便
+					- save文件夹（存档文件夹）
+						- 存档文件夹里的worldoptions.json文件里可以更细地改更多项
+						  id:: 68667bd7-cf17-46a5-98c8-6d3bef8b3b03
+						- .sav文件可修改存档内的角色信息 [[20250703]]
+						  id:: 6866a888-390a-4dfa-a9aa-7d23949f45dd
+							- 已完成的成就等搜“achievements_status”
+					- 可以搜索关键词
+						- ((66ade382-2ec5-41e5-9e02-1a0d9600420a))
+							- 添加json文件类型
+							- 更新游戏文件夹
+							- 指定路径为游戏文件夹
+							- 搜索角色名等关键词
+							- 双击打开对应文件
+					- 游戏crash等方面的问题解决
+					  id:: 68669d1c-2871-4062-a237-3c0a19e0a034
+						- 移动、修改怀疑的文件，看有什么变化
 			- ---
-			- 隔着大地图2格左右刷新地点
-				- 比如奶牛场
-				- ((67553cf9-1b09-47a3-87c1-01448453d1d3))
-		- 调试
-		  id:: 68480dde-3d5d-4041-8406-7240ecacd817
+			- 导入导出
+			  collapsed:: true
+				- [做了个CDDA人物/车辆导入导出工具【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7787766014)
+			- [游戏回档 - 萌娘百科 万物皆可萌的百科全书](https://mzh.moegirl.org.cn/%E6%B8%B8%E6%88%8F%E5%9B%9E%E6%A1%A3)
+		- 外部参考资料
 		  collapsed:: true
-			- 调好后可在“游戏”中“启用成就”调回来
-			- ~~“如果你想确认个事，可以调试”~~
-				- 比如物品信息比 ((674c3c02-0814-4a5d-9bba-88071b88ccdf)) 的全
-				- 可以显示地图刷好地图（比如只看主线地点之间是否够近）给别人玩或等自己大致忘了再玩
-					- m地图——shift+o大地图编辑器——r显示地图——我一般选full、1
-					- 流亡族搜索“岩丘”，科迪·杰搜索“枪匠”或“铁匠”
-					- 不喜欢可以调试不保存退出（shift+q）
-			- “东西没带，回去拿一下，但是传送”
-				- 注意传送可能会影响地图记忆，导致正常游戏时看到不该看到的地形，可按需远离点传送——“否则你就可能想‘求一双没看过xx的眼睛’了”
-		- [做了个CDDA人物/车辆导入导出工具【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7787766014)
+			- ((684658b7-551b-4658-8e77-7dda2bd1befd))
+			- [The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/?lang=zh_CN)
+			  id:: 674c3c02-0814-4a5d-9bba-88071b88ccdf
+				- “这玩意比游戏本体耐玩欸！”
+				  id:: 675ae713-a80e-434f-a0bc-b4d1178edd64
+				- “在游戏里搜也是搜，更费时”
+				- 游戏信息查询，可切换版本、贴图包、语言（其他语言下输英语可以搜到其他语言的条目，但反之不行）
+				- 可以查地点/位置有什么物品，有什么家具可以拆、砸，等等
+				- [The Hitchhiker's Guide to the Cataclysm](https://cdda.doiiars.com/?lang=zh_CN)
+				  id:: 678a4dd4-a492-44ea-bd49-4cc28db095a3
+					- [CDDA漫游指南 国内直连镜像站【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8871692136)
+			- [The Cataclysm: Dark Days Ahead Wiki](https://srgnis.github.io/cdda-wiki/cdda_wiki/Main_Page.html)
+			- [cataclysmdda吧-百度贴吧--终焉未至，痛苦犹存--Cataclysm: Dark Days Ahead是一个开源的后启示录背景生存roguelike游戏。游戏特色包括物品制作，探索搜寻，战斗，](https://tieba.baidu.com/f?kw=cataclysmdda)
+			- [Cataclysm: Dark Days Ahead](https://www.reddit.com/r/cataclysmdda/)
 		- ---
-		- [游戏回档 - 萌娘百科 万物皆可萌的百科全书](https://mzh.moegirl.org.cn/%E6%B8%B8%E6%88%8F%E5%9B%9E%E6%A1%A3)
-	- 外部参考资料
+		- 成就
+			- [A List of DDA Achievements I made for fun : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/f5zqk7/a_list_of_dda_achievements_i_made_for_fun/)
+	- ---
+	- “计算机学这一块”
+	  id:: 68668691-f75b-4320-b810-5320c79d79a8
+		- ((68663f23-1a78-4328-9e1c-b556a304fc6f))
+		- 成为CDDA游戏内容的贡献者
+			- [Guide to adding new content to CDDA for first time contributors · CleverRaven/Cataclysm-DDA Wiki](https://github.com/CleverRaven/Cataclysm-DDA/wiki/Guide-to-adding-new-content-to-CDDA-for-first-time-contributors)
+			- ((68663f23-1a78-4328-9e1c-b556a304fc6f))
+			- ((67eb2809-b660-4ea2-a851-59736878123a))
+			- [Cataclysm: Dark Days Ahead docs | DDA Docs](https://docs.cataclysmdda.org/)
+	- ---
+	- “游戏社交这一块”
+		- 同世界/人物、不同玩家玩（线上可以视频，还可以直播同时玩，甚至可以开实时模式“强化学习”——“替代性联机策略”）
+		  id:: 674c14e2-ae10-4bc8-bc58-e8911f0e2a14
+			- [【图片】【伪联机】无服务器cdda联机尝试知识共享贴。（涉及不专业的游戏设计理论）我会简单说一下可行性的方案【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7319585854)
+			- “什么存档协作”
+	- “没朋友（？）或好教程（？）这一块”
 	  collapsed:: true
-		- ((684658b7-551b-4658-8e77-7dda2bd1befd))
-		- [The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/?lang=zh_CN)
-		  id:: 674c3c02-0814-4a5d-9bba-88071b88ccdf
-			- “这玩意比游戏本体耐玩欸！”
-			  id:: 675ae713-a80e-434f-a0bc-b4d1178edd64
-			- “在游戏里搜也是搜，更费时”
-			- 游戏信息查询，可切换版本、贴图包、语言（其他语言下输英语可以搜到其他语言的条目，但反之不行）
-			- 可以查地点/位置有什么物品，有什么家具可以拆、砸，等等
-			- [The Hitchhiker's Guide to the Cataclysm](https://cdda.doiiars.com/?lang=zh_CN)
-				- [CDDA漫游指南 国内直连镜像站【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8871692136)
-		- [The Cataclysm: Dark Days Ahead Wiki](https://srgnis.github.io/cdda-wiki/cdda_wiki/Main_Page.html)
-		- [cataclysmdda吧-百度贴吧--终焉未至，痛苦犹存--Cataclysm: Dark Days Ahead是一个开源的后启示录背景生存roguelike游戏。游戏特色包括物品制作，探索搜寻，战斗，](https://tieba.baidu.com/f?kw=cataclysmdda)
-		- [Cataclysm: Dark Days Ahead](https://www.reddit.com/r/cataclysmdda/)
-	- [这里是cdda忏悔室，大家做了什么坏事都可以在这里说【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8727599791)
-	- 看别人玩
-	  collapsed:: true
-		- [【CDDA 0.H?】色盲模式！实况01_单机游戏热门视频](https://www.bilibili.com/video/BV1sw2rY2EXj)
-		  id:: 68477306-881b-4a44-89ff-1e554267a28a
-		- [【补档】【CDDA】琴叶姐妹的末日行记【VOICEROID实况】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1J7steaEMX)
-			- 第二集开始就相对清晰了
-			- [【图片】曾经cdda的顶流视频，一个无法超越的神话_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/9051709617)
-		- ---
-		- [大家来说说都是怎么发现这个游戏的,第一次玩是什么时候.【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6528897848)
-	- 同世界/人物、不同玩家玩（线上可以视频，还可以直播同时玩，甚至可以开实时模式“强化学习”——“替代性联机策略”）
-	  id:: 674c14e2-ae10-4bc8-bc58-e8911f0e2a14
-		- [【图片】【伪联机】无服务器cdda联机尝试知识共享贴。（涉及不专业的游戏设计理论）我会简单说一下可行性的方案【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7319585854)
-		- “什么存档协作”
+		- 看别人玩
+			- [【CDDA 0.H?】色盲模式！实况01_单机游戏热门视频](https://www.bilibili.com/video/BV1sw2rY2EXj)
+			  id:: 68477306-881b-4a44-89ff-1e554267a28a
+			- [【补档】【CDDA】琴叶姐妹的末日行记【VOICEROID实况】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1J7steaEMX)
+				- 第二集开始就相对清晰了
+				- [【图片】曾经cdda的顶流视频，一个无法超越的神话_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/9051709617)
+			- ---
+			- [大家来说说都是怎么发现这个游戏的,第一次玩是什么时候.【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6528897848)
+	- ---
+	- “不欺暗室这一块（指本色出演）”
+		- [这里是cdda忏悔室，大家做了什么坏事都可以在这里说【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8727599791)
 - 用[[logseq]]、 ((65bcac14-f887-4224-92e2-1d16751f358d)) 、游戏内日记（`)`）等记录待办
   collapsed:: true
 	- 直升机空难
