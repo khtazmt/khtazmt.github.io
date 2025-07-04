@@ -104,6 +104,12 @@
 	- [Water Survival Training Field Manual - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_swimming)
 		- [Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength | Steven Low, DPT | download on Z-Library](https://z-lib.fm/book/5646357/d241b1/overcoming-gravity-a-systematic-approach-to-gymnastics-and-bodyweight-strength.html)
 			- 以前下的还没怎么看和练
+	- 操控装置
+		- [How to Trap Anything - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/howto_traps)
+			- 部分匹配
+				- [How to Hide Anything | Michael Connor | download on Z-Library](https://z-lib.fm/book/17703154/5db85a)
+				  id:: 686776fa-ecd8-434e-96be-0ffc03fd7e61
+				- [How to Pitch Anything: Tested Method with +1.500 entrepreneurs for Unlocking the Investors Vault | Sergi Sai Mora | download on Z-Library](https://z-lib.fm/book/25139683/8d4587)
 	- 计算机学
 		- [How to Browse the Web - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/howto_computer)
 	- 社交

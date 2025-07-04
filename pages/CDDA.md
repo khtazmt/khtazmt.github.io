@@ -20,14 +20,19 @@
 - ---
 - 下载
 	- 游戏本体
+	  collapsed:: true
 		- [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/)
+		  collapsed:: true
 			- 基于DDA的开源免费游戏
 			- [Releases · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/releases)
 			  id:: 684658b7-551b-4658-8e77-7dda2bd1befd
+			  collapsed:: true
 				- ((67402acb-9a37-48c8-843f-077a630cf20b))
+				  collapsed:: true
 					- “你是怎么来这里的？截屏？”
 					- ~~“打不开、不会跳的话可以等空间风暴”~~
 				- 选带“tiles”和“sounds”（多个CC-Sounds音效包，比只有“界面音效”的Basic音效包多很多音效），你的操作系统、位数（32位还是64位）的链接下载
+				  collapsed:: true
 					- 据说：msvc可用于做mod，在windows原生环境更稳定
 					- [我该下哪一个【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9023960609)
 					- [实验版下载求助【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7929876571)
@@ -37,41 +42,56 @@
 				- 带`[]`或至少带冒号的是模组更新，你可能不需要
 			- [版本简介及个人点评【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9714678594)
 			- 有tab键的手机输入法
+			  collapsed:: true
 				- >黑客键盘
 				- >讯飞输入法，有tab键，有游戏键盘，非常适合手机cdda，
 		- 另外的分支
+		  collapsed:: true
 			- CBN
+			  collapsed:: true
 				- [cbn和cdda0.h（求问）【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9780184903)
 				- [来自BN组的愚人节玩笑【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8343991825)
 				- [CBN汉化组锐评CDDA【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9777948192)
 	- 启动器
+	  collapsed:: true
 		- 除了存档备份、恢复外，还有一键更新等功能
 		- 有多个世界时，单个世界存档可能还是单独备份快些
 		- [GitHub - DoiiarX/CDDA-Game-Launcher: A Cataclysm: Dark Days Ahead launcher with additional features](https://github.com/DoiiarX/CDDA-Game-Launcher)
 		  id:: 67402aab-601e-4702-b366-49894d1aa778
+		  collapsed:: true
 			- 中文
 			- 功能比下面官网链接里的更丰富
 			- 可以把存档上限改高点
 			- [CDDA 游戏启动器 汉化版 国内直连加速  | Doiiars Blog](https://doiiars.com/article/CDDA-Game-Launcher)
 			- [【图片】我做了个cdda启动器汉化版【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8883710208)
 		- [GitHub - Fris0uman/CDDA-Game-Launcher: A Cataclysm: Dark Days Ahead launcher](https://github.com/Fris0uman/CDDA-Game-Launcher)
+		  collapsed:: true
 			- 英文
 			- 较方便地更新（实际）最新版、回到前一个版本、自动/手动备份存档（我是启动前和更新前自动备份）、选择备份存档回档、安装/禁用/删除音效包等
 	- 模组mod
 	  id:: 67eb2809-b660-4ea2-a851-59736878123a
+	  collapsed:: true
 		- 游戏本体附带一些
+		  collapsed:: true
 			- 翻译晦涩对话
+			  collapsed:: true
 				- 鲁比克之类对话的中译看起来会清楚些，但并非完全清楚，这个模组提供（可能）更清楚的“英译”
 			- 特色升级能力
+			  collapsed:: true
 				- ((684f925d-ab4f-4abc-ac0f-321d55f0d06f))
 			- 杀怪提升属性
+			  collapsed:: true
 				- [【杀怪提升属性】是如何计算的？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7285395617)
 				- ((6847ecfa-d686-49f9-93d0-3837f9665a39))
 		- 整合包modpack
+		  collapsed:: true
 			- ((67402aab-601e-4702-b366-49894d1aa778)) 启动器里可安装
+			  collapsed:: true
 				- [GitHub - linonetwo/CDDA-Kenan-Modpack-Chinese: （最新实验版）Kenan's 大型 modpack 社区汉化版 For Cataclysm - Dark Days Ahead](https://github.com/linonetwo/CDDA-Kenan-Modpack-Chinese)
+				  collapsed:: true
 					- [Kenan整合包 | Cataclysm: DarkDays Ahead Wiki | Fandom](https://cdda.fandom.com/zh/wiki/Kenan%E6%95%B4%E5%90%88%E5%8C%85)
 		- 带传送功能的
+		  collapsed:: true
 			- [现在0.G稳定版有什么超长距离跑图手段么_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/9224832261)
 		- [【图片】枪械工坊的复活？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9028711320)
 		- [【自制mod】农业拓展mod新发布帖【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8073154761)（可能没在更新了）
@@ -85,10 +105,16 @@
 		- [How to easily find conflicting mods and solve them : r/skyrimmods](https://www.reddit.com/r/skyrimmods/comments/ieqgsk/how_to_easily_find_conflicting_mods_and_solve_them/)
 		- ---
 		- 更多中国元素
+		  collapsed:: true
 			- “三大神书”
+			  collapsed:: true
 				- ((68539f90-6143-40d5-822f-a587a4ba58c8))
+- 标题（主界面的“大灾变”等）
+	- [uhhh what? : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/hklu21/uhhh_what/)
+	  id:: 68671a8d-158a-4aa9-bf3f-026c055940c2
 - 游戏教程
 - 世界
+  collapsed:: true
 	- 就是（没开的）大地图
 	- 和平模式
 		- [这游戏要是有和平模式就好了【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8866200323)
@@ -681,6 +707,7 @@
 				- 寡妇制造者（钝击35）
 				- 消防破拆棍（钝击42）
 				- 重钢锤（钝击80——“八十”）
+					- 可以砸开砖墙
 			- “强制徒手”省力
 			  id:: 674c7d9a-0ddd-4ac5-a23f-53d66011b324
 		- 拆解（disassemble）物品
@@ -881,23 +908,23 @@
 				- 麻醉套件（空的15，捡的一般带不少麻醉剂，往往值几十到满6000份麻醉剂的443.57）
 				- M433榴弹（60）
 				- Hub金币（50）
-				- 电击枪（15）
+				- 电击枪（15）、流感疫苗
 				- 国民警卫队刺刀（12.5，连刀鞘14）、军用刺刀
 				- MRE包装（很多10以上）
-				- 肾上腺素
+				- 肾上腺素自助注射器（10）
+				- 哮喘吸入器（7.5）、双向无线电、射击护耳、全息瞄准镜、步枪瞄准镜
 				- 指南
 				- 书籍
 					- [Books - The Cataclysm: Dark Days Ahead Wiki](https://srgnis.github.io/cdda-wiki/cdda_wiki/Books)
 					  id:: 6852b44f-b5e1-461e-853a-c34d03fba962
 				- 地图（读过了可以不扔）
 				- 游戏（战舰、国际象棋等杂物，更贵）
-				- 哮喘吸入剂（7.5）、双向无线电
 				- 催泪瓦斯喷雾（1.5，斯默克6.5）
-				- 雪茄（5）、收音机、工兵铲、撬棍
+				- 雪茄（5）、听诊器、收音机、工兵铲、撬棍
 				- 眼镜
 				- 广谱抗生素（3）、多功能工具、
 				- 商会币（2.5）、手术刀、多功能口哨、打气筒、螺丝刀组、套筒扳手组、小型灭火器（0.5，斯默克2.5）、笔记本电脑
-				- 抗生素（2）、卫生棉条、月经垫、医用纱布、瑞士军刀
+				- 抗生素（2）、羟考酮、地西泮、抗寄生虫药、抗真菌药、卫生棉条、月经垫、医用纱布、抗感冒药水、瑞士军刀
 				- 护甲
 				- 医用胶带（1）、美工刀、跨接电缆、照明弹、钢丝、智能手机
 				- 硬奶酪、奶酪（0.77，也可能自己做了吃）
@@ -1080,7 +1107,8 @@
 					- 首次交易（可能需要你卖出一定数额，一般总共需要三商会币）+1，之后每次交易（交易界面直接回车即可，什么都不用买卖）+2（“左右”），最多总共加20（“左右”）
 					- 以上两项大概加到21，可以看到交易界面都解锁了
 			- 9
-				- 平行世界的枪的水平大致齐平或略高于全威力弹狙击步枪，因为战斗步枪可以五连发
+				- 平行世界的枪的好用程度大致齐平或略高于全威力弹狙击步枪，因为战斗步枪可以五连发
+				- 军械炮效果不如cdda地球的榴弹发射器
 				- 但第一周不一定枪和弹药、弹匣都全
 				- ---
 				- ~~地图上有个NPC标注“9”，在8个大圆石那大格~~
@@ -1112,6 +1140,8 @@
 			- 奇怪的石头谷仓
 				- 单格
 				- 有“标注”流亡族营地位置的地图，没找到难民中心也可以去了（然后第一次发现它后第一段自动驾驶就开到了难民中心围栏边......）
+			- ---
+			- ((686794c5-5e54-44f9-b1ea-d1246e5d0842))
 		- 科迪·杰（子弹银行，枪匠）
 		  collapsed:: true
 			- 科迪·米勒可能刷钢矛，不如希腊长矛，卖得也比较贵，但有需要的话就比前期短时间自制矛好不少，有想让ta近战的同伴更得有
@@ -2038,7 +2068,7 @@
 		- 个体NPC任务
 			- 寻找丢失的狗
 				- 好像是24小时过期？
-					- 我是发现第二天上午睡了一觉醒来后同伴不见了，以为是任务过期导致的，但后来发现NPC大概默认我睡觉时也趁机睡觉，~~只是不跟我睡同一张床~~（“并非一格床”），而是跑到了更靠近丧尸的另一民宅的床上睡觉，看到血量下降，正在急救，所以我这睡了一分钟（“沾枕头就睡”）大概是被她的枪声惊醒的（就像开着头灯开避难所门后原先能说梦话的NPC秒醒），之前睡几小时大概人早被丧尸打死了（她还有“重度沉睡”特性），我当时还怀疑是这任务做完了狗被丧尸打死了导致的
+					- 我是发现第二天上午睡了一觉醒来后同伴不见了，以为是任务过期导致的，但后来发现NPC大概默认我睡觉时也趁机睡觉，~~只是不跟我睡同一张床~~（“并非一格床”——2×2的床可以），而是跑到了更靠近丧尸的另一民宅的床上睡觉，看到血量下降，正在急救，所以我这睡了一分钟（“沾枕头就睡”）大概是被她的枪声惊醒的（就像开着头灯开避难所门后原先能说梦话的NPC秒醒），之前睡几小时大概人早被丧尸打死了（她还有“重度沉睡”特性），我当时还怀疑是这任务做完了狗被丧尸打死了导致的
 					  id:: 684a9645-0c11-4721-859d-7738905d8aa4
 				- 摩托车比较好穿插
 				- 狗上车有点费事，可能需要把后货架正好靠在附近让它上车
@@ -2143,6 +2173,7 @@
 			- [变形怪糊是做诱变剂和做万能胶哪个更划算啊【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7480416020)
 			- [黏液罐 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/canister_goo)
 			  id:: 678a4dd4-79e2-4d87-8a41-d2917a0847d4
+			- 变形怪群可以用长矛偷，它们随机漫步时就会进入攻击范围
 		- ---
 		- 黄蜂wasp
 		  id:: 6746ccbd-bc7c-4e74-8dc8-72376024011f
@@ -2298,6 +2329,7 @@
 				- 矛
 				  id:: 674ecae0-42b1-4e1f-9338-66149338a946
 				  collapsed:: true
+					- 之前看过自制载具站位的NPC矛战车
 					- 在城市可以隔着（复式公寓等的）石墙戳
 					- 长尖木棍
 					  collapsed:: true
@@ -2444,6 +2476,8 @@
 				- “道法自然”
 				- “瓜子花生矿泉水~”
 				- 丧尸和疯人是一伙的
+			- 卡门口、窗口等
+				- 可以围3人
 			- 障碍（指需要破坏或工具打开的，放楼梯口的则是不可破坏的）
 			  collapsed:: true
 				- 广义上，怪物等也是
@@ -2505,6 +2539,8 @@
 	- 包扎、止血、消毒、镇痛
 	- ((6741699f-0701-4dbc-b1c0-543ba354748c))
 	- [医疗怎么练？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9101789713)
+	- 清除辐射
+		- [普鲁士蓝药片 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/prussian_blue)
 - 洗衣
   collapsed:: true
 	- 尸体上的衣服沾了血，需要清洗，不然穿着降心情

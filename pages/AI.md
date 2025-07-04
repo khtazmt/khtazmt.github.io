@@ -63,6 +63,9 @@
 - 更完整的AI生成图景
 	- [Cartography of generative AI](https://cartography-of-generative-ai.net/)
 		- [Cartography of generative AI](https://tongyi.aliyun.com/efficiency/doc/read?taskId=1799445&isShare=true)
+- 生物AI
+	- [用人脑细胞跑AI，我快搞不懂这个世界了。。。](https://mp.weixin.qq.com/s/nCxANlMdGk-7PYiS6RvtVg)
+	  id:: 686794c5-5e54-44f9-b1ea-d1246e5d0842
 - AI工具集成站
   id:: 668e501d-b441-4900-b123-8a1e830ae2a6
   collapsed:: true
