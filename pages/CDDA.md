@@ -1033,6 +1033,7 @@
 					- 分析丧尸血样（医生）
 						- 内部车库有两辆救护车
 						- 大的病（床）区往里，CT室往外，有离心机和电脑，但不一定完好
+						- [离心机 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/furniture/f_centrifuge)
 						- [分析丧尸血样的任务【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9045956182)
 					- 旧日守护者联络官
 					- 杀死强盗
