@@ -122,6 +122,8 @@
 			- [How to Day Trade for a Living: A Beginner's Guide to Trading Tools and Tactics, Money Management, Discipline and Trading Psychology | Andrew Aziz | download on Z-Library](https://z-lib.fm/book/2938594/63c155/how-to-day-trade-for-a-living-a-beginners-guide-to-trading-tools-and-tactics-money-management-di.html)
 			- [Trading Psychology for Dummies | Roland Ullrich | download on Z-Library](https://z-lib.fm/book/28283814/af54ce/trading-psychology-for-dummies.html)
 			- 不见面股市里的勾心斗角可以泛化，或许吧
+		- [Principles of Effective Communication - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/textbook_speech)6
+			- [PRINCIPLES OF EFFECTIVE COMMUNICATION | Hurley, Paula | download on Z-Library](https://z-lib.fm/book/116337505/339dcb)
 	- 驾驶
 		- [AAA Guide - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/textbook_anarch)
 			- 驾驶4，但有48个应用科学配方，结合起来看比GTA更道具——“那很~~疯狂的安人~~007了”
