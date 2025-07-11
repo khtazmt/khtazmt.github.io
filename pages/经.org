@@ -1,0 +1,103 @@
+* 交换
+* 经济理论
+** “政治跟经济分开就等于脑袋跟身体分开”
+** [[https://mp.weixin.qq.com/s/sOmLNHkE0y3LFUuuuw4yXw][马克思的【资本论】错在哪里？（译文）～决定商品价值的并不是【投入的劳动量】～]]
+** [[https://www.zhihu.com/question/506567004][如何评价哈耶克《通往奴役之路》的观点？]]
+* 目标
+** 没钱大家很幸福
+** 有钱大家一起花
+* 参与策略
+** “躺平”与技术爆炸/断层
+*** 很难，人的努力总是有阶梯、有用的
+** 你觉得继续在大城市卷不好，但你想想又不愿回小城
+* 成分
+** 破窗收入
+:PROPERTIES:
+:id: 67402b15-f797-44b1-8cd3-4a044587f42d
+:END:
+*** 很多意味着社会劳动和精力的浪费
+* 财政政策
+** [[https://mp.weixin.qq.com/s/IxyqQeV_NJjxCr6-Uj7a3g][经济需要提升温度：建议发放定向消费券]]
+:PROPERTIES:
+:id: 626a1d6d-3590-412d-b18f-c44ee3b73a98
+:END:
+* 战略
+** 一带一路
+*** 大树伸根
+* 美国
+** [[https://mp.weixin.qq.com/s/CoiJbGii7uNRauZ7W9nSfA][老鼠耳朵梵蒂冈、特朗普旋风回归与共和党跟美国大企业的圣战]]
+* 欧盟
+** [[https://mp.weixin.qq.com/s/pNI3Kp8iO4eIye3gvQufnQ][奴隶巨人：欧盟为何离不开美帝]]
+* 货币政策
+:PROPERTIES:
+:END:
+** 汇率
+*** 广场协议
+**** [[https://mp.weixin.qq.com/s/aE1apX2nr3-pKzoHrA41ew][懂了德国为什么没被广场协议搞死，就明白了为啥我国要搞共同富裕]]
+** 美国
+*** 为什么美联储一提加息，市场就慌了？ - 许哲的回答 - 知乎
+:PROPERTIES:
+:id: 62457dda-4a60-45ed-9f4e-e00e7743a86a
+:END:
+https://www.zhihu.com/question/465277610/answer/2346932967
+**** #+BEGIN_QUOTE
+财富本身是生产资料，能产生粮食，布匹，柴火和鱼的那些东西和劳动力才是财富，我们获取货币的目的是换取别人的劳动成果，所以真正的财富，是劳动成果的源头，而不是记账单位本身。如果你掌握了先进和优质的生产资料，那么无论记账单位是什么，我们都能换取他人的劳动成果。
+#+END_QUOTE
+*** [[https://mp.weixin.qq.com/s/45ZAEtPRnKpPgRlX7QeoQQ][美联储加息50个基点，过去20年最大力度加息，预期管理和谎言交织]]
+*** [[https://mp.weixin.qq.com/s/IBx0FIQ2NI5T-QIMORr7zQ][为何美联储收紧货币让新兴经济体更受伤]]
+** 日本
+*** [[https://mp.weixin.qq.com/s/hWK3CZ_rBTuhSrA2GcYBvg][日元汇率为何大幅贬值？避险货币为何不避险？世界经济大环境在变化]]
+**** [[https://mp.weixin.qq.com/s/TabMdYLzc7j35V6k8s_cCA][全面解读世界经济的未来，世界经济很难日本化（大白话6.26）]]
+** 中国
+*** {{embed ((6255047d-8b04-40dd-b79e-14592a29c9a4))}}
+* 金融模式
+** [[https://www.zhihu.com/question/522110212/answer/2391458771][如何评价新华社的《破除美国金融模式迷信，中国金融要走自己的路》这篇文章？]]
+* 基建
+** [[美国作为世界头号强国为何基建那么差，政府也没有加强基建的想法？ - 晏之敖的回答 - 知乎 https://www.zhihu.com/question/484307739/answer/2221492601][美国作为世界头号强国为何基建那么差，政府也没有加强基建的想法？]]
+** [[https://www.zhihu.com/question/428620404][国内基建还能撑几年？]]
+** 城投债
+*** [[https://www.zhihu.com/question/350125901][如何看待目前镇江的债务问题，对镇江政信信托的影响？]]
+* 限电
+** [[https://www.zhihu.com/question/489073750/answer/2143490323][如何看待东北限电问题？]]
+** [[https://mp.weixin.qq.com/s/mxLpmCcqLohBfTYMLnccJw][限电席卷全国]]
+** [[https://mp.weixin.qq.com/s/Qvq2Ih5ebaSMynYyP9oTzw][【限电】事件背后の全部真相]]
+** [[http://opinion.jrj.com.cn/2021/10/08131033656941.shtml][张启迪：东北地区拉闸限电严重主要是风电占比较高所致]]
+** [[https://m.yicai.com/news/101185610.html][拉闸限电到底怎么回事？关于“能耗双控”的五个误读]]
+* 新冠疫情
+** [[https://mp.weixin.qq.com/s/LUiOVMLbGmuqj-Xs9fcE7g][正在消散的特殊经济窗口期]]
+:PROPERTIES:
+:id: 626a1da8-45a9-4d5d-8c9c-200acaf9b09a
+:END:
+** [[https://www.zhihu.com/question/531626448/answer/2474092269][国家卫健委梁万年表示「动态清零并不意味着全域静态管理，要防止『一刀切』做法」，如何看待这一说法？]]
+:PROPERTIES:
+:id: 62761ee9-ed9b-46bb-804e-0e270a44d10d
+:END:
+* 要素
+** 土地、设施（道路、厂房、设备）
+* 数字经济
+** [[https://finance.sina.com.cn/stock/marketresearch/2021-10-21/doc-iktzqtyu2722842.shtml][兴证策略：数字经济19大细分行业概览]]
+* 历史
+** [[https://www.zhihu.com/question/19953773/answer/154807093][古人出门带银子需要找零的时候如何处理？]]
+** 现代会计制度——投资者的钱怎么花的？
+* 金融危机
+** [[https://baike.baidu.com/item/%E6%98%8E%E6%96%AF%E5%9F%BA%E6%97%B6%E5%88%BB][明斯基时刻]]
+:PROPERTIES:
+:id: 629d7d02-a288-4016-9f6c-81e7d54e3946
+:END:
+** [[https://wiki.mbalib.com/wiki/%E9%9B%B7%E6%9B%BC%E6%97%B6%E5%88%BB][雷曼时刻]]
+* 就业
+** 就业状态
+*** [[https://www.zhihu.com/question/378846730][外企大量撤资去印度越南，会不会造成国人大量失业？]]
+*** “灵活就业”（临时工、打零工）
+**** 灵活就业人口的来源（原先无正规工作、）
+:PROPERTIES:
+:id: 622ea303-40b0-4803-9df6-b4a851c0e98f
+:END:
+**** 应当通过有合理引导的福利（包括假期等闲暇）进行劳动力的再发展（从而有进行产业升级的内部基础），而不是经常（“跳来跳去地”）有活干
+***** [[https://www.zhihu.com/question/467339536/answer/1964102946][如何看待低级快乐可能正在拖垮我们？]]
+* [[劳动]]
+** 制造业
+*** [[https://mp.weixin.qq.com/s/708TYPNk1id_anuE9ha8jQ][发改委官员：我担心中国要为此而付出沉重代价]]
+* 壳（可租用、收购或被其收购借以上市或具备各种资格的合法合规商业架构）
+* 能源
+** [[https://mp.weixin.qq.com/s/1XYdk9hPPJT4XL6Uadyuzw][“碳中和”背后的中国能源大三角]]

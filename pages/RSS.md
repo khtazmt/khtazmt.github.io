@@ -1,0 +1,75 @@
+- ((64043afb-7677-45d7-8714-6e64c3b61461))
+- [AI 复兴 RSS ？ - 少数派](https://sspai.com/post/89494)
+- [RSS订阅工具推荐：AI学习者的效率利器-首席AI分享圈](https://www.aisharenet.com/rssdingyuegongjutuian/)
+- https://github.com/AboutRSS/ALL-about-RSS
+- ((6222d6cd-92fa-4d00-9215-23d72e1a0a23))
+- TODO 全局自动添加RSS
+- 访问部分订阅源平台和网页需要上[[外网]]
+- 缺点是，很多公开的订阅源更新较慢，平均可能得等个几小时，不太适合阅读时效信息
+- 原蓝奏云分享描述
+	- 在chrome、edge（可以直接打开）等浏览器的扩展市场搜索安装feedbro插件，然后在其页面点“设置”导入以下订阅源和规则
+- 常见问题
+	- rss不更新？
+		- 部分rss源或rss阅读器需要连外网更新
+			- ((6422bcdf-7f2b-4390-9bdb-9a0ff596b718))
+- RSS阅读器
+	- [2021年还有哪些值得使用的RSS阅读器 - 知乎](https://zhuanlan.zhihu.com/p/394969711/)
+	- 推荐
+		- ((640be30f-6847-4693-8f36-ae5073cb7d74))
+	- 用浏览器的
+		- 浏览器插件
+		  id:: 640bcad9-c079-4efd-8fd8-ced4a580cc10
+			- feedbro
+			  id:: 640be30f-6847-4693-8f36-ae5073cb7d74
+				- https://nodetics.com/feedbro/#top
+				- 中文： https://github.com/YEWl/feedbro-locale
+				- 插件页面内可以播放1080p视频，别的大多只能播放720p
+				- [逃离信息茧房的尝试-rss使用小结1-feedbroreader下载及汉化、rss订阅众多网站 - 知乎](https://zhuanlan.zhihu.com/p/571713831)
+		- 网页（自动同步；可直接使用其他浏览器插件，如dark reader、简悦；需注册账号）
+			- inoreader
+				- https://www.inoreader.com/
+				- 拓展功能丰富
+				- 需要上[[外网]]，部分基础功能需付费
+			- ((640c10b4-ec23-44f2-9597-42e3dfe6ac52))
+			- readdig
+				- https://www.readdig.com/
+				- 可安装为轻便的PWA应用
+				- 点击文件夹图标可以展开文件夹（“work out”）
+				- 无法查看编辑订阅源属性，无法新增规则
+			- QiReader
+				- 可安装为轻便的PWA应用
+				- 无法查看编辑订阅源属性，无法新增规则
+	- 需要安装的程序
+		- quiterss
+			- [RSS|QuiteRSS使用心得与错误解决 - 知乎](https://zhuanlan.zhihu.com/p/260533514/)
+		- fluent reader
+			- 无法批量新建规则，没有按标签收藏功能
+- 订阅源
+	- 当前网页内的订阅源嗅探
+	  id:: 640be30f-554a-47c0-859b-1d06f944a409
+		- https://github.com/DIYgod/RSSHub-Radar
+		- ((640bcad9-c079-4efd-8fd8-ced4a580cc10))
+	- https://docs.rsshub.app/
+	- TODO 一些难搞的应用
+		- 微信QQ
+			- TODO 微信公众号
+			  id:: 678b0488-9a6e-44a1-aed4-33f6891ca72f
+				- https://feeddd.org/ 或 https://cdn.jsdelivr.net/gh/feeddd/feeds/feeds_all_rss.txt （也许挂了）
+			- 朋友圈
+				- 智能过滤（生活分享等）
+				- 朋友圈能加星特别关注吗？
+				- 朋友圈减量重启（看到不想看的不看）
+		- 小红书
+		- ((640309d4-a066-4483-8432-199836416106))
+			- https://dzhavat.github.io/2020/01/19/adding-an-rss-feed-to-github-pages.html
+	- 订阅源无法添加、不更新的原因
+		- 部分外网RSS源需要代理才能连接更新，部分软件需要单独设置代理，端口看 ((64043a47-4b26-4c57-b4e3-7f359ccdf1c7))
+		- 可能订阅服务被关闭（可能消耗所有者过多流量，等等）
+- 文件夹内筛选
+- 自建RSS服务
+	- tiny tiny rss
+	- miniflux
+- 微信
+- TODO RSS与待阅
+	- RSS内收藏后自动化到简悦
+	- 简悦自动到RSS个人源

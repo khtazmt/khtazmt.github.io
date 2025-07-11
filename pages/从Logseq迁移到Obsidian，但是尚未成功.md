@@ -1,0 +1,28 @@
+- “网上和网友都在用、都说可以试试obsidian”
+- 《上一次》
+	- {{embed ((65766ab5-9aa9-4185-bbee-2dd7949c9bc2))}}
+- 块引用
+	- [我们需要重新审视块引用并提出其方法论 - 每日闲聊 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/5986)
+	- [一文让你理解什么是块，及具体如何记笔记有利于块链接（呕心沥血之作） - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/20481)
+	- 与logseq的块引用/嵌入格式不兼容
+		- [有没有同时兼容Obsidian和logseq的块引用方式？ - 疑问解答 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/22457)
+	- 块引用/嵌入内容不完整显示
+		- [bug:obsidian在引用块文本时，当引用文章内容较长时，可选块文本显示不全。 - 建议反馈 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/19232)
+	- 块引用/嵌入快捷键
+		- [几招教你提高 Obsidian 中块引用的操作体验 - 知乎](https://zhuanlan.zhihu.com/p/411484717)
+- 可能是我家电脑的问题
+	- 不能拖拽块/bullet（下了插件Outliner，其设置中开了Drag-and-Drop，但是显示“小手”图标却拖不了）
+	- 浮窗插件Hover Editor无法悬停预览
+- 导出页面到公众号编辑界面
+  id:: 65adf755-9d42-4731-9bb7-32cebb0aa63c
+	- [obsidian导出带图片的word - 知乎](https://zhuanlan.zhihu.com/p/570748937)
+	- [如何用 Obsidian 快速完成一篇漂亮的公众号文章？ - 知乎](https://zhuanlan.zhihu.com/p/639025950)
+		- [Md2All](https://md.aclickall.com/)
+		- [Md2X Editor | BioIT爱好者](https://mdx.bioitee.com/)
+		- [墨滴社区](https://mdnice.com/)
+- 其他可能要对应补上的插件
+	- [两年后，我还在用的 Obsidian 插件 - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/10622)
+- [双剑合璧：Obsidian和Logseq联用的一些经验 - 少数派](https://sspai.com/post/80042)
+- “绝妙的Logseq”
+	- [基于 Logseq 重构个人知识管理体系-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2345367)
+	- [Logseq：使用一年的感受 - 知乎](https://zhuanlan.zhihu.com/p/642024906)

@@ -1,0 +1,21 @@
+- “Genshin Impact？”
+  id:: 67c50c25-2ac5-41a1-ac9b-4d2bcd36b7ef
+	- ((67c50caf-9449-466f-b504-59f95c7bedbb))
+- [impart | "impart" 的词源、"impart" 的起源和意思 - etymonline](https://www.etymonline.com/cn/word/impart)
+	- ![brave_VZGMv6e5SC.png](../assets/brave_VZGMv6e5SC_1723342913293_0.png)
+- 搜索（色情片常用词、话多的色情资源）、词源
+- 淫趴是污名化祖先
+- big fat
+- come on boy
+- cum
+- dick
+	- dickhead
+- fuck
+- oh yeah
+- party
+- pussy
+- shit
+- silicon
+	- ((66ade3ab-303a-4a1f-b3fd-3a078b79bd7e))
+- suck
+- wanna
