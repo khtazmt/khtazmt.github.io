@@ -1047,9 +1047,11 @@
 					  collapsed:: true
 						- 三个强盗，三辆摩托车，一辆货车
 					- 分析丧尸血样（医生）
-					  collapsed:: true
-						- 内部车库有两辆救护车
-						- 大的病（床）区往里，CT室往外，有离心机和电脑，但不一定完好
+						- 得是挨着完好离心机的完好电脑
+						- 采血管丢在离心机上即可（“我去！”）
+						- 医院
+							- 内部车库有两辆救护车
+							- 大的病（床）区往里，CT室往外，有离心机和电脑，但不一定完好
 						- [离心机 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/furniture/f_centrifuge)
 						- [分析丧尸血样的任务【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9045956182)
 					- 旧日守护者联络官
@@ -1119,8 +1121,8 @@
 			- ((684afa30-e4ec-4456-aa70-40537f6dedcb))
 			- 森林部分环绕，四乘四
 			- 鲁比克商品解锁
-				- 第一周没多少好用的CBM
-					- 我是刷到听力增强和关节伺服电机（每格35J，100KJ的储能模块能走），再加了个警报系统（开门窗、遁地怪等场景就能用到），之前还刷到黑客、开锁的
+				- 第一周没多少好用的 ((684b7253-8250-4c28-aa4c-c69b0e4792e0))
+					- 我是刷到听力增强（前进方向上的声音标记大概是回声）和关节伺服电机（每格35J，100KJ的储能模块能走），都有用，再加了个警报系统（需要自身静止，可能顶多睡眠时用用），之前还刷到黑客、开锁的
 				- [自已摸索的关于鲁比克的小信息（0.h版本）：1.鲁比克刷新的cbm在代码注释里写的是按照经过的周数解锁更高级的cbm【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9485911754)
 					- 对话打开对话界面即可+2
 					- 首次交易（可能需要你卖出一定数额，一般总共需要三商会币）+1，之后每次交易（交易界面直接回车即可，什么都不用买卖）+2（“左右”），最多总共加20（“左右”）
@@ -1141,6 +1143,7 @@
 					- ((684e0a0c-0261-4522-9be2-94eab78d789b))
 					- ((684d12e1-87fb-4e4a-b4fd-f28515dad765))
 					- [麻醉剂 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/anesthetic)
+					- [anesthesia kit - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/anesthetic_kit)
 					- [麻醉剂哪里刷？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8495238853)
 					- ---
 					- 默认第一次先装标准神经生化接口（免费），然后再装储能模块（免费）和电缆充电器（免费）以及你在对话打开的交易界面中购买的CBM（可以合并安装节约安装时间），而如果需要安装的CBM已预先购买，则可在同一个对话里切到~~“那你能帮帮我吗？”~~“你能为我做点什么吗？”安装已预先购买的CBM
@@ -1198,6 +1201,7 @@
 					- [关于前中期如何快速刷战斗等级【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9614178125)
 					  id:: 684e340a-7ddf-47d6-8f51-cbf19e79ed9b
 					- 完成后，解锁购买Hub 01周边地图选项（可能没开多少剩下的，不差钱、强迫症就开一下；需要身上有Hub金币才会有购买选项），出现Hub佣兵
+					  id:: 6854e200-91d5-4c0f-b1be-5546b6e3ebe2
 			- 以上任务完成后可做寻光之旅任务，同时出现Hub佣兵
 			- Hub01环境防护服和
 			- 实验（prototype，原型）XX相比其他字样开头的是较轻较便宜的基础XX，其他字样开头的几乎每项防护都不低于实验XX
@@ -1242,6 +1246,7 @@
 			  id:: 684e0a0c-0261-4522-9be2-94eab78d789b
 				- 可以夜间声音引怪后潜入拿拿拿
 			- ((684d12e1-87fb-4e4a-b4fd-f28515dad765))
+			- 实验室
 		- 枪械（含榴弹发射器）、弹药（含榴弹）
 			- 再加装甲车
 				- [军事掩体 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/military_bunker_1)
@@ -1277,7 +1282,7 @@
 				- 浓厚毒气看不远可以用耐用头灯、拿或扔照明弹或打怪掉的开了手电筒的手机，稍微好些
 		- 科学实验室
 			- 战斗相关技能不高的话，对麻烦的怪可以催泪瓦斯，然后长矛或枪械，实验室也可能有喷火器（对机器人可能没用）
-			- 黑电脑需要防电击，比如穿Hub 01环境防护服
+			- 黑电脑可能需要防电击，比如穿Hub 01环境防护服
 			- [修格斯 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/monster/mon_shoggoth)
 			  id:: 6857b383-3546-4d13-8e7a-bf05abfb33b2
 				- [Shoggoth | The H.P. Lovecraft Wiki | Fandom](https://lovecraft.fandom.com/wiki/Shoggoth)
@@ -1344,13 +1349,15 @@
 			- 可能有10-20只地面的黄蜂（楼上也可能有，但可能就一两只）和楼上的黄蜂巢，步枪30发大概是够的
 				- 不想打直接夜晚跑到边缘再造，天亮上塔
 			- 边缘无线发射塔大概没有蜂巢，可以直接看，但也要白天
-		- 地图
+		- 风力发电机
 		- ((674c3c02-fda7-4998-96ef-f3b6aa17960b))
 		- ((674cf735-de58-41f9-afd7-c7b4e7ca343f))
 		- [望远镜](https://cdda-guide.nornagon.net/item/binoculars?lang=zh_CN)
 			- 无线电站可能有，无线发射塔上也可能有
 			- 增大大地图和自动标注范围
 		- NPC任务标注
+		- ((6854e200-91d5-4c0f-b1be-5546b6e3ebe2))
+		- 实验室电脑“下载地图数据”
 	- ---
 	- 支线
 		- 伊舍伍德农场
@@ -2631,6 +2638,7 @@
 	- ((684c3501-a2cb-4e7d-b015-708e6f3ac8d9))
 	- [【图片】开个实况贴，记录从零开始变强的过程【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8658432604?pid=148841724655&cid=0#148841724655)
 - [CBM](https://cdda-guide.nornagon.net/search/cbm?lang=zh_CN)
+  id:: 684b7253-8250-4c28-aa4c-c69b0e4792e0
   collapsed:: true
 	- 如果移动中的步行比例不大，快不了多少
 	- [你们觉得有什么cbm可推荐的？怎么提高cbm上限？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7863751893)
