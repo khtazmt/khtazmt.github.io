@@ -113,6 +113,40 @@
 			- “三大神书”
 			  collapsed:: true
 				- ((68539f90-6143-40d5-822f-a587a4ba58c8))
+		- ((66e0d6b8-dfe8-479b-a3a1-7ff381d46097))
+			- 社会主义平行地球（派系、任务、物品、地图等）
+				- 平行地球科技水平略高，正在其太阳系内拓展，研究传送门时变形怪入侵
+				- 平行地球及其空间站、月球、火星等基地尚未完全被变形怪占领
+					- 平行地球人类的生存样态不能一概而论，高度分散、自由、实验、冗余、灾备
+					- 变形怪的危害被提前发现和着手处理，于是变形怪提前爆发，并持续调动了多得多的异界怪物继续进攻
+				- 为探索平行世界而志愿报名并公投选择的特工已随一开始的空间风暴进入并潜伏
+				- 特工根据工作需要选择安装CBM，但无流亡族那样的金属成分和风格
+				- 因为起点比较稀有，所以CDDA地球上的Hub和流亡族在此之前均未见过
+				- 接头
+					- 特工在一些场所的醒目位置张贴了共产主义相关标志、宣传信息等
+						- 图书馆等
+					- “这个世界有什么你认为缺少的东西吗？”
+					- ---
+					- “为什么你们不自己做？”
+						- 平行地球特工没有感染变形怪（也是减小被变形怪获知的风险），非常“纯净”，也因此缺少相关增益
+						- “那好吧，加个平行地球特工的背景、职业啥的，吃喝上可讲究喽！”
+						- “那好吧，跟着走，但要尽可能避免变形怪等的感染，比如通过受伤、喷射、剂量堆积等”
+					- “为什么你英语说得这么好/比鲁比克好很多？”
+						- “巧了，我们也是这种英语（，只是少了一些你们的延长了的资本主义时期的词汇）”
+						- 使用了合适的学习工具
+				- 任务
+					- 取回平行世界的陨石空投
+					- 发展成员、同盟
+						- 科迪·米勒
+						- 特定特质NPC
+						- 无线电广播
+					- 寻找变形怪解药
+						- 有个特工感染了变形怪
+					- 与平行世界恢复联系
+					- 传送
+				- 资源
+					- “稀奇古怪但有用的知识”、快速捣碎工具、隐蔽式呼吸器
+					- 动力伞
 - 标题（主界面的“大灾变”等）
 	- [uhhh what? : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/hklu21/uhhh_what/)
 	  id:: 68671a8d-158a-4aa9-bf3f-026c055940c2
@@ -1047,6 +1081,7 @@
 					  collapsed:: true
 						- 三个强盗，三辆摩托车，一辆货车
 					- 分析丧尸血样（医生）
+					  collapsed:: true
 						- 得是挨着完好离心机的完好电脑
 						- 采血管丢在离心机上即可（“我去！”）
 						- 医院
@@ -2715,8 +2750,8 @@
 	- [这游戏后期还有什么玩的内容吗?【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8058446237)
 - [【图片】深入理解CDDA机制【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9037080387)
 - （更多）玩法
-  collapsed:: true
 	- “强迫症这一块”
+	  collapsed:: true
 		- 存档内特殊操作
 		  collapsed:: true
 			- [你们玩cdda的心态是啥？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8467128124)
@@ -2796,6 +2831,7 @@
 			- [Cataclysm: Dark Days Ahead](https://www.reddit.com/r/cataclysmdda/)
 		- ---
 		- 成就
+		  collapsed:: true
 			- “什么失败成就？”
 				- 猛然觉醒
 					- 需要在游戏开始后一分钟内杀死至少一个怪物
@@ -2806,8 +2842,8 @@
 					- "time_constraint": { "since": "game_start", "is": "<=", "target": "1 minute" },
 					- "requirements": [ { "event_statistic": "num_avatar_monster_kills", "is": ">=", "target": 1 } ]
 				- 人类能力的极限可不是为了这个
-					- 不能有CBM、变异，同时人力驱动轨道交通工具的速度超过50mph
-						- “哈哈，微缩火车蛮好玩的，但是搞不了成就”
+					- 不能有CBM、变异，同时人力驱动（？）轨道交通工具的速度超过50mph
+						- “哈哈，微缩火车泥头车蛮好玩的，但是搞不了成就”
 					- "id": "achievement_vehicle_velocity_rail_human50mph",
 					- "type": "achievement",
 					- "name": "The human body was not designed for this",
@@ -2833,6 +2869,7 @@
 	- ---
 	- “计算机学这一块”
 	  id:: 68668691-f75b-4320-b810-5320c79d79a8
+	  collapsed:: true
 		- ((68663f23-1a78-4328-9e1c-b556a304fc6f))
 		- 成为CDDA游戏内容的贡献者
 			- [Guide to adding new content to CDDA for first time contributors · CleverRaven/Cataclysm-DDA Wiki](https://github.com/CleverRaven/Cataclysm-DDA/wiki/Guide-to-adding-new-content-to-CDDA-for-first-time-contributors)
@@ -2841,8 +2878,12 @@
 				- [Add more English names and their translations to Simplified Chinese and Japanese by Qrox · Pull Request #73077 · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/pull/73077)
 			- ((67eb2809-b660-4ea2-a851-59736878123a))
 			- [Cataclysm: Dark Days Ahead docs | DDA Docs](https://docs.cataclysmdda.org/)
+	- ((67402ab0-7d01-49bd-b39c-676fea601131))
+		- [My Homemade Foodperson Halloween Costume! I had no idea where to post it until now 😅 : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/v3c87t/my_homemade_foodperson_halloween_costume_i_had_no/)
+			- “原来如此！”（指通过自己爱玩的游戏才懂cosplay的一大乐趣来源，即“发现同好cos的意外惊喜”）
 	- ---
 	- “游戏社交这一块”
+	  collapsed:: true
 		- 同世界/人物、不同玩家玩（线上可以视频，还可以直播同时玩，甚至可以开实时模式“强化学习”——“替代性联机策略”）
 		  id:: 674c14e2-ae10-4bc8-bc58-e8911f0e2a14
 			- [【图片】【伪联机】无服务器cdda联机尝试知识共享贴。（涉及不专业的游戏设计理论）我会简单说一下可行性的方案【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7319585854)
