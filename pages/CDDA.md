@@ -3086,8 +3086,6 @@
 			- 没车或车载充电的话要有一次性电池
 			- [常见问题 Q&A 24、收音机有什么用？| CDDA中文攻略手册](https://surflurer.github.io/CDDA-CN-Guide/docs/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%20Q&A#24%E6%94%B6%E9%9F%B3%E6%9C%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8)
 			- [对于CDDA中收音机的探讨？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/5060320618?pid=106032155510&cid=0#106032155510)
-			- ---
-			- [My Radio (Phillerz Radio Edit) - Empyre One/Energizer - 单曲 - 网易云音乐](https://music.163.com/song?id=429411121&uct2=U2FsdGVkX19rpMi1QaFDGM6ZbIfx+dhUr3qBHxRowbM=)
 		- ((674c50ec-db84-4e6b-9953-720020b0cc82))
 		- 电纸书
 		  id:: 674c3c02-3143-44cf-8ba9-d79e4b97438f
