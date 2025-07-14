@@ -113,7 +113,7 @@
 			- “三大神书”
 			  collapsed:: true
 				- ((68539f90-6143-40d5-822f-a587a4ba58c8))
-		- ((66e0d6b8-dfe8-479b-a3a1-7ff381d46097))
+		- ((6872f14e-843f-4891-b5d9-432695cf3c74))
 			- 社会主义平行地球（派系、任务、物品、地图等）
 				- 平行地球科技水平略高，正在其太阳系内拓展，研究传送门时变形怪入侵
 				- 平行地球及其空间站、月球、火星等基地尚未完全被变形怪占领
@@ -134,6 +134,9 @@
 					- “为什么你英语说得这么好/比鲁比克好很多？”
 						- “巧了，我们也是这种英语（，只是少了一些你们的延长了的资本主义时期的词汇）”
 						- 使用了合适的学习工具
+				- 对话
+					- Hub 01金币
+						- “货币天然不是金银，但金银天然是货币”
 				- 任务
 					- 取回平行世界的陨石空投
 					- 发展成员、同盟
@@ -572,10 +575,14 @@
 	- 注意模板角色无法重复触发部分任务、获取物品等
 - 帮助（比游戏教程详细，适合正常游戏中参考）
 - 操作方式
-  collapsed:: true
 	- 需要更多用键盘（手柄设置好了也可能用）
 		- ((68006759-4e07-4520-a79a-2c4111e8f69e))
 	- 角色在主画面中心
+		- 角色不在主画面中心的问题
+			- 如果发现不是 ((6874ebdf-83cb-4a5c-bffa-12a62873beb9)) ......
+				- “角色在光标右下，更靠近咱视野中心，不对吗？？？”
+			- 使用“视野居中”快捷键（没有则添加）
+			- [[bug] the focal point will not go back to my character, it zooms into that point instead of me : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/y9fp53/bug_the_focal_point_will_not_go_back_to_my/)
 	- TODO ((6804ebe9-90c0-4985-a141-aac656e35c18))
 	- 按住shift临时切换大小写、反向tab
 	- 空格取消
@@ -602,7 +609,6 @@
 				- 有风险，建议先试探，否则可能被抓住围着打
 			- 可以投掷
 	- 距离/目标尚未确定时
-	  collapsed:: true
 		- 玩家“俯视”视野
 			- z切换视野尺寸
 			  collapsed:: true
@@ -612,6 +618,10 @@
 		- x观察四周
 			- 鼠标移动光标到屏幕边缘也可移动视野（“开窗了不会看是吧？”）
 			- 上下楼键看其他高度
+			- ---
+			- 光标不居中的问题
+			  id:: 6874ebdf-83cb-4a5c-bffa-12a62873beb9
+				- [Look around cursor does not appear in the center of the game window · Issue #30514 · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/issues/30514)
 		- V列出附近所有看得到的物品/生物
 		  id:: 67402aab-625b-438e-947f-42d6e3de740f
 		  collapsed:: true
@@ -2750,6 +2760,7 @@
 	- [这游戏后期还有什么玩的内容吗?【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8058446237)
 - [【图片】深入理解CDDA机制【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9037080387)
 - （更多）玩法
+  collapsed:: true
 	- “强迫症这一块”
 	  collapsed:: true
 		- 存档内特殊操作
