@@ -25,6 +25,7 @@
 - [内部inside隐藏结局摇杆密码获得方法 玉米地摇杆](https://www.3dmgame.com/gl/3576477.html)
 - [《Inside》神秘代码揭秘 堪比达芬奇密码？](https://www.gamersky.com/handbook/201607/779252.shtml)
 - [《Inside》结局解析 游戏结局含义是什么](https://gl.ali213.net/html/2019-12/397695.html)
+- [如何理解游戏《inside》的剧情？ - 知乎](https://www.zhihu.com/question/48015291)
 - 反重力水（GRIS可能借鉴了）
 - 关闭迪斯科球大概也是关闭整个公司，最后我们失去了与男孩的联系
 - 不是续作，新作，很棒
