@@ -193,6 +193,8 @@
 			- “视觉化总结”
 			- [byjlw/video-analyzer: Analyze videos using LLMs, Computer Vision and Automatic Speech Recognition](https://github.com/byjlw/video-analyzer)
 			  id:: 681b5052-2e9a-4a28-a7e0-8468c67c0f0e
+		- ---
+		- TODO 在视频卡片上显示总结的标签、摘要等
 	- 社会化聆听/社交媒体爬虫与分析
 	  id:: 668ca9da-4763-4478-b297-290003499450
 	  collapsed:: true
@@ -202,6 +204,7 @@
 		- [干货｜如何利用Social Listening从社会化媒体中“提炼”有价值的信息？ | 人人都是产品经理](https://www.woshipm.com/operate/650733.html)
 		- [盘点15款国内外社交聆听工具，推荐收藏！ - 少数派](https://sspai.com/post/84607)
 		- ((670b1034-b537-491e-b933-9e881a52ebbf))
+	- 根据笔记揣测当前关注点、问题，间隔重复
 - RAG检索增强生成（AI知识库模糊搜索）
   id:: 67aea414-0ae3-4e22-8b7a-cd4faed6d983
   collapsed:: true
