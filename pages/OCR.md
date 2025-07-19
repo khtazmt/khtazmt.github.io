@@ -19,7 +19,7 @@
 - [截图OCR - by Marcusx - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=ba82e11a-f845-4ca3-44ee-08d690b5076c)
 	- 可“剪贴板识别”
 	- [截图OCR 申请 API KEY 教程 - Quicker](https://getquicker.net/KC/Kb/Article/364)
-id:: 676b8f2a-b2f1-476a-b34f-f98754779dfd
+	  id:: 676b8f2a-b2f1-476a-b34f-f98754779dfd
 		- “百度智能云”的“机器翻译”没成功，“百度翻译开放平台”的成功了
 	- 高精度识别需要赞助
 	- 无法复制时识别提取文本，比如扫描版PDF（？）
@@ -52,7 +52,7 @@ id:: 66946b78-039b-45bf-9112-b8541b022490
 		- [GitHub - DayBreak-u/chineseocr_lite: 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M](https://github.com/DayBreak-u/chineseocr_lite)
 		- [古联 OCR 古籍识别系统，亲测好用 – 书格](https://www.shuge.org/meet/topic/78721/)
 - 书法识别
-id:: 66cbf9f7-a5c3-43fb-a32e-0b33a3d27ccb
+  id:: 66cbf9f7-a5c3-43fb-a32e-0b33a3d27ccb
 	- [字鉴.书法智能识别－没有我不认识的字迹](https://api.shufashibie.com/page/index.html)
 - TODO 难以识别的笔迹识别
 	- [手写文字识别_手写文字识别在线-百度AI开放平台](https://ai.baidu.com/tech/ocr_others/handwriting)

@@ -967,7 +967,7 @@
 				- 全景夜视仪（300）
 				- 夜视仪（150）
 				- 麻醉套件（空的15，捡的一般带不少麻醉剂，往往值几十到满6000份麻醉剂的443.57）
-				- M433榴弹（60）、M9-7喷火器
+				- 榴弹（60）、M9-7喷火器
 				- Hub金币（50）
 				- .50
 				- 流感疫苗（15）、电击枪、军用头盔
@@ -985,7 +985,7 @@
 				- 雪茄（5）、月经杯、听诊器、收音机、工兵铲、撬棍
 				- 眼镜
 				- 广谱抗生素（3）、多功能工具、
-				- 商会币（2.5）、手术刀、多功能口哨、打气筒、螺丝刀组、套筒扳手组、小型灭火器（0.5，斯默克2.5）、笔记本电脑
+				- 商会币（2.5）、手术刀、多功能口哨、钚燃料电池、打气筒、螺丝刀组、套筒扳手组、小型灭火器（0.5，斯默克2.5）、笔记本电脑
 				- 抗生素（2）、羟考酮、地西泮、抗寄生虫药、抗真菌药、卫生棉条、月经垫、医用纱布、抗感冒药水、瑞士军刀
 				- 护甲
 				- 医用胶带（1）、美工刀、跨接电缆、照明弹、钢丝、智能手机
@@ -1287,6 +1287,7 @@
 		- ---
 		- Hub 02
 			- [Add hub 02 by Milopetilo · Pull Request #81528 · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/pull/81528)
+			- 研究院丧尸等可能掉落modified radio，使用后会有坐标
 	- [各种时期非常值得探索的建筑【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8852887984)
 	- 好地方
 		- 麻醉剂、药
@@ -1295,10 +1296,22 @@
 				- 可以夜间声音引怪后潜入拿拿拿
 			- ((684d12e1-87fb-4e4a-b4fd-f28515dad765))
 			- 实验室
+				- 井盖下的是中央实验室，更深更大更多（特殊房间）
+				- ---
+				- 医疗机器人
+					- 门外有满6000麻醉剂的麻醉套件
+				- 军营
+					- 弹药库
+						- 开启入口需要较高的计算机学技能
+				- CBM房
+					- 开启入口需要较高的计算机学技能
 				- 终点房
+					- 无人车可以在隔壁房间引靠近了（听声音）奔跑开门打死
 					- 化学气相沉积
 						- 固态氢罐+木炭/煤炭
 							- [hydrogen tank - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/hydrogen_tank)
+				- 图书馆
+					- 书的整体等级比较高
 		- 枪械（含榴弹发射器）、弹药（含榴弹）
 			- 再加装甲车
 				- [军事掩体 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/overmap_special/military_bunker_1)
@@ -2491,19 +2504,20 @@
 				- ((685a86b8-7f30-4eef-b6f9-5475af11a7ab))
 				- [引信 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/fuse)
 			- 枪械
-				- 有枪的话当然拿一下
+				- 连发大威力弹
+					- M14、SCAR-H
+					- 流亡族战斗步枪
+				- 激光武器打装甲丧尸OK，无后坐力，连续击发不会重置瞄准用时，配套UPS用的工具电池（大型）在实验室的大纸板箱、木箱子、无人机、无人车会掉不少
+				- 姿势不影响射击耗时，但会影响后座力和散布
 				- 一定程度上瞄准越久越好，瞄到贴脸时射击性价比最高
 				- 枪会堵塞等，所以平时检查，带备用枪
-				- 流亡族战斗步枪可以连发
-				- 激光武器无后坐力，连续击发不会重置瞄准用时
+					- 耐久掉了容易卡壳，可能与枪膛残渣无关
 				- [回复：(图文直播) 废土佣兵的日常生活_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/9088673526?pid=150647823117&cid=0#150647823117)
 				- [玩枪械流来聊聊你们推荐的枪械呗【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6610821127)
 				- [【图片】回复：开个实况贴，记录从零开始变强的过程【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8658432604?pid=148847877306&cid=0#148847877306)
 				- [该怎么选枪去哪里找枪？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9043277467)
 				- [请问几个基本操作级别的问题【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8391865019)
-				- 姿势不影响射击耗时
 				- [请问枪膛残渣怎么清理？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/6411505195)
-				- 耐久掉了容易卡壳，可能与枪膛残渣无关
 				- 弹药
 					- 士兵丧尸等射击护甲较高的建议用穿甲较高的子弹
 					- [求问如何大量获取弹药【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9016770955)
@@ -2649,6 +2663,7 @@
 	- ((6741699f-0701-4dbc-b1c0-543ba354748c))
 	- [医疗怎么练？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9101789713)
 	- 清除辐射
+	  collapsed:: true
 		- [普鲁士蓝药片 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/prussian_blue)
 		  id:: 68673d70-9e2f-4477-86fa-35aef3314e6d
 			- 辐照厂的可能比医院的好搞很多
@@ -2665,6 +2680,9 @@
 				- "rating": "good"
 				-
 				- 看起来可连服3片不浪费？
+	- 万能药
+		- 属性各+2，速度+20
+		- 增加健康修正值25点
 - 洗衣
   collapsed:: true
 	- 尸体上的衣服沾了血，需要清洗，不然穿着降心情
