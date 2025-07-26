@@ -92,7 +92,6 @@
 	- Alt+Shift+G 打开图谱（有时因为“中断工作流”或隐私不太想显示侧边栏，切换图谱就按这个快捷键；可能与插件冲突，可自定义）
 		- ((66335bea-765e-49a8-ad56-87c4569e6389))
 - # 插件
-  collapsed:: true
 	- 网页端大概不支持插件，看不到对应效果，有些块空着（块引用或图片的链接也没有），可能就是TOC、表格等没显示
 	- TODO 插件一般从对应GitHub仓库下载，而国内直接访问GitHub有点困难，可以
 		- ![Logseq_zDpnhqvR4r.png](../assets/Logseq_zDpnhqvR4r_1706835013569_0.png)
@@ -151,6 +150,10 @@
 	- Paste More：带格式粘贴，减少粘贴进logseq时的格式损失
 	- ---
 	- 暂时没用起来（或者就是还没用）的插件
+		- Vim Shortcut
+			- Increase`plugin.logseq-vim-shortcuts` 的默认按键ctrl+a按了会给块引用（可能还有块嵌入）的链接的第一个未被其他符号截断的数字加1（更早发现，但没定位到按键，接着还因为层级内链接较多所以没发现撤销有用，导致一个个手动改了回去），导致链接失效（“好像明白了什么，以前的那些以为是其他部分问题的失效链接？”），需要按ctrl+z撤销或按对应的Decrease按键（默认ctrl+x，可能需要改）减回去——不用该插件或在快捷键设置里删掉对应按键即可 [[20250726]]
+				- `ctrl+a`: Increase the first found number in block. Supports multiple selections and combo.
+				- `ctrl+x`: Decrease the first found number in block. Supports multiple selections and combo.
 		- TODO ollama-logseq
 			- >我直接用logseq仓库的ollama插件连接 可以直接在logseq里提问和总结页面等——评论区
 				- [使用AI大模型对logseq中的文件提问_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1m99QYKEq2/)
