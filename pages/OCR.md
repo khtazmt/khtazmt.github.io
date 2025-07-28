@@ -38,7 +38,7 @@
 - 公式识别
 	- [SimpleTex - Snip & Get!](https://simpletex.cn/)
 	- [FreeTex：免费的智能公式识别神器_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1zPV2zVEMG/)
-id:: 66946b78-039b-45bf-9112-b8541b022490
+	  id:: 66946b78-039b-45bf-9112-b8541b022490
 	- [最好的工具，应让你忘记工具的存在——PillOCR：一个几乎无感的OCR工具_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1QnVUzgEAJ/)
 	  id:: 683d12df-5b21-48b2-8705-d7ae39da044b
 	- [开源OCR：MixTeX推出网页版_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1VnW7edE7T/)
