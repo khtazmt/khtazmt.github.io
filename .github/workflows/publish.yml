@@ -1,0 +1,18 @@
+on: [push]
+
+permissions:
+  contents: write
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    name: Publish Logseq graph
+    steps:
+      - uses: nschloe/action-cached-lfs-checkout@v1.2.3
+      - uses: logseq/publish-spa@main
+      - name: Add a nojekyll file # to make sure asset paths are correctly identified
+        run: touch $GITHUB_WORKSPACE/www/.nojekyll
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4.7.3
+        with:
+          lfs: true
+          folder: www

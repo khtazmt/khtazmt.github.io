@@ -1,0 +1,6333 @@
+{:blocks (
+{:block/content "[[如何生产商品：从（仿）科学话语到商品效力的信仰一跃]]（就这点背书买账吗？）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542ab8-d7f5-49ec-b71b-6747a9a25dee"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542acc-6a43-4481-8ed6-0683ed5c139e"} 
+{:block/content "[[净水器]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542652-637c-4a27-b801-60428e701610"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "6554267e-569f-4ef5-9d96-5a78ec7d65ab"} 
+{:block/created-at 1713963228040
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 97
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "2bbb5560-882c-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [2600.13 1440]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [46.1 23]
+:bindingId "2bbb2e50-882c-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "2bbb2e51-882c-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700543379263
+:italic false}}
+:block/updated-at 1713963228040} 
+{:block/content "[[空净]]\nid:: 65542685-214a-4edc-a22d-e2ba7ae25824"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6554267e-569f-4ef5-9d96-5a78ec7d65ab"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{:id "65542685-214a-4edc-a22d-e2ba7ae25824"}
+:block/uuid #uuid "65542685-214a-4edc-a22d-e2ba7ae25824"} 
+{:block/created-at 1713963228040
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 83
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "3c16df82-882a-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [2395.68 1502.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [171.32 9.74]
+:bindingId "3c16df80-882a-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "3c16df81-882a-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700542547855
+:italic false}}
+:block/updated-at 1713963228040} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 120
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "9d31b5b2-8861-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [716.14 691.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [109.86 0]
+:bindingId "9d31b5b0-8861-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 408.41]
+:bindingId "9d31b5b1-8861-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700566332606
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/created-at 1703297018616
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 43
+:scale [1 1]
+:pageId "6555c991-a9ce-41b2-a73f-dc70021440ef"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 67.99997897958417]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96cf-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1200 936]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700120965399}}
+:block/updated-at 1703297018616} 
+{:block/content "“一切为了存在”"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6556e2f6-a7c6-4d37-8d4e-689ea71b9c3e"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "6556e6d7-f0e4-4617-9742-d69d7cc1306c"} 
+{:block/content "[[阳光课堂]]（自然光防近视，恢复课间和体育课）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65596c52-fdcf-4ba2-ae13-7409d5672a68"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6559837f-883b-4cd7-9aa3-2ad63fab90f0"} 
+{:block/content "[[荧光抗原、伍德氏灯、猫藓、人畜共患病与波萨达斯：动物肺炎能帮助最终解决流浪猫狗问题吗？]]（“户外实践”；“一盒20个荧光抗原只有一个检测灯”——“新冠可传染猫狗”）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655426b3-95a9-4b21-87de-cbd8c218ac1f"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "655428d7-329e-4a6f-9445-81c86cadca40"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6554a2c4-cc6c-40ea-bdc1-ed1c8555ac81"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6554b6ab-7c27-496b-ae9c-e7f06e7d54c5"} 
+{:block/content "标记光谱\n灰黑色：先别急\n绿色：比较新，比较感兴趣，甚至把红色撂一边\n红色：赶时间，但是，完全不赶！\n棕黄色：没红色那么赶\n蓝色：发了"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "656718c1-bc4f-430a-8059-509a65dc9704"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65672c65-efd5-4d03-a755-747697e7b462"} 
+{:block/created-at 1718937905584
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 84
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "b262d6d2-882a-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1669.71 712]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [118.28 207]
+:bindingId "b262d6d0-882a-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "b262d6d1-882a-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700542746373
+:italic false}}
+:block/updated-at 1718937905584} 
+{:block/created-at 1718937905585
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 139
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "09849a62-9a15-11ee-980b-e1b25c8421c1"
+:fontWeight 400
+:noFill true
+:point [1832.59 678.42]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 240.58]
+:bindingId "09849a60-9a15-11ee-980b-e1b25c8421c1"}
+:end 
+{:id "end"
+:canBind true
+:point [168.99 0]
+:bindingId "09849a61-9a15-11ee-980b-e1b25c8421c1"}}
+:decorations 
+{:end "arrow"}
+:parentId "65766a1f-989e-4b76-9040-b558438d5943"
+:nonce 1702512564094
+:italic false}}
+:block/updated-at 1718937905585} 
+{:block/content "[[害怕校园暴力还是阻断班级间传播，舆论错峰还是四步法？]]（可能敏感的讨论）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65572ad9-8f29-4569-8a32-c23cb813ad6b"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65580fdd-3a6e-400f-8db6-e3f89b10c7fd"} 
+{:block/created-at 1703297018617
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:collapsed false
+:borderRadius 8
+:index 45
+:scale [1 1]
+:pageId "65562eec-7672-4766-b3c6-ff0c19722456"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.99994052209363]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96d2-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1080 736]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700146917868}}
+:block/updated-at 1703297018617} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 72
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "1fe31830-8828-11ee-b775-8b751a3022b6"
+:fontWeight 400
+:noFill true
+:point [2440 1120]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "3cba8041-882f-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [60 1.25]
+:bindingId "1fe2f121-8828-11ee-b775-8b751a3022b6"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700541641246
+:italic false}}
+:block/updated-at 1703595090692} 
+{:block/content "((65450386-b46e-4984-bca3-cea30c2f9cd9))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6554245e-4b94-4459-85ec-1af07feff6d8"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "6554260b-ab94-4075-8ca8-02493f89585d"} 
+{:block/created-at 1701651802834
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 17
+:scale [1 1]
+:pageId "65542afc-a572-4e81-b082-5db2d61a1aa3"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 68.00001932259839]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96b3-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1336 1512]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014847934}}
+:block/updated-at 1701651802834} 
+{:block/content "[[醉酒者背负带]]（有次我骑电轻摩带我爸回家）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6558b9c3-1f37-4292-ace9-2714a1620dec"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6558ce9e-056a-4b17-a863-d01f82e387dd"} 
+{:block/content "[[只要加湿器启动，一切都会好起来的]]\nid:: 6554262c-099e-4c24-900e-4ad0c5eb7fd5"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6554260b-ab94-4075-8ca8-02493f89585d"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{:id "6554262c-099e-4c24-900e-4ad0c5eb7fd5"}
+:block/uuid #uuid "6554262c-099e-4c24-900e-4ad0c5eb7fd5"} 
+{:block/created-at 1703595090690
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 136
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "7cb897a0-8f72-11ee-aec3-b1b310c6b224"
+:fontWeight 400
+:noFill true
+:point [2033 1255.69]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "7cb87090-8f72-11ee-aec3-b1b310c6b224"}
+:end 
+{:id "end"
+:canBind true
+:point [539 27.32]
+:bindingId "7cb87091-8f72-11ee-aec3-b1b310c6b224"}}
+:decorations 
+{:end "arrow"}
+:parentId "65672e78-f4db-40fb-b8c9-96788d2a08ab"
+:nonce 1701343237738
+:italic false}}
+:block/updated-at 1703595090690} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 124
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a9872742-8867-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1913.74 1022.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 200.41]
+:bindingId "a9872740-8867-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [728.01 0]
+:bindingId "a9872741-8867-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700568930307
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/content "[[梳理信任网络，构筑信息安全]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655d7b2a-a573-4b12-b677-e4ff907a4bb9"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "655e0785-d820-4b50-b4f1-c02687e738cf"} 
+{:block/content "[[新冠防疫创作策划]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65543380-a928-4393-b8d4-8a7ae322ce2a"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "655438ec-2716-411e-ab5b-3aec0c66569e"} 
+{:block/created-at 1701531539739
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 31
+:scale [1 1]
+:pageId "65542adb-95ce-415b-8be2-00e8de7d4413"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 68.00003614456908]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96c0-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [888 1568]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014816812}}
+:block/updated-at 1701531539739} 
+{:block/created-at 1718881832132
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:collapsed false
+:borderRadius 8
+:index 9
+:scale [1 1]
+:pageId "65542972-2a4e-4dab-958d-a32bf347eca2"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 93.61973727417961]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96ab-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1040 632]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014453918}}
+:block/updated-at 1718881832132} 
+{:block/created-at 1703297018617
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 40
+:scale [1 1]
+:pageId "6554bdb3-0464-4924-b416-7336d8daae91"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.99996832729027]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96cb-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2376 832]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700052385878}}
+:block/updated-at 1703297018617} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "red"
+:collapsed false
+:borderRadius 8
+:index 137
+:scale [1 1]
+:pageId "6575347b-1543-4609-b2b6-123f2c1da1f2"
+:scaleLevel "md"
+:fill "red"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9b2e4060-970e-11ee-9aaf-e73b3c667706"
+:noFill false
+:point [2040 976]
+:parentId "65672e78-f4db-40fb-b8c9-96788d2a08ab"
+:collapsedHeight 0
+:nonce 1702179948723}}
+:block/updated-at 1703595090691} 
+{:block/content "电脑与手机相比差在哪里了？"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655849d0-5429-43bb-9be1-ba306c4fcf60"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "655849e0-cf06-4aba-b762-397f670860f8"} 
+{:block/content "[[钝角：躺平奋斗]]（“久坐不适？躺下来继续工作吧”）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542ab5-d2b8-42ca-9ee4-59018cd8d520"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542ab8-d7f5-49ec-b71b-6747a9a25dee"} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 71
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "09bdff20-8828-11ee-b775-8b751a3022b6"
+:fontWeight 400
+:noFill true
+:point [2137.85 624]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 87]
+:bindingId "09bdd810-8828-11ee-b775-8b751a3022b6"}
+:end 
+{:id "end"
+:canBind true
+:point [32 0]
+:bindingId "09bdd811-8828-11ee-b775-8b751a3022b6"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700541604042
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/content "[[地球上还有多少个李跃华？]]（“‘神药’、‘神医’多吗？我怎么还嫌少？”）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65562eec-7672-4766-b3c6-ff0c19722456"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6556e2f6-a7c6-4d37-8d4e-689ea71b9c3e"} 
+{:block/created-at 1718937905584
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 91
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "658a0760-882b-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1733.05 989.02]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [65.08 0]
+:bindingId "6589e050-882b-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 230.98]
+:bindingId "9fe78481-882d-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700543047734
+:italic false}}
+:block/updated-at 1718937905584} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 79
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "38e41622-882a-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [2212 1757.68]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [67 0]
+:bindingId "38e41620-882a-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 1.23]
+:bindingId "38e41621-882a-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700542542447
+:italic false}}
+:block/updated-at 1703595090692} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 117
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "927b2e40-8833-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1532 919.87]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [843 0]
+:bindingId "af472a11-8c6b-11ee-aa18-2574d544abcc"}
+:end 
+{:id "end"
+:canBind true
+:point [0 171.3]
+:bindingId "927b0731-8833-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700546557932
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/content "[[诗]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655c9793-cd94-4bf7-8cbf-7b1aecc2faec"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "655ca018-da53-40ec-ac82-109dcebae070"} 
+{:block/content "白板看板连连看（“你自然需要用电脑”）\n水：加湿，自来水臭氧（空气污染物；冰箱臭氧机）二氧化氯（消毒剂、漂白剂）\n风：防风、日晒（紫外线、臭氧、荧光抗原；晒被子）、空净/新风（“大自然新风”）\n盐：盐水洗鼻、（食材-）食品添加剂-膳食补充剂\n酒/烟：雾化鼻喷\n卡拉胶：果冻鼻喷\n包：口罩"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6554bdb3-0464-4924-b416-7336d8daae91"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6554c40f-7a16-4d4e-b13b-eab82b4f9450"} 
+{:block/content "[[“小小的”感染高峰，您不用怕！]]（还没想好）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655810e9-b705-44f2-b87d-317027a0c469"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65581153-f362-4d3f-99c8-6f4fd5a2d145"} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 67
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "ba2baa70-8827-11ee-b775-8b751a3022b6"
+:fontWeight 400
+:noFill true
+:point [2440 1168]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "41045ef1-882f-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [132 41.38]
+:bindingId "7a7706e1-8831-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700541470763
+:italic false}}
+:block/updated-at 1703595090692} 
+{:block/created-at 1718937905580
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 11
+:scale [1 1]
+:pageId "65542a25-8af6-4786-a50a-ae89639b9093"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [288 68.02064725980497]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1664 920]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014633489}}
+:block/updated-at 1718937905580} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 94
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "aa38e252-882b-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1201.52 520]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 975]
+:bindingId "aa38e250-882b-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [1173.74 0]
+:bindingId "841aee01-882c-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700543162575
+:italic false}}
+:block/updated-at 1703595090692} 
+{:block/created-at 1701531539736
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:collapsed false
+:borderRadius 8
+:index 33
+:scale [1 1]
+:pageId "65542ade-1b43-4c70-b816-fd0f2fc3503c"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 68.00003614456908]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96c1-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [888 1496]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014820282}}
+:block/updated-at 1701531539736} 
+{:block/created-at 1702515932594
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "yellow"
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "65542933-ac37-496e-bc6c-bf6753c1058e"
+:scaleLevel "md"
+:fill "yellow"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59377284202542]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96a5-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2560 976]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014390813}}
+:block/updated-at 1702515932594} 
+{:block/content "[[臭虫、臭氧，选哪个？]]（新版臭虫可能已传入国内）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65570892-3f8f-45a1-a047-ad9a08c9c957"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65571c8c-d773-430c-9cd8-024a32261f33"} 
+{:block/created-at 1718937905585
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "blue"
+:index 102
+:scale [1 1]
+:scaleLevel "md"
+:fill "blue"
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "24cd2a50-882f-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1841.65 816]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 103]
+:bindingId "24cd0340-882f-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [99.01 0]
+:bindingId "e87eaf81-9128-11ee-bb37-7f732635fc54"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700544656353
+:italic false}}
+:block/updated-at 1718937905585} 
+{:block/created-at 1701531539738
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 24
+:scale [1 1]
+:pageId "65542b14-3726-4394-9ddd-4fa6d0d6875e"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 68.00003614456908]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96ba-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2768 368]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014870930}}
+:block/updated-at 1701531539738} 
+{:block/content "[[相亲剧本]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65561c94-9c8b-466d-a6ea-1748a246c4ca"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65562eec-7672-4766-b3c6-ff0c19722456"} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 70
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "01e37fa0-8828-11ee-b775-8b751a3022b6"
+:fontWeight 400
+:noFill true
+:point [2897.86 1309]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "7c9af851-8831-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [8.06 31]
+:bindingId "01e35891-8828-11ee-b775-8b751a3022b6"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700541590855
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 75
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "d4629052-8829-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1768 400]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [138.12 0]
+:bindingId "d4629050-8829-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 236]
+:bindingId "d4629051-8829-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700542373662
+:italic false}}
+:block/updated-at 1703595090692} 
+{:block/created-at 1703297018617
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "red"
+:collapsed false
+:borderRadius 8
+:index 50
+:scale [1 1]
+:pageId "6557044d-cb67-4bef-b1be-dd1f6d0d3fb7"
+:scaleLevel "md"
+:fill "red"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 43]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96d5-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2040 1024]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700201538554}}
+:block/updated-at 1703297018617} 
+{:block/created-at 1701531539738
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 15
+:scale [1 1]
+:pageId "65542a30-f449-4b7c-a7cf-56fc6ccaa275"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 68.00001327857511]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96af-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [632 816]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014643934}}
+:block/updated-at 1701531539738} 
+{:block/content "[[冥观：护眼安神的深色模式]]（“牛，我眼睛干”）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542acc-6a43-4481-8ed6-0683ed5c139e"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542ad7-99a8-463c-9de6-f7ad05830df1"} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:children ["b5ec96b1-8826-11ee-b775-8b751a3022b6" "b5ec96b4-8826-11ee-b775-8b751a3022b6"]
+:index 60
+:scale [1 1]
+:type "group"
+:size [1 1]
+:id "4d7a5930-8827-11ee-b775-8b751a3022b6"
+:point [3600 -3600]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700541288304}}
+:block/updated-at 1703595090692} 
+{:block/content "[[都灵之马]]（从《生态伦理》中的“赛马”想到，观影笔记）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542b2f-a702-4392-ae65-fbeaea545709"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542b32-9f89-4e2f-9731-ade749e07435"} 
+{:block/created-at 1701531539739
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 34
+:scale [1 1]
+:pageId "655438ec-2716-411e-ab5b-3aec0c66569e"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.99996651562495]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96c2-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1744 288]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700018411684}}
+:block/updated-at 1701531539739} 
+{:block/content "[[消冠电子烟]]（电子烟也是雾化）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542a13-ffdb-4d78-9d04-7e3a63903822"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542a18-d2ac-4bc2-ab3c-5b86ca1c4207"} 
+{:block/content "[[蟋蟀]]（全年龄段游戏，学“斗”）\nid:: 65542b2f-a702-4392-ae65-fbeaea545709"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542b29-8398-4ee7-9b06-62b8c44e8347"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{:id "65542b2f-a702-4392-ae65-fbeaea545709"}
+:block/uuid #uuid "65542b2f-a702-4392-ae65-fbeaea545709"} 
+{:block/created-at 1703297018615
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 54
+:scale [1 1]
+:pageId "655853a5-e90d-42c5-b7bd-a547888fc4ea"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 67.9999599245892]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96dd-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1920 552]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700287398409}}
+:block/updated-at 1703297018615} 
+{:block/created-at 1703595105227
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 132
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e517ae02-8999-11ee-b751-eb1832ad7580"
+:fontWeight 400
+:noFill true
+:point [1306.42 568.19]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 166.81]
+:bindingId "e517ae00-8999-11ee-b751-eb1832ad7580"}
+:end 
+{:id "end"
+:canBind true
+:point [195.89 0]
+:bindingId "e517ae01-8999-11ee-b751-eb1832ad7580"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700700456215
+:italic false}}
+:block/updated-at 1703595105227} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 118
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "cd76c350-8839-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1740 1297.81]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [835 0]
+:bindingId "cd769c40-8839-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 216.32]
+:bindingId "cd769c41-8839-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700549233707
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/created-at 1701182997866
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "65542685-214a-4edc-a22d-e2ba7ae25824"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59375910498506]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96a0-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2576 1192]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700013704287}}
+:block/updated-at 1701182997866} 
+{:block/content "[[只要RO净水机和风扇启动，超声波加湿器、皮肤、舌头、头发就都会好起来的！]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542647-e899-470e-954f-64c45dfc0b07"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542652-637c-4a27-b801-60428e701610"} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 90
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "35544332-882b-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [2777 832]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 40.81]
+:bindingId "fce81fb1-8831-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [39.71 0]
+:bindingId "0d87ccd1-8832-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700542965699
+:italic false}}
+:block/updated-at 1703595090692} 
+{:block/created-at 1703297018615
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 36
+:scale [1 1]
+:pageId "65542b29-8398-4ee7-9b06-62b8c44e8347"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 68.00001327857511]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96c4-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2392 1632]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014892373}}
+:block/updated-at 1703297018615} 
+{:block/content "电脑与手机相比差在哪里了？"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6558468d-63af-4aa1-8a71-90c9f5cd056b"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "6558468d-0a3f-4ee7-b222-2a696fe975fd"} 
+{:block/content "[[罐头]]（高压锅预置菜，家庭备用，短途旅行不带锅，往学校走私）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542b0a-c777-490e-8dd9-96dbb211e29d"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542b14-3726-4394-9ddd-4fa6d0d6875e"} 
+{:block/created-at 1718937905585
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 103
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "28c0f9c0-882f-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1935.78 989.02]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "28c0d2b0-882f-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [113.08 30.98]
+:bindingId "b091b6f1-8843-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700544663167
+:italic false}}
+:block/updated-at 1718937905585} 
+{:block/content "[[智能手机难用？难用就对了！]]（学手机，多省钱，少吃亏）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6558468d-0a3f-4ee7-b222-2a696fe975fd"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542ade-1b43-4c70-b816-fd0f2fc3503c"} 
+{:block/created-at 1718937905584
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 115
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "3271b882-8832-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1291.87 989.02]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [482.54 0]
+:bindingId "3271b880-8832-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 502.98]
+:bindingId "3271b881-8832-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700545967294
+:italic false}}
+:block/updated-at 1718937905584} 
+{:block/created-at 1701531539738
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 12
+:scale [1 1]
+:pageId "65542aa4-f671-4e29-a67a-efd8af15cd89"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 67.9999599245892]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96ad-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1448 640]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014759868}}
+:block/updated-at 1701531539738} 
+{:block/created-at 1701531539737
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 16
+:scale [1 1]
+:pageId "65542a13-ffdb-4d78-9d04-7e3a63903822"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96b1-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2816 576]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014614790}}
+:block/updated-at 1701531539737} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:collapsed false
+:borderRadius 8
+:index 127
+:scale [1 1]
+:pageId "655e0785-d820-4b50-b4f1-c02687e738cf"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.593696728787634]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "44b98290-893e-11ee-a6e4-639560e2f439"
+:noFill false
+:point [1040 880]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700661102957}}
+:block/updated-at 1703595090691} 
+{:block/created-at 1706492476300
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 28
+:scale [1 1]
+:pageId "65542b1a-b302-40b7-b05e-912c91bafd22"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 119.37498665275676]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96be-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2240 312]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014877674}}
+:block/updated-at 1706492476300} 
+{:block/content "[[等吊瓶时做什么家庭作业？]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6555c991-a9ce-41b2-a73f-dc70021440ef"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6555ca0e-9765-441b-9995-055b6bd9c084"} 
+{:block/content "[[可组合“神药”其二，从“多喝热水”、“学术整风”到“水厂救国”]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542933-ac37-496e-bc6c-bf6753c1058e"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6554296a-3460-4b6d-98da-003c0dd68a85"} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 59
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "42fa0e12-8827-11ee-b775-8b751a3022b6"
+:fontWeight 400
+:noFill true
+:point [2313 828.12]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "cf824ff0-8827-11ee-b775-8b751a3022b6"}
+:end 
+{:id "end"
+:canBind true
+:point [59 20.28]
+:bindingId "46680bb1-8827-11ee-b775-8b751a3022b6"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700541270978
+:italic false}}
+:block/updated-at 1703595090692} 
+{:block/created-at 1718937905584
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 134
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e5268902-8ea5-11ee-a348-3398e4d43743"
+:fontWeight 400
+:noFill true
+:point [1692.36 806.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [88.18 112.41]
+:bindingId "e5268900-8ea5-11ee-a348-3398e4d43743"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "e5268901-8ea5-11ee-a348-3398e4d43743"}}
+:decorations 
+{:end "arrow"}
+:parentId "6566aa73-b31c-4fcd-b10e-26de1079f1d8"
+:nonce 1701255366240
+:italic false}}
+:block/updated-at 1718937905584} 
+{:block/created-at 1701531539737
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 22
+:scale [1 1]
+:pageId "65542b0a-c777-490e-8dd9-96dbb211e29d"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 94.00004323925903]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96b9-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1768 424]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014861072}}
+:block/updated-at 1701531539737} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 105
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "6fbfb822-882f-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1862.2 1071]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 152]
+:bindingId "6fbfb820-882f-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [204.01 0]
+:bindingId "deb01cf1-9240-11ee-b7f4-cdc7395ebe73"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700544782284
+:italic false}}
+:block/updated-at 1703595090692} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 129
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "13dfd5e2-8941-11ee-a6e4-639560e2f439"
+:fontWeight 400
+:noFill true
+:point [2623.13 829]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "13dfd5e0-8941-11ee-a6e4-639560e2f439"}
+:end 
+{:id "end"
+:canBind true
+:point [192.55 143]
+:bindingId "13dfd5e1-8941-11ee-a6e4-639560e2f439"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700662309481
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/created-at 1701651826461
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:collapsed false
+:borderRadius 8
+:index 6
+:scale [1 1]
+:pageId "655426b3-95a9-4b21-87de-cbd8c218ac1f"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59377284202542]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96aa-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1416 1416]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700013751623}}
+:block/updated-at 1701651826461} 
+{:block/created-at 1718881781051
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "purple"
+:collapsed false
+:borderRadius 8
+:index 135
+:scale [1 1]
+:pageId "65672c65-efd5-4d03-a755-747697e7b462"
+:scaleLevel "md"
+:fill "purple"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 170.41669059228857]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "94805ce0-8eb1-11ee-a348-3398e4d43743"
+:noFill false
+:point [648 1296]
+:parentId "6566aa73-b31c-4fcd-b10e-26de1079f1d8"
+:collapsedHeight 0
+:nonce 1701260384713}}
+:block/updated-at 1718881781051} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6555827c-31c0-44ce-bc66-e258a43f4c9b"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65558bed-b70c-4454-b9d1-c49ff1198fc0"} 
+{:block/created-at 1718937905584
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 128
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "589b8972-893e-11ee-a6e4-639560e2f439"
+:fontWeight 400
+:noFill true
+:point [1444 911.06]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [219 25.84]
+:bindingId "589b8970-893e-11ee-a6e4-639560e2f439"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "589b8971-893e-11ee-a6e4-639560e2f439"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700661136334
+:italic false}}
+:block/updated-at 1718937905584} 
+{:block/content "[[核战]]（“打赢一场不会发生的核战争：威慑、讹诈、急救、罐头、以想象/投射中刺激的核爆为焦点的视域开辟”）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542afc-a572-4e81-b082-5db2d61a1aa3"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542b0a-c777-490e-8dd9-96dbb211e29d"} 
+{:block/created-at 1718937905584
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 122
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "0bbba210-8863-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1953 911]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 20.88]
+:bindingId "0bbb7b00-8863-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [136.82 0]
+:bindingId "0bbb7b01-8863-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700566947600
+:italic false}}
+:block/updated-at 1718937905584} 
+{:block/created-at 1701531517522
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "blue"
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "65542652-637c-4a27-b801-60428e701610"
+:scaleLevel "md"
+:fill "blue"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 67.99997412595339]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96a3-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1912 744]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700013652472}}
+:block/updated-at 1701531517522} 
+{:block/content "[[“剩者为王”？驳“尊重他人命运”、“唐飞清匪二元对立”]]（少数中的多数心态，便对么？）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65581153-f362-4d3f-99c8-6f4fd5a2d145"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "655812e5-e064-449f-bc44-0c133ad33dc4"} 
+{:block/content "[[洗浴防疫]]（冷热水浴、桑拿、冬泳等）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6558ce9e-056a-4b17-a863-d01f82e387dd"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65596c52-fdcf-4ba2-ae13-7409d5672a68"} 
+{:block/content "[[寿司]]（大米比面粉好，早餐面食替代）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542a38-72a9-4727-9f26-0f73018a56d6"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542a3e-5b39-4cd4-a397-1c2c98a9ca0f"} 
+{:block/created-at 1718937905584
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 140
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "12a3a7d0-9a15-11ee-980b-e1b25c8421c1"
+:fontWeight 400
+:noFill true
+:point [2023.87 519]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "12a380c0-9a15-11ee-980b-e1b25c8421c1"}
+:end 
+{:id "end"
+:canBind true
+:point [126.89 109]
+:bindingId "12a380c1-9a15-11ee-980b-e1b25c8421c1"}}
+:decorations 
+{:end "arrow"}
+:parentId "65766a1f-989e-4b76-9040-b558438d5943"
+:nonce 1702512579384
+:italic false}}
+:block/updated-at 1718937905584} 
+{:block/content "[[免疫债小说]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655e0785-d820-4b50-b4f1-c02687e738cf"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "656718c1-bc4f-430a-8059-509a65dc9704"} 
+{:block/created-at 1703297018616
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 39
+:scale [1 1]
+:pageId "65542b36-b62d-43ea-87b2-7ead84abc19c"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 93.99996701927915]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96c7-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2816 1592]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014905886}}
+:block/updated-at 1703297018616} 
+{:block/content "[[卡拉永远OK，将科学“果冻”武装到鼻孔]]（卡拉胶鼻喷，镇江本地可免费自提）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542b3b-4dec-46fe-aa97-85441388fe1f"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65543380-a928-4393-b8d4-8a7ae322ce2a"} 
+{:block/created-at 1703297018617
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 38
+:scale [1 1]
+:pageId "65542b2f-a702-4392-ae65-fbeaea545709"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96c5-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2120 1456]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014898639}}
+:block/updated-at 1703297018617} 
+{:block/content "[[观鸟记录]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542b36-b62d-43ea-87b2-7ead84abc19c"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "65542b3b-4dec-46fe-aa97-85441388fe1f"} 
+{:block/created-at 1703297018615
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 42
+:scale [1 1]
+:pageId "65558e5d-58b5-452c-9999-9fee4e5bfa54"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 43.0000063696414]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96ce-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2376 672]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700105822462}}
+:block/updated-at 1703297018615} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 69
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "ed2b6412-8827-11ee-b775-8b751a3022b6"
+:fontWeight 400
+:noFill true
+:point [2879.09 1022.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [4.21 168.41]
+:bindingId "7fb49461-8831-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "ed2b6411-8827-11ee-b775-8b751a3022b6"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700541556182
+:italic false}}
+:block/updated-at 1703595090692} 
+{:block/content "[[饮食史]]（我家的饮食方案，主要根据历史菜品添加）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542a2c-3fb6-4b6e-889a-23f27add3176"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542a30-f449-4b7c-a7cf-56fc6ccaa275"} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 74
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "767ac212-8828-11ee-b775-8b751a3022b6"
+:fontWeight 400
+:noFill true
+:point [2784 632]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [31 0]
+:bindingId "767ac210-8828-11ee-b775-8b751a3022b6"}
+:end 
+{:id "end"
+:canBind true
+:point [0 1.65]
+:bindingId "85f70101-882c-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700541786601
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/created-at 1719020491747
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "blue"
+:rotation 0
+:borderRadius 0
+:index 141
+:scale [1 1]
+:refs ["6674e91c-2eb7-4586-b06c-264073323441"]
+:scaleLevel "xxl"
+:fill "blue"
+:type "text"
+:size [2375 82]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6a2b0ca0-2f75-11ef-a231-d34b05881eca"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [736 128]
+:lineHeight 1.2
+:fontSize 60
+:parentId "66335c08-71fc-461e-a10f-a5a6cf625965"
+:nonce 1718936681259
+:italic false
+:text "主要在2023年10~12月形成的创作计划，今天（2024.6.21）“解密”，有些东西大概能用上吧"}}
+:block/updated-at 1719020491747} 
+{:block/created-at 1703595105227
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 100
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "ad532532-882c-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1609.1 344]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 151]
+:bindingId "ad532530-882c-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [142.43 0]
+:bindingId "ad532531-882c-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700543596676
+:italic false}}
+:block/updated-at 1703595105227} 
+{:block/created-at 1703297018617
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "yellow"
+:collapsed false
+:borderRadius 8
+:index 37
+:scale [1 1]
+:pageId "65543380-a928-4393-b8d4-8a7ae322ce2a"
+:scaleLevel "md"
+:fill "yellow"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 67.9999599245892]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96c9-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2376 760]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700017004361}}
+:block/updated-at 1703297018617} 
+{:block/content "[[膳食补充剂]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542a99-21e8-4d16-a39c-2f0edaa4c519"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "65542a9f-52fa-490d-a71e-55fc386cc2a8"} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 126
+:scale [1 1]
+:pageId "655d7b2a-a573-4b12-b677-e4ff907a4bb9"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.999983827221456]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "92344d10-88ea-11ee-a6e4-639560e2f439"
+:noFill false
+:point [2240 264]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700625155386}}
+:block/updated-at 1703595090692} 
+{:block/content "[[平安果另有其果，另有其因]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6559837f-883b-4cd7-9aa3-2ad63fab90f0"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6559c438-dad1-4194-8d88-1fdb83ea9312"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655449f9-1636-4bc1-9a26-0f63df4dc59f"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6554a2c4-cc6c-40ea-bdc1-ed1c8555ac81"} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 87
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "d4d050d0-882a-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1011.81 1131.47]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [115.19 0]
+:bindingId "d4d029c0-882a-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 19.12]
+:bindingId "e1195891-882b-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700542804203
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/content "“b站是有我关注的up直播写作的”"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6558ac15-8886-440b-a388-cfbfde739723"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "6558b9c3-1f37-4292-ace9-2714a1620dec"} 
+{:block/created-at 1754655259656
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 73
+:scale [1 1]
+:pageId "6554c40f-7a16-4d4e-b13b-eab82b4f9450"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 247.53634537442008]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "554e7aa0-8828-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [664 320]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700054033633}}
+:block/updated-at 1754655259656} 
+{:block/created-at 1701840449531
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 27
+:scale [1 1]
+:pageId "65542acc-6a43-4481-8ed6-0683ed5c139e"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 68.1875]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96bc-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1128 1064]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014800138}}
+:block/updated-at 1701840449531} 
+{:block/content "[[生态伦理]]（“伦理讨论综述”；“画布清空”，从另一大领域变得负责任）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542b1a-b302-40b7-b05e-912c91bafd22"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542b1f-d26a-4323-b9ea-1874ff3fc7cb"} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 101
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "aa3044e0-882d-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1571.66 1459.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [40.46 0]
+:bindingId "aa301dd0-882d-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 232.41]
+:bindingId "aa301dd1-882d-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700544020692
+:italic false}}
+:block/updated-at 1703595090692} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 123
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "1fdfeca0-8864-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [2500.12 619.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [51.95 0]
+:bindingId "1fdfc590-8864-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 48.41]
+:bindingId "1fdfc591-8864-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700567410867
+:italic false}}
+:block/updated-at 1703595090692} 
+{:block/content "电脑与手机相比差在哪里了？"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65584692-31ff-4346-923c-ffe7b96e57d1"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "65584692-9814-4942-a79b-f79bf5c33886"} 
+{:block/created-at 1718881781361
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 99
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "6e627972-882c-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [2368 1184]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "3aebdac1-882f-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [39.07 36]
+:bindingId "6e627971-882c-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700543491011
+:italic false}}
+:block/updated-at 1718881781361} 
+{:block/created-at 1703297018617
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 55
+:scale [1 1]
+:pageId "65596c52-fdcf-4ba2-ae13-7409d5672a68"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 43.00001392688099]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96df-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2504 1104]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700359239977}}
+:block/updated-at 1703297018617} 
+{:block/created-at 1701531539738
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 35
+:scale [1 1]
+:pageId "65542b32-9f89-4e2f-9731-ade749e07435"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 67.99994468059323]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96c6-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1808 1704]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014902499}}
+:block/updated-at 1701531539738} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6559c438-dad1-4194-8d88-1fdb83ea9312"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6559c7e3-ed21-465f-b124-0219495c3e57"} 
+{:block/content "[[观鸟]]（正好有一辆老山地车在焦北湾练习《城里户外》，看到一些居民区不太常见的鸟，鸟可以是中介）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542b32-9f89-4e2f-9731-ade749e07435"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542b36-b62d-43ea-87b2-7ead84abc19c"} 
+{:block/created-at 1703595112227
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 121
+:scale [1 1]
+:pageId "655c9793-cd94-4bf7-8cbf-7b1aecc2faec"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 43.00001277197711]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fbb3ef30-8862-11ee-87af-db991427683b"
+:noFill false
+:point [1976 864]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700566920900}}
+:block/updated-at 1703595112227} 
+{:block/content "[[没茅台]]（酒精雾化，茅台含酒精）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542a10-cd14-4133-82db-5a5216064836"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542a13-ffdb-4d78-9d04-7e3a63903822"} 
+{:block/created-at 1701531539738
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 20
+:scale [1 1]
+:pageId "65542a9f-52fa-490d-a71e-55fc386cc2a8"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96b5-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [632 768]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014753906}}
+:block/updated-at 1701531539738} 
+{:block/created-at 1718881781355
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 112
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "3bc49ca0-8831-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [2033 1251.96]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "3bc47590-8831-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [91 2.93]
+:bindingId "3bc47591-8831-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700545553673
+:italic false}}
+:block/updated-at 1718881781355} 
+{:block/content "[[疑似有点城市化的户外生存]]（“创作者有时需要一些机动性”；几个月前我还不太能保证家里蹲，我也一直打算不一直家里蹲，除非任务需要）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542b14-3726-4394-9ddd-4fa6d0d6875e"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542b1a-b302-40b7-b05e-912c91bafd22"} 
+{:block/content "[[寝室床位降噪新风]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655ca018-da53-40ec-ac82-109dcebae070"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "655d7b2a-a573-4b12-b677-e4ff907a4bb9"} 
+{:block/content "立冬、小雪吃什么养生粥，光棍节如何大脑升级消费降级、破除科学实在论，感恩节如何更好地感谢火鸡——这下人生又有了方向"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6554262c-099e-4c24-900e-4ad0c5eb7fd5"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "65542647-e899-470e-954f-64c45dfc0b07"} 
+{:block/content "[[客亦支付水与月乎？]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542a3e-5b39-4cd4-a397-1c2c98a9ca0f"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "65542a43-2e04-4389-9fa4-a87280a214b4"} 
+{:block/content "[[防疫是比养生更先见、买房更稳妥、理财更实用、保险更直接的风险投资吗？]]（量化分析家庭再生产规划）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6554296a-3460-4b6d-98da-003c0dd68a85"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542972-2a4e-4dab-958d-a32bf347eca2"} 
+{:block/content "[[八风吹不动，但是班风不正]]（从屁、放屁心理到开窗通风和空净）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6555ca0e-9765-441b-9995-055b6bd9c084"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6555d00a-8fd1-43b1-9c08-ef591719eb49"} 
+{:block/created-at 1706492460411
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "blue"
+:collapsed false
+:borderRadius 8
+:index 77
+:scale [1 1]
+:pageId "655c37f3-96b1-4897-9867-956b7cff1d02"
+:scaleLevel "md"
+:fill "blue"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59379035794005]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ffca9fd0-8829-11ee-87af-db991427683b"
+:noFill false
+:point [2256 1576]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700542446731}}
+:block/updated-at 1706492460411} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:children ["b5ec96ba-8826-11ee-b775-8b751a3022b6" "5b54f2e0-8827-11ee-b775-8b751a3022b6"]
+:index 62
+:scale [1 1]
+:type "group"
+:size [1 1]
+:id "72cd8e00-8827-11ee-b775-8b751a3022b6"
+:point [2672 -4248]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700541351361}}
+:block/updated-at 1703595090691} 
+{:block/content "[[阿尔芭与野生动物的故事]]（“电子观鸟”，简中翻译错误与对“流浪”、“野”等概念的质疑）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542b1f-d26a-4323-b9ea-1874ff3fc7cb"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542b29-8398-4ee7-9b06-62b8c44e8347"} 
+{:block/content "[[海蛎煎]]（牡蛎、海鸭蛋、蒜苗、红薯淀粉、猪油，也算营养怪均衡的）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542a50-9873-4d90-b45e-c93fbd2e3567"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542a7d-91b4-4f6d-9f42-7b28524d5891"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "657a47ac-9db9-44ac-89af-80b586e425b0"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "6674e403-699c-41dd-90ea-603dae2d9275"} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 68
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "eacc8c82-8827-11ee-b775-8b751a3022b6"
+:fontWeight 400
+:noFill true
+:point [2440 1020.53]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 30.08]
+:bindingId "3e9ed0a1-882f-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [116 0]
+:bindingId "eacc8c81-8827-11ee-b775-8b751a3022b6"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700541552315
+:italic false}}
+:block/updated-at 1703595090692} 
+{:block/created-at 1706492476373
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 76
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "d9e7fc40-8829-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [2152 297.02]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "d9e7d530-8829-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [84 17.98]
+:bindingId "de5604c1-8829-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700542382954
+:italic false}}
+:block/updated-at 1706492476373} 
+{:block/created-at 1718881829963
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 109
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "78067182-8830-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1246.26 725.82]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "78067180-8830-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [1.32 9.91]
+:bindingId "78067181-8830-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700545225248
+:italic false}}
+:block/updated-at 1718881829963} 
+{:block/created-at 1706492476377
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 66
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "9183f370-8827-11ee-b775-8b751a3022b6"
+:fontWeight 400
+:noFill true
+:point [2141.51 396.86]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 26.14]
+:bindingId "9183cc60-8827-11ee-b775-8b751a3022b6"}
+:end 
+{:id "end"
+:canBind true
+:point [94.49 0]
+:bindingId "9183cc61-8827-11ee-b775-8b751a3022b6"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700541402966
+:italic false}}
+:block/updated-at 1706492476377} 
+{:block/content "[[天堂与公墓]]（东西文化比较，空气污染、双碳，尽量少扎堆一次）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6555bc75-4384-4730-8b0e-4ed7f85488e3"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6555c991-a9ce-41b2-a73f-dc70021440ef"} 
+{:block/created-at 1703595105227
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:collapsed false
+:borderRadius 8
+:index 53
+:scale [1 1]
+:pageId "655812e5-e064-449f-bc44-0c133ad33dc4"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 68.18747098886506]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96db-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1376 496]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700270801538}}
+:block/updated-at 1703595105227} 
+{:block/created-at 1701531539738
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 32
+:scale [1 1]
+:pageId "65542ab8-d7f5-49ec-b71b-6747a9a25dee"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 67.9999599245892]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96bf-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2376 504]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014779239}}
+:block/updated-at 1701531539738} 
+{:block/content "[[交通]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6575347b-1543-4609-b2b6-123f2c1da1f2"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "657a47ac-9db9-44ac-89af-80b586e425b0"} 
+{:block/content "[[只要加湿器启动，一切都会好起来的]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "6554245e-4b94-4459-85ec-1af07feff6d8"} 
+{:block/content "[[招志愿者]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6556e6d7-f0e4-4617-9742-d69d7cc1306c"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6556f09e-30c6-4a08-b24f-7806d6a4aba5"} 
+{:block/created-at 1703297018615
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "red"
+:collapsed false
+:borderRadius 8
+:index 49
+:scale [1 1]
+:pageId "6556f09e-30c6-4a08-b24f-7806d6a4aba5"
+:scaleLevel "md"
+:fill "red"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.999969933603865]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96d4-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1744 336]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700196472483}}
+:block/updated-at 1703297018615} 
+{:block/created-at 1713963228033
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 78
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "069954a0-882a-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [2590.84 1574.44]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 1.56]
+:bindingId "06992d90-882a-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [9.88 0]
+:bindingId "06992d91-882a-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700542458118
+:italic false}}
+:block/updated-at 1713963228033} 
+{:block/created-at 1701531539739
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "yellow"
+:collapsed false
+:borderRadius 8
+:index 10
+:scale [1 1]
+:pageId "65542a2c-3fb6-4b6e-889a-23f27add3176"
+:scaleLevel "md"
+:fill "yellow"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96a9-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [632 600]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014639050}}
+:block/updated-at 1701531539739} 
+{:block/content "[[风]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6556f09e-30c6-4a08-b24f-7806d6a4aba5"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6557044d-cb67-4bef-b1be-dd1f6d0d3fb7"} 
+{:block/created-at 1701531539736
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 26
+:scale [1 1]
+:pageId "65542af1-451b-4b77-882d-d8fd20894025"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96bb-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [888 1640]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014839337}}
+:block/updated-at 1701531539736} 
+{:block/content "[[一个月要挨多少板才敢奋斗终身？]]（“炒股-工作平衡”）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542a9f-52fa-490d-a71e-55fc386cc2a8"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542aa4-f671-4e29-a67a-efd8af15cd89"} 
+{:block/content "[[一般防疫者相亲指南]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6555d00a-8fd1-43b1-9c08-ef591719eb49"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "65561c94-9c8b-466d-a6ea-1748a246c4ca"} 
+{:block/created-at 1701182997867
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "65542689-a02f-4ae0-a0d8-9411a493a1d7"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 68.00003614456908]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96a2-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2752 1344]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700013708307}}
+:block/updated-at 1701182997867} 
+{:block/content "[[吹万不同的符号界天籁]]（“赠品”；从未圣的庄子·齐物论解读说开，陷在修辞层面）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542685-214a-4edc-a22d-e2ba7ae25824"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542689-a02f-4ae0-a0d8-9411a493a1d7"} 
+{:block/created-at 1703297018616
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 44
+:scale [1 1]
+:pageId "6555bc75-4384-4730-8b0e-4ed7f85488e3"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 43]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96cd-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [632 888]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700117593918}}
+:block/updated-at 1703297018616} 
+{:block/created-at 1706492476377
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 64
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "875a2cc0-8827-11ee-b775-8b751a3022b6"
+:fontWeight 400
+:noFill true
+:point [2644 364.36]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [123 5.18]
+:bindingId "875a05b0-8827-11ee-b775-8b751a3022b6"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "875a05b1-8827-11ee-b775-8b751a3022b6"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700541385840
+:italic false}}
+:block/updated-at 1706492476377} 
+{:block/content "[[电脑与手机相比差在哪里了？]]（学电脑的好处不亚于学手机）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542ad7-99a8-463c-9de6-f7ad05830df1"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542adb-95ce-415b-8be2-00e8de7d4413"} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 63
+:scale [1 1]
+:pageId "654782b8-a122-40e3-87f8-b8550e5ad6f8"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5b54f2e0-8827-11ee-b775-8b751a3022b6"
+:noFill false
+:point [2768 320]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700541312019}}
+:block/updated-at 1703595090692} 
+{:block/created-at 1713963228040
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 82
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "2ca57930-882a-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [2742.35 1584.51]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [10.7 0]
+:bindingId "2ca55220-882a-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 43.49]
+:bindingId "2ca55221-882a-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700542521917
+:italic false}}
+:block/updated-at 1713963228040} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 65
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "8edb8fc0-8827-11ee-b775-8b751a3022b6"
+:fontWeight 400
+:noFill true
+:point [2169 388.12]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 61.95]
+:bindingId "8edb68b0-8827-11ee-b775-8b751a3022b6"}
+:end 
+{:id "end"
+:canBind true
+:point [595 0]
+:bindingId "8edb68b1-8827-11ee-b775-8b751a3022b6"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700541398487
+:italic false}}
+:block/updated-at 1703595090692} 
+{:block/created-at 1718937905584
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 86
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "c1b172e2-882a-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1604 951.84]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [59 0.63]
+:bindingId "c1b172e0-882a-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "08a9e0f1-8831-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700542772309
+:italic false}}
+:block/updated-at 1718937905584} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655438ec-2716-411e-ab5b-3aec0c66569e"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "655449f9-1636-4bc1-9a26-0f63df4dc59f"} 
+{:block/created-at 1701531539739
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 23
+:scale [1 1]
+:pageId "65542a50-9873-4d90-b45e-c93fbd2e3567"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 94.0001194592389]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96b7-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [632 936]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014675492}}
+:block/updated-at 1701531539739} 
+{:block/created-at 1701531539737
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 18
+:scale [1 1]
+:pageId "65542a18-d2ac-4bc2-ab3c-5b86ca1c4207"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96b4-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2816 624]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014619141}}
+:block/updated-at 1701531539737} 
+{:block/created-at 1703297018616
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke "red"
+:collapsed true
+:borderRadius 8
+:index 56
+:scale [1 1]
+:pageId "风光无限"
+:scaleLevel "md"
+:fill "red"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96dc-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2040 1096]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 345.99993001156315
+:nonce 1700272753277}}
+:block/updated-at 1703297018616} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 98
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "5e0f1791-882c-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1307.74 1423]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "5e0ef080-882c-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [63.3 85]
+:bindingId "5e0f1790-882c-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700543463545
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 119
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "92076ef2-8861-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [783.13 691.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [44.72 0]
+:bindingId "92076ef0-8861-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 240.41]
+:bindingId "969d98e1-8861-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700566313900
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/content "#"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542adb-95ce-415b-8be2-00e8de7d4413"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{:heading 1}
+:block/uuid #uuid "65584692-31ff-4346-923c-ffe7b96e57d1"} 
+{:block/created-at 1718937905584
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 92
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "77ee47e0-882b-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1577.4 568.19]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [209.68 350.81]
+:bindingId "77ee20d0-882b-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "77ee20d1-882b-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700543077862
+:italic false}}
+:block/updated-at 1718937905584} 
+{:block/created-at 1703297018616
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 51
+:scale [1 1]
+:pageId "65580fdd-3a6e-400f-8db6-e3f89b10c7fd"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 68.18748874780658]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96d8-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1344 1696]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700270018572}}
+:block/updated-at 1703297018616} 
+{:block/content "[[如何把输液室打造成第二课堂、把教室打造成健身房？]]（有第二课堂，就有第一课堂；诸如“办公室健身”魔改到教室）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542694-8dea-4dd4-9c8a-b5f3213734ad"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6554269d-a7d0-4de1-be41-18de27c0ebf5"} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 130
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "801d9d72-8944-11ee-8632-afb146058f6c"
+:fontWeight 400
+:noFill true
+:point [1141 926.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [148.73 136.41]
+:bindingId "801d9d70-8944-11ee-8632-afb146058f6c"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "801d9d71-8944-11ee-8632-afb146058f6c"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700663779572
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/content "[[动物肺炎能帮助最终解决流浪猫狗问题吗？]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65571c8c-d773-430c-9cd8-024a32261f33"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "65572ad9-8f29-4569-8a32-c23cb813ad6b"} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:collapsed false
+:borderRadius 8
+:index 133
+:scale [1 1]
+:pageId "656718c1-bc4f-430a-8059-509a65dc9704"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59378416686681]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d9ab6320-8ea5-11ee-a348-3398e4d43743"
+:noFill false
+:point [1520 760]
+:parentId "6566aa73-b31c-4fcd-b10e-26de1079f1d8"
+:collapsedHeight 0
+:nonce 1701255347240}}
+:block/updated-at 1703595090692} 
+{:block/created-at 1703595090688
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 57
+:scale [1 1]
+:pageId "6558ce9e-056a-4b17-a863-d01f82e387dd"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59373886660986]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96de-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2376 624]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700318877088}}
+:block/updated-at 1703595090688} 
+{:block/content "[[果冻]]（卡拉胶文章副产物、“食品的亲近感”）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6554b6ab-7c27-496b-ae9c-e7f06e7d54c5"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6554bdb3-0464-4924-b416-7336d8daae91"} 
+{:block/created-at 1701531539739
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "yellow"
+:collapsed false
+:borderRadius 8
+:index 14
+:scale [1 1]
+:pageId "65542a38-72a9-4727-9f26-0f73018a56d6"
+:scaleLevel "md"
+:fill "yellow"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96ae-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [632 648]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014651671}}
+:block/updated-at 1701531539739} 
+{:block/created-at 1754655259777
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 89
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "2a4fd3f2-882b-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1065 312]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 26.36]
+:bindingId "15a2c901-8838-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [677 0]
+:bindingId "2a4fd3f1-882b-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700542947339
+:italic false}}
+:block/updated-at 1754655259777} 
+{:block/content "[[口罩]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655428d7-329e-4a6f-9445-81c86cadca40"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542933-ac37-496e-bc6c-bf6753c1058e"} 
+{:block/content "#"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65584692-9814-4942-a79b-f79bf5c33886"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{:heading 1}
+:block/uuid #uuid "6558468d-63af-4aa1-8a71-90c9f5cd056b"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655853a5-e90d-42c5-b7bd-a547888fc4ea"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6558ac15-8886-440b-a388-cfbfde739723"} 
+{:block/content "a"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655812e5-e064-449f-bc44-0c133ad33dc4"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "655849bb-6de1-4884-a6f0-ba4d730b5134"} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 107
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "7ac64a40-882f-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1149.98 1268]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [619.77 0]
+:bindingId "7ac62330-882f-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 224]
+:bindingId "7ac62331-882f-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700544801129
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/content "[[公司给的生活]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542ade-1b43-4c70-b816-fd0f2fc3503c"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542af1-451b-4b77-882d-d8fd20894025"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655c37f3-96b1-4897-9867-956b7cff1d02"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "655c4e37-2ebc-450f-a4bd-efab359e5e3c"} 
+{:block/created-at 1701531539738
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "yellow"
+:collapsed false
+:borderRadius 8
+:index 13
+:scale [1 1]
+:pageId "6554296a-3460-4b6d-98da-003c0dd68a85"
+:scaleLevel "md"
+:fill "yellow"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 68.1875135146717]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96b0-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2376 880]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014446684}}
+:block/updated-at 1701531539738} 
+{:block/content "[[识食务者为俊杰]]（饮食与健康）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542a25-8af6-4786-a50a-ae89639b9093"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542a2c-3fb6-4b6e-889a-23f27add3176"} 
+{:block/created-at 1718937905584
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 93
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "8874c7b2-882b-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1458.95 783]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [277.59 136]
+:bindingId "8874c7b0-882b-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "0ac2fcf1-8831-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700543105723
+:italic false}}
+:block/updated-at 1718937905584} 
+{:block/created-at 1701182997867
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "blue"
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "6554262c-099e-4c24-900e-4ad0c5eb7fd5"
+:scaleLevel "md"
+:fill "blue"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96a1-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1912 696]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700013614011}}
+:block/updated-at 1701182997867} 
+{:block/content "[[精屎急]]（“由屁想到拉屎”；孩子有怎样的性、污秽、择时观念最健康？）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542af1-451b-4b77-882d-d8fd20894025"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542afc-a572-4e81-b082-5db2d61a1aa3"} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 96
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "55a59e82-882c-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [2023.14 1633.78]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 69.22]
+:bindingId "55a59e80-882c-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [29.93 0]
+:bindingId "55a59e81-882c-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700543449466
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/content "[[腰突：上学、电脑、炒股、搬重物与近红外？]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542aa4-f671-4e29-a67a-efd8af15cd89"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "65542ab5-d2b8-42ca-9ee4-59018cd8d520"} 
+{:block/created-at 1718937905585
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 116
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "624c3d52-8832-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1953 648]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 299.55]
+:bindingId "6de412f1-8832-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [413 0]
+:bindingId "64d5ce61-8832-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700546047731
+:italic false}}
+:block/updated-at 1718937905585} 
+{:block/created-at 1713963227979
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "655428d7-329e-4a6f-9445-81c86cadca40"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 119.50620478551112]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96a6-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2568 1464]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014298321}}
+:block/updated-at 1713963227979} 
+{:block/content "[[食品添加剂]]（是食物与膳食补充剂的中介，也是很多膳食补充剂的实际名号）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542a7d-91b4-4f6d-9f42-7b28524d5891"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542a99-21e8-4d16-a39c-2f0edaa4c519"} 
+{:block/content "[荧光抗原、抗病毒药一定要先备上！](https://mp.weixin.qq.com/s/73RvPB2BfUWQFpVFZAibgA)\nid:: 655c37f3-96b1-4897-9867-956b7cff1d02"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6559c7e3-ed21-465f-b124-0219495c3e57"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{:id "655c37f3-96b1-4897-9867-956b7cff1d02"}
+:block/uuid #uuid "655c37f3-96b1-4897-9867-956b7cff1d02"} 
+{:block/content "群二维码"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655c4e37-2ebc-450f-a4bd-efab359e5e3c"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "655c551a-db15-432a-acbf-d2e30349f11a"} 
+{:block/content "[[防疫好果汁]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542972-2a4e-4dab-958d-a32bf347eca2"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "65542a10-cd14-4133-82db-5a5216064836"} 
+{:block/created-at 1701531539737
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 7
+:scale [1 1]
+:pageId "65542694-8dea-4dd4-9c8a-b5f3213734ad"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 93.78132731907262]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96a7-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1840 1536]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700013720585}}
+:block/updated-at 1701531539737} 
+{:block/created-at 1701531539736
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 19
+:scale [1 1]
+:pageId "65542a99-21e8-4d16-a39c-2f0edaa4c519"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 68.00001327857511]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96b2-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [632 696]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014748281}}
+:block/updated-at 1701531539736} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 114
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "7168e960-8831-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [2519.51 1701]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [21.75 0]
+:bindingId "7168c250-8831-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 15]
+:bindingId "7168c251-8831-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700545643402
+:italic false}}
+:block/updated-at 1703595090692} 
+{:block/content "[[营养食堂]]（饮食健康进食堂）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65558e5d-58b5-452c-9999-9fee4e5bfa54"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6555bc75-4384-4730-8b0e-4ed7f85488e3"} 
+{:block/created-at 1713963228040
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 81
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "273f2e02-882a-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [2882.24 1583.51]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "273f2e00-882a-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [8.86 4.63]
+:bindingId "273f2e01-882a-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700542512928
+:italic false}}
+:block/updated-at 1713963228040} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 106
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "747a8112-882f-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1840.51 1268]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "747a8110-882f-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [99.87 264]
+:bindingId "747a8111-882f-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700544789903
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/created-at 1718937905584
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 95
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "eaf9ba30-882b-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1036 796.83]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [627 127.66]
+:bindingId "eaf99320-882b-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "eaf99321-882b-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700543271214
+:italic false}}
+:block/updated-at 1718937905584} 
+{:block/created-at 1701531539737
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:collapsed false
+:borderRadius 8
+:index 25
+:scale [1 1]
+:pageId "65542a7d-91b4-4f6d-9f42-7b28524d5891"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 67.9999599245892]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96b8-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [632 1032]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014720626}}
+:block/updated-at 1701531539737} 
+{:block/content "[[酸奶]]、[[开菲尔]]、[[纳豆]]（发酵食品，前两者代替“死酸奶”，纳豆补维生素K2、每周一份豆类健康益处优于水果和蔬菜）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542a43-2e04-4389-9fa4-a87280a214b4"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542a50-9873-4d90-b45e-c93fbd2e3567"} 
+{:block/created-at 1703297018615
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 41
+:scale [1 1]
+:pageId "65542a3e-5b39-4cd4-a397-1c2c98a9ca0f"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96cc-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [632 1104]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014658276}}
+:block/updated-at 1703297018615} 
+{:block/created-at 1701531539737
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 30
+:scale [1 1]
+:pageId "65542ab5-d2b8-42ca-9ee4-59018cd8d520"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.59375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96bd-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2376 576]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014776565}}
+:block/updated-at 1701531539737} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 61
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "50244382-8827-11ee-b775-8b751a3022b6"
+:fontWeight 400
+:noFill true
+:point [2751.06 670.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 88.41]
+:bindingId "50244380-8827-11ee-b775-8b751a3022b6"}
+:end 
+{:id "end"
+:canBind true
+:point [188.06 0]
+:bindingId "50244381-8827-11ee-b775-8b751a3022b6"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700541292663
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/created-at 1718937905584
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 138
+:scale [1 1]
+:pageId "657a47ac-9db9-44ac-89af-80b586e425b0"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.42196571692567]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "043f92d0-9a15-11ee-980b-e1b25c8421c1"
+:noFill false
+:point [1856 632]
+:parentId "65766a1f-989e-4b76-9040-b558438d5943"
+:collapsedHeight 0
+:nonce 1702512555344}}
+:block/updated-at 1718937905584} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 113
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "57e11d52-8831-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [2135.96 1499.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [109.02 0]
+:bindingId "57e11d50-8831-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 32.41]
+:bindingId "57e11d51-8831-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700545600518
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/created-at 1701531539738
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 29
+:scale [1 1]
+:pageId "65542b1f-d26a-4323-b9ea-1874ff3fc7cb"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 68.00003614456908]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96c3-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2280 1720]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014882713}}
+:block/updated-at 1701531539738} 
+{:block/content "((64170659-6a4b-4084-90a0-1404ac99788e))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6557044d-cb67-4bef-b1be-dd1f6d0d3fb7"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "65570892-3f8f-45a1-a047-ad9a08c9c957"} 
+{:block/created-at 1718881781002
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 21
+:scale [1 1]
+:pageId "65542ad7-99a8-463c-9de6-f7ad05830df1"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.42187130953522]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96b6-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2376 456]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700014809664}}
+:block/updated-at 1718881781002} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 88
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "fe5f5a90-882a-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1103.28 1136.19]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 358.81]
+:bindingId "fe5f3380-882a-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [284.42 0]
+:bindingId "fe5f3381-882a-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700542874118
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/created-at 1701531539737
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "green"
+:collapsed false
+:borderRadius 8
+:index 8
+:scale [1 1]
+:pageId "6554269d-a7d0-4de1-be41-18de27c0ebf5"
+:scaleLevel "md"
+:fill "green"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 94.00004323925903]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96a8-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1072 1328]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700013731140}}
+:block/updated-at 1701531539737} 
+{:block/created-at 1718937905585
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "blue"
+:index 110
+:scale [1 1]
+:scaleLevel "md"
+:fill "blue"
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "9599dac0-8830-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1839.27 989.02]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "9599b3b0-8830-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [520.74 582.98]
+:bindingId "9599b3b1-8830-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700545274664
+:italic false}}
+:block/updated-at 1718937905585} 
+{:block/content "[[八风吹不动、吹万不同的符号界天籁、班风不正]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542689-a02f-4ae0-a0d8-9411a493a1d7"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6554268e-e6f9-486d-b28e-3dcb818e9cf2"} 
+{:block/created-at 1718937905584
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 80
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a58f25d2-882a-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1814.2 522]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 397]
+:bindingId "a58f25d0-882a-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [70.34 0]
+:bindingId "a58f25d1-882a-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700542724958
+:italic false}}
+:block/updated-at 1718937905584} 
+{:block/content "((64631efd-b2a2-41aa-a49c-dcdb8eff179b))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6554c40f-7a16-4d4e-b13b-eab82b4f9450"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "6554c48f-e982-44d9-a330-8afd438fe03c"} 
+{:block/created-at 1718881781030
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 58
+:scale [1 1]
+:pageId "6559837f-883b-4cd7-9aa3-2ad63fab90f0"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 42.42192184082309]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96e0-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2128 1224]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700365174909}}
+:block/updated-at 1718881781030} 
+{:block/content "a"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655849bb-6de1-4884-a6f0-ba4d730b5134"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "655849d0-5429-43bb-9be1-ba306c4fcf60"} 
+{:block/content "[[多手商品，一手人生]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655c551a-db15-432a-acbf-d2e30349f11a"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/uuid #uuid "655c9793-cd94-4bf7-8cbf-7b1aecc2faec"} 
+{:block/created-at 1718937905584
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 85
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "bd1b21e0-882a-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1387.44 729.62]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [354.94 189.38]
+:bindingId "bd1afad0-882a-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "bd1afad1-882a-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700542764591
+:italic false}}
+:block/updated-at 1718937905584} 
+{:block/content "[[你喜欢脆皮吗？]]（防日常受伤、健身入门）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65558bed-b70c-4454-b9d1-c49ff1198fc0"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65558e5d-58b5-452c-9999-9fee4e5bfa54"} 
+{:block/content "[[加湿器与“湿气重”]]（“赠品”；从未圣的太一生水解读说开“湿燥”）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "655849e0-cf06-4aba-b762-397f670860f8"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "655853a5-e90d-42c5-b7bd-a547888fc4ea"} 
+{:block/created-at 1703595090691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 108
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "6c175422-8830-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1488.44 1136.19]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [272.85 86.81]
+:bindingId "6c175420-8830-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "6c175421-8830-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700545205088
+:italic false}}
+:block/updated-at 1703595090691} 
+{:block/created-at 1703297018617
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "yellow"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 46
+:scale [1 -1]
+:pageId "6555ca0e-9765-441b-9995-055b6bd9c084"
+:scaleLevel "md"
+:fill "yellow"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 43.00009285283325]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96d0-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [1632 1224]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700121080665}}
+:block/updated-at 1703297018617} 
+{:block/content "[[疾病的名、象、实]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6554269d-a7d0-4de1-be41-18de27c0ebf5"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "655426b3-95a9-4b21-87de-cbd8c218ac1f"} 
+{:block/created-at 1703595105223
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 131
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "5b35f452-8947-11ee-8632-afb146058f6c"
+:fontWeight 400
+:noFill true
+:point [1255.03 568.19]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 310.81]
+:bindingId "5b35f450-8947-11ee-8632-afb146058f6c"}
+:end 
+{:id "end"
+:canBind true
+:point [209.55 0]
+:bindingId "5b35f451-8947-11ee-8632-afb146058f6c"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700665006124
+:italic false}}
+:block/updated-at 1703595105223} 
+{:block/content "[[哈佛与粥]]（家族群里瞅到的短视频）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542a30-f449-4b7c-a7cf-56fc6ccaa275"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542a38-72a9-4727-9f26-0f73018a56d6"} 
+{:block/content "[[从现值观到不死家族]]（金融基础知识普及，量化分析家庭财务）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65542a18-d2ac-4bc2-ab3c-5b86ca1c4207"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542a25-8af6-4786-a50a-ae89639b9093"} 
+{:block/content "[[阳光]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65672c65-efd5-4d03-a755-747697e7b462"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6575347b-1543-4609-b2b6-123f2c1da1f2"} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 104
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "67ff9e72-882f-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1476 1268]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [274.49 0]
+:bindingId "67ff9e70-882f-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 75.77]
+:bindingId "67ff9e71-882f-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700544769006
+:italic false}}
+:block/updated-at 1703595090692} 
+{:block/created-at 1703595093377
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 125
+:scale [1 1]
+:pageId "655ca018-da53-40ec-ac82-109dcebae070"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 43.000008711821735]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "15a2c830-8868-11ee-b12d-9b4a0c9ed13b"
+:noFill false
+:point [1160 400]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700569112454}}
+:block/updated-at 1703595093377} 
+{:block/created-at 1703297018613
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "yellow"
+:collapsed false
+:borderRadius 8
+:index 48
+:scale [1 1]
+:pageId "6555d00a-8fd1-43b1-9c08-ef591719eb49"
+:scaleLevel "md"
+:fill "yellow"
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 67.99994468059323]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96d1-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2576 1240]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700122634495}}
+:block/updated-at 1703297018613} 
+{:block/created-at 1703297018617
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 52
+:scale [1 1]
+:pageId "65571c8c-d773-430c-9cd8-024a32261f33"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 67.99994468059323]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96d7-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2320 1368]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700207737520}}
+:block/updated-at 1703297018617} 
+{:block/created-at 1703297018616
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 47
+:scale [1 1]
+:pageId "6556e2f6-a7c6-4d37-8d4e-689ea71b9c3e"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 68.00003614456908]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5ec96d3-8826-11ee-b775-8b751a3022b6"
+:noFill false
+:isLocked false
+:point [2792 760]
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:collapsedHeight 0
+:nonce 1700192996970}}
+:block/updated-at 1703297018616} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6554c48f-e982-44d9-a330-8afd438fe03c"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "6555827c-31c0-44ce-bc66-e258a43f4c9b"} 
+{:block/content "[[在教室外跑死的孩子VS造伯乐反的千里马]]（“在家就要学会反抗，不然死在学校”；“戴口罩反抗喽！”）"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6554268e-e6f9-486d-b28e-3dcb818e9cf2"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "65542694-8dea-4dd4-9c8a-b5f3213734ad"} 
+{:block/created-at 1703595090692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 111
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "2e94c1e2-8831-11ee-87af-db991427683b"
+:fontWeight 400
+:noFill true
+:point [1807.22 1268]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [21.43 0]
+:bindingId "2e94c1e0-8831-11ee-87af-db991427683b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 144]
+:bindingId "2e94c1e1-8831-11ee-87af-db991427683b"}}
+:decorations 
+{:end "arrow"}
+:parentId "65541f49-acea-44d9-83b3-ce89c0168482"
+:nonce 1700545531383
+:italic false}}
+:block/updated-at 1703595090692} 
+{:block/content "[[防疫者观察：疫情曲线、门诊曲线与股价曲线]]"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65580fdd-3a6e-400f-8db6-e3f89b10c7fd"}
+:block/parent 
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"}
+:block/properties 
+{}
+:block/uuid #uuid "655810e9-b705-44f2-b87d-317027a0c469"})
+:pages (
+{:block/uuid #uuid "6895e428-5e55-450c-b6e9-1538e77deb9b"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6895e428-5e55-450c-b6e9-1538e77deb9b"
+:name "选题池"
+:bindings 
+{:9599b3b1-8830-11ee-87af-db991427683b 
+{:id "9599b3b1-8830-11ee-87af-db991427683b"
+:type "line"
+:fromId "9599dac0-8830-11ee-87af-db991427683b"
+:toId "ffca9fd0-8829-11ee-87af-db991427683b"
+:handleId "end"
+:point [0.36 0.86]
+:distance 4}
+:b262d6d0-882a-11ee-87af-db991427683b 
+{:id "b262d6d0-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "b262d6d2-882a-11ee-87af-db991427683b"
+:toId "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:55a59e81-882c-11ee-87af-db991427683b 
+{:id "55a59e81-882c-11ee-87af-db991427683b"
+:type "line"
+:fromId "55a59e82-882c-11ee-87af-db991427683b"
+:toId "b5ec96a7-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.6 0.37]
+:distance 4}
+:50244381-8827-11ee-b775-8b751a3022b6 
+{:id "50244381-8827-11ee-b775-8b751a3022b6"
+:type "line"
+:fromId "50244382-8827-11ee-b775-8b751a3022b6"
+:toId "4d7a5930-8827-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.62 0.4]
+:distance 4}
+:13dfd5e1-8941-11ee-a6e4-639560e2f439 
+{:id "13dfd5e1-8941-11ee-a6e4-639560e2f439"
+:type "line"
+:fromId "13dfd5e2-8941-11ee-a6e4-639560e2f439"
+:toId "b5ec96a5-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.75 0.68]
+:distance 4}
+:3271b880-8832-11ee-87af-db991427683b 
+{:id "3271b880-8832-11ee-87af-db991427683b"
+:type "line"
+:fromId "3271b882-8832-11ee-87af-db991427683b"
+:toId "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:67ff9e70-882f-11ee-87af-db991427683b 
+{:id "67ff9e70-882f-11ee-87af-db991427683b"
+:type "line"
+:fromId "67ff9e72-882f-11ee-87af-db991427683b"
+:toId "b5ec96d0-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:767ac210-8828-11ee-b775-8b751a3022b6 
+{:id "767ac210-8828-11ee-b775-8b751a3022b6"
+:type "line"
+:fromId "767ac212-8828-11ee-b775-8b751a3022b6"
+:toId "4d7a5930-8827-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:5b35f450-8947-11ee-8632-afb146058f6c 
+{:id "5b35f450-8947-11ee-8632-afb146058f6c"
+:type "line"
+:fromId "5b35f452-8947-11ee-8632-afb146058f6c"
+:toId "44b98290-893e-11ee-a6e4-639560e2f439"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:1fe2f121-8828-11ee-b775-8b751a3022b6 
+{:id "1fe2f121-8828-11ee-b775-8b751a3022b6"
+:type "line"
+:fromId "1fe31830-8828-11ee-b775-8b751a3022b6"
+:toId "b5ec96df-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:d4d029c0-882a-11ee-87af-db991427683b 
+{:id "d4d029c0-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "d4d050d0-882a-11ee-87af-db991427683b"
+:toId "b5ec96bc-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:2bbb2e51-882c-11ee-87af-db991427683b 
+{:id "2bbb2e51-882c-11ee-87af-db991427683b"
+:type "line"
+:fromId "2bbb5560-882c-11ee-87af-db991427683b"
+:toId "b5ec96d7-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.45 0.34]
+:distance 4}
+:6de412f1-8832-11ee-87af-db991427683b 
+{:id "6de412f1-8832-11ee-87af-db991427683b"
+:type "line"
+:fromId "624c3d52-8832-11ee-87af-db991427683b"
+:toId "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.85 0.81]
+:distance 4}
+:b091b6f1-8843-11ee-87af-db991427683b 
+{:id "b091b6f1-8843-11ee-87af-db991427683b"
+:type "line"
+:fromId "28c0f9c0-882f-11ee-87af-db991427683b"
+:toId "b5ec96d5-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.36 0.72]
+:distance 4}
+:6fbfb820-882f-11ee-87af-db991427683b 
+{:id "6fbfb820-882f-11ee-87af-db991427683b"
+:type "line"
+:fromId "6fbfb822-882f-11ee-87af-db991427683b"
+:toId "b5ec96d0-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:28c0d2b0-882f-11ee-87af-db991427683b 
+{:id "28c0d2b0-882f-11ee-87af-db991427683b"
+:type "line"
+:fromId "28c0f9c0-882f-11ee-87af-db991427683b"
+:toId "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:06992d91-882a-11ee-87af-db991427683b 
+{:id "06992d91-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "069954a0-882a-11ee-87af-db991427683b"
+:toId "b5ec96a6-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.56 0.66]
+:distance 4}
+:9183cc60-8827-11ee-b775-8b751a3022b6 
+{:id "9183cc60-8827-11ee-b775-8b751a3022b6"
+:type "line"
+:fromId "9183f370-8827-11ee-b775-8b751a3022b6"
+:toId "b5ec96b9-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:09849a60-9a15-11ee-980b-e1b25c8421c1 
+{:id "09849a60-9a15-11ee-980b-e1b25c8421c1"
+:type "line"
+:fromId "09849a62-9a15-11ee-980b-e1b25c8421c1"
+:toId "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:af472a11-8c6b-11ee-aa18-2574d544abcc 
+{:id "af472a11-8c6b-11ee-aa18-2574d544abcc"
+:type "line"
+:fromId "927b2e40-8833-11ee-87af-db991427683b"
+:toId "b5ec96b0-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.27 0.29]
+:distance 4}
+:6589e050-882b-11ee-87af-db991427683b 
+{:id "6589e050-882b-11ee-87af-db991427683b"
+:type "line"
+:fromId "658a0760-882b-11ee-87af-db991427683b"
+:toId "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:875a05b0-8827-11ee-b775-8b751a3022b6 
+{:id "875a05b0-8827-11ee-b775-8b751a3022b6"
+:type "line"
+:fromId "875a2cc0-8827-11ee-b775-8b751a3022b6"
+:toId "72cd8e00-8827-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:38e41621-882a-11ee-87af-db991427683b 
+{:id "38e41621-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "38e41622-882a-11ee-87af-db991427683b"
+:toId "b5ec96c6-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.34 0.84]
+:distance 4}
+:9599b3b0-8830-11ee-87af-db991427683b 
+{:id "9599b3b0-8830-11ee-87af-db991427683b"
+:type "line"
+:fromId "9599dac0-8830-11ee-87af-db991427683b"
+:toId "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:eacc8c81-8827-11ee-b775-8b751a3022b6 
+{:id "eacc8c81-8827-11ee-b775-8b751a3022b6"
+:type "line"
+:fromId "eacc8c82-8827-11ee-b775-8b751a3022b6"
+:toId "b5ec96a5-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.32 0.29]
+:distance 4}
+:1fdfc590-8864-11ee-87af-db991427683b 
+{:id "1fdfc590-8864-11ee-87af-db991427683b"
+:type "line"
+:fromId "1fdfeca0-8864-11ee-87af-db991427683b"
+:toId "b5ec96bd-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:2e94c1e1-8831-11ee-87af-db991427683b 
+{:id "2e94c1e1-8831-11ee-87af-db991427683b"
+:type "line"
+:fromId "2e94c1e2-8831-11ee-87af-db991427683b"
+:toId "b5ec96aa-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.96 0.47]
+:distance 4}
+:de5604c1-8829-11ee-87af-db991427683b 
+{:id "de5604c1-8829-11ee-87af-db991427683b"
+:type "line"
+:fromId "d9e7fc40-8829-11ee-87af-db991427683b"
+:toId "b5ec96be-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.62 0.48]
+:distance 4}
+:57e11d51-8831-11ee-87af-db991427683b 
+{:id "57e11d51-8831-11ee-87af-db991427683b"
+:type "line"
+:fromId "57e11d52-8831-11ee-87af-db991427683b"
+:toId "b5ec96a7-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.24 0.59]
+:distance 4}
+:747a8111-882f-11ee-87af-db991427683b 
+{:id "747a8111-882f-11ee-87af-db991427683b"
+:type "line"
+:fromId "747a8112-882f-11ee-87af-db991427683b"
+:toId "b5ec96a7-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.32 0.68]
+:distance 4}
+:aa301dd1-882d-11ee-87af-db991427683b 
+{:id "aa301dd1-882d-11ee-87af-db991427683b"
+:type "line"
+:fromId "aa3044e0-882d-11ee-87af-db991427683b"
+:toId "b5ec96d8-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.56 0.24]
+:distance 4}
+:e517ae00-8999-11ee-b751-eb1832ad7580 
+{:id "e517ae00-8999-11ee-b751-eb1832ad7580"
+:type "line"
+:fromId "e517ae02-8999-11ee-b751-eb1832ad7580"
+:toId "b5ec96d2-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:8edb68b0-8827-11ee-b775-8b751a3022b6 
+{:id "8edb68b0-8827-11ee-b775-8b751a3022b6"
+:type "line"
+:fromId "8edb8fc0-8827-11ee-b775-8b751a3022b6"
+:toId "b5ec96b9-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:ad532530-882c-11ee-87af-db991427683b 
+{:id "ad532530-882c-11ee-87af-db991427683b"
+:type "line"
+:fromId "ad532532-882c-11ee-87af-db991427683b"
+:toId "b5ec96db-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:801d9d70-8944-11ee-8632-afb146058f6c 
+{:id "801d9d70-8944-11ee-8632-afb146058f6c"
+:type "line"
+:fromId "801d9d72-8944-11ee-8632-afb146058f6c"
+:toId "b5ec96bc-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:9d31b5b0-8861-11ee-87af-db991427683b 
+{:id "9d31b5b0-8861-11ee-87af-db991427683b"
+:type "line"
+:fromId "9d31b5b2-8861-11ee-87af-db991427683b"
+:toId "b5ec96ae-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:78067180-8830-11ee-87af-db991427683b 
+{:id "78067180-8830-11ee-87af-db991427683b"
+:type "line"
+:fromId "78067182-8830-11ee-87af-db991427683b"
+:toId "b5ec96ab-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:7168c251-8831-11ee-87af-db991427683b 
+{:id "7168c251-8831-11ee-87af-db991427683b"
+:type "line"
+:fromId "7168e960-8831-11ee-87af-db991427683b"
+:toId "b5ec96c3-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.37 0.84]
+:distance 4}
+:77ee20d1-882b-11ee-87af-db991427683b 
+{:id "77ee20d1-882b-11ee-87af-db991427683b"
+:type "line"
+:fromId "77ee47e0-882b-11ee-87af-db991427683b"
+:toId "b5ec96db-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.48 0.79]
+:distance 4}
+:3c16df81-882a-11ee-87af-db991427683b 
+{:id "3c16df81-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "3c16df82-882a-11ee-87af-db991427683b"
+:toId "b5ec96c5-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.38 0.86]
+:distance 4}
+:2e94c1e0-8831-11ee-87af-db991427683b 
+{:id "2e94c1e0-8831-11ee-87af-db991427683b"
+:type "line"
+:fromId "2e94c1e2-8831-11ee-87af-db991427683b"
+:toId "b5ec96d0-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:5e0ef080-882c-11ee-87af-db991427683b 
+{:id "5e0ef080-882c-11ee-87af-db991427683b"
+:type "line"
+:fromId "5e0f1791-882c-11ee-87af-db991427683b"
+:toId "b5ec96a8-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:273f2e01-882a-11ee-87af-db991427683b 
+{:id "273f2e01-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "273f2e02-882a-11ee-87af-db991427683b"
+:toId "b5ec96c7-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.48 0.6]
+:distance 4}
+:8874c7b1-882b-11ee-87af-db991427683b 
+{:id "8874c7b1-882b-11ee-87af-db991427683b"
+:type "line"
+:fromId "8874c7b2-882b-11ee-87af-db991427683b"
+:toId "b5ec96d2-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.26 0.75]
+:distance 4}
+:d4d029c1-882a-11ee-87af-db991427683b 
+{:id "d4d029c1-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "d4d050d0-882a-11ee-87af-db991427683b"
+:toId "b5ec96b5-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.09 0.78]
+:distance 4}
+:09bdd811-8828-11ee-b775-8b751a3022b6 
+{:id "09bdd811-8828-11ee-b775-8b751a3022b6"
+:type "line"
+:fromId "09bdff20-8828-11ee-b775-8b751a3022b6"
+:toId "b5ec96dd-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.64 0.74]
+:distance 4}
+:ed2b6411-8827-11ee-b775-8b751a3022b6 
+{:id "ed2b6411-8827-11ee-b775-8b751a3022b6"
+:type "line"
+:fromId "ed2b6412-8827-11ee-b775-8b751a3022b6"
+:toId "b5ec96a5-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.79 0.39]
+:distance 4}
+:09849a61-9a15-11ee-980b-e1b25c8421c1 
+{:id "09849a61-9a15-11ee-980b-e1b25c8421c1"
+:type "line"
+:fromId "09849a62-9a15-11ee-980b-e1b25c8421c1"
+:toId "043f92d0-9a15-11ee-980b-e1b25c8421c1"
+:handleId "end"
+:point [0.43 0.27]
+:distance 4}
+:2ca55220-882a-11ee-87af-db991427683b 
+{:id "2ca55220-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "2ca57930-882a-11ee-87af-db991427683b"
+:toId "b5ec96a6-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:b262d6d1-882a-11ee-87af-db991427683b 
+{:id "b262d6d1-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "b262d6d2-882a-11ee-87af-db991427683b"
+:toId "b5ec96ad-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:08a9e0f1-8831-11ee-87af-db991427683b 
+{:id "08a9e0f1-8831-11ee-87af-db991427683b"
+:type "line"
+:fromId "c1b172e2-882a-11ee-87af-db991427683b"
+:toId "b5ec96cf-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.63 0.24]
+:distance 4}
+:bd1afad1-882a-11ee-87af-db991427683b 
+{:id "bd1afad1-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "bd1b21e0-882a-11ee-87af-db991427683b"
+:toId "b5ec96ab-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.74 0.74]
+:distance 4}
+:6e627971-882c-11ee-87af-db991427683b 
+{:id "6e627971-882c-11ee-87af-db991427683b"
+:type "line"
+:fromId "6e627972-882c-11ee-87af-db991427683b"
+:toId "b5ec96e0-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.73 0.27]
+:distance 4}
+:0ac2fcf1-8831-11ee-87af-db991427683b 
+{:id "0ac2fcf1-8831-11ee-87af-db991427683b"
+:type "line"
+:fromId "8874c7b2-882b-11ee-87af-db991427683b"
+:toId "b5ec96d2-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.76 0.3]
+:distance 4}
+:eaf99320-882b-11ee-87af-db991427683b 
+{:id "eaf99320-882b-11ee-87af-db991427683b"
+:type "line"
+:fromId "eaf9ba30-882b-11ee-87af-db991427683b"
+:toId "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:747a8110-882f-11ee-87af-db991427683b 
+{:id "747a8110-882f-11ee-87af-db991427683b"
+:type "line"
+:fromId "747a8112-882f-11ee-87af-db991427683b"
+:toId "b5ec96d0-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:55a59e80-882c-11ee-87af-db991427683b 
+{:id "55a59e80-882c-11ee-87af-db991427683b"
+:type "line"
+:fromId "55a59e82-882c-11ee-87af-db991427683b"
+:toId "b5ec96c6-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:2a4fd3f0-882b-11ee-87af-db991427683b 
+{:id "2a4fd3f0-882b-11ee-87af-db991427683b"
+:type "line"
+:fromId "2a4fd3f2-882b-11ee-87af-db991427683b"
+:toId "554e7aa0-8828-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:12a380c1-9a15-11ee-980b-e1b25c8421c1 
+{:id "12a380c1-9a15-11ee-980b-e1b25c8421c1"
+:type "line"
+:fromId "12a3a7d0-9a15-11ee-980b-e1b25c8421c1"
+:toId "043f92d0-9a15-11ee-980b-e1b25c8421c1"
+:handleId "end"
+:point [0.82 0.61]
+:distance 4}
+:d4629051-8829-11ee-87af-db991427683b 
+{:id "d4629051-8829-11ee-87af-db991427683b"
+:type "line"
+:fromId "d4629052-8829-11ee-87af-db991427683b"
+:toId "b5ec96ad-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.72 0.68]
+:distance 4}
+:969d98e1-8861-11ee-87af-db991427683b 
+{:id "969d98e1-8861-11ee-87af-db991427683b"
+:type "line"
+:fromId "92076ef2-8861-11ee-87af-db991427683b"
+:toId "b5ec96b7-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.35 0.65]
+:distance 4}
+:7cb87090-8f72-11ee-aec3-b1b310c6b224 
+{:id "7cb87090-8f72-11ee-aec3-b1b310c6b224"
+:type "line"
+:fromId "7cb897a0-8f72-11ee-aec3-b1b310c6b224"
+:toId "b5ec96d0-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:cd769c41-8839-11ee-87af-db991427683b 
+{:id "cd769c41-8839-11ee-87af-db991427683b"
+:type "line"
+:fromId "cd76c350-8839-11ee-87af-db991427683b"
+:toId "b5ec96b3-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.49 0.79]
+:distance 4}
+:3c16df80-882a-11ee-87af-db991427683b 
+{:id "3c16df80-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "3c16df82-882a-11ee-87af-db991427683b"
+:toId "b5ec96a6-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:a9872741-8867-11ee-87af-db991427683b 
+{:id "a9872741-8867-11ee-87af-db991427683b"
+:type "line"
+:fromId "a9872742-8867-11ee-87af-db991427683b"
+:toId "b5ec96a5-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.53 0.29]
+:distance 4}
+:927b0731-8833-11ee-87af-db991427683b 
+{:id "927b0731-8833-11ee-87af-db991427683b"
+:type "line"
+:fromId "927b2e40-8833-11ee-87af-db991427683b"
+:toId "b5ec96bc-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.65 0.79]
+:distance 4}
+:3bc47590-8831-11ee-87af-db991427683b 
+{:id "3bc47590-8831-11ee-87af-db991427683b"
+:type "line"
+:fromId "3bc49ca0-8831-11ee-87af-db991427683b"
+:toId "b5ec96d0-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:01e35891-8828-11ee-b775-8b751a3022b6 
+{:id "01e35891-8828-11ee-b775-8b751a3022b6"
+:type "line"
+:fromId "01e37fa0-8828-11ee-b775-8b751a3022b6"
+:toId "b5ec96a2-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.42 0.68]
+:distance 4}
+:9fe78481-882d-11ee-87af-db991427683b 
+{:id "9fe78481-882d-11ee-87af-db991427683b"
+:type "line"
+:fromId "658a0760-882b-11ee-87af-db991427683b"
+:toId "b5ec96d0-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.23 0.78]
+:distance 4}
+:8874c7b0-882b-11ee-87af-db991427683b 
+{:id "8874c7b0-882b-11ee-87af-db991427683b"
+:type "line"
+:fromId "8874c7b2-882b-11ee-87af-db991427683b"
+:toId "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:aa301dd0-882d-11ee-87af-db991427683b 
+{:id "aa301dd0-882d-11ee-87af-db991427683b"
+:type "line"
+:fromId "aa3044e0-882d-11ee-87af-db991427683b"
+:toId "b5ec96aa-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:bd1afad0-882a-11ee-87af-db991427683b 
+{:id "bd1afad0-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "bd1b21e0-882a-11ee-87af-db991427683b"
+:toId "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:2ca55221-882a-11ee-87af-db991427683b 
+{:id "2ca55221-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "2ca57930-882a-11ee-87af-db991427683b"
+:toId "b5ec96c4-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.83 0.84]
+:distance 4}
+:589b8971-893e-11ee-a6e4-639560e2f439 
+{:id "589b8971-893e-11ee-a6e4-639560e2f439"
+:type "line"
+:fromId "589b8972-893e-11ee-a6e4-639560e2f439"
+:toId "44b98290-893e-11ee-a6e4-639560e2f439"
+:handleId "end"
+:point [0.65 0.36]
+:distance 4}
+:801d9d71-8944-11ee-8632-afb146058f6c 
+{:id "801d9d71-8944-11ee-8632-afb146058f6c"
+:type "line"
+:fromId "801d9d72-8944-11ee-8632-afb146058f6c"
+:toId "44b98290-893e-11ee-a6e4-639560e2f439"
+:handleId "end"
+:point [0.16 0.28]
+:distance 4}
+:06992d90-882a-11ee-87af-db991427683b 
+{:id "06992d90-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "069954a0-882a-11ee-87af-db991427683b"
+:toId "ffca9fd0-8829-11ee-87af-db991427683b"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:0d87ccd1-8832-11ee-87af-db991427683b 
+{:id "0d87ccd1-8832-11ee-87af-db991427683b"
+:type "line"
+:fromId "35544332-882b-11ee-87af-db991427683b"
+:toId "b5ec96d3-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.19 0.34]
+:distance 4}
+:c1b172e0-882a-11ee-87af-db991427683b 
+{:id "c1b172e0-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "c1b172e2-882a-11ee-87af-db991427683b"
+:toId "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:a58f25d1-882a-11ee-87af-db991427683b 
+{:id "a58f25d1-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "a58f25d2-882a-11ee-87af-db991427683b"
+:toId "b5ec96b9-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.33 0.22]
+:distance 4}
+:0bbb7b00-8863-11ee-87af-db991427683b 
+{:id "0bbb7b00-8863-11ee-87af-db991427683b"
+:type "line"
+:fromId "0bbba210-8863-11ee-87af-db991427683b"
+:toId "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:2bbb2e50-882c-11ee-87af-db991427683b 
+{:id "2bbb2e50-882c-11ee-87af-db991427683b"
+:type "line"
+:fromId "2bbb5560-882c-11ee-87af-db991427683b"
+:toId "b5ec96a6-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:0bbb7b01-8863-11ee-87af-db991427683b 
+{:id "0bbb7b01-8863-11ee-87af-db991427683b"
+:type "line"
+:fromId "0bbba210-8863-11ee-87af-db991427683b"
+:toId "fbb3ef30-8862-11ee-87af-db991427683b"
+:handleId "end"
+:point [0.6 0.62]
+:distance 4}
+:e87eaf81-9128-11ee-bb37-7f732635fc54 
+{:id "e87eaf81-9128-11ee-bb37-7f732635fc54"
+:type "line"
+:fromId "24cd2a50-882f-11ee-87af-db991427683b"
+:toId "b5ec96a3-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.2 0.33]
+:distance 4}
+:fe5f3381-882a-11ee-87af-db991427683b 
+{:id "fe5f3381-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "fe5f5a90-882a-11ee-87af-db991427683b"
+:toId "b5ec96bc-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.67 0.84]
+:distance 4}
+:589b8970-893e-11ee-a6e4-639560e2f439 
+{:id "589b8970-893e-11ee-a6e4-639560e2f439"
+:type "line"
+:fromId "589b8972-893e-11ee-a6e4-639560e2f439"
+:toId "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:35544331-882b-11ee-87af-db991427683b 
+{:id "35544331-882b-11ee-87af-db991427683b"
+:type "line"
+:fromId "35544332-882b-11ee-87af-db991427683b"
+:toId "b5ec96d3-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.68 0.89]
+:distance 4}
+:a58f25d0-882a-11ee-87af-db991427683b 
+{:id "a58f25d0-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "a58f25d2-882a-11ee-87af-db991427683b"
+:toId "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:273f2e00-882a-11ee-87af-db991427683b 
+{:id "273f2e00-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "273f2e02-882a-11ee-87af-db991427683b"
+:toId "b5ec96a6-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:5b35f451-8947-11ee-8632-afb146058f6c 
+{:id "5b35f451-8947-11ee-8632-afb146058f6c"
+:type "line"
+:fromId "5b35f452-8947-11ee-8632-afb146058f6c"
+:toId "b5ec96db-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.31 0.34]
+:distance 4}
+:77ee20d0-882b-11ee-87af-db991427683b 
+{:id "77ee20d0-882b-11ee-87af-db991427683b"
+:type "line"
+:fromId "77ee47e0-882b-11ee-87af-db991427683b"
+:toId "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:3bc47591-8831-11ee-87af-db991427683b 
+{:id "3bc47591-8831-11ee-87af-db991427683b"
+:type "line"
+:fromId "3bc49ca0-8831-11ee-87af-db991427683b"
+:toId "b5ec96e0-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.3 0.77]
+:distance 4}
+:78067181-8830-11ee-87af-db991427683b 
+{:id "78067181-8830-11ee-87af-db991427683b"
+:type "line"
+:fromId "78067182-8830-11ee-87af-db991427683b"
+:toId "b5ec96d2-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.43 0.64]
+:distance 4}
+:9183cc61-8827-11ee-b775-8b751a3022b6 
+{:id "9183cc61-8827-11ee-b775-8b751a3022b6"
+:type "line"
+:fromId "9183f370-8827-11ee-b775-8b751a3022b6"
+:toId "b5ec96be-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.46 0.29]
+:distance 4}
+:1fdfc591-8864-11ee-87af-db991427683b 
+{:id "1fdfc591-8864-11ee-87af-db991427683b"
+:type "line"
+:fromId "1fdfeca0-8864-11ee-87af-db991427683b"
+:toId "b5ec96ce-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.2 0.85]
+:distance 4}
+:92076ef1-8861-11ee-87af-db991427683b 
+{:id "92076ef1-8861-11ee-87af-db991427683b"
+:type "line"
+:fromId "92076ef2-8861-11ee-87af-db991427683b"
+:toId "b5ec96b7-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.9 0.75]
+:distance 4}
+:e517ae01-8999-11ee-b751-eb1832ad7580 
+{:id "e517ae01-8999-11ee-b751-eb1832ad7580"
+:type "line"
+:fromId "e517ae02-8999-11ee-b751-eb1832ad7580"
+:toId "b5ec96db-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.44 0.45]
+:distance 4}
+:7cb87091-8f72-11ee-aec3-b1b310c6b224 
+{:id "7cb87091-8f72-11ee-aec3-b1b310c6b224"
+:type "line"
+:fromId "7cb897a0-8f72-11ee-aec3-b1b310c6b224"
+:toId "b5ec96d1-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.63 0.79]
+:distance 4}
+:67ff9e71-882f-11ee-87af-db991427683b 
+{:id "67ff9e71-882f-11ee-87af-db991427683b"
+:type "line"
+:fromId "67ff9e72-882f-11ee-87af-db991427683b"
+:toId "b5ec96a8-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.46 0.79]
+:distance 4}
+:deb01cf1-9240-11ee-b7f4-cdc7395ebe73 
+{:id "deb01cf1-9240-11ee-b7f4-cdc7395ebe73"
+:type "line"
+:fromId "6fbfb822-882f-11ee-87af-db991427683b"
+:toId "b5ec96d5-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.22 0.13]
+:distance 4}
+:767ac211-8828-11ee-b775-8b751a3022b6 
+{:id "767ac211-8828-11ee-b775-8b751a3022b6"
+:type "line"
+:fromId "767ac212-8828-11ee-b775-8b751a3022b6"
+:toId "b5ec96de-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.36 0.28]
+:distance 4}
+:5e0f1790-882c-11ee-87af-db991427683b 
+{:id "5e0f1790-882c-11ee-87af-db991427683b"
+:type "line"
+:fromId "5e0f1791-882c-11ee-87af-db991427683b"
+:toId "b5ec96b3-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.19 0.68]
+:distance 4}
+:9d31b5b1-8861-11ee-87af-db991427683b 
+{:id "9d31b5b1-8861-11ee-87af-db991427683b"
+:type "line"
+:fromId "9d31b5b2-8861-11ee-87af-db991427683b"
+:toId "b5ec96cc-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.19 0.78]
+:distance 4}
+:7168c250-8831-11ee-87af-db991427683b 
+{:id "7168c250-8831-11ee-87af-db991427683b"
+:type "line"
+:fromId "7168e960-8831-11ee-87af-db991427683b"
+:toId "b5ec96c4-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:875a05b1-8827-11ee-b775-8b751a3022b6 
+{:id "875a05b1-8827-11ee-b775-8b751a3022b6"
+:type "line"
+:fromId "875a2cc0-8827-11ee-b775-8b751a3022b6"
+:toId "b5ec96be-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.24 0.34]
+:distance 4}
+:57e11d50-8831-11ee-87af-db991427683b 
+{:id "57e11d50-8831-11ee-87af-db991427683b"
+:type "line"
+:fromId "57e11d52-8831-11ee-87af-db991427683b"
+:toId "b5ec96c5-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:6c175420-8830-11ee-87af-db991427683b 
+{:id "6c175420-8830-11ee-87af-db991427683b"
+:type "line"
+:fromId "6c175422-8830-11ee-87af-db991427683b"
+:toId "b5ec96d0-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:c1b172e1-882a-11ee-87af-db991427683b 
+{:id "c1b172e1-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "c1b172e2-882a-11ee-87af-db991427683b"
+:toId "b5ec96cf-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.38 0.89]
+:distance 4}
+:6c175421-8830-11ee-87af-db991427683b 
+{:id "6c175421-8830-11ee-87af-db991427683b"
+:type "line"
+:fromId "6c175422-8830-11ee-87af-db991427683b"
+:toId "b5ec96bc-8826-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.77 0.79]
+:distance 4}
+:12a380c0-9a15-11ee-980b-e1b25c8421c1 
+{:id "12a380c0-9a15-11ee-980b-e1b25c8421c1"
+:type "line"
+:fromId "12a3a7d0-9a15-11ee-980b-e1b25c8421c1"
+:toId "b5ec96b9-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:38e41620-882a-11ee-87af-db991427683b 
+{:id "38e41620-882a-11ee-87af-db991427683b"
+:type "line"
+:fromId "38e41622-882a-11ee-87af-db991427683b"
+:toId "b5ec96c3-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:13dfd5e0-8941-11ee-a6e4-639560e2f439 
+{:id "13dfd5e0-8941-11ee-a6e4-639560e2f439"
+:type "line"
+:fromId "13dfd5e2-8941-11ee-a6e4-639560e2f439"
+:toId "b5ec96c9-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:a9872740-8867-11ee-87af-db991427683b 
+{:id "a9872740-8867-11ee-87af-db991427683b"
+:type "line"
+:fromId "a9872742-8867-11ee-87af-db991427683b"
+:toId "b5ec96d0-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:8edb68b1-8827-11ee-b775-8b751a3022b6 
+{:id "8edb68b1-8827-11ee-b775-8b751a3022b6"
+:type "line"
+:fromId "8edb8fc0-8827-11ee-b775-8b751a3022b6"
+:toId "72cd8e00-8827-11ee-b775-8b751a3022b6"
+:handleId "end"
+:point [0.53 0.4]
+:distance 4}
+:e5268900-8ea5-11ee-a348-3398e4d43743 
+{:id "e5268900-8ea5-11ee-a348-3398e4d43743"
+:type "line"
+:fromId "e5268902-8ea5-11ee-a348-3398e4d43743"
+:toId "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:15a2c901-8838-11ee-87af-db991427683b 
+{:id "15a2c901-8838-11ee-87af-db991427683b"
+:type "line"
+:fromId "2a4fd3f2-882b-11ee-87af-db991427683b"
+:toId "554e7aa0-8828-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.47 0.12]
+:distance 4}
+:92076ef0-8861-11ee-87af-db991427683b 
+{:id "92076ef0-8861-11ee-87af-db991427683b"
+:type "line"
+:fromId "92076ef2-8861-11ee-87af-db991427683b"
+:toId "b5ec96ae-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:7ac62330-882f-11ee-87af-db991427683b 
+{:id "7ac62330-882f-11ee-87af-db991427683b"
+:type "line"
+:fromId "7ac64a40-882f-11ee-87af-db991427683b"
+:toId "b5ec96d0-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:e5268901-8ea5-11ee-a348-3398e4d43743 
+{:id "e5268901-8ea5-11ee-a348-3398e4d43743"
+:type "line"
+:fromId "e5268902-8ea5-11ee-a348-3398e4d43743"
+:toId "d9ab6320-8ea5-11ee-a348-3398e4d43743"
+:handleId "end"
+:point [0.37 0.36]
+:distance 4}
+:24cd0340-882f-11ee-87af-db991427683b 
+{:id "24cd0340-882f-11ee-87af-db991427683b"
+:type "line"
+:fromId "24cd2a50-882f-11ee-87af-db991427683b"
+:toId "b5ec96ac-8826-11ee-b775-8b751a3022b6"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("b5ec96a2-8826-11ee-b775-8b751a3022b6" "b5ec96a0-8826-11ee-b775-8b751a3022b6" "b5ec96a1-8826-11ee-b775-8b751a3022b6" "b5ec96a5-8826-11ee-b775-8b751a3022b6" "b5ec96a6-8826-11ee-b775-8b751a3022b6" "b5ec96a3-8826-11ee-b775-8b751a3022b6" "b5ec96aa-8826-11ee-b775-8b751a3022b6" "b5ec96a7-8826-11ee-b775-8b751a3022b6" "b5ec96a8-8826-11ee-b775-8b751a3022b6" "b5ec96ab-8826-11ee-b775-8b751a3022b6" "b5ec96a9-8826-11ee-b775-8b751a3022b6" "b5ec96ac-8826-11ee-b775-8b751a3022b6" "b5ec96ad-8826-11ee-b775-8b751a3022b6" "b5ec96b0-8826-11ee-b775-8b751a3022b6" "b5ec96ae-8826-11ee-b775-8b751a3022b6" "b5ec96af-8826-11ee-b775-8b751a3022b6" "b5ec96b1-8826-11ee-b775-8b751a3022b6" "b5ec96b3-8826-11ee-b775-8b751a3022b6" "b5ec96b4-8826-11ee-b775-8b751a3022b6" "b5ec96b2-8826-11ee-b775-8b751a3022b6" "b5ec96b5-8826-11ee-b775-8b751a3022b6" "b5ec96b6-8826-11ee-b775-8b751a3022b6" "b5ec96b9-8826-11ee-b775-8b751a3022b6" "b5ec96b7-8826-11ee-b775-8b751a3022b6" "b5ec96ba-8826-11ee-b775-8b751a3022b6" "b5ec96b8-8826-11ee-b775-8b751a3022b6" "b5ec96bb-8826-11ee-b775-8b751a3022b6" "b5ec96bc-8826-11ee-b775-8b751a3022b6" "b5ec96be-8826-11ee-b775-8b751a3022b6" "b5ec96c3-8826-11ee-b775-8b751a3022b6" "b5ec96bd-8826-11ee-b775-8b751a3022b6" "b5ec96c0-8826-11ee-b775-8b751a3022b6" "b5ec96bf-8826-11ee-b775-8b751a3022b6" "b5ec96c1-8826-11ee-b775-8b751a3022b6" "b5ec96c2-8826-11ee-b775-8b751a3022b6" "b5ec96c6-8826-11ee-b775-8b751a3022b6" "b5ec96c4-8826-11ee-b775-8b751a3022b6" "b5ec96c9-8826-11ee-b775-8b751a3022b6" "b5ec96c5-8826-11ee-b775-8b751a3022b6" "b5ec96c7-8826-11ee-b775-8b751a3022b6" "b5ec96cb-8826-11ee-b775-8b751a3022b6" "b5ec96cc-8826-11ee-b775-8b751a3022b6" "b5ec96ce-8826-11ee-b775-8b751a3022b6" "b5ec96cf-8826-11ee-b775-8b751a3022b6" "b5ec96cd-8826-11ee-b775-8b751a3022b6" "b5ec96d2-8826-11ee-b775-8b751a3022b6" "b5ec96d0-8826-11ee-b775-8b751a3022b6" "b5ec96d3-8826-11ee-b775-8b751a3022b6" "b5ec96d1-8826-11ee-b775-8b751a3022b6" "b5ec96d4-8826-11ee-b775-8b751a3022b6" "b5ec96d5-8826-11ee-b775-8b751a3022b6" "b5ec96d8-8826-11ee-b775-8b751a3022b6" "b5ec96d7-8826-11ee-b775-8b751a3022b6" "b5ec96db-8826-11ee-b775-8b751a3022b6" "b5ec96dd-8826-11ee-b775-8b751a3022b6" "b5ec96df-8826-11ee-b775-8b751a3022b6" "b5ec96dc-8826-11ee-b775-8b751a3022b6" "b5ec96de-8826-11ee-b775-8b751a3022b6" "b5ec96e0-8826-11ee-b775-8b751a3022b6" "42fa0e12-8827-11ee-b775-8b751a3022b6" "4d7a5930-8827-11ee-b775-8b751a3022b6" "50244382-8827-11ee-b775-8b751a3022b6" "72cd8e00-8827-11ee-b775-8b751a3022b6" "5b54f2e0-8827-11ee-b775-8b751a3022b6" "875a2cc0-8827-11ee-b775-8b751a3022b6" "8edb8fc0-8827-11ee-b775-8b751a3022b6" "9183f370-8827-11ee-b775-8b751a3022b6" "ba2baa70-8827-11ee-b775-8b751a3022b6" "eacc8c82-8827-11ee-b775-8b751a3022b6" "ed2b6412-8827-11ee-b775-8b751a3022b6" "01e37fa0-8828-11ee-b775-8b751a3022b6" "09bdff20-8828-11ee-b775-8b751a3022b6" "1fe31830-8828-11ee-b775-8b751a3022b6" "554e7aa0-8828-11ee-b775-8b751a3022b6" "767ac212-8828-11ee-b775-8b751a3022b6" "d4629052-8829-11ee-87af-db991427683b" "d9e7fc40-8829-11ee-87af-db991427683b" "ffca9fd0-8829-11ee-87af-db991427683b" "069954a0-882a-11ee-87af-db991427683b" "38e41622-882a-11ee-87af-db991427683b" "a58f25d2-882a-11ee-87af-db991427683b" "273f2e02-882a-11ee-87af-db991427683b" "2ca57930-882a-11ee-87af-db991427683b" "3c16df82-882a-11ee-87af-db991427683b" "b262d6d2-882a-11ee-87af-db991427683b" "bd1b21e0-882a-11ee-87af-db991427683b" "c1b172e2-882a-11ee-87af-db991427683b" "d4d050d0-882a-11ee-87af-db991427683b" "fe5f5a90-882a-11ee-87af-db991427683b" "2a4fd3f2-882b-11ee-87af-db991427683b" "35544332-882b-11ee-87af-db991427683b" "658a0760-882b-11ee-87af-db991427683b" "77ee47e0-882b-11ee-87af-db991427683b" "8874c7b2-882b-11ee-87af-db991427683b" "aa38e252-882b-11ee-87af-db991427683b" "eaf9ba30-882b-11ee-87af-db991427683b" "55a59e82-882c-11ee-87af-db991427683b" "2bbb5560-882c-11ee-87af-db991427683b" "5e0f1791-882c-11ee-87af-db991427683b" "6e627972-882c-11ee-87af-db991427683b" "ad532532-882c-11ee-87af-db991427683b" "aa3044e0-882d-11ee-87af-db991427683b" "24cd2a50-882f-11ee-87af-db991427683b" "28c0f9c0-882f-11ee-87af-db991427683b" "67ff9e72-882f-11ee-87af-db991427683b" "6fbfb822-882f-11ee-87af-db991427683b" "747a8112-882f-11ee-87af-db991427683b" "7ac64a40-882f-11ee-87af-db991427683b" "6c175422-8830-11ee-87af-db991427683b" "78067182-8830-11ee-87af-db991427683b" "9599dac0-8830-11ee-87af-db991427683b" "2e94c1e2-8831-11ee-87af-db991427683b" "3bc49ca0-8831-11ee-87af-db991427683b" "57e11d52-8831-11ee-87af-db991427683b" "7168e960-8831-11ee-87af-db991427683b" "3271b882-8832-11ee-87af-db991427683b" "624c3d52-8832-11ee-87af-db991427683b" "927b2e40-8833-11ee-87af-db991427683b" "cd76c350-8839-11ee-87af-db991427683b" "92076ef2-8861-11ee-87af-db991427683b" "9d31b5b2-8861-11ee-87af-db991427683b" "fbb3ef30-8862-11ee-87af-db991427683b" "0bbba210-8863-11ee-87af-db991427683b" "1fdfeca0-8864-11ee-87af-db991427683b" "a9872742-8867-11ee-87af-db991427683b" "15a2c830-8868-11ee-b12d-9b4a0c9ed13b" "92344d10-88ea-11ee-a6e4-639560e2f439" "44b98290-893e-11ee-a6e4-639560e2f439" "589b8972-893e-11ee-a6e4-639560e2f439" "13dfd5e2-8941-11ee-a6e4-639560e2f439" "801d9d72-8944-11ee-8632-afb146058f6c" "5b35f452-8947-11ee-8632-afb146058f6c" "e517ae02-8999-11ee-b751-eb1832ad7580" "d9ab6320-8ea5-11ee-a348-3398e4d43743" "e5268902-8ea5-11ee-a348-3398e4d43743" "94805ce0-8eb1-11ee-a348-3398e4d43743" "7cb897a0-8f72-11ee-aec3-b1b310c6b224" "9b2e4060-970e-11ee-9aaf-e73b3c667706" "043f92d0-9a15-11ee-980b-e1b25c8421c1" "09849a62-9a15-11ee-980b-e1b25c8421c1" "12a3a7d0-9a15-11ee-980b-e1b25c8421c1" "6a2b0ca0-2f75-11ef-a231-d34b05881eca")}}
+:block/journal? false
+:block/updated-at 1754655330126
+:block/created-at 1700011849213
+:block/type "whiteboard"
+:block/name "选题池"
+:block/original-name "选题池"})}

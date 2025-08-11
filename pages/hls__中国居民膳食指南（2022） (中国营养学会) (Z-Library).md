@@ -1,0 +1,45 @@
+file:: [中国居民膳食指南（2022） (中国营养学会) (Z-Library).pdf](C:\卫生\营养\膳食指南\中国居民膳食指南（2022） (中国营养学会) (Z-Library).pdf)
+file-path:: C:\卫生\营养\膳食指南\中国居民膳食指南（2022） (中国营养学会) (Z-Library).pdf
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 65b7b184-1947-4e85-bb04-5de7d3b17506
+  hl-type:: area
+  hl-stamp:: 1706537348583
+- [:span]
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: yellow
+  id:: 65b7b0e4-a9d2-4c88-8fbd-849020c0e349
+  hl-type:: area
+  hl-stamp:: 1706537187034
+- [:span]
+  ls-type:: annotation
+  hl-page:: 31
+  hl-color:: yellow
+  id:: 65b7b06b-f23c-4382-9fa1-d7cc1be04708
+  hl-type:: area
+  hl-stamp:: 1706537066712
+- [:span]
+  ls-type:: annotation
+  hl-page:: 39
+  hl-color:: yellow
+  id:: 65b7ae3a-420e-4e29-87de-df3f07c3c19e
+  hl-type:: area
+  hl-stamp:: 1706536505928
+- [:span]
+  ls-type:: annotation
+  hl-page:: 60
+  hl-color:: yellow
+  id:: 65b7af2e-dab6-4d63-92b1-bcdde671595f
+  hl-type:: area
+  hl-stamp:: 1706536748943
+- [:span]
+  ls-type:: annotation
+  hl-page:: 63
+  hl-color:: yellow
+  id:: 65b7af8f-6f9d-4870-b56d-40fc420308ae
+  hl-type:: area
+  hl-stamp:: 1706536845985

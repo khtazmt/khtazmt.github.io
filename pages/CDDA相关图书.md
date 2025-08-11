@@ -1,0 +1,174 @@
+- [What real world equivalents of the Skill Books and Martial Arts books from CDDA would be in your essential apocalypse survival library? : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/l4fkvg/what_real_world_equivalents_of_the_skill_books/)
+  id:: 6852b44f-124d-46a4-8b81-0b02d24af58a
+- 游戏内的书
+- “来找 ((6719a9c1-5892-4bbb-be33-95864782f3b4)) 了噢朋友们！ ”
+- 不赶时间玩到再搜，包括逛图书馆等（“任务：搜书大作战，发布者：玩家”——“今天这个书架就先看到这里”——“这个小镇的怪物有福了，因为我要以之为搜书据点”），赶时间 ((68480dde-3d5d-4041-8406-7240ecacd817)) 生成（但不确定效率是否更高）。看看什么技能、等级，对应价格、交换价值、所需智力、阅读时间、加心情量等（“比较、确认一下，可选”）
+	- ((66db8b0c-0180-4c7e-8a87-6df0379118bd))
+- ((6852b44f-b5e1-461e-853a-c34d03fba962))
+- ((65c589f9-342d-42c5-818c-f363a95b3847))
+- ---
+- 注：同类书籍条目在 ((674c3c02-0814-4a5d-9bba-88071b88ccdf)) 点开后标题固定为其中一个“AKA”（Also Known As）
+- 近战技能
+	- 近战
+		- [Close Quarter Fighting Manual - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_melee) 3
+			- [Facing Violence: Preparing for the Unexpected | Rory Miller | download on Z-Library](https://z-lib.fm/book/2610367/293a82)
+	- 刺击武器
+		- [Spetsnaz Knife Techniques - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_knives)
+	- 投掷
+		- [Diskobolus - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mag_throwing)
+			- 部分匹配
+				- [Discobolus. Pub. of the Physical education association of Teachers college, Columbia university, New York. - Anna’s Archive](https://annas-archive.se/md5/a3d0a16d79d177fa1b42d7d3a9a95010)
+					- 一年两期的杂志，大概是这个
+					- 网上最晚只有1929年的，或许是受大萧条影响停办了
+				- [Discobolus (Object in Focus) - Anna’s Archive](https://annas-archive.se/md5/f7f8a4d8134afda7d08a544352de1628)
+					- [掷铁饼者_百度百科](https://baike.baidu.com/item/%E6%8E%B7%E9%93%81%E9%A5%BC%E8%80%85/686111)
+					- [中山装和掷铁饼者，隋建国大英博物馆个展](http://news.zhuokearts.com/html/20120608/181138.html)
+						- >隋建国纠正了现场的西方观众对中山装的误解。西方人往往错误的将中山装理解为文革遗留的产物，从而对中山装流露出一定的偏见。隋建国阐述了中山装的历史是由孙中山设计，结合了西方猎装和保留当时农村的服装，同样表达了在当时的历史背景下，中西方的学习和借鉴。
+					- [难绷了，现在一搜红岭中学，第二个跳出来的就是掷铁饼者_红岭中学吧_百度贴吧](https://tieba.baidu.com/p/8830293210)
+	- [Essence of Ninjutsu - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_ninjutsu)
+		- [Essence of ninjutsu : the nine traditions - Anna’s Archive](https://annas-archive.se/md5/38876aae38bb66cc423bb1a89ef2e551)
+- 远程技能
+	- 手枪
+		- 顺带下了
+			- [The Basics of Pistol Shooting - Anna’s Archive](https://annas-archive.se/md5/8d1d955d0a6ae59af22a97efe4aac33a)
+			- [Glock Handbook: An Operational Guide To The Glock Handgun | Mike Pannone, Erik Lawrence | download on Z-Library](https://z-lib.fm/book/5408000/b430e7/glock-handbook-an-operational-guide-to-the-glock-handgun.html)
+				- ((6856b32a-3062-453d-ae1e-e37067f8c277)) 搜作者
+	- 重武器
+		- [The Tao of the Handgun - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_pistol)
+			- ((685cff60-3ca6-40bb-838b-f763f382c79e))
+			- TODO [Amazon.com: Practical Guide to the Operational Use of the TT-33 Tokarev Pistol eBook : Lawrence, Erik: Kindle商店](https://www.amazon.com/Practical-Guide-Operational-Tokarev-Pistol-ebook/dp/B00UOEBP4C)
+			- 部分匹配
+				- [Practical Guide to the Operational Use of the M79 Grenade Launcher | Erik Lawrence | download on Z-Library](https://z-lib.fm/dl/24370631/be9f49)
+				  id:: 6856b32a-3062-453d-ae1e-e37067f8c277
+					- 这是个系列
+- 工艺技能
+	- 生存
+		- [Alpha Male Quarterly - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mag_dude)1
+			- [the dude - Search - Anna’s Archive](https://annas-archive.se/search?q=the+dude)
+				- “比playboy老”
+	- 食品加工food handling
+	  collapsed:: true
+		- [Glamopolitan - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mag_glam)1
+			- 部分匹配
+				- [Glamour（康泰纳仕主办的英国高端女性时尚周刊）_百度百科](https://baike.baidu.com/item/Glamour/4895444)
+				- [Glamour 2014 No 7 - Anna’s Archive](https://annas-archive.se/md5/98a6acdec8bc2608ef8f475a888ede2f)
+		- [Bon Appetit - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mag_cooking)1
+			- 从描述和体积、重量看应该是相对薄的杂志，复数时的量词和中译（“哈哈”）也证明了这一点
+			- [bon appétit July 2017 | bon appétit | download on Z-Library](https://z-lib.fm/book/11585541/ad622b)
+		- [Eat Your Way to a Fit Physique - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/cookbook_eatyrway)1
+		- [Dainty Dishes Fit for a King - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/cookbook_daintydishes)3
+		- [Cooking on a Budget - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/cookbook)3
+			- [Cooking on a Budget: Ingredients, Techniques, Recipes - Anna’s Archive](https://annas-archive.se/md5/d83f9618359b16b5a7c596db16edf360)
+			- 部分匹配
+				- [Organic cooking on a budget: how to grow organic, buy local, waste nothing, and eat well | Forge, Arabella | download on Z-Library](https://z-lib.fm/book/5893976/1ea2c9)
+					- >Printed in China
+						- “Organic？”
+					- 开头看起来不错（“那很贤惠了”）
+		- [Sushi Made Easy - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/cookbook_sushi)4
+			- [Sushi Made Easy: Make Sushi Easily with The Help of These Delicious and Simple Recipes! | Allie Allen | download on Z-Library](https://z-lib.fm/book/24740316/2596ce/sushi-made-easy-make-sushi-easily-with-the-help-of-these-delicious-and-simple-recipes.html)
+		- [La Vida Deliciosa: Definitive Mexican Cuisine - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/cookbook_mexican)4
+		- [Things to Do with Milk - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/dairy_book)
+			- 部分匹配
+				- [101 Things to do with Powdered Milk | Darlene Carlisle | download on Z-Library](https://z-lib.fm/book/23173166/342ad1)
+					- 或许没多少人会用奶粉做那些本该用巴氏奶、生奶做的食物，但至少小破游背景摆在这也算是合情合理了
+				- [Fun Things to Do with Milk Jugs (A+ Books: 10 Things to Do) - Anna’s Archive](https://annas-archive.se/md5/290eb2d20fbac7bc4e866b5679d90761)
+				  id:: 6857eac1-1f15-4ada-9572-fda7c62fd753
+					- 废物利用是好的，以前买过几次卫岗1.5L巴氏奶，我妈还买过几次光明的加糖酸奶
+		- 顺带下了
+			- [The Ultimate Guide to Smoking Meat, Fish, and Game: How to Make Everything from Delicious Meals to Tasty Treats | Monte Burch | download on Z-Library](https://z-lib.fm/book/26354591/3a8876/the-ultimate-guide-to-smoking-meat-fish-and-game-how-to-make-everything-from-delicious-meals-to-t.html)
+			- [The Ultimate Guide to Homebrewing : Techniques and Recipes to Get Brewing Today | Editors of the Harvard Common Press | download on Z-Library](https://z-lib.fm/book/23093998/75b6da)
+	- 制造
+		- [Historic Warfare: The Bronze Age - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/bronze_mag)7，3/9/1/30
+	- 电子学
+		- [Advanced Electronics - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/advanced_electronics)5，2/10/0/35
+		- [The Role of Robotics in Modern Day Manufacturing - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/recipe_augs)5，4/10/2/45
+	- 应用科学
+		- ((6853fbe7-fa71-4d9a-9075-35f7e2ad536a))
+		  id:: 6853fbd7-7745-437c-99d4-3fc599579661
+		  collapsed:: true
+			- >A book with comprehensive and accurate step-by-step illustrated instructions for many scientific experiments, for young researchers and anyone else who wants to delve into the amazing world of chemistry.
+			- 完全匹配（同名）的
+				- [Chemistry for Kids: Awesome Science Experiments that Really Work - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/basic_chemistry)（应用科学3）
+				  id:: 6853fbe7-fa71-4d9a-9075-35f7e2ad536a
+					- [The Chemistry Book - Big Ideas Simply Explained | DK | download on Z-Library](https://z-lib.fm/book/22217435/7017c1/the-chemistry-book-big-ideas-simply-explained.html)
+					  id:: 68540c10-79b6-44d8-a758-e08d43a01320
+						- DK有这个The XX Book系列
+			- 部分匹配的
+				- [Chemistry For Kids : A Complete Chemistry Guide For Beginners Practical Guide To Chemistry Science Fair Periodic Table Chemical Bonds | Alice McGraw Hill | download on Z-Library](https://z-lib.fm/book/3711877/601131/chemistry-for-kids-a-complete-chemistry-guide-for-beginners-practical-guide-to-chemistry-science-f.html)
+					- 看起来易读，但有不少事实性错误（“气体无法被非压缩地contain”、“空气没有重量”、“自然中没有等离子体”）
+					- 大概（纸质版也）没有插图
+				- [Awesome Science Experiments for Kids: 100+ Fun STEAM Projects and Why They Work | Crystal Chatterton | download on Z-Library](https://z-lib.fm/book/5477677/fa9af6/awesome-science-experiments-for-kids-100-fun-steam-projects-and-why-they-work.html)
+					- 按STEAM学科分类
+					- 一步步，有插图，应该就是这本了
+						- >In each chapter, you will find experiments that are simply and
+						  clearly outlined. Each experiment includes a list of materials and
+						  easy-to-read, step-by-step instructions.——该书
+					- 比 ((68540c10-79b6-44d8-a758-e08d43a01320)) 易读
+				- [Awesome Physics Experiments for Kids: 40 Fun Science Projects and Why They Work | Erica L. Colón | download on Z-Library](https://z-lib.fm/book/5477663/4b46ef/awesome-physics-experiments-for-kids-40-fun-science-projects-and-why-they-work.html)
+					- 按物理现象分类
+		- [The Essential Oil Enthusiasts Handbook - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/textbook_extraction)6，4/10/1/60
+			- [Handbook of essential oils, 3rd ed: science, technology, and applications - Anna’s Archive](https://annas-archive.org/md5/10c270a581a132c3c09523c0905b95b3)
+		- [chemistry textbook - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/textbook_chemistry)6，
+			- [Chemistry Essentials For Dummies | John T. Moore | download on Z-Library](https://z-lib.fm/book/85461111/e95c10)
+		- [Advanced Physical Chemistry - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/adv_chemistry)7，5/12/0/35
+	- 裁缝
+		- [Beauty Magazine - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mag_beauty)
+		- [Sew What? Clothing! - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_tailor)
+			- 部分匹配
+				- “因为Clothing是一类”
+				- [Sew What! Bags: 18 Pattern-Free Projects You Can Customize to Fit Your Needs | Barnes, Lexie | download on Z-Library](https://z-lib.fm/book/5823101/ff1d50)
+				- [Sew What! Skirts: 16 Simple Styles You Can Make with Fabulous Fabrics | Francesca DenHartog | download on Z-Library](https://z-lib.fm/book/2207228/588099)
+	- 看评论下了
+		- [Foundations of Mechanical Accuracy | Wayne R. Moore | download on Z-Library](https://z-lib.fm/book/891052/a15467/foundations-of-mechanical-accuracy.html)
+			- ((6832bb42-317c-4c61-9b59-b1c74ce64e2d))
+- 交互技能
+	- [Water Survival Training Field Manual - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_swimming)
+		- [Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength | Steven Low, DPT | download on Z-Library](https://z-lib.fm/book/5646357/d241b1/overcoming-gravity-a-systematic-approach-to-gymnastics-and-bodyweight-strength.html)
+			- 以前下的还没怎么看和练
+	- 操控装置
+		- [How to Trap Anything - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/howto_traps)
+			- 部分匹配
+				- [How to Hide Anything | Michael Connor | download on Z-Library](https://z-lib.fm/book/17703154/5db85a)
+				  id:: 686776fa-ecd8-434e-96be-0ffc03fd7e61
+				- [How to Pitch Anything: Tested Method with +1.500 entrepreneurs for Unlocking the Investors Vault | Sergi Sai Mora | download on Z-Library](https://z-lib.fm/book/25139683/8d4587)
+	- 计算机学
+		- [How to Browse the Web - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/howto_computer)2，0/5/1/15
+		- [Computer Science 101 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_computer)3，0/5/1/15
+		- [Principles of Advanced Programming - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/textbook_computer)6，4/10/-1/35
+	- 医疗
+		- [Textbook of Advanced Toxicology - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/textbook_toxicology)6,5/11/-1/45
+	- 社交
+		- [Self-Esteem for Dummies - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_speech)3
+		  id:: 6857e98b-9d9b-4166-a536-db4e5aa3449f
+			- [Self-Esteem For Dummies - PDFDrive.com | S. Renee Smith | download on Z-Library](https://z-lib.fm/book/15178463/dab0aa/selfesteem-for-dummies-pdfdrivecom.html)
+			- 部分匹配
+				- [Boosting Self-Esteem For Dummies | Branch, Rhena, Willson, Rob | download on Z-Library](https://z-lib.fm/book/11813574/466f35/boosting-selfesteem-for-dummies.html)
+		- [How to Succeed in Business - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/manual_business)
+			- [How to Day Trade for a Living: A Beginner's Guide to Trading Tools and Tactics, Money Management, Discipline and Trading Psychology | Andrew Aziz | download on Z-Library](https://z-lib.fm/book/2938594/63c155/how-to-day-trade-for-a-living-a-beginners-guide-to-trading-tools-and-tactics-money-management-di.html)
+			- [Trading Psychology for Dummies | Roland Ullrich | download on Z-Library](https://z-lib.fm/book/28283814/af54ce/trading-psychology-for-dummies.html)
+			- 不见面股市里的勾心斗角可以泛化，或许吧
+		- [Principles of Effective Communication - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/textbook_speech)6
+			- [PRINCIPLES OF EFFECTIVE COMMUNICATION | Hurley, Paula | download on Z-Library](https://z-lib.fm/book/116337505/339dcb)
+	- 驾驶
+		- [AAA Guide - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/textbook_anarch)
+			- 驾驶4，但有48个应用科学配方，结合起来看比GTA更道具——“那很~~疯狂的安人~~007了”
+			- 70、80、90年代，后面普遍没有了，个人电脑互联网、金融危机、911？
+			- “让我看看里面有什么合法的内容”
+			- [Quora 提到的《无政府主义者的烹饪手册》是一本什么样的书？为什么相关内容不予显示？ - 知乎](https://www.zhihu.com/question/27195699)
+			- [一个无政府主义者的“浪子回头”路--舆情频道](https://qnck.cyol.com/content/2011-03/01/content_4213991.htm)
+			- ((66adee71-01d4-4cea-b01b-ad0a969a21bd))
+- ---
+- 仅供娱乐
+	- [The Museum of All Things Awesome and That Go Boom - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/book_anthology_moataatgb)
+		- TODO [Amazon.com: The Museum of All Things Awesome and that Go Boom: 9781937794477: Merriam, Joanne, Kocz, Nick, Luce, Kelly, Nagamatsu, Sequoia, Oltion, Jerry, Pflug, Ursula, Satifka, Erica L., Smith, Matthew Sanborn, Stufflebeam, Bonnie Jo, Sussex, Lucy: 图书](https://www.amazon.com/Museum-Things-Awesome-that-Boom/dp/1937794474)
+			- “坏了，什么还真有的设定母本”
+	- [How to Live on Other Planets: A Handbook for Aspiring Aliens - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/book_anthology_htloop)
+		- [How to live on other planets : a handbook for aspiring aliens - Anna’s Archive](https://annas-archive.se/md5/783edeb01eda97caf20e50f27be49c4d)
+	- [The Hitchhiker's Guide to the Cataclysm - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/guidebook)
+		- 一个场景自带物品
+		- 《银河系搭车客指南》，算是有点好笑
+	- [Playboy - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/mag_porn)
+		- “那就看看文章——找找文章——噢原来之前看的是照片特辑没文章——照片前有文章还是看一下——不行我得赶时间”
+			- “女性角色看这书也同样加心情值？总之我不好说”
+		- ((66ade3ab-9c8d-4597-803b-686f6bc6ef57))
+		- ((65c87486-2409-4dc2-9a78-144d3e313ac3))

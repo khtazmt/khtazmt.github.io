@@ -1,0 +1,60 @@
+file-path:: ../assets/巨人的工具_1630765831829_0.pdf
+:PROPERTIES:
+:file: [[../assets/巨人的工具_1630765831829_0.pdf][巨人的工具_1630765831829_0.pdf]]
+:file-path: ../assets/巨人的工具_1630765831829_0.pdf
+:END:
+
+* 克里斯托弗·萨默
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 31
+:id: 613728f3-7367-43a8-ab1f-720ca4635e6a
+:END:
+* 体操力量训练法
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 31
+:id: 613f068a-4c9a-4309-a36f-424909f72a02
+:END:
+* 背景故事
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 66
+:id: 61372721-96a7-48b4-94b1-ba491d081393
+:END:
+* 双脚悬空装置（肩部倒立装置）或者其他替代品
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:id: 613726da-41f1-4169-94c8-c221101495b7
+:END:
+* 飞行瑜伽
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 70
+:id: 61372697-ad4c-4db0-ac15-f660d220c9ae
+:END:
+* 内八字
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 74
+:id: 613727bf-9f12-46c6-a97c-e5f9f217e132
+:END:
+* 臀中肌训练法
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 78
+:id: 6137276f-9305-42f3-a67b-783ad4cf6581
+:END:
+* 大脚趾要低于后脚跟。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 79
+:id: 613727f7-4de5-4b3c-b7c2-224a5c917277
+:END:
+* 采用“动作神经刻蚀训练法”提高耐力和力量
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 106
+:id: 61380dc2-2f11-431d-83c9-d623fd82e4c6
+:END:
