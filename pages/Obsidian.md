@@ -1,5 +1,6 @@
 - 比 [[Logseq]] 用的人更多，功能更多，但双链粒度为页不为块，比较粗，可能不太适合（个人）（深度） ((67a5d2e7-821a-465e-a4d1-347e899925d3))
 - [[从Logseq迁移到Obsidian，但是尚未成功]]
+- ((68a11fa9-7a6c-4208-b4e0-37cbe57a9b98))
 - [一种实用新型 Obsidian 实践之构建我的第二大脑 🧠 - 知乎](https://zhuanlan.zhihu.com/p/640042778)
 - [修改Obsidian粘贴图片的位置 - 知乎](https://zhuanlan.zhihu.com/p/671070262)
 - [Obsidian 内容聚合及图谱功能（三） - 知乎](https://zhuanlan.zhihu.com/p/397392641)
