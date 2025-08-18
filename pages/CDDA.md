@@ -2412,6 +2412,7 @@
 				- 火苗到火焰20分钟左右
 					- 可能需要及时灭火，不然时间长了变成火焰，如果在拾取或绕得太近时就可能受伤——可能在围栏外也能把里面的绕死
 			- [燃烧瓶 - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/molotov_lit)
+			  id:: 688b27e4-c6be-4caa-a854-3b10fdfa0fef
 				- 一扔就是3×3的烈火
 				- 厨房搞玻璃容器，油车抽油，棉衣、窗帘、难民中心斯莫克棉布，背心装（如果要快取），打火机点火
 					- 可 ((6742c0ab-6530-4fc3-aafd-2ba66e95e79f))
