@@ -111,6 +111,7 @@
 		- 更多中国元素
 		  collapsed:: true
 			- “（穿越/重启）三大神书”
+			  id:: 688b27e4-b83d-4a4c-aeb8-bdddb35715e0
 			  collapsed:: true
 				- 民兵军事训练手册（1959、1960）
 					- 带点繁体字
