@@ -120,17 +120,39 @@
 					- 续编
 					- 多点手工、机加工
 				- ---
-				- ((68539f90-6143-40d5-822f-a587a4ba58c8))
 				- [末日生存·系列丛书(电子版) - 知乎](https://zhuanlan.zhihu.com/p/508223860)
 					- [野外生存之野菜图鉴：王宝钏记一功？ - 知乎](https://zhuanlan.zhihu.com/p/578265718)
-				- [十万个为什么（70年代版），以及“三大神书”等的局限性(电子版) - 知乎](https://zhuanlan.zhihu.com/p/456055999)
-					- “我也可以硬评”
-				- 临高启明
+					  id:: 68a69ca6-62b6-441e-a0eb-df76309ec7c6
+					- [生存系列](https://flowus.cn/eqbooks/share/4e431891-3c42-4175-a69b-2d31428dec86)
+				- 五小工业
+					- [五小工业系列丛书具体都叫什么名字？ - 知乎](https://www.zhihu.com/question/400301973)
+					- [小水泥技术丛书 — Booklist | Z-Library](https://z-lib.fm/booklist/1515722/664ca3/%E5%B0%8F%E6%B0%B4%E6%B3%A5%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6.html)
+						- [cement — Booklist | Z-Library](https://z-lib.fm/booklist/1497253/e6fe93/cement.html)
+				- 《临高启明》
 				  id:: 68a9bc90-28e5-4e46-a267-65bfa01cf6cb
 					- [临高启明网络版和实体书版本的区别_临高启明吧_百度贴吧](https://tieba.baidu.com/p/9297000606)
-					- [主页 | 临高启明公开图书馆](https://lgqm.halu.lu/)
-					  id:: 68a94eeb-6117-4b9f-847a-0dc3d2646fd4
-					- [请教：临高启明和观网是什么关系？_风闻](https://user.guancha.cn/main/content?id=291927)
+					- 网络版
+						- [临高启明 | 吹牛者 | download on Z-Library](https://z-lib.fm/book/29219947/32ee6e)
+						- [主页 | 临高启明公开图书馆](https://lgqm.halu.lu/)
+						  id:: 68a94eeb-6117-4b9f-847a-0dc3d2646fd4
+					- [临高启明 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://lgqm.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)
+					- [《临高启明》一书背后有哪些故事？ - 知乎](https://www.zhihu.com/question/29673213)
+					- 地名
+					- 人名
+						- 古代人
+							- [临高启明中的诸彩老是谁，怎么网上查不到？ - 知乎](https://www.zhihu.com/question/294187600)
+						- 现代人
+							- [请教：临高启明和观网是什么关系？_风闻](https://user.guancha.cn/main/content?id=291927)
+							- “马千瞩马前卒是吧，输入法联想这一块”
+					- 相关资料
+						- 吴运铎回忆录
+							- ((68ad9092-67b0-4727-bea6-7a9a9f4cdf85))
+							- [玻璃 - 第二卷「新世界」 | 临高启明公开图书馆](https://lgqm.halu.lu/0002/0149)
+							  id:: 68afaf5e-5896-48f1-821c-1c8371bffffd
+						- ((68afb01d-8086-48f8-b9b8-1a3f7af955d4))
+						- [试制 - 第二卷「新世界」 | 临高启明公开图书馆](https://lgqm.halu.lu/0002/0150)
+							- 玻璃制造手册
+							- 关于手工玻璃制作的纪录片
 		- ((6872f14e-843f-4891-b5d9-432695cf3c74))
 			- 社会主义平行地球（派系、任务、物品、地图等）
 				- 平行地球科技水平略高，正在其太阳系内拓展，研究传送门时变形怪入侵
