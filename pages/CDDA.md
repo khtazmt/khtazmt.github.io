@@ -124,6 +124,7 @@
 					- [野外生存之野菜图鉴：王宝钏记一功？ - 知乎](https://zhuanlan.zhihu.com/p/578265718)
 					  id:: 68a69ca6-62b6-441e-a0eb-df76309ec7c6
 					- [生存系列](https://flowus.cn/eqbooks/share/4e431891-3c42-4175-a69b-2d31428dec86)
+					  id:: 68b0100e-ae1a-4570-869d-f0d67add5cc6
 				- 五小工业
 					- [五小工业系列丛书具体都叫什么名字？ - 知乎](https://www.zhihu.com/question/400301973)
 					- [小水泥技术丛书 — Booklist | Z-Library](https://z-lib.fm/booklist/1515722/664ca3/%E5%B0%8F%E6%B0%B4%E6%B3%A5%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6.html)
