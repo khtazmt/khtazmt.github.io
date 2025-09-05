@@ -1509,9 +1509,7 @@
 	- [有趣的地点和地图事件_cataclysmdda吧_百度贴吧](https://tieba.baidu.com/p/7225172644)
 	- ---
 	- 报纸等提到的
-		- 罗德岛
-		  id:: 679adca2-2f3c-421c-b921-318ff204eb9e
-			- [罗得岛州_百度百科](https://baike.baidu.com/item/%E7%BD%97%E5%BE%97%E5%B2%9B%E5%B7%9E/3439332)
+		- ((679adca2-2f3c-421c-b921-318ff204eb9e))
 - 设置
   collapsed:: true
 	- 选项
