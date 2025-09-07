@@ -1510,6 +1510,7 @@
 	- ---
 	- 报纸等提到的
 		- ((679adca2-2f3c-421c-b921-318ff204eb9e))
+		  id:: 679adca2-2f3c-421c-b921-318ff204eb9e
 - 设置
   collapsed:: true
 	- 选项
