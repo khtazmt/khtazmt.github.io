@@ -105,7 +105,7 @@
 				- [哔哩哔哩向前冲我的世界向前冲！-综艺-全集-高清独家在线观看-bilibili-哔哩哔哩](https://www.bilibili.com/bangumi/play/ep676167)（疑似有点平淡）
 	- 马食
 	- {{embed ((66379dcd-4044-4bcf-aca4-8be7638c5bce))}}
-	- 建筑设计
+	- ((68a69cc8-152b-4541-8671-6c94dd931bca))
 	  id:: 67eb280a-4aa8-4b3a-84e4-202a4f30eea0
 		- “在游戏里边搭边拆边设计，然后让朋友进来看”
 		- [I Built a Minecraft House Using a Real Architecture Software (Auto CAD) - YouTube](https://www.youtube.com/watch?v=EN2d-_wRdZ4)（AutoCAD设计好，然后打印出来对照着在游戏里搭建）
