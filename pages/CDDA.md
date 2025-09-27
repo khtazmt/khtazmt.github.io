@@ -1510,7 +1510,6 @@
 	- ---
 	- 报纸等提到的
 		- ((679adca2-2f3c-421c-b921-318ff204eb9e))
-		  id:: 679adca2-2f3c-421c-b921-318ff204eb9e
 - 设置
   collapsed:: true
 	- 选项
@@ -3068,8 +3067,7 @@
 					- 说明：默认配置：系统语言英语，选项按键`·`（Esc下），不同可自行调整
 					- 点击完毕后自动enter
 				- ---
-			- ((67583718-240c-4534-b627-3e156e97ad1a))
-			  id:: 67402aab-8756-4b59-aa2e-8ad7ca462eaf
+			- id:: 67402aab-8756-4b59-aa2e-8ad7ca462eaf
 			  collapsed:: true
 				- [【图片】用steamdeck玩cdda的简单教程【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8268845312)
 		- 多些飞车任务或场景（“没时间解释了，快上车！”）
