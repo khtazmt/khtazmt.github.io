@@ -3221,3 +3221,4 @@
 - [【图片】一些没用小知识和小技巧【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8428454318)
 - [2024船新答疑贴【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/8768394721)
 - [总结一下实验版得到的冷知识【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9025815245)
+- [笑了不赞你就被凯文抓走的cdda memes#1](https://www.bilibili.com/video/BV1nV4y1Y7ZA/)
