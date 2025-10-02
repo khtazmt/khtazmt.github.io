@@ -1,4 +1,4 @@
-- {{renderer :tocgen2}}
+- [[20210322]]开始用的
 - ((67b07706-126c-4c69-91b8-dcb79d246ff6))
 - [[Obsidian]]
 - [工作后，发现logseq更适合我 - 知乎](https://zhuanlan.zhihu.com/p/676562851)
@@ -206,6 +206,7 @@
 	  id:: 65bcbf46-ee6e-4ba6-9f88-67b1f6ade195
 		- ((6594cd23-e261-462c-b54a-a5336b75038f))
 	- \mu\g：`\mu\g`
+	  id:: 68a69ca6-7d8d-445d-8aa9-ffdc50998eef
 	- 数学表达式（$E_动=\frac12mv^2$，$\ce{2H2 +O2 \xlongequal{点燃} 2H2O}$；推荐使用插件Live Math和Text Wrapper，更傻瓜的插件LaTex Formula OCR还没试过）
 	  id:: 65bcbf46-8b21-4944-8f02-b4758ecba292
 		- [如何在MarkDown中使用LaTeX输入长等号(麻烦看看说明条件)？ - 知乎](https://www.zhihu.com/question/500718670)
