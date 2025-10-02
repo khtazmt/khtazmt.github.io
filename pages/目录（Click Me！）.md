@@ -4,6 +4,7 @@
 	- [[材料]]
 	- ---
 	- There are Chinese puns, idioms
+	- Maybe it's just that different regions have different REGULATIONS, so take care if you are exposing to the public
 - ((683062ad-3a33-46b0-a597-8e8813ba19fc))
 - ---
 - [[本网站、网盘、我]]
