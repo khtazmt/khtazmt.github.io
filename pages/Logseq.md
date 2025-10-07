@@ -4,6 +4,7 @@
 - [工作后，发现logseq更适合我 - 知乎](https://zhuanlan.zhihu.com/p/676562851)
 - [logseq最近都没太多人关注了吗？  ? - 知乎](https://www.zhihu.com/question/634480324)
 	- https://xuanhuai.wiki/
+- [Logseq性能瓶颈分析：识别与解决应用卡顿的系统方法-CSDN博客](https://blog.csdn.net/gitblog_01122/article/details/152069421)
 - Logseq是一个笔记软件，块级粒度，双向链接，大纲结构，本地保存
   id:: 679adca5-d53e-4312-91ed-0c91a80ec7aa
   collapsed:: true
