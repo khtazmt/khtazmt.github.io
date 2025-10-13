@@ -504,6 +504,7 @@
 	  id:: 6835bf89-7742-4355-b204-e9857a6704cb
 - [【中字】XQC玩纯由AI生成画面的Minecraft越玩越晕_哔哩哔哩bilibili_我的世界](https://www.bilibili.com/video/BV1J8DHY8Eeq/)
 	- ((62ac6a1d-bff9-47d4-ad35-5279733ab087))
+- [暴富！孤独！被除名！《我的世界》之父的魔幻人生【是个人物01】_游戏热门视频](https://www.bilibili.com/video/BV1v7eAzMEj5/)
 - ---
 - 玩的直接原因（“写东西写的”，加上网友之前分享了整合包和服务器）
   id:: 662d935b-a57b-4b33-8e7f-a563741cd4ab
