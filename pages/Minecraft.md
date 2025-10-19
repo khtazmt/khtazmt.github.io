@@ -304,6 +304,7 @@
 				- 吹水洗矿（粉碎矿石到对应的粒，省得冶炼了，很多装配直接用粒；洗锌出火药）
 	- 自动（两个及以上环节相连，比如鸡下蛋后自动运输到动力辊压机下的工作盆，和同样运输过来的先在粉碎轮加工过的糖和余烬面粉被压成烈焰蛋糕胚，然后注液器“裱花”熔岩得成品烈焰蛋糕）
 - “回归教程”
+  collapsed:: true
 	- “麦块常识”
 	  collapsed:: true
 		- e打开背包（“你在怀疑什么？”）
@@ -500,9 +501,13 @@
 	  id:: 66335bd1-21f7-4aaf-870b-1b58a6980f44
 	- 探图插火把时建议偏一侧插，这样找不到路时可以不自杀回家
 - 数据包
+  collapsed:: true
 	- [【四六级】能想出这种数据包的，家里要请英语老师了_哔哩哔哩bilibili_我的世界](https://www.bilibili.com/video/BV1KNjEzDEVK/)
 	  id:: 6835bf89-7742-4355-b204-e9857a6704cb
+- Minecraft速通
+	- [[完工版熟肉]20分钟讲完20秒速通我的世界背后的所有原理！-Bismuth_我的世界](https://www.bilibili.com/video/BV1uV4y1f7wM/
 - [【中字】XQC玩纯由AI生成画面的Minecraft越玩越晕_哔哩哔哩bilibili_我的世界](https://www.bilibili.com/video/BV1J8DHY8Eeq/)
+  collapsed:: true
 	- ((62ac6a1d-bff9-47d4-ad35-5279733ab087))
 - [暴富！孤独！被除名！《我的世界》之父的魔幻人生【是个人物01】_游戏热门视频](https://www.bilibili.com/video/BV1v7eAzMEj5/)
 - ---
@@ -731,6 +736,7 @@
 		- 大他者
 			- 永远在线但不一定看得到的服主
 - 复刻地点
+  collapsed:: true
 	- ((67eb280a-4aa8-4b3a-84e4-202a4f30eea0))
 	- >有没有ai识别视频、照片、施工图纸等并生成，重复结构模块化复用、调节间距之类的功能
 		- [教你如何用ai生成想要的Minecraft建筑_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oVRwY5EdK)
