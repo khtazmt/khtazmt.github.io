@@ -44,6 +44,7 @@
 	- [开源OCR：MixTeX推出网页版_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1VnW7edE7T/)
 - 竖排OCR
 	- “现代作品的台版书是竖排疑似有点离谱”
+	  id:: 68eb464b-0bb5-4523-a49f-14b8943802cb
 	- [中文横排是否优于竖排？有相关研究吗？ - 知乎](https://www.zhihu.com/question/22104723)
 	  id:: 68944334-75d4-4a59-8a03-3a75be80ce65
 	- ((6694783c-163a-4b11-b8a7-237f2a99a503))
