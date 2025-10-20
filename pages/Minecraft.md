@@ -418,6 +418,8 @@
 		  collapsed:: true
 			- [Lazy language loader - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/4836.html)
 			  id:: 673d722c-e22a-4306-af79-d34a6c83c955
+		- 优化
+			- [钠 (Sodium) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/2785.html)
 		- 联机
 		  collapsed:: true
 			- TODO [Plasmo 语音 (Plasmo Voice) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/5236.html)
