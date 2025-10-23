@@ -88,6 +88,7 @@
 			  collapsed:: true
 				- ((6640ea56-6de8-454e-bdba-f48d5f02613c))
 			- 放置/空投TNT
+			  id:: 68eb464b-002b-4887-89f3-75de86ea1e0d
 			- 发射/反弹火焰弹
 		- （需要）玩家自己移动
 		  collapsed:: true
