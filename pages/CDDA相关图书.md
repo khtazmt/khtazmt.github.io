@@ -61,7 +61,8 @@
 			- [Cooking on a Budget: Ingredients, Techniques, Recipes - Anna’s Archive](https://annas-archive.se/md5/d83f9618359b16b5a7c596db16edf360)
 			- 部分匹配
 				- [Organic cooking on a budget: how to grow organic, buy local, waste nothing, and eat well | Forge, Arabella | download on Z-Library](https://z-lib.fm/book/5893976/1ea2c9)
-					- >Printed in China
+					- id:: 68ea3a3c-bcdb-474e-aec2-d71bdfd1470c
+					  >Printed in China
 						- “Organic？”
 					- 开头看起来不错（“那很贤惠了”）
 		- [Sushi Made Easy - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/cookbook_sushi)4
