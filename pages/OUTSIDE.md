@@ -1,97 +1,131 @@
-- [[OUTSIDE/？]]（“那可能是天外有天吧”）
 - 这是个[[ARG]]
 - 名称参考[[INSIDE]]
 - [Calvin HarrisEllie Goulding - Outside_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18x411z7s8/)
 - 价值、意义
+  collapsed:: true
 	- “发展游戏运动，增强人民体质”
 	- “NPC2NPY”——“C2Y”
-- 游戏空间
+- 空间
+  collapsed:: true
 	- [[地球]]
 		- ((66db8ae3-a594-4217-8753-56952d6e8a78))
 			- 地标导航、测绘
 	- “空间站也可以玩”
-- 游戏道具
+	- ---
+	- 游戏地图类型
+		- 商场
+			- 超市
+		- 图书馆
+- 道具
   id:: 68fcca6c-1bbb-4ac1-9dc8-700b08a487e0
-	- 游戏道具价格
+	- 道具价格
 	  id:: 68fd800f-6a27-4e20-b5cb-cfdc1cebf643
 		- 参考 ((68eb467f-f3c8-45c2-aa3e-6553347c282c)) （“这辈子有了”）的道具分级，按货币价格分级（“唉，模拟进货或许好玩但费时”）
 		- 黑（0.00001-0.0001元）
 		  collapsed:: true
 			- 0.00005元
+			  collapsed:: true
 				- ((68fb23fa-3a7c-442a-852f-4a4c62301b37))
-		- 灰（0.0001-0.001元）
+		- TODO 灰（0.0001-0.001元）
 		- 白（0.001-0.01元）
 		  collapsed:: true
 			- 0.001元
+			  collapsed:: true
 				- ((68eb4669-44e4-469d-8c81-8c16244d9cdf))
 			- 0.002元
+			  collapsed:: true
 				- ((68eb464e-03e7-4782-8ec9-dd44098b3560))
 				- ((68eb4669-8cf7-4940-9c0c-2ef82eb32623))
 			- 0.005元
+			  collapsed:: true
 				- ((68eb467a-a7b6-4fb2-86c6-21486d8aa52f))
 			- 0.006元
+			  collapsed:: true
 				- ((67960091-8ae2-4325-822a-fd25564fe8cd))
 			- 0.009元
+			  collapsed:: true
 				- ((68fb38d4-8be4-42d6-905d-e3b4a38ef4f5))
 		- 绿（0.01-0.1元）
 		  collapsed:: true
 			- 0.01-0.03元
+			  collapsed:: true
 				- ((679add45-09ea-4e85-8f29-376e0aee086f))
 			- 0.018元
+			  collapsed:: true
 				- ((68fb3c16-9150-4265-ae7b-ecbbfb322805))
 			- 0.02元
+			  collapsed:: true
 				- ((68fb3a36-2284-49f6-949c-d5aa3d5afe8b))
 			- 0.03-0.04元
+			  collapsed:: true
 				- ((68fb2ce4-4683-4d8b-9219-234d570673b3))
 			- 0.03-0.07元
+			  collapsed:: true
 				- ((67a08e9c-39b7-46cf-9b59-1b9325a9c76e))
 			- 0.03-0.1元
+			  collapsed:: true
 				- ((68fb12d0-8652-490e-8ba9-0a7666f56ded))
 			- 0.06-0.4元
+			  collapsed:: true
 				- ((68739bb6-3d41-4e24-93f2-0977967cb66e))
 			- ---
 			- ((6525f068-c690-44d3-b70a-384d0ab10b73))
 			- 0.04元/米
+			  collapsed:: true
 				- ((68fb448d-af3b-4de5-a1a2-0964058b35c5))
 		- 蓝（0.1-1元）
 		  collapsed:: true
 			- “娱乐耗材、小gadget这一块”
 			- ((67e0ae3a-611d-434d-b4ef-f53820684dc3))
 			- 0.13元
+			  collapsed:: true
 				- ((68fb296b-2d15-4975-9701-e54c3fc8f072))
 			- 0.25元
+			  collapsed:: true
 				- ((68fb2a19-6059-4233-9d78-858238a9f1cb))
 			- 0.3元
+			  collapsed:: true
 				- ((68eb4666-bc08-45ed-8e03-b0f3cb4966c2))
 			- ((68eb467d-450a-4052-a741-9b54263d22b6))
 			- ((67d680af-79c2-4b88-a6f3-e751af5fad6f))
 			- ((670ccc0c-6c3d-44e9-bd3f-79426c174a9e))
 			- ---
 			- 0.1-0.3元/米
+			  collapsed:: true
 				- ((68eb469e-85b9-4a9a-8dfb-ab03624f3c65))
 			- 0.5元/米
+			  collapsed:: true
 				- ((6836cb47-eaff-47c1-9093-be9808b53418))
 			- 0.58元/升
+			  collapsed:: true
 				- ((68fb3086-9b6a-4a25-9d9b-168a2687a1a2))
 		- 紫（1-10元）
 		  collapsed:: true
 			- “生活必需品、快消这一块”
 			- 1.85元
+			  collapsed:: true
 				- ((68fb8b03-396b-48da-bad5-300ea6c51d6e))
 			- 3.1元
+			  collapsed:: true
 				- ((68fb8cef-f058-4f81-a924-defbdb3ebc01))
 			- 3.35元
+			  collapsed:: true
 				- ((68fb9205-4057-42ce-9f1d-9ee7de08e8f6))
 			- 4元
+			  collapsed:: true
 				- ((679adcbd-87cb-4f14-9e1a-0858bfb3f763))
 				- ((68fb401b-afec-4e87-88d9-ec50b159db16))
 			- 1元/斤
+			  collapsed:: true
 				- ((68fb3291-d4fb-4320-b10e-4b87a51ed2d0))
 			- 3元/斤
+			  collapsed:: true
 				- ((68fb3289-e838-49f0-818b-7171ae5b8d9c))
 			- 5元/斤
+			  collapsed:: true
 				- ((68f22571-012b-43aa-a3a7-740e282e5a92))
 			- 15元/斤
+			  collapsed:: true
 				- ((67d27070-d048-400d-ac3a-7bd3cee9f1b0))
 			- ((68933384-f5e0-4602-b203-22bcf07cf65b))
 			- ((68905941-2302-4876-bfda-6bdf3fcc5ecb))
@@ -101,17 +135,20 @@
 		- 金（10-100元）
 		  collapsed:: true
 			- 10-20元
+			  collapsed:: true
 				- ((68fb1a07-a1d3-42d5-8ab0-0b82a93cf1ae))
 				- ((68eb4681-0fad-40af-b6b2-bf084e11165f))
 			- 50-100元
+			  collapsed:: true
 				- ((68fb188f-94a4-4f03-9a62-3526f4e3458a))
 			- ((67596970-6a30-47b9-9230-031feb39881c))
 			- ((68fcd9c1-12c3-4ce8-b78d-65bd2891a967))
 		- 红（100-1000元）
 		  collapsed:: true
 			- 100-200元
+			  collapsed:: true
 				- ((68eb4681-679b-463f-9710-7eab5198ca86))
-	- “这些不同级别道具的效果不太像游戏里那样有可比性吧？”
+	- “这些不同级别道具的效果不太像电子游戏里那样有可比性吧？”
 	  collapsed:: true
 		- “换句话说，更真实，没那么同质化”
 - 玩法
