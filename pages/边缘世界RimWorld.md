@@ -1,0 +1,181 @@
+- 开始玩 [[20251026]]
+	- 暂时不玩了 [[20251027]]
+- [《环世界/边缘世界(RimWorld)》|v1.6.4566+全DLC|中文|免安装硬盘版 - SWITCH618游戏公益分享](https://www.switch618.com/313.html)
+  id:: 68fd8dd6-ce10-4956-9b3a-4278d570736a
+- 模组
+	- [【边缘世界1.6】最全面的新人100款Mod推荐！（超大合集）_哔哩哔哩bilibili_环世界](https://www.bilibili.com/video/BV1yitzzuEZz/)
+	- [[CDDA]]
+		- [Steam Workshop::Feng's Cataclysm DDA Collection](https://steamcommunity.com/workshop/filedetails/?id=959137811)
+- [序一.基础设置及讲解【环世界1.6纯原版教学】_环世界_实况解说](https://www.bilibili.com/video/BV17ce7zLESW/)
+  id:: 68febd3c-3003-4cc8-a699-2c36952c14d0
+	- “辩证地看待，有选择地看待”，比如可以一落地就尽快切大理石走起，先小房间再大围墙，房间合理分区，而不是规划优先于现时需求
+	- [【环世界V1.6】全DLC43*43完美基地飞船形态分享_游戏热门视频](https://www.bilibili.com/video/BV1Sf8izCEaP/)
+	  id:: 69005246-12a9-43d5-a37b-2436c27c5eff
+	- ![image.png](../assets/image_1761525081167_0.png)
+- 地块
+	- [rimworld 地图种类以及难度评价_游戏热门视频](https://www.bilibili.com/video/BV1FZ4y1S7Sj/)
+	- 教程建议温带森林，前面教学视频建议干旱灌木原
+	- 靠近紫房子，有路，有大理石，无污染
+	- [Stone - RimWorld Wiki](https://rimworldwiki.com/wiki/Stone)
+		- 大理石
+			- 落地造木切石桌、斜八格木墙工作间（钢、大理石的也行）切大理石，其他木头做木门啥的差不多够了
+		- 黑曜石
+			- [【图片】黑曜石矿脉是什么东西，比花岗岩更硬的新石头吗【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9864242661)
+			- [奥德赛添加的黑曜石【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9885266964)
+- 角色
+	- 特性
+		- [Traits - RimWorld Wiki](https://rimworldwiki.com/wiki/Traits)
+		- [环世界原版全特性综合强度排行【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7772742391)
+			- [环世界原版全特性各时期强度及其主要特点【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7834720793)
+		- [主观锐评环世界特性从夯到拉_环世界_攻略](https://www.bilibili.com/video/BV1ZA4QzxEyi/)
+		- [求崩溃艺术家的正确打开方式【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/6577655372)
+		- [夜猫子这特性咋用【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/5975150477)
+	- 技能
+		- 建造
+			- 餐椅、风力发电机（然后食物可能就不够了）、电缝纫台4级
+			- 扶手椅、沙发5级
+			- >入门的时候玩了两个档，有一个档三个人最高建造四级不带火，还有一个档种植最高四级不带火 ![[笑哭]](https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png@40w_40h.avif) 。没建造的档玩的太难受直接删了，想造东西都不解锁;没种植的档前期靠打猎营养膏制冷机，感觉影响不大。
+			  现在感觉纯原版三人开局最重要的建造，至少要有个五级以上的建造小人而且整个殖民地建造水平越高越好。
+			  其次就是有一个带火社交小人。这两个是刚需，没有建造用不了电什么也干不了，造基地阵地都很慢。医疗也最好要有一个防止伤口感染。
+				- ((68febd3c-3003-4cc8-a699-2c36952c14d0)) 评论区
+			- 高建造更容易出高品质，高品质加舒适度，舒适度加心情
+			- 建造不太容易一直造，所以得配其他技能
+		- 社交
+			- 招降、带孩子
+		- 智识
+			- 研究
+		- 医疗
+			- 配社交比较方便招降
+		- 射击
+		- ---
+		- 种植
+			- 精神叶6级
+				- 前期招其他亚型人类可能用得上
+		- 烹饪
+			- 好点的餐食6级、8级
+				- “都50XX年了连个饭都不会做？！”
+				- 当然前期可以吃营养膏，后期可以招厨师，所以影响不是很大
+- 房间、基地
+	- 墙、门围成房间，其中的建造物影响房间分类的判定，部分建造物与所在房间的分类不匹配会受工作速度惩罚
+	- [【环世界】1.6新版本房间分类更改介绍_哔哩哔哩bilibili_环世界](https://www.bilibili.com/video/BV1hoMwzhEVL/)
+		- 1.6版本开始，房间有床则为卧室，桌椅、娱乐设施等不影响房间分类
+		- [【环世界】1.6房间分类解法_游戏热门视频](https://www.bilibili.com/video/BV1QPMrzgEnH/)
+		  id:: 6902e6ea-adfa-48d1-bd08-2fb5ab95ab9b
+	- 基地
+		- ((69005246-12a9-43d5-a37b-2436c27c5eff))
+		- 沙地、沃土、遗迹等干扰
+			- 忽略（可以先围到外面）、清理、换地方、模组、开发者模式
+	- 蓝图
+		- [预览效果史诗级提升，通用蓝图模组更新！_哔哩哔哩bilibili](https://www.bilibili.com/video/BV1EfamzcEaJ)
+	- 更好看、自然
+		- [Watabou's Procgen Arcana](https://watabou.github.io/)
+			- [玩环世界只会13×13正方形？可以试试这个_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12i3bz6EzH/)
+- 双击全选同类物品，然后可以一起拖
+- 建造
+	- 区域
+		- 储存区
+			- 可设置种类，比如大理石块等材料放房间外，餐桌旁只放餐食
+			- 可设置优先级
+		- 垃圾储存区
+			- 把尸体等移到不影响角色的地方
+		- 种植区
+			- 右下开土地肥力滤镜
+		- 允许区域
+			- 可以很大程度上避免动物、角色等乱跑导致被敌人攻击等
+		- 移除屋顶区
+			- 农场可以全部移除
+	- 结构
+		- 相邻房间可以共用墙、门等
+			- 围绕生产设备等的斜墙可以按需辗转腾挪地扩大
+		- 门的材料影响门的打开速度，一般用木门比较快
+		- 门可以保持开启，可以代替通风孔
+- 生产
+	- [工作台操作位放椅子有什么用？【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/5032997713)
+	- 清单（订单）
+		- 较大量的生产是计划经济，先把清单（与生产设备绑定，清单做完了找人微操也无法生产）、排班安排好省事，而不是看缺啥要做啥了找人微操
+	- 特定生产
+		- 屠宰
+			- 对应烹饪
+			- 地图上可能有其他动物捕杀后的尸体，允许后即可屠宰——“感谢大自然的馈赠🙏”
+			- 用允许屠宰的角色在有屠宰清单的屠宰台等右键优先屠宰（如果不优先屠宰），而不是右键拖尸体（可能拖不了）
+			- [为什么叫希望肉？【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9675184358)
+		- 研究
+			- 如果无法研究，可将优先级调到1
+			- [[边缘世界] 科技树与科研系统精讲_环世界_教程](https://www.bilibili.com/video/BV1NrRsYsEDA/)
+		- 裁缝
+			- 象皮等做防尘大衣
+	- [【图片】边缘材料学【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/8414043842)
+- 种植
+	- [肥沃土地种什么产出最高【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9997780244)
+- 驯兽
+- 发电
+	- [风力发电机 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5%E6%9C%BA)
+- 畜牧
+	- 房间里建个木畜栏标牌（杂项）
+	- 干草
+		- 上方画去除屋顶区
+	- 粗饲料
+		- 干草可能还没长好，先做点粗饲料放畜牧区
+	- ---
+	- [问一下各位，圈养的动物怎么喂食【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7783382852)
+	- [【环世界 Rimworld】入门农业，畜牧业 - 哔哩哔哩](https://www.bilibili.com/opus/823766622795726854)
+- 远行队（跑图）
+	- 加可骑乘动物可加速
+	- 先保存再点贸易可以 ((674b169c-92c4-460d-a11a-2b08d8f1853d))
+- 狩猎
+	- “野生动物”-点“i”查看“成体肉量”~~（“符合常识，可以不看”）~~
+	- 可以一次杀多只，不急着吃可以放在外面，等需要时再屠宰，只要尸体不坏，屠宰后的肉、皮等材料都是相同的新鲜度
+- 品质
+	- 很多产品（不包括结构）和服务都有品质（使用价值）上的差异，主要受手工技能影响
+	- [制造物品的品质由哪些因素决定？【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9654931421)
+	- 单7级手工最高~~只~~造出过极佳~~（“哈哈，SL几十回刚打完这句话没两三下就刷出来了”）~~的防尘大衣
+- 交易
+	- 好像有切石机后固定刷商人
+	- 多出来的衣服（包括裸体主义脱下来的）建议别卖，有的新角色可能由于各种原因缺衣服
+- ---
+- 皇权DLC
+	- 第一个任务（一位骑士被发疯的小动物追杀）
+		- 骑士可能带有用的技能，比如信赖之语可以对囚犯用
+		- 成功后好像固定有角色开party，其他角色会自动参加
+	- 贵族
+		- [请问皇权dlc内容怎么玩【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9254076846)
+		- [皇权dlc这个头衔我就没搞懂【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7250560824)
+	- 信赖之语可以加快招降
+		- [请问信赖之语这个技能怎么使用【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7269351964)
+- 奥德赛DLC
+	- 调查飞船
+- 异象DLC
+	- 调查巨石
+- 文化（意识形态）DLC
+	- [文化DLC毫无设计深度，估计泰南制作的时候脑子飞走了【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/10127647455)
+- 任务
+- 袭击
+- 战斗
+	- 武器
+		- 乱开枪（快枪手）等高射速特性用高射速武器可更好压制
+	- 征召
+	- 有一定距离的多扇门可以轮流开门杀
+	- 一人站圆心射击，一人绕圈放风筝
+	- 可以引野生动物攻击敌人
+		- 用爆炸鼠、爆炸羊炸
+	- 要抓俘可以用低品质冲锋手枪
+	- [【rimworld】1.6限制敌人开枪的速射阵：从大巧不工到因材施策_游戏热门视频](https://www.bilibili.com/video/BV1rrKZzwEu1/)
+- 治疗
+	- [有没有哪个大神列一下各种部位受伤后的治疗方法【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/6107511872)
+- 囚犯
+	- [萌新提问🥺【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9730986881)
+	- 招募
+		- 可以SL选想招的人
+	- 记得改策略
+	- 逃跑抓不了可以把医疗床改回来
+- 招募
+	- [【环世界】让野人直接加入的办法_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DX4y1K78W/)
+- [RimWorld - Sci-Fi Colony Sim](https://rimworldgame.com/)
+- [RimWorld Wiki](https://rimworldwiki.com/)
+- ---
+- [打开这个游戏前，请确保你有足够的时间〖游戏不止〗_环世界](https://www.bilibili.com/video/BV1HcczezEvC/)
+- [【warma实况】一不小心玩通宵了！刻进DNA里的种地养鸡求生游戏《Rimworld》_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV15E411V78F/)
+- [实在想不出？还有啥坏事是这游戏不能干的！_游戏热门视频](https://www.bilibili.com/video/BV1kPawzgEE1/)
+- [凭什么12年来从未有游戏能超越环世界_游戏杂谈](https://www.bilibili.com/video/BV1YNsWzeEd7/)
+- ---
+- [体验引擎 游戏设计全景探秘 - Anna’s Archive](https://annas-archive.org/md5/f8a4575701432b8396a575d4e2f64b08)
