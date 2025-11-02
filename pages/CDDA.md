@@ -300,6 +300,7 @@
 					- 但综合训练效率和其他收获效率看好像不太值
 			- 远程技能
 			- 互动技能
+			  collapsed:: true
 				- 运动
 					- 可根据现实中的 ((678a4dd4-5f36-416b-b648-56964a88536c)) 的调整
 				- 机械学
@@ -574,12 +575,15 @@
 			- “感觉不错”>“感觉还行”（绿色）
 			- ((6743dbdb-6fa1-43c6-84b5-15b58486053c))
 		- 疲惫
+		  collapsed:: true
 			- [How exactly does the Weariness system work? : r/cataclysmdda](https://www.reddit.com/r/cataclysmdda/comments/10rx16k/how_exactly_does_the_weariness_system_work/)
 		- [【图片】肢体系数浅析【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9142732841)
 		- [【图片】试着AI生成了一下自己的角色【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9235827268)
 		- 技能
+		  collapsed:: true
 			- 配合读书好像没纯实践快，至少初级应该是这样
 			- [Remove toggling skill training on/off by RenechCDDA · Pull Request #81381 · CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA/pull/81381)
+			  collapsed:: true
 				- 专心驾驶劳神，合理
 		- ---
 		- 变异
@@ -2831,6 +2835,8 @@
 				- 隔着大地图2格左右刷新地点
 					- 比如奶牛场
 					- ((67553cf9-1b09-47a3-87c1-01448453d1d3))
+				- ---
+				- sl大法，技巧决定运气
 			- 调试
 			  id:: 68480dde-3d5d-4041-8406-7240ecacd817
 			  collapsed:: true
