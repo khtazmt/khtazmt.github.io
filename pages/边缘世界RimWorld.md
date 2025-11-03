@@ -1,12 +1,33 @@
 - 开始玩 [[20251026]]
 - [《环世界/边缘世界(RimWorld)》|v1.6.4566+全DLC|中文|免安装硬盘版 - SWITCH618游戏公益分享](https://www.switch618.com/313.html)
   id:: 68fd8dd6-ce10-4956-9b3a-4278d570736a
+- DLC
+	- 皇权DLC
+	  collapsed:: true
+		- 第一个任务（一位骑士被发疯的小动物追杀）
+			- 骑士可能带有用的技能，比如信赖之语可以对囚犯用
+			- 成功后好像固定有角色开party，其他角色会自动参加
+		- 贵族
+			- [请问皇权dlc内容怎么玩【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9254076846)
+			- [皇权dlc这个头衔我就没搞懂【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7250560824)
+		- 信赖之语可以加快招降
+			- [请问信赖之语这个技能怎么使用【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7269351964)
+	- 奥德赛DLC
+		- 调查飞船
+	- 异象DLC
+	  collapsed:: true
+		- 调查巨石
+	- 生物科技DLC
+		- [【环世界】生物科技DLC 攻略 基因篇_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1B7421R7mX/)
+	- 文化（意识形态）DLC
+		- [文化DLC毫无设计深度，估计泰南制作的时候脑子飞走了【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/10127647455)
 - 模组
 	- “纯新手，原版的UI和交互确实依壁雕凿”
 	- [【边缘世界1.6】新人必备25款MOD推荐！_游戏热门视频](https://www.bilibili.com/video/BV1mou4zhERK/)
 		- >学习版要怎么下 ![[大哭]](https://i1.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png@40w_40h.avif)找不到人分享
 			- >可以用steamcmd下创意工坊的mod，下好了直接拉进rimworld里的mods，mod要排序的话用可以搭配别的管理器，学习版麻烦好多
 	- [【边缘世界1.6】最全面的新人100款Mod推荐！（超大合集）_哔哩哔哩bilibili_环世界](https://www.bilibili.com/video/BV1yitzzuEZz/)
+	- [[1.6/环世界]碧蓝档案-新世界Mod九月总结——开启公测！_哔哩哔哩bilibili_环世界](https://www.bilibili.com/video/BV1p3abznE8z/)
 	- [[CDDA]]
 		- [Steam Workshop::Feng's Cataclysm DDA Collection](https://steamcommunity.com/workshop/filedetails/?id=959137811)
 		- [Pretty cool rimworld clone with a CDDA flavor :: Dwarf Fortress General Discussions](https://steamcommunity.com/app/975370)
@@ -35,7 +56,9 @@
 		- [求崩溃艺术家的正确打开方式【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/6577655372)
 		- [夜猫子这特性咋用【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/5975150477)
 	- 技能
+		- [【环世界小课堂】技能带火有什么用？怎么训练技能等级？_哔哩哔哩bilibili_实况解说](https://www.bilibili.com/video/BV1LaLtzFEjh)
 		- 建造
+		  collapsed:: true
 			- 餐椅、风力发电机（然后食物可能就不够了）、电缝纫台4级
 			- 扶手椅、沙发5级
 			- >入门的时候玩了两个档，有一个档三个人最高建造四级不带火，还有一个档种植最高四级不带火 ![[笑哭]](https://i0.hdslb.com/bfs/emote/c3043ba94babf824dea03ce500d0e73763bf4f40.png@40w_40h.avif) 。没建造的档玩的太难受直接删了，想造东西都不解锁;没种植的档前期靠打猎营养膏制冷机，感觉影响不大。
@@ -119,13 +142,13 @@
 			- 如果无法研究，可将优先级调到1
 			- [[边缘世界] 科技树与科研系统精讲_环世界_教程](https://www.bilibili.com/video/BV1NrRsYsEDA/)
 		- 裁缝
-			- 象皮等做防尘大衣
+			- 骆驼皮、象皮等做防尘大衣
 	- [【图片】边缘材料学【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/8414043842)
 - 种植
 	- [肥沃土地种什么产出最高【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9997780244)
-- 驯兽
 - 发电
 	- [风力发电机 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5%E6%9C%BA)
+- 驯兽
 - 畜牧
 	- 房间里建个木畜栏标牌（杂项）
 	- 干草
@@ -135,31 +158,22 @@
 	- ---
 	- [问一下各位，圈养的动物怎么喂食【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7783382852)
 	- [【环世界 Rimworld】入门农业，畜牧业 - 哔哩哔哩](https://www.bilibili.com/opus/823766622795726854)
-- 远行队（跑图）
-	- 加可骑乘动物可加速
-	- 先保存再点贸易可以 ((674b169c-92c4-460d-a11a-2b08d8f1853d))
-- 狩猎
-	- “野生动物”-点“i”查看“成体肉量”~~（“符合常识，可以不看”）~~
-	- 可以一次杀多只，不急着吃可以放在外面，等需要时再屠宰，只要尸体不坏，屠宰后的肉、皮等材料都是相同的新鲜度
 - 交易
 	- 好像有切石机后固定刷商人
 	- 多出来的衣服（包括裸体主义脱下来的）建议别卖，有的新角色可能由于各种原因缺衣服
+- 远行队（跑图）
+	- [【九七的小知识】31.赚钱排行/贸易相关小知识_哔哩哔哩bilibili_实况解说](https://www.bilibili.com/video/BV1gBJzzbEkb/)
+	- [【环世界小课堂】三天脱贫！环世界赚钱攻略？_实况解说](https://www.bilibili.com/video/BV1cT5fz9EBZ/)
+	- ((6908081d-c1cc-42f9-991c-6cd1d9eb42e4))
+	- 距离5格有路有加速动物往返半天左右，早点去看看
+	- 先保存再点贸易可以 ((674b169c-92c4-460d-a11a-2b08d8f1853d))
+- 采矿
+	- [10分钟快速上手环世界：关于矿物和跑商_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1XV4QzUE7x/)
+	  id:: 6908081d-c1cc-42f9-991c-6cd1d9eb42e4
+- 狩猎
+	- “野生动物”-点“i”查看“成体肉量”~~（“符合常识，可以不看”）~~
+	- 可以一次杀多只，不急着吃可以放在外面，等需要时再屠宰，只要尸体不坏，屠宰后的肉、皮等材料都是相同的新鲜度
 - ---
-- 皇权DLC
-	- 第一个任务（一位骑士被发疯的小动物追杀）
-		- 骑士可能带有用的技能，比如信赖之语可以对囚犯用
-		- 成功后好像固定有角色开party，其他角色会自动参加
-	- 贵族
-		- [请问皇权dlc内容怎么玩【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9254076846)
-		- [皇权dlc这个头衔我就没搞懂【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7250560824)
-	- 信赖之语可以加快招降
-		- [请问信赖之语这个技能怎么使用【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7269351964)
-- 奥德赛DLC
-	- 调查飞船
-- 异象DLC
-	- 调查巨石
-- 文化（意识形态）DLC
-	- [文化DLC毫无设计深度，估计泰南制作的时候脑子飞走了【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/10127647455)
 - 任务
 - 袭击
 - 战斗
