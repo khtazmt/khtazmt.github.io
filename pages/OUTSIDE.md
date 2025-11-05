@@ -33,7 +33,6 @@
 		- 0.00007元
 			- ((6906e6fb-719d-4f8c-a543-9f40b802f642)) （0.018g，2元/斤）
 	- TODO 灰（毫；0.0001-0.001元）
-	  collapsed:: true
 		- “挥毫泼墨”
 		- “丝毫是吧？——真量过？”
 	- 白（厘；0.001-0.01元）
@@ -180,6 +179,8 @@
 	  collapsed:: true
 		- “换句话说，更真实，没那么同质化”
 - 玩法
+  collapsed:: true
+	- 三人胜电脑
 	- 匹配
 	  collapsed:: true
 		- 线上匹配
@@ -279,6 +280,7 @@
 		  collapsed:: true
 			- “你跑？那我追！”
 				- ~~“这也是你游play的一环吗？”~~
-		- LNT
-		  collapsed:: true
-			- ((68eb467c-b9d3-480b-8648-b34ba2969d31))
+		- “一些英文缩写认证”
+			- LNT
+			  collapsed:: true
+				- ((68eb467c-b9d3-480b-8648-b34ba2969d31))
