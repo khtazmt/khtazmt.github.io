@@ -1,6 +1,4 @@
 # Hello World！——To Be Continued...
-	- [[地球]]
-	- [[行业]]
 	- [[材料]]
 	- ---
 	- There are Chinese puns, idioms
