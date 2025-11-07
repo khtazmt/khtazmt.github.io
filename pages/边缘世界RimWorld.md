@@ -31,6 +31,7 @@
 	- [[CDDA]]
 		- [Steam Workshop::Feng's Cataclysm DDA Collection](https://steamcommunity.com/workshop/filedetails/?id=959137811)
 		- [Pretty cool rimworld clone with a CDDA flavor :: Dwarf Fortress General Discussions](https://steamcommunity.com/app/975370)
+- [【工具】RimWorld Translate Helper @邊緣世界 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php)
 - [序一.基础设置及讲解【环世界1.6纯原版教学】_环世界_实况解说](https://www.bilibili.com/video/BV17ce7zLESW/)
   id:: 68febd3c-3003-4cc8-a699-2c36952c14d0
 	- “辩证地看待，有选择地看待”，比如可以一落地就尽快切大理石走起，先小房间再大围墙，房间合理分区，而不是规划优先于现时需求

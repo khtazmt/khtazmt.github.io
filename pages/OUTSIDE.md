@@ -116,7 +116,7 @@
 		  collapsed:: true
 			- ((68eb469e-85b9-4a9a-8dfb-ab03624f3c65))
 		- 0.5元/米
-		  collapsed:: true
+		  id:: 69084754-90ff-4c1e-82af-ad4b9f6b694b
 			- ((6836cb47-eaff-47c1-9093-be9808b53418))
 		- 0.58元/升
 		  collapsed:: true
@@ -247,14 +247,17 @@
 		- 确认顺序，给定近似范围，先猜优先，更近优先
 	- 道具物物交易
 	- 道具组合
+	  collapsed:: true
 		- 组合随机携带道具
 			- ~~“卖整合包喽！”~~
 	- ((68fd6c3a-caa7-4f71-aa8f-39d909b6f950))
 	- 识别玩家
+	  collapsed:: true
 		- 可以包括未准备的、“看看”的
 		- “拍个宣传综艺好了”
 		- “大家都在问：谁是玩家？”
 	- 游戏中状态
+	  collapsed:: true
 		- 击倒
 		  collapsed:: true
 			- “屁股走路是吧？”
@@ -286,3 +289,5 @@
 			- LNT
 			  collapsed:: true
 				- ((68eb467c-b9d3-480b-8648-b34ba2969d31))
+	- ---
+	- 《20元SM广场速通大赛》 #苏州植青
