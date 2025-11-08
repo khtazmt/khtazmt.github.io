@@ -1,5 +1,6 @@
 - 这是个[[ARG]]
 - 名称参考[[INSIDE]]
+- “你（指电子游戏及其玩家）出来了吗？”
 - [Calvin HarrisEllie Goulding - Outside_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18x411z7s8/)
 - 价值、意义
   collapsed:: true
@@ -178,8 +179,8 @@
 			- ((68eb4681-679b-463f-9710-7eab5198ca86))
 	- ---
 	- “这些不同级别道具的效果不太像电子游戏里那样有可比性吧？”
-	  collapsed:: true
 		- “换句话说，更真实，没那么同质化”
+		- 大多接近完全竞争、有较高的易获得性
 - 玩法
   collapsed:: true
 	- 三人胜电脑
