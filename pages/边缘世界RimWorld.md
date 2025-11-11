@@ -3,10 +3,11 @@
   id:: 68fd8dd6-ce10-4956-9b3a-4278d570736a
 - DLC
 	- 皇权DLC
-	  collapsed:: true
 		- 第一个任务（一位骑士被发疯的小动物追杀）
 			- 骑士可能带有用的技能，比如信赖之语可以对囚犯用
 			- 成功后好像固定有角色开party，其他角色会自动参加
+		- [贵族卧室相关疑问【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9754343816)
+		- ---
 		- 贵族
 			- [请问皇权dlc内容怎么玩【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9254076846)
 			- [皇权dlc这个头衔我就没搞懂【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7250560824)
@@ -31,6 +32,7 @@
 	- [[CDDA]]
 		- [Steam Workshop::Feng's Cataclysm DDA Collection](https://steamcommunity.com/workshop/filedetails/?id=959137811)
 		- [Pretty cool rimworld clone with a CDDA flavor :: Dwarf Fortress General Discussions](https://steamcommunity.com/app/975370)
+	- [[边缘世界]加我好友自动转生边缘世界_环世界](https://www.bilibili.com/video/BV17asyzqEsL)
 - [【工具】RimWorld Translate Helper @邊緣世界 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php)
 - [序一.基础设置及讲解【环世界1.6纯原版教学】_环世界_实况解说](https://www.bilibili.com/video/BV17ce7zLESW/)
   id:: 68febd3c-3003-4cc8-a699-2c36952c14d0
@@ -51,6 +53,8 @@
 			- [奥德赛添加的黑曜石【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9885266964)
 - [【图片】分享一些快捷操作方法【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/6617385043)
 - [萌新求助，关于快捷键【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7500794301)
+- [RimWorld - Sci-Fi Colony Sim](https://rimworldgame.com/)
+- [RimWorld Wiki](https://rimworldwiki.com/)
 - 角色
 	- 特性
 		- [Traits - RimWorld Wiki](https://rimworldwiki.com/wiki/Traits)
@@ -88,10 +92,11 @@
 			- 精神叶6级
 				- 前期招其他亚型人类可能用得上
 		- 烹饪
-			- 精致食物6级、奢侈食物8级
+			- 精致食物6级、奢侈食物（需要精致食物的2倍材料）8级
 				- “都50XX年了连个饭都不会做？！”
 				- 当然前期可以吃营养膏，后期可以招厨师，所以影响不是很大
 - 房间、基地
+  collapsed:: true
 	- 墙、门围成房间，其中的建造物影响房间分类的判定，部分建造物与所在房间的分类不匹配会受工作速度惩罚
 	- 按G打开房间视图，光标停在哪个房间上就显示哪个房间的属性，标*的属性对该类房间重要
 	  id:: 6911b463-b3e6-46a2-b634-3b03f7e85c90
@@ -106,8 +111,10 @@
 	- 蓝图
 		- [预览效果史诗级提升，通用蓝图模组更新！_哔哩哔哩bilibili](https://www.bilibili.com/video/BV1EfamzcEaJ)
 	- 更高心情
+	  collapsed:: true
 		- ~~“爱民如子的超凡智能”~~
 	- 更好看、自然
+	  collapsed:: true
 		- [Watabou's Procgen Arcana](https://watabou.github.io/)
 			- [玩环世界只会13×13正方形？可以试试这个_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12i3bz6EzH/)
 - 品质
@@ -127,13 +134,22 @@
 	- 区域
 		- 储存区
 			- 可设置种类，比如大理石块等材料放房间外，餐桌旁只放餐食
-			- 可设置优先级
+			- 可设置优先级，种类相同时会往优先级更高的搬运
+			- 常见几种储存区
+				- 钢铁、石砖、织物、零件、（需要的）石块等制作材料
+				- 用餐区域放过期前能吃完的精致食物等
+				- 其他物品
+					- 不含未完成
+					- 受精蛋（如果下在了没有屋顶的地方可能在孵化前就坏了）
+				- 冷库放食物及其原材料
 		- 垃圾储存区
 			- 把尸体等移到不影响角色的地方
 		- 种植区
 			- 右下开土地肥力滤镜
 		- 允许区域
 			- 可以很大程度上避免动物、角色等乱跑导致被敌人攻击等
+		- 建造屋顶区
+			- 屋顶区下的物品不受没有屋顶、下雨等的影响，房间屋顶区占比够高时（占比较小的种植等不影响）不受在户外的影响
 		- 移除屋顶区
 			- 农场可以全部移除
 	- 结构
@@ -165,13 +181,12 @@
 			- 骆驼皮、象皮等做防尘大衣
 	- [【图片】边缘材料学【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/8414043842)
 - 种植
-  collapsed:: true
+	- 开局先种水稻，然后主种高产省事玉米
 	- [肥沃土地种什么产出最高【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9997780244)
 - 发电
 	- [风力发电机 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5%E6%9C%BA)
 - 驯兽
 - 畜牧
-  collapsed:: true
 	- 房间里建个木畜栏标牌（杂项）
 	- 干草
 		- 上方画去除屋顶区
@@ -180,6 +195,7 @@
 	- 有些动物可能需要区域管理避免到处乱跑
 		- 扩建改建时注意调整区域
 	- ---
+	- [【环世界零基础新手教程】12 动物养殖篇_环世界](https://www.bilibili.com/video/BV1hc411m7FK/)
 	- [问一下各位，圈养的动物怎么喂食【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7783382852)
 	- [【环世界 Rimworld】入门农业，畜牧业 - 哔哩哔哩](https://www.bilibili.com/opus/823766622795726854)
 - 交易
@@ -199,23 +215,33 @@
 	- [10分钟快速上手环世界：关于矿物和跑商_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1XV4QzUE7x/)
 	  id:: 6908081d-c1cc-42f9-991c-6cd1d9eb42e4
 - 狩猎
+	- 也练枪法
 	- “野生动物”-点“i”查看“成体肉量”~~（“符合常识，可以不看”）~~
-	- 可以一次杀多只，不急着吃可以放在外面，等需要时再屠宰，只要尸体不坏，屠宰后的肉、皮等材料都是相同的新鲜度
-- 结婚
-	- 婚礼后结婚双方心情+40，持续30天，其他参加婚礼的+20，持续10天
+		- 条件够先杀肉多的，省时间
+	- 可以一次杀多只，不急着吃或放冷库可以放在外面，等需要时再屠宰，只要尸体不坏，屠宰后的肉、皮等材料都是相同的新鲜度
+- 按z搜索需要的材料等（比如各种矿）
+- ---
 - 心情
 	- 高心情容易来灵感（交易、建造制造、招降等有加成）
+- 事件
+	- [事件 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/%E4%BA%8B%E4%BB%B6)
+	- 任务
+		- 很多任务可能价值不高，可以不做
+		- 袭击
+		- 任务奖励
+			- [新人求助，这任务的三个奖励选哪个好啊？【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9222862937)
+		- 轨道商人
+			- 攻打机械族人工天气营地
+				- 三（没试过）到四人小组，两到三人步枪或霰弹枪，一人EMP手榴弹
+					- EMP手榴弹先后晕机械族单位、速射炮塔和火箭炮塔，摧毁速射炮塔后移动到火箭炮塔外，适时打到火箭炮塔殉爆正好炸到路过单位——如果没路过也没事，之后一个个偷死即可，最后打爆一个小炮塔炸坏另一个
+	- 结婚
+		- 婚礼后结婚双方心情+40，持续30天，其他参加婚礼的+20，持续10天——“正能量这一块”
+	- 仪式
+		- [仪式 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/%E4%BB%AA%E5%BC%8F)
+		- [Drum - RimWorld Wiki](https://rimworldwiki.com/wiki/Drum)
 - ---
-- 任务
-	- 很多任务可能价值不高，可以不做
-	- 任务奖励
-		- [新人求助，这任务的三个奖励选哪个好啊？【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9222862937)
-	- 轨道商人
-		- 攻打机械族人工天气营地
-			- 三（没试过）到四人小组，两到三人步枪或霰弹枪，一人EMP手榴弹
-				- EMP手榴弹先后晕机械族单位、速射炮塔和火箭炮塔，摧毁速射炮塔后移动到火箭炮塔外，适时打到火箭炮塔殉爆正好炸到路过单位——如果没路过也没事，之后一个个偷死即可，最后打爆一个小炮塔炸坏另一个
-- 袭击
 - 战斗
+  collapsed:: true
 	- 掩体
 		- 前期可以在门前放个
 	- 武器
@@ -225,20 +251,21 @@
 	- 一人站圆心射击，一人绕圈放风筝
 	- 可以引野生动物攻击敌人
 		- 用爆炸鼠、爆炸羊炸
-	- 要抓俘可以用低品质冲锋手枪
+	- 要抓俘可以用低品质冲锋手枪等低伤害武器
 	- [【rimworld】1.6限制敌人开枪的速射阵：从大巧不工到因材施策_游戏热门视频](https://www.bilibili.com/video/BV1rrKZzwEu1/)
 - 治疗
+  collapsed:: true
 	- [有没有哪个大神列一下各种部位受伤后的治疗方法【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/6107511872)
 - 囚犯
+  collapsed:: true
 	- [萌新提问🥺【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9730986881)
 	- 招募
 		- 可以SL选想招的人
 	- 记得改策略
 	- 逃跑抓不了可以把医疗床改回来
 - 招募
+  collapsed:: true
 	- [【环世界】让野人直接加入的办法_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DX4y1K78W/)
-- [RimWorld - Sci-Fi Colony Sim](https://rimworldgame.com/)
-- [RimWorld Wiki](https://rimworldwiki.com/)
 - ---
 - [打开这个游戏前，请确保你有足够的时间〖游戏不止〗_环世界](https://www.bilibili.com/video/BV1HcczezEvC/)
 - [【warma实况】一不小心玩通宵了！刻进DNA里的种地养鸡求生游戏《Rimworld》_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV15E411V78F/)

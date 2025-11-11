@@ -48,7 +48,6 @@
 			- ((68eb464e-03e7-4782-8ec9-dd44098b3560))
 			- ((68eb4669-8cf7-4940-9c0c-2ef82eb32623))
 		- 0.005-0.01元
-		  collapsed:: true
 			- ((68eb467a-a7b6-4fb2-86c6-21486d8aa52f))
 		- 0.006元
 		  collapsed:: true
