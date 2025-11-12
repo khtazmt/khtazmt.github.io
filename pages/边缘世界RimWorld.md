@@ -6,6 +6,7 @@
 		- 第一个任务（一位骑士被发疯的小动物追杀）
 			- 骑士可能带有用的技能，比如信赖之语可以对囚犯用
 			- 成功后好像固定有角色开party，其他角色会自动参加
+		- 可以升贵族飞天
 		- [贵族卧室相关疑问【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9754343816)
 		- ---
 		- 贵族
@@ -118,6 +119,7 @@
 		- [Watabou's Procgen Arcana](https://watabou.github.io/)
 			- [玩环世界只会13×13正方形？可以试试这个_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12i3bz6EzH/)
 - 品质
+  id:: 690847c3-3cca-4307-80ba-2be6ebd09fba
   collapsed:: true
 	- 很多产品（不包括结构）和服务都有品质（使用价值）上的差异，主要受手工技能影响
 	- 高品质加美观度，美观度加房间观感，观感加角色心情
@@ -226,7 +228,7 @@
 - 事件
 	- [事件 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/%E4%BA%8B%E4%BB%B6)
 	- 任务
-		- 很多任务可能价值不高，可以不做
+		- 很多任务可能价值不高或者离太远时间成本高，可以不做
 		- 袭击
 		- 任务奖励
 			- [新人求助，这任务的三个奖励选哪个好啊？【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9222862937)
@@ -273,3 +275,4 @@
 - [凭什么12年来从未有游戏能超越环世界_游戏杂谈](https://www.bilibili.com/video/BV1YNsWzeEd7/)
 - ---
 - [体验引擎 游戏设计全景探秘 - Anna’s Archive](https://annas-archive.org/md5/f8a4575701432b8396a575d4e2f64b08)
+- [环世界belike：_游戏热门视频](https://www.bilibili.com/video/BV1ewsWziEVe)
