@@ -197,6 +197,7 @@
 	- 有些动物可能需要区域管理避免到处乱跑
 		- 扩建改建时注意调整区域
 	- ---
+	- [孩子们，学会觅食的猪会帮你养活整个殖民地【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9864313357)
 	- [【环世界零基础新手教程】12 动物养殖篇_环世界](https://www.bilibili.com/video/BV1hc411m7FK/)
 	- [问一下各位，圈养的动物怎么喂食【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7783382852)
 	- [【环世界 Rimworld】入门农业，畜牧业 - 哔哩哔哩](https://www.bilibili.com/opus/823766622795726854)
