@@ -1,29 +1,57 @@
 - 开始玩 [[20251026]]
-- [《环世界/边缘世界(RimWorld)》|v1.6.4566+全DLC|中文|免安装硬盘版 - SWITCH618游戏公益分享](https://www.switch618.com/313.html)
-  id:: 68fd8dd6-ce10-4956-9b3a-4278d570736a
+- 下载
+	- [《环世界/边缘世界(RimWorld)》|v1.6.4566+全DLC|中文|免安装硬盘版 - SWITCH618游戏公益分享](https://www.switch618.com/313.html)
+	  id:: 68fd8dd6-ce10-4956-9b3a-4278d570736a
+- 纯原版（核心，无DLC）
+	- [序一.基础设置及讲解【环世界1.6纯原版教学】_环世界_实况解说](https://www.bilibili.com/video/BV17ce7zLESW/)
+	  id:: 68febd3c-3003-4cc8-a699-2c36952c14d0
+		- “辩证地看待，有选择地看待”，比如可以一落地就尽快切大理石走起，先小房间再大围墙，房间合理分区，而不是规划优先于现时需求
+		- 前期基地内一个超大工作间说是
+		- [【环世界V1.6】全DLC43*43完美基地飞船形态分享_游戏热门视频](https://www.bilibili.com/video/BV1Sf8izCEaP/)
+		  id:: 69005246-12a9-43d5-a37b-2436c27c5eff
+		- ![image.png](../assets/image_1761525081167_0.png)
 - DLC
+	- 奥德赛DLC
+		- 调查飞船
+		- 可以造飞船基地
+		- 研究解锁载客穿梭机，距离较远的世界任务也可以做了
+			- 发射一次最少50燃料
+			- [载客穿梭机 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/%E8%BD%BD%E5%AE%A2%E7%A9%BF%E6%A2%AD%E6%9C%BA)
+			- [【Rimworld 1.6】我说1.6版本的神是—穿梭机，谁赞成谁反对 07_游戏热门视频](https://www.bilibili.com/video/BV1RnHLz6EQY/)
+			- [【环世界】野外地点瞬间装载穿梭机_环世界_技巧](https://www.bilibili.com/video/BV1pbbEz7Eti/)
+		- [【边缘世界1.6】一口气带你了解正式版奥德赛DLC所有内容！_游戏热门视频](https://www.bilibili.com/video/BV18jGPz3EeG/)
+		- [1.开局设置及讲解【边缘世界单奥德赛DLC萌新入门攻略】_游戏热门视频](https://www.bilibili.com/video/BV1FWuFzgEfv/)
 	- 皇权DLC
+	  collapsed:: true
 		- 第一个任务（一位骑士被发疯的小动物追杀）
 			- 骑士可能带有用的技能，比如信赖之语可以对囚犯用
 			- 成功后好像固定有角色开party，其他角色会自动参加
 		- 可以升贵族飞天
 		- [贵族卧室相关疑问【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9754343816)
 		- ---
+		- [序一.萌新DLC选择【环世界1.6萌新进阶教学】_环世界_实况解说](https://www.bilibili.com/video/BV1BPpBzCEy6)
+		  id:: 6916ab25-4a50-4b02-9a03-e39a0b275acb
 		- 贵族
 			- [请问皇权dlc内容怎么玩【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9254076846)
 			- [皇权dlc这个头衔我就没搞懂【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7250560824)
 		- 信赖之语可以加快招降
 			- [请问信赖之语这个技能怎么使用【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7269351964)
-	- 奥德赛DLC
-		- 调查飞船
+	- 文化（意识形态）DLC
+	  collapsed:: true
+		- ((691276e8-bf6a-4354-a3b4-e96672784376))
+		- ((6916ab25-4a50-4b02-9a03-e39a0b275acb))
+		- [文化DLC毫无设计深度，估计泰南制作的时候脑子飞走了【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/10127647455)
+	- 生物科技DLC
+	  collapsed:: true
+		- 世界任务有可以拿基因包的地方
+		- [序.简单认识生物技术DLC【环世界1.6进阶教学】_游戏热门视频](https://www.bilibili.com/video/BV1jYHWzeEi4/)
+		- [【环世界】生物科技DLC 攻略 基因篇_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1B7421R7mX/)
 	- 异象DLC
 	  collapsed:: true
 		- 调查巨石
-	- 生物科技DLC
-		- [【环世界】生物科技DLC 攻略 基因篇_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1B7421R7mX/)
-	- 文化（意识形态）DLC
-		- [文化DLC毫无设计深度，估计泰南制作的时候脑子飞走了【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/10127647455)
+		- [序一.dlc简单讲解【环世界1.6主异象dlc教学】_哔哩哔哩bilibili_环世界_实况解说](https://www.bilibili.com/video/BV16TsRzYE2v/)
 - 模组
+  collapsed:: true
 	- “纯新手，原版的UI和交互确实依壁雕凿”
 	- [【边缘世界1.6】新人必备25款MOD推荐！_游戏热门视频](https://www.bilibili.com/video/BV1mou4zhERK/)
 		- >学习版要怎么下 ![[大哭]](https://i1.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png@40w_40h.avif)找不到人分享
@@ -35,14 +63,11 @@
 		- [Pretty cool rimworld clone with a CDDA flavor :: Dwarf Fortress General Discussions](https://steamcommunity.com/app/975370)
 	- [[边缘世界]加我好友自动转生边缘世界_环世界](https://www.bilibili.com/video/BV17asyzqEsL)
 - [【工具】RimWorld Translate Helper @邊緣世界 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php)
-- [序一.基础设置及讲解【环世界1.6纯原版教学】_环世界_实况解说](https://www.bilibili.com/video/BV17ce7zLESW/)
-  id:: 68febd3c-3003-4cc8-a699-2c36952c14d0
-	- “辩证地看待，有选择地看待”，比如可以一落地就尽快切大理石走起，先小房间再大围墙，房间合理分区，而不是规划优先于现时需求
-	- 前期基地内一个超大工作间说是
-	- [【环世界V1.6】全DLC43*43完美基地飞船形态分享_游戏热门视频](https://www.bilibili.com/video/BV1Sf8izCEaP/)
-	  id:: 69005246-12a9-43d5-a37b-2436c27c5eff
-	- ![image.png](../assets/image_1761525081167_0.png)
+- [RimWorld - Sci-Fi Colony Sim](https://rimworldgame.com/)
+- [RimWorld Wiki](https://rimworldwiki.com/)
+- ---
 - 地块
+  collapsed:: true
 	- [rimworld 地图种类以及难度评价_游戏热门视频](https://www.bilibili.com/video/BV1FZ4y1S7Sj/)
 	- 教程建议温带森林，前面教学视频建议干旱灌木原
 	- 靠近紫房子，有路，有大理石，无污染
@@ -54,10 +79,10 @@
 			- [奥德赛添加的黑曜石【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9885266964)
 - [【图片】分享一些快捷操作方法【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/6617385043)
 - [萌新求助，关于快捷键【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7500794301)
-- [RimWorld - Sci-Fi Colony Sim](https://rimworldgame.com/)
-- [RimWorld Wiki](https://rimworldwiki.com/)
 - 角色
+  collapsed:: true
 	- 特性
+	  collapsed:: true
 		- [Traits - RimWorld Wiki](https://rimworldwiki.com/wiki/Traits)
 		- [环世界原版全特性综合强度排行【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7772742391)
 			- [环世界原版全特性各时期强度及其主要特点【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7834720793)
@@ -65,6 +90,7 @@
 		- [求崩溃艺术家的正确打开方式【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/6577655372)
 		- [夜猫子这特性咋用【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/5975150477)
 	- 技能
+	  collapsed:: true
 		- [【环世界小课堂】技能带火有什么用？怎么训练技能等级？_哔哩哔哩bilibili_实况解说](https://www.bilibili.com/video/BV1LaLtzFEjh)
 		- 建造
 		  collapsed:: true
@@ -96,6 +122,9 @@
 			- 精致食物6级、奢侈食物（需要精致食物的2倍材料）8级
 				- “都50XX年了连个饭都不会做？！”
 				- 当然前期可以吃营养膏，后期可以招厨师，所以影响不是很大
+	- 心情
+	  collapsed:: true
+		- 高心情容易来灵感（交易、建造制造、招降等有加成）
 - 房间、基地
   collapsed:: true
 	- 墙、门围成房间，其中的建造物影响房间分类的判定，部分建造物与所在房间的分类不匹配会受工作速度惩罚
@@ -118,115 +147,8 @@
 	  collapsed:: true
 		- [Watabou's Procgen Arcana](https://watabou.github.io/)
 			- [玩环世界只会13×13正方形？可以试试这个_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12i3bz6EzH/)
-- 品质
-  id:: 690847c3-3cca-4307-80ba-2be6ebd09fba
-  collapsed:: true
-	- 很多产品（不包括结构）和服务都有品质（使用价值）上的差异，主要受手工技能影响
-	- 高品质加美观度，美观度加房间观感，观感加角色心情
-	- [品质 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/%E5%93%81%E8%B4%A8)
-	- [材质和品质对装备哪些影响?【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9218365155)
-	- [制造物品的品质由哪些因素决定？【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9654931421)
-	- 单7级手工最高~~只~~造出过极佳~~（“哈哈，SL几十回刚打完这句话没两三下就刷出来了”）~~的防尘大衣
-- 美观
-	- 雕像
-		- [雕像的大小巨，如何选择?【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/6013860826)
-- 双击全选同类物品，然后可以一起拖
-- 建造
-  collapsed:: true
-	- 区域
-		- 储存区
-			- 可设置种类，比如大理石块等材料放房间外，餐桌旁只放餐食
-			- 可设置优先级，种类相同时会往优先级更高的搬运
-			- 常见几种储存区
-				- 钢铁、石砖、织物、零件、（需要的）石块等制作材料
-				- 用餐区域放过期前能吃完的精致食物等
-				- 其他物品
-					- 不含未完成
-					- 受精蛋（如果下在了没有屋顶的地方可能在孵化前就坏了）
-				- 冷库放食物及其原材料
-		- 垃圾储存区
-			- 把尸体等移到不影响角色的地方
-		- 种植区
-			- 右下开土地肥力滤镜
-		- 允许区域
-			- 可以很大程度上避免动物、角色等乱跑导致被敌人攻击等
-		- 建造屋顶区
-			- 屋顶区下的物品不受没有屋顶、下雨等的影响，房间屋顶区占比够高时（占比较小的种植等不影响）不受在户外的影响
-		- 移除屋顶区
-			- 农场可以全部移除
-	- 结构
-		- 相邻房间可以共用墙、门等
-			- 围绕生产设备等的斜墙可以按需辗转腾挪地扩大
-		- 门的材料影响门的打开速度，一般用木门比较快
-		- 门可以保持开启，可以代替通风孔
-- 生产
-  collapsed:: true
-	- [工作台操作位放椅子有什么用？【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/5032997713)
-	- [想问下 工具柜 怎么用？？？？？？？？？？？？？？？【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/4979148433)
-	- 清单（订单）
-		- 较大量的生产是计划经济，先把清单（与生产设备绑定，清单做完了找人微操也无法生产）、排班安排好省事，而不是看缺啥要做啥了找人微操
-	- 特定生产
-		- 屠宰
-			- 对应烹饪
-			- 地图上可能有其他动物捕杀后的尸体，允许后即可屠宰——“感谢大自然的馈赠🙏”
-			- 用允许屠宰的角色在有屠宰清单的屠宰台等右键优先屠宰（如果不优先屠宰），而不是右键拖尸体（可能拖不了）
-			- [为什么叫希望肉？【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9675184358)
-		- 研究
-			- 如果无法研究，可将优先级调到1
-			- 无菌材料
-				- 厨房、医院等提高房间清洁度
-				- [厨房和冷库都要铺无菌地板么？【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7539136766)
-			- 微电子
-				- 解锁高级研究台
-			- [[边缘世界] 科技树与科研系统精讲_环世界_教程](https://www.bilibili.com/video/BV1NrRsYsEDA/)
-		- 裁缝
-			- 骆驼皮、象皮等做防尘大衣
-	- [【图片】边缘材料学【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/8414043842)
-- 种植
-	- 开局先种水稻，然后主种高产省事玉米
-	- [肥沃土地种什么产出最高【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9997780244)
-- 发电
-	- [风力发电机 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5%E6%9C%BA)
-- 驯兽
-- 畜牧
-	- 房间里建个木畜栏标牌（杂项）
-	- 干草
-		- 上方画去除屋顶区
-	- 粗饲料
-		- 干草可能还没长好，先做点粗饲料放畜牧区
-	- 有些动物可能需要区域管理避免到处乱跑
-		- 扩建改建时注意调整区域
-	- ---
-	- [孩子们，学会觅食的猪会帮你养活整个殖民地【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9864313357)
-	- [【环世界零基础新手教程】12 动物养殖篇_环世界](https://www.bilibili.com/video/BV1hc411m7FK/)
-	- [问一下各位，圈养的动物怎么喂食【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7783382852)
-	- [【环世界 Rimworld】入门农业，畜牧业 - 哔哩哔哩](https://www.bilibili.com/opus/823766622795726854)
-- 交易
-  collapsed:: true
-	- 好像有切石机后固定刷商人
-	- 多出来的衣服（包括裸体主义脱下来的）建议别卖，有的新角色可能由于各种原因缺衣服
-- 远行队（跑图）
-  collapsed:: true
-	- [【九七的小知识】31.赚钱排行/贸易相关小知识_哔哩哔哩bilibili_实况解说](https://www.bilibili.com/video/BV1gBJzzbEkb/)
-	- [【环世界小课堂】三天脱贫！环世界赚钱攻略？_实况解说](https://www.bilibili.com/video/BV1cT5fz9EBZ/)
-	- ((6908081d-c1cc-42f9-991c-6cd1d9eb42e4))
-	- 距离5格有路有加速动物往返半天左右，早点去看看
-	- 先保存再点贸易可以 ((674b169c-92c4-460d-a11a-2b08d8f1853d))
-	- 地图上东西全部允许后在“世界”界面“重组远行队”即可像交易界面那样带走，无需在地图内一件件搬
-	- 过夜不一定到的地方有床，需要带睡袋（家具）
-- 采矿
-	- [10分钟快速上手环世界：关于矿物和跑商_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1XV4QzUE7x/)
-	  id:: 6908081d-c1cc-42f9-991c-6cd1d9eb42e4
-- 狩猎
-	- 也练枪法
-	- “野生动物”-点“i”查看“成体肉量”~~（“符合常识，可以不看”）~~
-		- 条件够先杀肉多的，省时间
-	- 可以一次杀多只，不急着吃或放冷库可以放在外面，等需要时再屠宰，只要尸体不坏，屠宰后的肉、皮等材料都是相同的新鲜度
-- 按z搜索需要的材料等（比如各种矿）
-- ---
-- 心情
-	- 高心情容易来灵感（交易、建造制造、招降等有加成）
 - 事件
+  collapsed:: true
 	- [事件 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/%E4%BA%8B%E4%BB%B6)
 	- 任务
 		- 很多任务可能价值不高或者离太远时间成本高，可以不做
@@ -240,8 +162,138 @@
 	- 结婚
 		- 婚礼后结婚双方心情+40，持续30天，其他参加婚礼的+20，持续10天——“正能量这一块”
 	- 仪式
+	  id:: 691276e8-bf6a-4354-a3b4-e96672784376
 		- [仪式 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/%E4%BB%AA%E5%BC%8F)
+		  id:: 691276eb-075c-44b6-9c6c-b6e7ae42568a
 		- [Drum - RimWorld Wiki](https://rimworldwiki.com/wiki/Drum)
+- 活动
+	- 建造
+	  collapsed:: true
+		- 区域
+		  collapsed:: true
+			- 储存区
+				- 可设置种类，比如大理石块等材料放房间外，餐桌旁只放餐食
+				- 可设置优先级，种类相同时会往优先级更高的搬运
+				- 常见几种储存区
+					- 钢铁、石砖、织物、零件、（需要的）石块等制作材料
+					- 用餐区域放过期前能吃完的精致食物等
+					- 其他物品
+						- 不含未完成
+						- 受精蛋（如果下在了没有屋顶的地方可能在孵化前就坏了）
+					- 冷库放食物及其原材料
+			- 垃圾储存区
+				- 把尸体等移到不影响角色的地方
+			- 种植区
+				- 右下开土地肥力滤镜
+			- 允许区域
+				- 可以很大程度上避免动物、角色等乱跑导致被敌人攻击等
+			- 建造屋顶区
+				- 屋顶区下的物品不受没有屋顶、下雨等的影响，房间屋顶区占比够高时（占比较小的种植等不影响）不受在户外的影响
+			- 移除屋顶区
+				- 农场可以全部移除
+		- 结构
+		  collapsed:: true
+			- 相邻房间可以共用墙、门等
+				- 围绕生产设备等的斜墙可以按需辗转腾挪地扩大
+			- 门的材料影响门的打开速度，一般用木门比较快
+			- 门可以保持开启，可以代替通风孔
+		- 发电
+			- [风力发电机 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5%E6%9C%BA)
+	- 种植
+	  collapsed:: true
+		- 开局先种水稻，然后主种高产省事玉米
+		- [肥沃土地种什么产出最高【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9997780244)
+	- 生产
+	  collapsed:: true
+		- [工作台操作位放椅子有什么用？【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/5032997713)
+		- [想问下 工具柜 怎么用？？？？？？？？？？？？？？？【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/4979148433)
+		- 清单（订单）
+		  collapsed:: true
+			- 较大量的生产是计划经济，先把清单（与生产设备绑定，清单做完了找人微操也无法生产）、排班安排好省事，而不是看缺啥要做啥了找人微操
+		- 织物
+		  collapsed:: true
+			- [【图片】边缘材料学【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/8414043842)
+		- 特定生产
+		  collapsed:: true
+			- 屠宰
+				- 对应烹饪
+				- 地图上可能有其他动物捕杀后的尸体，允许后即可屠宰——“感谢大自然的馈赠🙏”
+				- 用允许屠宰的角色在有屠宰清单的屠宰台等右键优先屠宰（如果不优先屠宰），而不是右键拖尸体（可能拖不了）
+				- [为什么叫希望肉？【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9675184358)
+			- 研究
+				- 如果无法研究，可将优先级调到1
+				- 无菌材料
+					- 厨房、医院等提高房间清洁度
+					- [厨房和冷库都要铺无菌地板么？【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7539136766)
+				- 微电子
+					- 解锁高级研究台
+				- [[边缘世界] 科技树与科研系统精讲_环世界_教程](https://www.bilibili.com/video/BV1NrRsYsEDA/)
+			- 裁缝
+				- 骆驼皮、象皮等做防尘大衣
+	- 野生动物
+		- 驯化（转为动物）
+		- 狩猎
+		  collapsed:: true
+			- 也练枪法
+			- “野生动物”-点“i”查看“成体肉量”~~（“符合常识，可以不看”）~~
+				- 条件够先杀肉多的，省时间
+			- 可以一次杀多只，不急着吃或放冷库可以放在外面，等需要时再屠宰，只要尸体不坏，屠宰后的肉、皮等材料都是相同的新鲜度
+	- 动物
+		- 自动屠宰
+			- 一般优先宰雄性幼体
+		- 畜牧
+		  collapsed:: true
+			- 房间里建个木畜栏标牌（杂项）
+			- 干草
+				- 上方画去除屋顶区
+			- 粗饲料
+				- 干草可能还没长好，先做点粗饲料放畜牧区
+			- 有些动物可能需要区域管理避免到处乱跑
+				- 扩建改建时注意调整区域
+			- ---
+			- [【环世界零基础新手教程】12 动物养殖篇_环世界](https://www.bilibili.com/video/BV1hc411m7FK/)
+			- 猪
+				- [孩子们，学会觅食的猪会帮你养活整个殖民地【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9864313357)
+			- 爆炸羊
+				- [爆炸羊 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/%E7%88%86%E7%82%B8%E7%BE%8A)
+			- [问一下各位，圈养的动物怎么喂食【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7783382852)
+			- [【环世界 Rimworld】入门农业，畜牧业 - 哔哩哔哩](https://www.bilibili.com/opus/823766622795726854)
+	- 世界
+	  collapsed:: true
+		- 远行队
+		  collapsed:: true
+			- [【九七的小知识】31.赚钱排行/贸易相关小知识_哔哩哔哩bilibili_实况解说](https://www.bilibili.com/video/BV1gBJzzbEkb/)
+			- [【环世界小课堂】三天脱贫！环世界赚钱攻略？_实况解说](https://www.bilibili.com/video/BV1cT5fz9EBZ/)
+			- ((6908081d-c1cc-42f9-991c-6cd1d9eb42e4))
+			- 距离5格有路有加速动物往返半天左右，早点去看看
+			- 先保存再点贸易可以 ((674b169c-92c4-460d-a11a-2b08d8f1853d))
+			- 地图上东西全部允许后在“世界”界面“重组远行队”即可像交易界面那样带走，无需在地图内一件件搬
+			- 过夜不一定到的地方有床，需要带睡袋（家具）
+- “物品”
+	- [化合燃料 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/%E5%8C%96%E5%90%88%E7%87%83%E6%96%99)
+	- 品质
+	  id:: 690847c3-3cca-4307-80ba-2be6ebd09fba
+	  collapsed:: true
+		- 很多产品（不包括结构）和服务都有品质（使用价值）上的差异，主要受手工技能影响
+		- 高品质加美观度，美观度加房间观感，观感加角色心情
+		- [品质 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/%E5%93%81%E8%B4%A8)
+		- [材质和品质对装备哪些影响?【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9218365155)
+		- [制造物品的品质由哪些因素决定？【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9654931421)
+		- 单7级手工最高~~只~~造出过极佳~~（“哈哈，SL几十回刚打完这句话没两三下就刷出来了”）~~的防尘大衣
+	- 美观
+	  collapsed:: true
+		- 雕像
+			- [雕像的大小巨，如何选择?【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/6013860826)
+	- 双击全选同类物品，然后可以一起拖
+- 交易
+	- 好像有切石机后固定刷商人
+	- 多出来的衣服（包括裸体主义脱下来的）建议别卖，有的新角色可能由于各种原因缺衣服
+- 采矿
+  collapsed:: true
+	- [10分钟快速上手环世界：关于矿物和跑商_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1XV4QzUE7x/)
+	  id:: 6908081d-c1cc-42f9-991c-6cd1d9eb42e4
+- 按z搜索需要的材料等（比如各种矿）
+- ---
 - ---
 - 战斗
   collapsed:: true
