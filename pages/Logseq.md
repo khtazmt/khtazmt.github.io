@@ -1,6 +1,7 @@
 - [[20210322]]开始用的
 - 对笔记软件的真正检验，不在于用户多寡，不在于社区规模，不在于付费量，而在于这个笔记软件造就了什么样的文明。
-	- >对文明的真正检验，不在于人口多寡，不在于城市规模，不在于庄稼产量，而在于这个国家造就了什么样的人。 ——拉尔夫·沃尔多·爱默生
+	- id:: 691989d0-ffa0-4697-b774-182429424270
+	  >对文明的真正检验，不在于人口多寡，不在于城市规模，不在于庄稼产量，而在于这个国家造就了什么样的人。 ——拉尔夫·沃尔多·爱默生
 - ((67b07706-126c-4c69-91b8-dcb79d246ff6))
 - [[Obsidian]]
 - [工作后，发现logseq更适合我 - 知乎](https://zhuanlan.zhihu.com/p/676562851)
@@ -252,8 +253,9 @@
 		- plugins文件夹（插件本体）
 		- settings文件夹（插件配置文件）
 		- preferences（主题和工具栏默认状态）
-- # 图谱
+- # 图谱/Graph view
 	- 这玩意可能有点新鲜，但实际上用处不大，也就图一看——当然也可能是我还不太会用
+	- Forces可以调着玩玩（“什么水宝宝大冲击”）
 	- [How to include links from backlinks in page graph - Questions & Help - Logseq](https://discuss.logseq.com/t/how-to-include-links-from-backlinks-in-page-graph/10766)
 	- [Graphical explanation of pages, blocks and references - Documentation - Logseq](https://discuss.logseq.com/t/graphical-explanation-of-pages-blocks-and-references/15966)
 - ((65ad2406-9c4c-4af6-a1cf-4dd73ee597a8))
