@@ -261,8 +261,10 @@
 			- [问一下各位，圈养的动物怎么喂食【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/7783382852)
 			- [【环世界 Rimworld】入门农业，畜牧业 - 哔哩哔哩](https://www.bilibili.com/opus/823766622795726854)
 	- 世界
+	  id:: 69198a0e-aad1-4e6a-ac10-d8e810e954e3
 	  collapsed:: true
 		- 远行队
+		  id:: 69198a0e-07ea-4ff2-a57d-01ef9bf01f05
 		  collapsed:: true
 			- [【九七的小知识】31.赚钱排行/贸易相关小知识_哔哩哔哩bilibili_实况解说](https://www.bilibili.com/video/BV1gBJzzbEkb/)
 			- [【环世界小课堂】三天脱贫！环世界赚钱攻略？_实况解说](https://www.bilibili.com/video/BV1cT5fz9EBZ/)

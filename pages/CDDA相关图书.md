@@ -165,6 +165,7 @@
 		- TODO [Amazon.com: The Museum of All Things Awesome and that Go Boom: 9781937794477: Merriam, Joanne, Kocz, Nick, Luce, Kelly, Nagamatsu, Sequoia, Oltion, Jerry, Pflug, Ursula, Satifka, Erica L., Smith, Matthew Sanborn, Stufflebeam, Bonnie Jo, Sussex, Lucy: 图书](https://www.amazon.com/Museum-Things-Awesome-that-Boom/dp/1937794474)
 			- “坏了，什么还真有的设定母本”
 	- [How to Live on Other Planets: A Handbook for Aspiring Aliens - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/book_anthology_htloop)
+	  id:: 691989d0-3a3e-449b-9e73-968e573591c2
 		- [How to live on other planets : a handbook for aspiring aliens - Anna’s Archive](https://annas-archive.se/md5/783edeb01eda97caf20e50f27be49c4d)
 	- [The Hitchhiker's Guide to the Cataclysm - The Hitchhiker's Guide to the Cataclysm](https://cdda-guide.nornagon.net/item/guidebook)
 		- 一个场景自带物品

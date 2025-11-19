@@ -355,3 +355,27 @@
 	- ((6917bf29-26c2-4dd2-abdc-483c0ceb9538))
 	- ((691b1841-2d0e-4f31-b04d-2c4a754e89cf))
 	- ((691c28fd-d470-42ce-8e01-ff80f0014a94))
+	- Aliens On Earth
+	  id:: 691d513e-9c41-4a53-80dd-a37674399222
+		- 骑电轻摩拿菜回来再听一遍 ((691d2742-d889-44a7-b15e-3a9698d82890)) 想到
+		- “身份和任务都是自己给的”
+			- “种族设定说是”
+		- [Aliens in Action: Be Host to Earth-未明子的动态-哔哩哔哩](https://t.bilibili.com/1119562416340860930)
+			- ~~“Aliens invasion是吧？”~~
+			- [Hosting Earth – Guestbook Project](https://guestbookproject.org/hostingearth/)
+		- ((69198a0e-aad1-4e6a-ac10-d8e810e954e3))
+		- ((691989d0-3a3e-449b-9e73-968e573591c2))
+		- ((691989cf-aa31-4ade-9e2c-684300266850))
+		- “你说的对，但是......”
+		- ~~“AOE是吧？大灭绝是吧？”~~
+		- ~~“你是地球人吗？你觉得你是”~~
+		- ((66e03ed0-81c5-4760-908e-a52703e33956))
+		- ((69198a29-a21f-40c0-944c-cf7b6a9a3e60))
+		- ~~“大记忆恢复术”~~
+		- ---
+		- [Aliens On Earth 😭 (Animation Meme) Anim： Tou.istou #shorts [H-l_D1bVIMg]_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV11Xj3zeE5c/)
+		  id:: 691d5267-ebd3-458b-8ca1-ee9e01777295
+		- [英语"On earth"是在地球上的的意思吗？美式英语讲解，精彩继续为您呈现！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1dT4y1T7XJ/)
+		- ((691d53f3-43d7-4de6-b0c0-b64962b014a3))
+		  id:: 691d537a-9023-42f4-abc5-098e065275dd
+		- [Emergency Alert System - Aliens On Earth - song and lyrics by CK Pellegrini | Spotify](https://open.spotify.com/track/0MIDFq8UiVwwj7N2HiOUjg?si=a21fe8d127fc4466)
