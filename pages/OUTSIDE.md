@@ -19,10 +19,8 @@
 		- ((670d40d8-7881-453d-9743-e11f5037b0f2))
 - 道具
   id:: 68fd800f-6a27-4e20-b5cb-cfdc1cebf643
-  collapsed:: true
 	- 参考 ((68eb467f-f3c8-45c2-aa3e-6553347c282c)) （“这辈子有了”）的道具分级，按货币价格分级（“唉，模拟进货或许好玩但费时”）
 	- 共享（0元）
-	  collapsed:: true
 		- ((69084789-e6a2-4d27-aaee-2df180b63554))
 		- ((69084758-558b-4b11-a2e1-fe295beb3647))
 		- ((69188876-7b70-4394-b519-4a8519e58cc8))
@@ -81,6 +79,8 @@
 		- ((69084786-fa01-4d68-836d-be05913abdf4)) ~~（“小伐不算伐”）~~
 		- [[虫]]（很多不是保护动物）
 		- （场地等免费）钓的鱼
+		- ---
+		- ((691bd128-deda-4ed1-afd4-86949ff4d186))
 	- 黑（丝；0.00001-0.0001元）
 		- ~~“黑丝有说法的”~~
 		- 0.00005元
@@ -357,6 +357,7 @@
 	- ((691c28fd-d470-42ce-8e01-ff80f0014a94))
 	- Aliens On Earth
 	  id:: 691d513e-9c41-4a53-80dd-a37674399222
+	  collapsed:: true
 		- 骑电轻摩拿菜回来再听一遍 ((691d2742-d889-44a7-b15e-3a9698d82890)) 想到
 		- “身份和任务都是自己给的”
 			- “种族设定说是”
@@ -379,3 +380,4 @@
 		- ((691d53f3-43d7-4de6-b0c0-b64962b014a3))
 		  id:: 691d537a-9023-42f4-abc5-098e065275dd
 		- [Emergency Alert System - Aliens On Earth - song and lyrics by CK Pellegrini | Spotify](https://open.spotify.com/track/0MIDFq8UiVwwj7N2HiOUjg?si=a21fe8d127fc4466)
+	- ((691f076b-5bdd-4861-9df1-cdd214444899))
