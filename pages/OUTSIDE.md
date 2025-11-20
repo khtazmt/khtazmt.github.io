@@ -361,7 +361,7 @@
 		- “身份和任务都是自己给的”
 			- “种族设定说是”
 		- [Aliens in Action: Be Host to Earth-未明子的动态-哔哩哔哩](https://t.bilibili.com/1119562416340860930)
-			- ~~“Aliens invasion是吧？”~~
+			- ~~“Aliens inva（未）sion是吧？”~~
 			- [Hosting Earth – Guestbook Project](https://guestbookproject.org/hostingearth/)
 		- ((69198a0e-aad1-4e6a-ac10-d8e810e954e3))
 		- ((691989d0-3a3e-449b-9e73-968e573591c2))
