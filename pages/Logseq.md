@@ -3,6 +3,7 @@
 	- id:: 691989d0-ffa0-4697-b774-182429424270
 	  >对文明的真正检验，不在于人口多寡，不在于城市规模，不在于庄稼产量，而在于这个国家造就了什么样的人。 ——拉尔夫·沃尔多·爱默生
 - ((67b07706-126c-4c69-91b8-dcb79d246ff6))
+- [Logseq: A privacy-first, open-source knowledge base](https://logseq.com/)
 - [[Obsidian]]
 - [工作后，发现logseq更适合我 - 知乎](https://zhuanlan.zhihu.com/p/676562851)
 - [logseq最近都没太多人关注了吗？  ? - 知乎](https://www.zhihu.com/question/634480324)

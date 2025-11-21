@@ -19,6 +19,7 @@
 		- ((670d40d8-7881-453d-9743-e11f5037b0f2))
 - 道具
   id:: 68fd800f-6a27-4e20-b5cb-cfdc1cebf643
+  collapsed:: true
 	- 参考 ((68eb467f-f3c8-45c2-aa3e-6553347c282c)) （“这辈子有了”）的道具分级，按货币价格分级（“唉，模拟进货或许好玩但费时”）
 	- 共享（0元）
 		- ((69084789-e6a2-4d27-aaee-2df180b63554))
@@ -178,7 +179,6 @@
 		  collapsed:: true
 			- ((68fb3086-9b6a-4a25-9d9b-168a2687a1a2))
 	- 紫（元；1-10元）
-	  collapsed:: true
 		- “生活必需品、快消这一块”
 		- ((68eb467c-1efa-433e-8970-389786cbe8a8))
 		- ((68eb467c-8033-445a-b064-4eb7e51e3b68))
@@ -186,6 +186,8 @@
 		- 各种刀
 		- ((690738ef-1c07-4496-a2c5-74b653399327))
 		- ((69073e35-d23c-4cd5-aa94-264f7cc5c92d))
+		- 1.4元
+			- ((691c1830-9b51-4703-914f-59f1171a765a))
 		- 1.85元
 		  collapsed:: true
 			- ((68fb8b03-396b-48da-bad5-300ea6c51d6e))
@@ -350,6 +352,7 @@
 			- LNT
 			  collapsed:: true
 				- ((68eb467c-b9d3-480b-8648-b34ba2969d31))
+				- 所以很多场地不用水弹，可能用纸团等便于回收（水弹不一定总有够用的清洁工具）的代替
 	- ---
 	- 《20元SM广场速通大赛》 #苏州植青
 	- ((6917bf29-26c2-4dd2-abdc-483c0ceb9538))
@@ -381,3 +384,5 @@
 		  id:: 691d537a-9023-42f4-abc5-098e065275dd
 		- [Emergency Alert System - Aliens On Earth - song and lyrics by CK Pellegrini | Spotify](https://open.spotify.com/track/0MIDFq8UiVwwj7N2HiOUjg?si=a21fe8d127fc4466)
 	- ((691f076b-5bdd-4861-9df1-cdd214444899))
+	- ((691ff98c-4ec2-43cc-80e1-9fdd5601c358))
+	- ((691ffb0d-3ffb-455a-815b-a289bf2e17d1))
