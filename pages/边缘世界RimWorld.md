@@ -22,7 +22,7 @@
 			- [【Rimworld 1.6】我说1.6版本的神是—穿梭机，谁赞成谁反对 07_游戏热门视频](https://www.bilibili.com/video/BV1RnHLz6EQY/)
 			- [【环世界】野外地点瞬间装载穿梭机_环世界_技巧](https://www.bilibili.com/video/BV1pbbEz7Eti/)
 		- [【边缘世界1.6】一口气带你了解正式版奥德赛DLC所有内容！_游戏热门视频](https://www.bilibili.com/video/BV18jGPz3EeG/)
-		- [1.开局设置及讲解【边缘世界单奥德赛DLC萌新入门攻略】_游戏热门视频](https://www.bilibili.com/video/BV1FWuFzgEfv/)
+		- [序.简单了解奥德赛dlc【环世界1.6全dlc实况解说】_哔哩哔哩bilibili_环世界_实况解说](https://www.bilibili.com/video/BV1wi2FBQEuT/)
 	- 皇权DLC
 	  collapsed:: true
 		- 第一个任务（一位骑士被发疯的小动物追杀）
