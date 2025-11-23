@@ -1,14 +1,8 @@
-- 本网站（khtazmt.github.io）是基于我（刘俊彦）的GitHub公开仓库[GitHub - khtazmt/khtazmt.github.io](https://github.com/khtazmt/khtazmt.github.io)的 ((658fc4ca-21a3-49e7-a6b8-6277d16e0062))
+- 本网站（khtazmt.github.io）是基于我（刘俊彦）的GitHub公开仓库[GitHub - khtazmt/khtazmt.github.io](https://github.com/khtazmt/khtazmt.github.io)的 ((658fc4ca-21a3-49e7-a6b8-6277d16e0062)) ，其中的笔记（即你在浏览器看到的网页）等内容主要使用[[Logseq]]制作
   id:: 66ade37e-72cf-4363-ad92-6fb748cbcc8d
   collapsed:: true
-	- “别把为师说出来”协议 [[20251122]]
-	  collapsed:: true
-		- 本网站（包括链接、标题、内容）及相关信息，仅可使用比较不公开的方式传播（建议参考 ((691b1841-2d0e-4f31-b04d-2c4a754e89cf)) ，实在赶时间也可以用各种私聊；第一次最多给个完整链接就算传好了，以后随便取名字即可；我本人与得到我各种授权的例外），即禁止使用网络平台、群聊等公开方式传播
-			- 正常人可能不会热衷满天下传播ta感觉有劲到有点爆的东西，可能更不会热衷满天下传播ta不以为然的史，这种事情我好像没啥印象，但我只想说懂的都懂，不懂的我也不多说了，说了你也不明白，不如不说，细细品吧，你也别来问我怎么回事，这里面利益牵扯太大了，说了对你我都没有好处，你就当不知道就行了，其余的我只能说这里水很深，牵扯到很多东西，详细情况你们很难找到的，网上大部分都删干净了，所以我说懂的都懂，不懂也没办法。
-		- ---
-		- 《我放弃了CC BY-NC-SA 4.0协议》（塑封）
 	- ((680a3159-582e-4340-ad7b-563a942bb8ae))
-	- “我的[[Logseq]]笔记真的很难看吗？”
+	- “我的Logseq笔记真的很难看吗？”
 	  collapsed:: true
 		- ((679adda9-ebf8-4b4d-9c2d-73b7a5906ac0))
 		- 淡蓝色的是页面链接，“下划线”是块引用（链接），都是可以点击跳转的（当然在导出的图片或截图里没法这么做）；左侧栏、右侧栏都可以展开/折叠
@@ -29,33 +23,71 @@
 		- ((6629f549-f80e-41bd-972f-0d54ee89c1fb)) 等更直观的呈现和陈列形式做起来时间成本较大——“读者可以借此做点想象训练”
 			- [《你有这么高速运转的机械进入中国》《黄龙江一派全都带蓝牙》听的CPU都烟！！！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Pt421a7rw)
 		- ((67a46496-86e8-411b-9525-6e8bb9d3afbd))
+- “别把为师说出来”协议 [[20251122]]
+  collapsed:: true
+	- 本网站（包括链接、标题、内容）及相关信息，仅可使用比较不公开的方式传播（建议参考 ((691b1841-2d0e-4f31-b04d-2c4a754e89cf)) ，实在赶时间也可以用各种私聊；第一次最多给个完整链接就算传好了，以后随便取“那个网站/博客/（笔记）库”之类的名字即可），即禁止使用网络平台、群聊、个性签名等公开方式传播——我本人和得到我各种授权的例外
+		- 正常人可能不会热衷满天下传播ta感觉有劲到有点爆的东西，可能更不会热衷满天下传播ta不以为然的史，这种事情我好像没啥印象，但我只想说懂的都懂，不懂的我也不多说了，说了你也不明白，不如不说，细细品吧，你也别来问我怎么回事，这里面利益牵扯太大了，说了对你我都没有好处，你就当不知道就行了，其余的我只能说这里水很深，牵扯到很多东西，详细情况你们很难找到的，网上大部分都删干净了，所以我说懂的都懂，不懂也没办法。
+	- ---
+	- 《我放弃了CC BY-NC-SA 4.0协议》（塑封）
 - ((670d40f3-496d-4a58-b303-1e7d353f8033))
 - ((65c589f9-342d-42c5-818c-f363a95b3847))
 - [[激烈的斗争]]
 - 我的部分联系方式
   id:: 67402aac-65b2-4b3b-8d67-0356818dcaf8
-  collapsed:: true
+	- ((691e9319-288b-461b-bcd8-345ae20bfc04))
+	  collapsed:: true
+		- https://xoyondo.com/mb/pfvyqz7ti21vr4e/qpm2kvohpc [[20251123]]
 	- 可能不固定的线下场所
+	  collapsed:: true
 		- ((691c2d5c-35d2-4405-8f5c-7754464fafbc))
 			- ((69206ee1-b2e8-4db0-9428-09cd07b3fd51)) 可现身
-			- “待研究”
+			- [[藏]]
 			  collapsed:: true
-				- 或者找个大点重点的亚克力斜架上的塑封书~~（“其他人真会把它们当装饰品吗？”）~~后面留一至多份（可以每份都总数）反面朝外的不透光的纸张（可能比纸片看起来更和谐；我去测下贴合的尺寸；“翻石头说是”），并有其他防偷看机制
-					- 人在附近想现身可写对应联系方式
-					- 不在附近可建一个 ((691e9319-288b-461b-bcd8-345ae20bfc04)) 取最后那段链接，下同
-						- 只要，分两或三行，前面可以加个“入库号”~~、“电脑密码”~~啥的
-						- 我回复默认说是哪（几）本书下面找到的来验证
-					- 我发现防偷看机制被触发（可能只是店员或热心顾客整理）可能会公开回复
-					- 篡改、调包、钓鱼执法~~（“对哦，我也没说过我是不是卧底！身份都是自己给的！哈哈哈！”）~~啥的我也是会看的，都是学习
+				- 待确定、先别藏
+					- 放哪？
+						- 找个大点重点的亚克力斜架上的塑封书~~（“其他人真会把它们当装饰品吗？”）~~
+						- 书架抽几本书放到旁边其他书上（“触发我的自动还书机制”），在旁边其他书后放
+						- 中、右画后
+					- 防偷看
+						- 一至多份（可以每份都总数）反面朝外的不透光的纸张（可能比纸片看起来更和谐；我去测下贴合的尺寸；“翻石头说是”）
+						- 正面防偷看
+							- “粉”
+								- “不容易 ((691989d0-21f4-4101-beab-4415f2d2cda3)) ”
+							- “ ((691989f6-02f4-4ffd-8a32-10d94133288c)) ”
+							- “ ((6922627c-44b4-4b68-a649-0248036c7c05)) ”
+				- 人在附近想现身可写对应联系方式
+				- 不在附近可建一个 ((691e9319-288b-461b-bcd8-345ae20bfc04)) 取最后那段链接，下同
+					- 只要，分两或三行，前面可以加个“入库号”~~、“电脑密码”~~啥的
+					- 我回复默认说是哪（几）本书下面找到的来验证
+				- 我发现防偷看机制被触发（可能只是店员或热心顾客整理）可能会公开回复
+				- 篡改、调包、钓鱼执法~~（“对哦，我也没说过我是不是卧底！身份都是自己给的！哈哈哈！”）~~啥的我也是会看的，都是学习
 	- ((67402aac-b37d-44cf-b8c5-86612c20c604))
 	- 我的b站账号： https://space.bilibili.com/31993860
 	  id:: 68317631-62dc-48ca-9f4a-58829a85fbc3
+	  collapsed:: true
 		- 一般的项目可以直接私聊
 			- 但b站的聊天记录可能不便管理
 			- 评论等内容如果含敏感内容可能被“仅自己可见”，也比较可能被查到
 				- ((68f20542-d6b4-41c3-84df-fa76c1b4937e))
 	- ---
 	- 最近一次重装系统忘了记 ((68a69d0a-160e-4e6e-991b-e32ef9e7cf5e)) 主密码，没实际用过的邮箱密码啥的也丢了一堆
+- 参与本网站创作
+  collapsed:: true
+	- 创作没啥难度，比较简单的是像我一样“纯提需求”（“但可能重复”）
+	  collapsed:: true
+		- 我觉得可以“商用”的话也会建议你保密，同时问你能不能把它记到我不公开的外库
+	- [[TODO]]
+	- [GitHub - khtazmt/khtazmt.github.io](https://github.com/khtazmt/khtazmt.github.io)
+	  id:: 67402aac-838e-4294-a36b-4cefcae7dba7
+	  collapsed:: true
+		- 可fork，然后在 ((659c981c-4681-4798-87dc-9cddea73f56e)) clone到本地，选择contribute to原仓库，然后用[[Logseq]]（推荐，不然很多块引用之类的格式内容看不到）或 ((65ab10fa-9bb1-4c11-8112-1d5744559b36)) 按需增改删，commit提交，然后我可能会部分或全部点击采纳（然后可能再手工改一下）或复制并修改后采纳
+		  id:: 67402aac-b37d-44cf-b8c5-86612c20c604
+			- 可能增比删更容易，但我可能大改大拆大挪，最后不排除原内容删完的可能
+			- ((670d1208-1017-4db4-a8f9-f3618c2bd00b))
+		- 还可以添加collaborator，更不确定怎么用
+			- ![brave_kylehdVJPE.png](../assets/brave_kylehdVJPE_1720091880953_0.png)
+			  id:: 668684e6-93fc-4cf9-8730-335820822e30
+				- “兄弟，把你的github昵称给我”
 - Dear international friends，
   collapsed:: true
 	- （You can use translate tools and meme search for information you don't understand）
@@ -63,18 +95,6 @@
 	- There are Chinese puns, idioms and different countries' jokes manywhere，but of course I'm not a racist or something like that，in fact，I feel lucky that I was born and live in China for me to design and carry out my socialism plan and I feel great honor and hope to carry it to you——I know how to sense joy and collect many kinds of intelligence that is probably useful no matter how amusing to me，maybe many people tend to take joy from FAKE NEWS which they deem TRUTH to get through hard times，but you can see for yourselves that I can create from different kinds of materials no matter how many percent of TRUTH in them，for sure they will determine their overall  potency in the future
 	- Maybe China is much more confident for its different kinds of challenges，maybe it's just that different places have different REGULATIONS，so take care if you gonna carry something in this blog out in otherwhere
 - ---
-- [[本网站、网盘、我]]
-- [[软件]]
-- [[编程]]
-- [[TODO]]
-- [[范式]]
-- [[Logseq]]
-- ---
-- [[卫生卫生]]
-- [[人体]]
-- [[呼吸道传染病防治]]
-- collapsed:: true
-  ---
 - 更多页面可点左侧栏“图谱视角”或“全部页面”（按更新日期排序也是缩小“我最近可能关注过的页面”的方法），也可直接搜索关键字
   id:: 678a4dfd-e145-4f07-be1a-2cb01b11c4cf
 - 本页（及相关内容）可能慢更
@@ -86,4 +106,3 @@
 	  #+END_QUOTE
 	- >骐骥一跃，不能十步；驽马十驾，功在不舍。——《荀子·劝学》
 	- >博观而约取，厚积而薄发。——苏轼
-- 之前一阵子这部分叫“近期写作计划”——现在最大的区别除了少了四个字外就是更结构化（就是更“大纲”更缩进）、更不“近期写作计划”，毕竟把握写作动态及其联系对我自己都不是件容易事（比如偶然“贪玩迷恋”一下电子游戏，好多天，那么动都不动的“写作计划”还是“近期”的吗？），至少将其外显、展示的成本比较高，那么不如少动

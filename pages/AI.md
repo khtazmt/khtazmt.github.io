@@ -438,7 +438,6 @@
 	  id:: 67bf1694-5261-4bc1-b0a0-73312d41b7fe
 	- [Zu Ende（结束） - Uwe Kröger/Thomas Borchert - 单曲 - 网易云音乐](https://music.163.com/song?id=1371316&uct2=U2FsdGVkX18fcrCxMrnVJDr6ZeE2uctQUct1Ca2Fzl8=)
 	- [Armageddon Clan - Battle Beast - 单曲 - 网易云音乐](https://music.163.com/song?id=16818774&uct2=U2FsdGVkX1/dFGdmqvN7oyvdk9Ruas8zJAxR9QNfStE=)
-	- {{embed ((677a958b-570c-4dfc-9a40-6c40a1a37075))}}
 	- [人工智能会使无产阶级变成“无用阶级”吗--技术图景中的马克思阶级政治学说.pdf-原创力文档](https://max.book118.com/html/2023/1229/7163201135006023.shtm)
 	- ---
 	- 人类早就自我设限玩各种游戏了少说几千几万年了，被ai超越又如何？
