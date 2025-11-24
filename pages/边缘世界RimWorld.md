@@ -1,10 +1,12 @@
 - 开始玩 [[20251026]]
 - 下载
+  collapsed:: true
 	- [《环世界/边缘世界(RimWorld)》|v1.6.4566+全DLC|中文|免安装硬盘版 - SWITCH618游戏公益分享](https://www.switch618.com/313.html)
 	  id:: 68fd8dd6-ce10-4956-9b3a-4278d570736a
 		- ~~“大家想玩就玩，不想玩也罢，盗版内容比付费平均更多，辛苦管理多少天小人们也不会给超凡智能加班费”~~
 		  id:: 69186f03-73b9-44f9-a592-7609fba89b5b
 - 纯原版（核心，无DLC）
+  collapsed:: true
 	- [序一.基础设置及讲解【环世界1.6纯原版教学】_环世界_实况解说](https://www.bilibili.com/video/BV17ce7zLESW/)
 	  id:: 68febd3c-3003-4cc8-a699-2c36952c14d0
 		- “辩证地看待，有选择地看待”，比如可以一落地就尽快切大理石走起，先小房间再大围墙，房间合理分区，而不是规划优先于现时需求
@@ -13,10 +15,13 @@
 		  id:: 69005246-12a9-43d5-a37b-2436c27c5eff
 		- ![image.png](../assets/image_1761525081167_0.png)
 - DLC
+  collapsed:: true
 	- 奥德赛DLC
+	  collapsed:: true
 		- 调查飞船
 		- 可以造飞船基地
 		- 研究解锁载客穿梭机，距离较远的世界任务也可以做了
+		  collapsed:: true
 			- 发射一次最少50燃料
 			- [载客穿梭机 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/%E8%BD%BD%E5%AE%A2%E7%A9%BF%E6%A2%AD%E6%9C%BA)
 			- [【Rimworld 1.6】我说1.6版本的神是—穿梭机，谁赞成谁反对 07_游戏热门视频](https://www.bilibili.com/video/BV1RnHLz6EQY/)
