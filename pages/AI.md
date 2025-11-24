@@ -1,3 +1,7 @@
+- “Alien Inside”
+	- ((691d513e-9c41-4a53-80dd-a37674399222))
+	- ~~“Intel Inside”~~
+		- [Intel Inside Logo, symbol, meaning, history, PNG, brand](https://logos-world.net/intel-inside-logo/)
 - 人/仍躬滞能
 - 我对AI用途的部分需求
 	- 找人
