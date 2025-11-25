@@ -360,8 +360,10 @@
 				  collapsed:: true
 					- ((68eb467c-b9d3-480b-8648-b34ba2969d31))
 					- 所以很多场地不用水弹，可能用纸团等便于回收（水弹不一定总有够用的清洁工具）的代替
-	- [[边缘世界RimWorld]]分类~~（“OUTSIDE是一个故事生成器......”）~~
+	- [[边缘世界RimWorld]]分类
 	  collapsed:: true
+		- ~~“OUTSIDE是一个故事生成器......”~~
+			- [AI故事叙述者 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/AI%E6%95%85%E4%BA%8B%E5%8F%99%E8%BF%B0%E8%80%85)
 		- 核心
 		  collapsed:: true
 			- Aliens On Earth
