@@ -361,7 +361,6 @@
 					- ((68eb467c-b9d3-480b-8648-b34ba2969d31))
 					- 所以很多场地不用水弹，可能用纸团等便于回收（水弹不一定总有够用的清洁工具）的代替
 	- [[边缘世界RimWorld]]分类
-	  collapsed:: true
 		- ~~“OUTSIDE是一个故事生成器......”~~
 			- [AI故事叙述者 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/AI%E6%95%85%E4%BA%8B%E5%8F%99%E8%BF%B0%E8%80%85)
 		- 核心
@@ -405,7 +404,7 @@
 		  collapsed:: true
 			- 《20元SM广场速通大赛》 #苏州植青
 		- 儿童（生物科技）
-		  collapsed:: true
+			- ((6925af45-5825-40ab-9261-7413796bb742))
 			- ((691f076b-5bdd-4861-9df1-cdd214444899))
 		- 啸生产（异象）
 		  collapsed:: true
