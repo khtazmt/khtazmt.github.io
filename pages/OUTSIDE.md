@@ -361,7 +361,10 @@
 					- ((68eb467c-b9d3-480b-8648-b34ba2969d31))
 					- 所以很多场地不用水弹，可能用纸团等便于回收（水弹不一定总有够用的清洁工具）的代替
 	- [[边缘世界RimWorld]]分类
+	  collapsed:: true
 		- ~~“OUTSIDE是一个故事生成器......”~~
+		  id:: 69252eec-9cad-4708-b751-b5514d30aac7
+		  collapsed:: true
 			- [AI故事叙述者 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/AI%E6%95%85%E4%BA%8B%E5%8F%99%E8%BF%B0%E8%80%85)
 		- 核心
 		  collapsed:: true
@@ -390,12 +393,14 @@
 				- ((691d53f3-43d7-4de6-b0c0-b64962b014a3))
 				  id:: 691d537a-9023-42f4-abc5-098e065275dd
 				- [Emergency Alert System - Aliens On Earth - song and lyrics by CK Pellegrini | Spotify](https://open.spotify.com/track/0MIDFq8UiVwwj7N2HiOUjg?si=a21fe8d127fc4466)
+			- ((691ff98c-4ec2-43cc-80e1-9fdd5601c358))
+			- 阳光空间
+				- ((69267b5e-845e-4efe-927c-b3efb332d3b6))
 			- “劳动竞赛”
 			  collapsed:: true
 				- ((691989ce-4703-40a3-8dcc-0c9a4b4792d0))
 				- 还有与同志们的——你有“拳眼”吗？
 					- ((690c0225-a4a5-4202-b8e8-8d59515f15f2))
-			- ((691ff98c-4ec2-43cc-80e1-9fdd5601c358))
 		- 文化
 		  collapsed:: true
 			- ((691c28fd-d470-42ce-8e01-ff80f0014a94))
@@ -404,12 +409,14 @@
 		  collapsed:: true
 			- 《20元SM广场速通大赛》 #苏州植青
 		- 儿童（生物科技）
+		  collapsed:: true
 			- ((6925af45-5825-40ab-9261-7413796bb742))
 			- ((691f076b-5bdd-4861-9df1-cdd214444899))
 		- 啸生产（异象）
 		  collapsed:: true
 			- ((691ffb0d-3ffb-455a-815b-a289bf2e17d1))
 			- “谁有多余xx”
+			  id:: 6920f251-90cd-4509-9774-40f3a316a7f9
 			- “就地取材”
 			  id:: 6920706c-466b-4d96-bd37-f20d006f913f
 			  collapsed:: true
