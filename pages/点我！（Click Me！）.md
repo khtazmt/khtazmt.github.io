@@ -36,11 +36,19 @@
 - 我的部分联系方式
   id:: 67402aac-65b2-4b3b-8d67-0356818dcaf8
   collapsed:: true
+	- 可公开内容
+		- ((691e9319-288b-461b-bcd8-345ae20bfc04))
+			- https://xoyondo.com/mb/pfvyqz7ti21vr4e/qpm2kvohpc [[20251123]]
+			  id:: 6922631e-3599-43e8-b674-09f0129aa2ba
+	- ((67402aac-b37d-44cf-b8c5-86612c20c604))
+	- ((679adda8-7225-428d-93d2-109a2ae482bb))
+		- soundsnormal@pissmail.com [[20251127]]
 	- 线下会晤
 	  id:: 691fa561-cf23-4f62-a2d1-386b4dde2e09
 		- ~~“先尊带动后尊”~~
 		- 必选
 			- （首次会面）（带）电脑（可电池供电）演示、讨论（包括不公开的外库，数据已备份）
+				- ((66335bea-765e-49a8-ad56-87c4569e6389))
 			- 讨论问题及解决方案
 		- 可选
 			- 共享食材或成菜以及厨具等
@@ -50,11 +58,10 @@
 				  id:: 6926f5bc-38ba-4cb8-a0b6-887d17e9ec4c
 					- ((69198a03-a329-4de4-8bbc-9379cf421424))
 					- 不然就是不用太费心、费力和破费的特朗普甄选快餐~~，吃其他的造孽啊！~~
+			- ((6926816c-e75f-473b-a795-af3a855c1375)) 等临时隔离（如果带过来需要临时隔离的话，我可能表演一套 ((69266af2-30f6-43d9-99cb-2f37354ce4ff)) ）
 			- 保密联系方式
-	- ((691e9319-288b-461b-bcd8-345ae20bfc04))
-		- https://xoyondo.com/mb/pfvyqz7ti21vr4e/qpm2kvohpc [[20251123]]
-	- ((67402aac-b37d-44cf-b8c5-86612c20c604))
 - 参与本网站创作
+  id:: 691989f0-12ff-4dab-b4e5-f8de93d8a815
   collapsed:: true
 	- 创作没啥难度，比较简单的是像我一样“纯提需求”（“但可能重复”）
 	  collapsed:: true
@@ -77,6 +84,9 @@
 		- ((690847be-365e-40fc-8464-abc835aae946))
 	- There are Chinese puns, idioms and different countries' jokes manywhere，but of course I'm not a racist or something like that，in fact，I feel lucky that I was born and live in China for me to design and carry out my socialism plan and I feel great honor and hope to carry it to you——I know how to sense joy and collect many kinds of intelligence that is probably useful no matter how amusing to me，maybe many people tend to take joy from FAKE NEWS which they deem TRUTH to get through hard times，but you can see for yourselves that I can create from different kinds of materials no matter how many percent of TRUTH in them，for sure they will determine their overall  potency in the future
 	- Maybe China is much more confident for its different kinds of challenges，maybe it's just that different places have different REGULATIONS，so take care if you gonna carry something in this blog out in otherwhere
+	- ---
+	- Maybe we can cooperate
+		- ((69007c89-0984-4caf-a14c-548af7e0d5f0))
 - ---
 - 更多页面可点左侧栏“图谱视角”或“全部页面”（按更新日期排序也是缩小“我最近可能关注过的页面”的方法），也可直接搜索关键字
   id:: 678a4dfd-e145-4f07-be1a-2cb01b11c4cf
