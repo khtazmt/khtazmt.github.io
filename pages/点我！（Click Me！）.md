@@ -42,7 +42,14 @@
 			  id:: 6922631e-3599-43e8-b674-09f0129aa2ba
 	- ((67402aac-b37d-44cf-b8c5-86612c20c604))
 	- ((679adda8-7225-428d-93d2-109a2ae482bb))
-		- soundsnormal@pissmail.com [[20251127]]
+		- 我的邮箱
+			- soundsnormal@pissmail.com [[20251127]]
+		- 代注册邮箱
+			- ((6928118a-21f9-47c6-87ff-d21c20f0cc96))
+				- alienonearth@dmc.chat [[20251128]]
+					- N字神人密码
+			- 建议尽快修改密码
+			- 邮箱里可能有一个文本
 	- 线下会晤
 	  id:: 691fa561-cf23-4f62-a2d1-386b4dde2e09
 		- ~~“先尊带动后尊”~~
