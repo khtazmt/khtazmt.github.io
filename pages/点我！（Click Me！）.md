@@ -36,12 +36,70 @@
 - 我的部分联系方式
   id:: 67402aac-65b2-4b3b-8d67-0356818dcaf8
   collapsed:: true
-	- 可公开内容
+	- 我的PGP公钥 [[20251129]]
+	  collapsed:: true
+		- ((692a773f-68a3-4814-a311-dedb6957a10b))
+		  id:: 692a7900-5b6b-448a-9bc4-757379fbd0df
+		- -----BEGIN PGP PUBLIC KEY BLOCK-----
+		  
+		  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
+		  kSQA38CVD/H2WR7xk6zkvk21XguTEGfdNVI=
+		  =cqPs
+		  -----END PGP PUBLIC KEY BLOCK-----
+	- 可公开内容（包括加密后的内容）
 		- ((691e9319-288b-461b-bcd8-345ae20bfc04))
-			- https://xoyondo.com/mb/pfvyqz7ti21vr4e/qpm2kvohpc [[20251123]]
+			- https://xoyondo.com/mb/90qp7agut21dwf7 [[20251129]]
 			  id:: 6922631e-3599-43e8-b674-09f0129aa2ba
 	- ((67402aac-b37d-44cf-b8c5-86612c20c604))
 	- ((679adda8-7225-428d-93d2-109a2ae482bb))
+	  collapsed:: true
 		- 我的邮箱
 			- soundsnormal@pissmail.com [[20251127]]
 		- 代注册邮箱
@@ -52,6 +110,7 @@
 			- 邮箱里可能有一个文本
 	- 线下会晤
 	  id:: 691fa561-cf23-4f62-a2d1-386b4dde2e09
+	  collapsed:: true
 		- ~~“先尊带动后尊”~~
 		- 必选
 			- （首次会面）（带）电脑（可电池供电）演示、讨论（包括不公开的外库，数据已备份）
