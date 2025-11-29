@@ -152,6 +152,26 @@
 			- ![brave_kylehdVJPE.png](../assets/brave_kylehdVJPE_1720091880953_0.png)
 			  id:: 668684e6-93fc-4cf9-8730-335820822e30
 				- “兄弟，把你的github昵称给我”
+	- 实时协作
+	  collapsed:: true
+		- 视频协作
+			- ~~“没事，唱支歌儿给你听！”~~
+			- 屏蔽部分页面
+				- 视频上传延迟
+		- TODO 更少信息协作
+		  id:: 692ab788-d696-4aec-ade2-5c3073a63aca
+			- 获取协作者当前停留页、块名称（Logseq窗口标题）
+			- 屏蔽部分名称
+			- 实时上传前者
+			- 协作界面
+			- 匹配提醒
+				- 关键字匹配
+				- 图谱相近页面提醒
+			- 语音
+			- 光标等位置定位
+				- 覆盖图层
+					- “相同显示条件即可”
+					- 显示相邻字
 - Dear international friends，
   collapsed:: true
 	- （You can use translate tools and meme search for information you don't understand）
