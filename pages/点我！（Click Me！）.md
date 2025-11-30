@@ -1,7 +1,15 @@
 - 本网站（khtazmt.github.io）是基于GitHub公开仓库[GitHub - khtazmt/khtazmt.github.io](https://github.com/khtazmt/khtazmt.github.io)的 ((658fc4ca-21a3-49e7-a6b8-6277d16e0062)) ，其中的笔记（即你在浏览器看到的网页）等内容主要使用[[Logseq]]制作
   id:: 66ade37e-72cf-4363-ad92-6fb748cbcc8d
   collapsed:: true
-	- ((680a3159-582e-4340-ad7b-563a942bb8ae))
+	- 本站日志格式与顺序
+	  id:: 680a3159-582e-4340-ad7b-563a942bb8ae
+	  collapsed:: true
+		- 最上方是不公开内容（现在不搞了，浪费时间），但是，没有完全不公开，其中，下部显示可能有的不公开页面
+		- 把可能想做的事（可能同时是“想让大家帮我做的事”）打上TODO并分享到日志上部（一般按想到的时间顺序排列，日期按写入logseq的日期，上同，除了其下部的不公开页面）
+		- “写得差不多可以让大家看一下了”的内容（大致按推荐度、优先度降序排列，下同）
+		- 推荐给大家的（外部来源的）内容
+		- 加了当天日志块链接的块，可能是标记、“动态”等
+	- 我爱指指点点，看到能软荐硬评的就可能以相对很不多的内容和提升空间宽广的成功率给出建议，对于我觉得比较公开的集体和个人打上标签，可能会引用到日志，此外读者也可以手动查看（是否更新）或通过 ((678369b1-f629-42a5-8f71-4b4daf46d227)) 之类比较自动的方式查看
 	- “Logseq笔记真的很难看吗？”
 	  collapsed:: true
 		- ((679adda9-ebf8-4b4d-9c2d-73b7a5906ac0))
@@ -30,6 +38,7 @@
 	- ---
 	- 《我放弃了CC BY-NC-SA 4.0协议》（塑封）
 	- TODO “教你如何洗稿！”
+		- ((691989cf-9035-4fb9-8c45-a5bb2554e386))
 - ((670d40f3-496d-4a58-b303-1e7d353f8033))
 - ((65c589f9-342d-42c5-818c-f363a95b3847))
 - [[激烈的斗争]]
@@ -94,6 +103,7 @@
 		  =cqPs
 		  -----END PGP PUBLIC KEY BLOCK-----
 	- 可公开内容（包括加密后的内容）
+	  collapsed:: true
 		- ((691e9319-288b-461b-bcd8-345ae20bfc04))
 			- https://xoyondo.com/mb/90qp7agut21dwf7 [[20251129]]
 			  id:: 6922631e-3599-43e8-b674-09f0129aa2ba
@@ -134,6 +144,9 @@
 			- ---
 			- ((6926816c-e75f-473b-a795-af3a855c1375)) 等临时隔离（如果带了过来且需要临时隔离，我可能表演一套 ((69266af2-30f6-43d9-99cb-2f37354ce4ff)) ）
 			- 保密联系方式
+			- 来我家
+				- 我爸妈另外租了我爸单位附近的房子过冬，周末可能回来吃几顿，我妈工作日也可能因为附近有晚上学吉他等活动而回来
+				  id:: 691989e3-0c02-4936-8741-f5545d11067b
 - 参与本网站创作
   id:: 691989f0-12ff-4dab-b4e5-f8de93d8a815
   collapsed:: true
@@ -179,6 +192,9 @@
 	- There are Chinese puns, idioms and different countries' jokes manywhere，but of course I'm not a racist or something like that，in fact，I feel lucky that I was born and live in China for me to design and carry out my socialism plan and I feel great honor and hope to carry it to you——I know how to sense joy and collect many kinds of intelligence that is probably useful no matter how amusing to me，maybe many people tend to take joy from FAKE NEWS which they deem TRUTH to get through hard times，but you can see for yourselves that I can create from different kinds of materials no matter how many percent of TRUTH in them，for sure they will determine their overall  potency in the future
 	- Maybe China is much more confident for its different kinds of challenges，maybe it's just that different places have different REGULATIONS，so take care if you gonna carry something in this blog out in otherwhere
 	- ---
+	- You may all know that “Made In China” is cheap，but how much？
+		- ((68fd800f-6a27-4e20-b5cb-cfdc1cebf643))
+		- [1 CNY to USD - Chinese Yuan Renminbi to US Dollars Exchange Rate](https://www.xe.com/currencyconverter/convert/)
 	- Maybe we can cooperate
 		- ((69007c89-0984-4caf-a14c-548af7e0d5f0))
 - ---

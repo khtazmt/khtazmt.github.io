@@ -125,6 +125,7 @@
 		  collapsed:: true
 			- ((68fb2ce4-4683-4d8b-9219-234d570673b3))
 				- 设1“页纸”等于1KB，10000“页纸”等于10000KB约等于10MB
+				  id:: 692ab376-ef87-4f4f-afbf-178a3717725b
 		- 0.03-0.07元
 		  collapsed:: true
 			- ((67a08e9c-39b7-46cf-9b59-1b9325a9c76e))
@@ -140,6 +141,7 @@
 		  collapsed:: true
 			- ((68fb448d-af3b-4de5-a1a2-0964058b35c5))
 	- 蓝（角；0.1-1元）
+	  collapsed:: true
 		- “娱乐耗材、小gadget这一块”
 		- ((67e0ae3a-611d-434d-b4ef-f53820684dc3))
 		- ((68327f4b-beb8-4019-ab73-c9c1ed091172))
@@ -175,6 +177,7 @@
 		  collapsed:: true
 			- ((68fb3086-9b6a-4a25-9d9b-168a2687a1a2))
 	- 紫（元；1-10元）
+	  collapsed:: true
 		- “生活必需品、快消这一块”
 		- ((68eb467c-1efa-433e-8970-389786cbe8a8))
 		- ((68eb467c-8033-445a-b064-4eb7e51e3b68))
@@ -196,15 +199,19 @@
 		  collapsed:: true
 			- ((68fb9205-4057-42ce-9f1d-9ee7de08e8f6))
 		- 3.65元
+		  id:: 692ab376-9506-417f-8928-cc3daf00dc36
 		  collapsed:: true
 			- ((692a6212-532a-4eee-8175-56521934eafd)) （128MB）
+			  id:: 692ab376-a1f8-4c76-8fd5-f1727ed5eeb6
 		- 4元
 		  collapsed:: true
 			- ((679adcbd-87cb-4f14-9e1a-0858bfb3f763))
 			- ((68fb401b-afec-4e87-88d9-ec50b159db16))
 		- 4.75元
+		  id:: 692ab376-4adf-4b89-b7d1-080374e14f54
 		  collapsed:: true
 			- ((691989f6-7b94-46b9-bcf5-c7dbeb429367)) （128MB）
+			  id:: 692ab376-fc1a-461b-95ec-52b6d209ce96
 		- 1元/斤
 		  collapsed:: true
 			- ((68fb3291-d4fb-4320-b10e-4b87a51ed2d0))
@@ -245,6 +252,7 @@
 		- “换句话说，更真实，没那么同质化”
 		- 大多接近完全竞争、有较高的易获得性
 - 空间
+  collapsed:: true
 	- [[地球]]
 		- ((66db8ae3-a594-4217-8753-56952d6e8a78))
 			- 地标导航、测绘

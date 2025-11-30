@@ -248,7 +248,6 @@
 				- 单对话导出
 					- [AI会话导出器：保存 ChatGPT,Claude, Gemini 和 Deepseek 等会话为PNG/PDF/MD等常见格式 - Chrome 应用商店](https://chromewebstore.google.com/detail/AI%E4%BC%9A%E8%AF%9D%E5%AF%BC%E5%87%BA%E5%99%A8%EF%BC%9A%E4%BF%9D%E5%AD%98%20ChatGPT%2CClaude%2C%20Gemini%20%E5%92%8C%20Deepseek%20%E7%AD%89%E4%BC%9A%E8%AF%9D%E4%B8%BAPNG%2FPDF%2FMD%E7%AD%89%E5%B8%B8%E8%A7%81%E6%A0%BC%E5%BC%8F/kagjkiiecagemklhmhkabbalfpbianbe)
 					  id:: 683bb6e7-60c9-46ca-8de7-abdd872ba997
-						- [[Chats-2025-06-01_10-24-09]]
 						- >希望添加自定义格式功能（可以是选项），比如在markdown等格式中区分deepseek的深度思考和回答内容
 		- ((67a05dae-c165-4bf1-9c6c-47e86e37a9c9))
 		- AI辅助写作
@@ -274,6 +273,7 @@
 				- ((677a1577-1b9d-4c8e-aaee-4cfe07458cc9))
 				- {{embed ((67402ab2-a8f2-4c51-a498-5962761b6fec))}}
 		- AI改写/“洗稿”
+		  id:: 691989cf-9035-4fb9-8c45-a5bb2554e386
 		- AI翻译
 		  id:: 6840ef33-946b-4bea-9fd2-71c0aadc3fa1
 			- [NEKOparapa/AiNiee: 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本。](https://github.com/NEKOparapa/AiNiee)
