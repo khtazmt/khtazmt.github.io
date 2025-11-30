@@ -46,7 +46,6 @@
   id:: 67402aac-65b2-4b3b-8d67-0356818dcaf8
   collapsed:: true
 	- 我的PGP公钥 [[20251129]]
-	  collapsed:: true
 		- ((692a773f-68a3-4814-a311-dedb6957a10b))
 		  id:: 692a7900-5b6b-448a-9bc4-757379fbd0df
 		- -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -102,8 +101,7 @@
 		  kSQA38CVD/H2WR7xk6zkvk21XguTEGfdNVI=
 		  =cqPs
 		  -----END PGP PUBLIC KEY BLOCK-----
-	- 可公开内容（包括加密后的内容、PGP公钥）
-	  collapsed:: true
+	- 可公开内容
 		- ((691e9319-288b-461b-bcd8-345ae20bfc04))
 			- https://xoyondo.com/mb/90qp7agut21dwf7 [[20251129]]
 			  id:: 6922631e-3599-43e8-b674-09f0129aa2ba
