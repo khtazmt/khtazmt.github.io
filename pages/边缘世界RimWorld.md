@@ -58,12 +58,14 @@
 		- 调查巨石
 		- [序一.dlc简单讲解【环世界1.6主异象dlc教学】_哔哩哔哩bilibili_环世界_实况解说](https://www.bilibili.com/video/BV16TsRzYE2v/)
 - 模组
-  collapsed:: true
 	- “纯新手，原版的UI和交互确实依壁雕凿”
 	- [【边缘世界1.6】新人必备25款MOD推荐！_游戏热门视频](https://www.bilibili.com/video/BV1mou4zhERK/)
 		- >学习版要怎么下 ![[大哭]](https://i1.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png@40w_40h.avif)找不到人分享
 			- >可以用steamcmd下创意工坊的mod，下好了直接拉进rimworld里的mods，mod要排序的话用可以搭配别的管理器，学习版麻烦好多
 	- [【边缘世界1.6】最全面的新人100款Mod推荐！（超大合集）_哔哩哔哩bilibili_环世界](https://www.bilibili.com/video/BV1yitzzuEZz/)
+	- ---
+	- [我非常的喜欢海，有没有航海mod呢【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9250414580)
+	- [【图片】【1.0mod汉化】boats边缘船只【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/6381448998)
 	- [[1.6/环世界]碧蓝档案-新世界Mod九月总结——开启公测！_哔哩哔哩bilibili_环世界](https://www.bilibili.com/video/BV1p3abznE8z/)
 	- [[CDDA]]
 		- [Steam Workshop::Feng's Cataclysm DDA Collection](https://steamcommunity.com/workshop/filedetails/?id=959137811)
