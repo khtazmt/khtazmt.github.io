@@ -58,6 +58,7 @@
 		- 调查巨石
 		- [序一.dlc简单讲解【环世界1.6主异象dlc教学】_哔哩哔哩bilibili_环世界_实况解说](https://www.bilibili.com/video/BV16TsRzYE2v/)
 - 模组
+  collapsed:: true
 	- “纯新手，原版的UI和交互确实依壁雕凿”
 	- [【边缘世界1.6】新人必备25款MOD推荐！_游戏热门视频](https://www.bilibili.com/video/BV1mou4zhERK/)
 		- >学习版要怎么下 ![[大哭]](https://i1.hdslb.com/bfs/emote/2caafee2e5db4db72104650d87810cc2c123fc86.png@40w_40h.avif)找不到人分享
@@ -74,6 +75,9 @@
 - [【工具】RimWorld Translate Helper @邊緣世界 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php)
 - [RimWorld - Sci-Fi Colony Sim](https://rimworldgame.com/)
 - [RimWorld Wiki](https://rimworldwiki.com/)
+- “超凡智能”
+	- [超凡智能这个词汇到底怎么出来的【rimworld吧】_百度贴吧](https://tieba.baidu.com/p/9690487247)
+	- ((693013fe-5391-4ef2-bdac-31b11cc150ce))
 - ---
 - 地块
   collapsed:: true
