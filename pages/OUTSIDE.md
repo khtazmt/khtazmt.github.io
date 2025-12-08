@@ -388,39 +388,47 @@
 		  collapsed:: true
 			- [AI故事叙述者 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/AI%E6%95%85%E4%BA%8B%E5%8F%99%E8%BF%B0%E8%80%85)
 		- 核心
-			- Aliens On Earth
-			  id:: 691d513e-9c41-4a53-80dd-a37674399222
+		  collapsed:: true
+			- 《通往社牛之路》
 			  collapsed:: true
-				- 骑电轻摩拿菜回来再听一遍 ((691d2742-d889-44a7-b15e-3a9698d82890)) 想到
-				- “身份和任务都是自己给的”
-					- “种族设定说是”
-				- [Aliens in Action: Be Host to Earth-未明子的动态-哔哩哔哩](https://t.bilibili.com/1119562416340860930)
-					- ~~“Aliens inva（未）sion是吧？”~~
-					- [Hosting Earth – Guestbook Project](https://guestbookproject.org/hostingearth/)
-				- ((69198a0e-aad1-4e6a-ac10-d8e810e954e3))
-				- ((691989d0-3a3e-449b-9e73-968e573591c2))
-				- ((691989cf-aa31-4ade-9e2c-684300266850))
-				- “你说的对，但是......”
-				- ~~“AOE是吧？大灭绝是吧？”~~
-				- ~~“你是地球人吗？你觉得你是”~~
-				- ((66e03ed0-81c5-4760-908e-a52703e33956))
-				- ((69198a29-a21f-40c0-944c-cf7b6a9a3e60))
-				- ~~“大记忆恢复术”~~
-				- ---
-				- [Aliens On Earth 😭 (Animation Meme) Anim： Tou.istou #shorts [H-l_D1bVIMg]_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV11Xj3zeE5c/)
-				  id:: 691d5267-ebd3-458b-8ca1-ee9e01777295
-				- [英语"On earth"是在地球上的的意思吗？美式英语讲解，精彩继续为您呈现！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1dT4y1T7XJ/)
-				- ((691d53f3-43d7-4de6-b0c0-b64962b014a3))
-				  id:: 691d537a-9023-42f4-abc5-098e065275dd
-				- [Emergency Alert System - Aliens On Earth - song and lyrics by CK Pellegrini | Spotify](https://open.spotify.com/track/0MIDFq8UiVwwj7N2HiOUjg?si=a21fe8d127fc4466)
-				- ---
-				- [Raver Dimension (Original Mix) - S3RL - 单曲 - 网易云音乐](https://music.163.com/song?id=508205945&uct2=U2FsdGVkX19MUHwg//HM9ahpw9C2zYts9oFU+nrSBqg=)
-				  id:: 69280ea8-b0cc-44d5-88bd-a6a50bcb96f7
+				- 如果你线下线上啥也没公开，连这样的博客都没有（），那你是哪个保密单位的？
+				- Aliens On Earth
+				  id:: 691d513e-9c41-4a53-80dd-a37674399222
+				  collapsed:: true
+					- 骑电轻摩拿菜回来再听一遍 ((691d2742-d889-44a7-b15e-3a9698d82890)) 想到
+					- “身份和任务都是自己给的”
+						- “种族设定说是”
+					- [Aliens in Action: Be Host to Earth-未明子的动态-哔哩哔哩](https://t.bilibili.com/1119562416340860930)
+						- ~~“Aliens inva（未）sion是吧？”~~
+						- [Hosting Earth – Guestbook Project](https://guestbookproject.org/hostingearth/)
+					- ((69198a0e-aad1-4e6a-ac10-d8e810e954e3))
+					- ((691989d0-3a3e-449b-9e73-968e573591c2))
+					- ((691989cf-aa31-4ade-9e2c-684300266850))
+					- “你说的对，但是......”
+					- ~~“AOE是吧？大灭绝是吧？”~~
+					- ~~“你是地球人吗？你觉得你是”~~
+					- ((66e03ed0-81c5-4760-908e-a52703e33956))
+					- ((69198a29-a21f-40c0-944c-cf7b6a9a3e60))
+					- ~~“大记忆恢复术”~~
+					- ---
+					- [Aliens On Earth 😭 (Animation Meme) Anim： Tou.istou #shorts [H-l_D1bVIMg]_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV11Xj3zeE5c/)
+					  id:: 691d5267-ebd3-458b-8ca1-ee9e01777295
+					- [英语"On earth"是在地球上的的意思吗？美式英语讲解，精彩继续为您呈现！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1dT4y1T7XJ/)
+					- ((691d53f3-43d7-4de6-b0c0-b64962b014a3))
+					  id:: 691d537a-9023-42f4-abc5-098e065275dd
+					- [Emergency Alert System - Aliens On Earth - song and lyrics by CK Pellegrini | Spotify](https://open.spotify.com/track/0MIDFq8UiVwwj7N2HiOUjg?si=a21fe8d127fc4466)
+					- ---
+					- [Raver Dimension (Original Mix) - S3RL - 单曲 - 网易云音乐](https://music.163.com/song?id=508205945&uct2=U2FsdGVkX19MUHwg//HM9ahpw9C2zYts9oFU+nrSBqg=)
+					  id:: 69280ea8-b0cc-44d5-88bd-a6a50bcb96f7
+				- 阳光空间
+				  collapsed:: true
+					- id:: 6783692e-5080-4655-906a-7cd74c4cfea2
+					  >阳光是最好的防腐剂，灯泡是最有效的警察——布兰狄西《别人的钱》
+					- ((69267b5e-845e-4efe-927c-b3efb332d3b6))
+					- ((691989e3-b9fd-429d-923f-519bb697fc82))
+					- [[户外娱乐]]
+				- ((69362515-6f78-4022-aca9-3e00f969754c))
 			- ((691ff98c-4ec2-43cc-80e1-9fdd5601c358))
-			- 阳光空间
-			  collapsed:: true
-				- ((69267b5e-845e-4efe-927c-b3efb332d3b6))
-				- ((691989e3-b9fd-429d-923f-519bb697fc82))
 			- “劳动竞赛”
 			  collapsed:: true
 				- “与AI斗，其乐无穷”
@@ -428,12 +436,13 @@
 					- ((691989ce-4703-40a3-8dcc-0c9a4b4792d0))
 				- 还有与同志们的——你有“拳眼”吗？
 					- ((690c0225-a4a5-4202-b8e8-8d59515f15f2))
-			- [[户外娱乐]]
 		- 文化
+		  collapsed:: true
 			- ((691c28fd-d470-42ce-8e01-ff80f0014a94))
 			- ((691989e2-25ed-4f6c-b91e-e4549140a272))
 			- TODO 《全面战争：现实》
 			  id:: 6934b695-313d-4d65-b5f3-ea5e12242cdc
+			  collapsed:: true
 				- “《全面战争：现实》是一个~~故事生成器~~战争游戏（wargame）框架”
 				- 材料
 					- ((6791c89c-017a-478a-8967-0f13c23fc649))
@@ -450,6 +459,7 @@
 					- 围城
 			- “谁有多余xx”
 			  id:: 6920f251-90cd-4509-9774-40f3a316a7f9
+			  collapsed:: true
 				- ((693240af-8163-4f8a-af9a-f187459c04c8))
 		- 派系任务~~（皇权）~~
 		  collapsed:: true
@@ -466,7 +476,7 @@
 				- ((66ade3a9-5cdc-4a76-8ab3-f1d71bd8acc1))
 				- 更沉浸、综合地实际运用[[材料]]
 			- ((6917bf29-26c2-4dd2-abdc-483c0ceb9538))
-		- 奥德赛
+		- 奥德赛~~（“删库跑路”）~~
 		  collapsed:: true
 			- [[房外生活]]
 			- [[生存狂]]
