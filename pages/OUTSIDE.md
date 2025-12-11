@@ -393,7 +393,6 @@
 		  collapsed:: true
 			- [AI故事叙述者 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/AI%E6%95%85%E4%BA%8B%E5%8F%99%E8%BF%B0%E8%80%85)
 		- 核心
-		  collapsed:: true
 			- 《通往社牛之路》
 			  collapsed:: true
 				- 如果你线下线上啥也没公开，连这样的博客都没有（），那你是哪个保密单位的？
@@ -432,20 +431,29 @@
 					- ((69267b5e-845e-4efe-927c-b3efb332d3b6))
 					- ((691989e3-b9fd-429d-923f-519bb697fc82))
 					- [[户外娱乐]]
+				- ((693a1964-13b6-4eb5-abd5-135883b826db))
 				- ((69362515-6f78-4022-aca9-3e00f969754c))
 			- ((691ff98c-4ec2-43cc-80e1-9fdd5601c358))
 			- “劳动竞赛”
 			  collapsed:: true
 				- “与AI斗，其乐无穷”
 				- 为了人类的尊严和荣耀，我们必须抢先强AI击败资本主义
+				  collapsed:: true
 					- ((691989ce-4703-40a3-8dcc-0c9a4b4792d0))
 				- 还有与同志们的——你有“拳眼”吗？
+				  collapsed:: true
 					- ((690c0225-a4a5-4202-b8e8-8d59515f15f2))
 		- 文化
-			- 在“地上”进食
-			  id:: 693671a4-0135-4fa1-814f-2f331d21a206
-				- ((67402aab-0069-45f6-b164-578ba4daada0))
-				- 在垃圾桶边吃
+		  collapsed:: true
+			- “干净又卫生”
+			  collapsed:: true
+				- 在“地上”进食
+				  id:: 693671a4-0135-4fa1-814f-2f331d21a206
+					- [在地上吃饭 - Rimworld中文维基 | 边缘世界 | 环世界攻略资料站 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司](https://rimworld.huijiwiki.com/wiki/%E5%9C%A8%E5%9C%B0%E4%B8%8A%E5%90%83%E9%A5%AD)
+					- ((67402aab-0069-45f6-b164-578ba4daada0))
+					- ---
+					- 在垃圾桶边吃
+				- 徒手接触便器除按钮、盖子等外的其他部分
 			- ((691c28fd-d470-42ce-8e01-ff80f0014a94))
 			- ((691989e2-25ed-4f6c-b91e-e4549140a272))
 			- TODO 《全面战争：现实》
@@ -473,18 +481,24 @@
 		  collapsed:: true
 			- 《20元SM广场速通大赛》 #苏州植青
 		- 儿童（生物科技）
+		  collapsed:: true
 			- ((6925af45-5825-40ab-9261-7413796bb742))
 			- ((69395b04-9e57-4848-9955-95143868ef49))
 			- ((6936247d-08eb-4a0d-b8e4-91fed58d6dd9))
 			- ((691f076b-5bdd-4861-9df1-cdd214444899))
 		- 啸生产（异象）
-		  collapsed:: true
 			- 公园工业
 			  collapsed:: true
 				- “社交焊匪”
 					- ((6932658f-262e-4abb-b857-de90fc5085b7))
 					- ((6936ab34-50b4-4e1a-ab38-cbce6bde5def))
 					- ((6936c314-1250-4ec5-8a6d-f77b05f00efe))
+			- 简单农业
+			  collapsed:: true
+				- ((67fb2c25-72fb-4eec-aa59-b1d592efafef))
+			- 简单服务业
+			  collapsed:: true
+				- ((67fb5810-bd75-4e49-94ab-c4abe6b98a75))
 			- “就地取材”
 			  id:: 6920706c-466b-4d96-bd37-f20d006f913f
 			  collapsed:: true
