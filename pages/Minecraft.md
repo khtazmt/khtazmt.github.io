@@ -401,6 +401,8 @@
 				- 列车相撞歪了，重新安置失败（“甚至拆轨道时被泥头车创死”），可能本体其实在下界门另一边
 			- [工具箱 (Toolbox) - 机械动力 (Create) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/item/524501.html)
 			  id:: 67dfa054-9b2d-4845-ac68-55bab09c26d2
+			- ---
+			- ((693bcbd5-443f-4f95-b9c6-40f34a0186a4))
 		- [[XMM]Xaero的小地图 (Xaero's Minimap) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1701.html)、[[XWM]Xaero的世界地图 (Xaero's World Map) - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/1483.html)
 		  collapsed:: true
 			- 地图似乎只能看到自己的？Z临时放大小地图，X新建标记点，M打开大地图（世界地图；右键“在聊天栏分享位置/路径点”），点击左下角洞穴模式可以拖动调节显示的高度，进而发现资源点、特殊地点
